@@ -1,0 +1,514 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://dotheygobad.com/articles/cold-chain-management-complete-guide/">
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-8.5.10">
+    
+    
+      
+        <title>Cold chain management complete guide - DoTheyGoBad</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.975780f9.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.2505c338.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#ff6e42">
+        
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  
+  <meta property="og:site_name" content="DoTheyGoBad">
+  <meta name="robots" content="index, follow">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "DoTheyGoBad",
+    "url": "https://dotheygobad.com",
+    "description": "Food Shelf Life Science Encyclopedia",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://dotheygobad.com/search/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-orange" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#title-cold-chain-management-the-complete-guide-to-temperature-controlled-food-logistics" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="DoTheyGoBad" class="md-header__button md-logo" aria-label="DoTheyGoBad" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            DoTheyGoBad
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Cold chain management complete guide
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="DoTheyGoBad" class="md-nav__button md-logo" aria-label="DoTheyGoBad" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    DoTheyGoBad
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        Articles
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#title-cold-chain-management-the-complete-guide-to-temperature-controlled-food-logistics" class="md-nav__link">
+    title: Cold Chain Management: The Complete Guide to Temperature-Controlled Food Logistics
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-temperature-danger-zone-4c60c-40f140f" class="md-nav__link">
+    The Temperature Danger Zone: 4°C–60°C (40°F–140°F)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-cold-chain-ecosystem-farm-to-fork" class="md-nav__link">
+    The Cold Chain Ecosystem: Farm to Fork
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#refrigeration-science-temperature-effects-on-food-matrices" class="md-nav__link">
+    Refrigeration Science: Temperature Effects on Food Matrices
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#freezing-science-ice-crystals-cellular-damage-and-quality-preservation" class="md-nav__link">
+    Freezing Science: Ice Crystals, Cellular Damage, and Quality Preservation
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cold-chain-break-consequences-the-cumulative-cost-of-temperature-abuse" class="md-nav__link">
+    Cold Chain Break Consequences: The Cumulative Cost of Temperature Abuse
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#monitoring-technologies-rfid-iot-sensors-and-blockchain-traceability" class="md-nav__link">
+    Monitoring Technologies: RFID, IoT Sensors, and Blockchain Traceability
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#global-cold-chain-standards-and-regulatory-frameworks" class="md-nav__link">
+    Global Cold Chain Standards and Regulatory Frameworks
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#home-refrigeration-reality-the-weakest-link-in-the-cold-chain" class="md-nav__link">
+    Home Refrigeration Reality: The Weakest Link in the Cold Chain
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#psychrotrophic-bacteria-the-cold-adapted-spoilers-in-your-fridge" class="md-nav__link">
+    Psychrotrophic Bacteria: The Cold-Adapted Spoilers in Your Fridge
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusion-the-cold-chain-as-the-backbone-of-modern-food-safety" class="md-nav__link">
+    Conclusion: The Cold Chain as the Backbone of Modern Food Safety
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scientific-literature-references" class="md-nav__link">
+    Scientific Literature References
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  <h1>Cold chain management complete guide</h1>
+
+<hr />
+<h2 id="title-cold-chain-management-the-complete-guide-to-temperature-controlled-food-logistics">title: Cold Chain Management: The Complete Guide to Temperature-Controlled Food Logistics</h2>
+<p>Temperature is the single most important factor governing food preservation. While <a href="https://dotheygobad.com/what-is-water-activity-aw/">water activity</a>, pH, and preservatives all influence shelf life, none rival the pervasive, rate-controlling influence of temperature on every chemical reaction and <a href="https://dotheygobad.com/what-makes-food-go-bad">food spoilage mechanisms</a> process within a food matrix. At ambient temperatures between 20°C and 35°C, <a href="https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/">spoilage</a> organisms can double their population every 20 to 30 minutes—a single bacterium can theoretically produce a colony exceeding one billion cells within 10 hours. Cold chain management—the systematic control of temperature from farm to fork—is therefore not merely a logistics function; it is the fundamental engineering discipline that underpins modern food safety, quality assurance, and the global distribution of perishable goods. Without a functioning cold chain, the industrialization of food supply would be impossible, food waste would soar, and foodborne illness outbreaks would be dramatically more frequent. This guide examines cold chain management from the perspective of <a href="https://dotheygobad.com/food-science-basics/">industrial food</a> science, covering the temperature danger zone, refrigeration and freezing physics, monitoring technologies, regulatory frameworks, and the often-overlooked reality of domestic refrigeration. </p>
+<p>Table of Contents 
+ Toggle </p>
+<p><a href="https://dotheygobad.com/cold-chain-management-temperature-controlled-food-logistics/#The_Temperature_Danger_Zone_4%C2%B0C%E2%80%9360%C2%B0C_40%C2%B0F%E2%80%93140%C2%B0F">The Temperature Danger Zone: 4°C–60°C (40°F–140°F)</a> 
+ <a href="https://dotheygobad.com/cold-chain-management-temperature-controlled-food-logistics/#The_Cold_Chain_Ecosystem_Farm_to_Fork">The Cold Chain Ecosystem: Farm to Fork</a> 
+ <a href="https://dotheygobad.com/cold-chain-management-temperature-controlled-food-logistics/#Refrigeration_Science_Temperature_Effects_on_Food_Matrices">Refrigeration Science: Temperature Effects on Food Matrices</a> 
+ <a href="https://dotheygobad.com/cold-chain-management-temperature-controlled-food-logistics/#Freezing_Science_Ice_Crystals_Cellular_Damage_and_Quality_Preservation">Freezing Science: Ice Crystals, Cellular Damage, and Quality Preservation</a> 
+ <a href="https://dotheygobad.com/cold-chain-management-temperature-controlled-food-logistics/#Cold_Chain_Break_Consequences_The_Cumulative_Cost_of_Temperature_Abuse">Cold Chain Break Consequences: The Cumulative Cost of Temperature Abuse</a> 
+ <a href="https://dotheygobad.com/cold-chain-management-temperature-controlled-food-logistics/#Monitoring_Technologies_RFID_IoT_Sensors_and_Blockchain_Traceability">Monitoring Technologies: RFID, IoT Sensors, and Blockchain Traceability</a> 
+ <a href="https://dotheygobad.com/cold-chain-management-temperature-controlled-food-logistics/#Global_Cold_Chain_Standards_and_Regulatory_Frameworks">Global Cold Chain Standards and Regulatory Frameworks</a> 
+ <a href="https://dotheygobad.com/cold-chain-management-temperature-controlled-food-logistics/#Home_Refrigeration_Reality_The_Weakest_Link_in_the_Cold_Chain">Home Refrigeration Reality: The Weakest Link in the Cold Chain</a> 
+ <a href="https://dotheygobad.com/cold-chain-management-temperature-controlled-food-logistics/#Psychrotrophic_Bacteria_The_Cold-Adapted_Spoilers_in_Your_Fridge">Psychrotrophic Bacteria: The Cold-Adapted Spoilers in Your Fridge</a> 
+ <a href="https://dotheygobad.com/cold-chain-management-temperature-controlled-food-logistics/#Conclusion_The_Cold_Chain_as_the_Backbone_of_Modern_Food_Safety">Conclusion: The Cold Chain as the Backbone of Modern Food Safety</a> </p>
+<h2 id="the-temperature-danger-zone-4c60c-40f140f">The Temperature Danger Zone: 4°C–60°C (40°F–140°F)</h2>
+<p>The &#8220;temperature danger zone&#8221; is defined by both the United States Food and Drug Administration (FDA) and the United States Department of Agriculture (USDA) as the range between 4°C (40°F) and 60°C (140°F), within which pathogenic and <a href="https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/">spoilage</a> bacteria multiply at rates that render food unsafe or unpalatable. The scientific basis for this threshold lies in bacterial growth kinetics. Within the danger zone, mesophilic bacteria—organisms adapted to moderate temperatures—exhibit exponential growth governed by the Monod equation. Doubling times for key pathogens are startlingly short: Escherichia coli O157:H7 can double in approximately 30 minutes at 37°C; Salmonella spp. in 25–30 minutes; Listeria monocytogenes in 40–60 minutes; and Staphylococcus aureus can reach toxin-producing populations within 4–6 hours at room temperature. 
+ What makes the danger zone particularly insidious is the non-linear relationship between temperature and bacterial growth rate. The Arrhenius equation describes how reaction rates increase exponentially with temperature: each 5°C rise within the mesophilic range roughly doubles the metabolic rate of <a href="https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/">spoilage</a> organisms. At 4°C, pathogen growth is largely arrested—not eliminated, but slowed to the point that the lag phase (the period before exponential growth begins) extends well beyond typical shelf-life windows. At 25°C, however, the lag phase may collapse to under 2 hours. The USDA&#8217;s &#8220;2-hour rule&#8221; states that perishable foods left at room temperature for more than 2 hours should be discarded; at ambient temperatures above 32°C (90°F), this window shrinks to just 1 hour. This rule is grounded in predictive microbiology models such as the Baranyi–Roberts model and the Gompertz function, which integrate temperature, pH, and <a href="https://dotheygobad.com/what-is-water-activity-aw/">water activity</a> to forecast <a href="https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/">microbial</a> population dynamics with remarkable accuracy. 
+ The following table illustrates the dramatic effect of temperature on bacterial proliferation by comparing doubling times across common foodborne pathogens: </p>
+<p>Bacteria 
+ Min. Growth Temp 
+ Optimum Growth Temp 
+ Doubling Time at 21°C 
+ Doubling Time at 37°C </p>
+<p>Salmonella spp. 
+ 5.2°C 
+ 35–37°C 
+ 2–3 hours 
+ 20–30 min </p>
+<p>E. coli (pathogenic) 
+ 6.5°C 
+ 37–42°C 
+ 1.5–2 hours 
+ 17–20 min </p>
+<p>Listeria monocytogenes 
+ -0.4°C 
+ 30–37°C 
+ 5–7 hours 
+ 40–60 min </p>
+<p>Staphylococcus aureus 
+ 7.0°C 
+ 35–40°C 
+ 1–2 hours 
+ 20–30 min </p>
+<p>Clostridium perfringens 
+ 12°C 
+ 43–47°C 
+ 8–10 min 
+ 7–8 min </p>
+<p>Bacillus cereus 
+ 4°C 
+ 28–35°C 
+ 1–3 hours 
+ 20–40 min </p>
+<h2 id="the-cold-chain-ecosystem-farm-to-fork">The Cold Chain Ecosystem: Farm to Fork</h2>
+<p>A cold chain is a continuous, unbroken sequence of refrigerated production, storage, and distribution activities. It begins at the point of harvest or slaughter and extends through processing, warehousing, transportation, retail display, and ultimately into the consumer&#8217;s refrigerator. Each link represents a potential failure point, and the cumulative integrity of the chain is only as strong as its weakest segment. 
+ Farm and Harvest: At the agricultural level, field heat must be removed within hours of harvest. For leafy greens, hydrocooling—immersing produce in near-freezing water—can reduce core temperature from 30°C to below 4°C in under 30 minutes. For meat and poultry, carcass chilling begins in the slaughterhouse, where regulatory standards (such as USDA-FSIS requirements) mandate that carcass surface temperatures reach 4°C or below within specified timeframes to inhibit pathogen proliferation. 
+ Processing and Manufacturing: Food processing facilities operate under strict temperature zoning. Raw material receiving bays, processing floors, cooking areas, blast freezers, and finished-product cold stores each maintain distinct thermal environments. Hazard Analysis Critical Control Point (HACCP) plans identify temperature as a critical control point (CCP) at multiple stages, with continuous monitoring and corrective action protocols for any deviation outside critical limits. 
+ Distribution and Warehousing: Cold storage warehouses operate at temperatures ranging from -25°C for frozen goods to 2°C–4°C for chilled products. Multi-temperature warehouses using segregated zones and advanced racking systems enable the simultaneous storage of diverse product categories. The third-party logistics (3PL) cold storage market, valued at over $100 billion globally, underscores the scale of this infrastructure. 
+ Transportation: Refrigerated transport—&#8221;reefer&#8221; containers on ships, trucks, and railcars—employs vapor-compression refrigeration systems powered by diesel engines or electric standby connections. Modern reefers maintain temperature setpoints with precision tolerances of ±0.5°C, while data loggers record temperature at regular intervals throughout transit. The development of the ISO refrigerated container in the 1960s revolutionized global food trade, enabling New Zealand lamb to reach European markets and Chilean cherries to arrive in China in peak condition. 
+ Retail: Supermarket refrigeration systems represent a substantial engineering challenge. Open-front display cases, common in European and North American retail, must maintain product temperatures below 4°C despite continuous exposure to ambient store air at 20°C–22°C. Air curtains—high-velocity jets of cold air directed across the open face—create a thermal barrier, but their effectiveness is compromised by improper product loading, blocked vents, and ambient air currents. Studies consistently show that product temperatures in retail display cases can vary by 3°C–5°C from shelf to shelf, with upper shelves often exceeding safe limits. 
+ Consumer: The final and most vulnerable link in the cold chain is the domestic refrigerator. As we will explore in detail, home refrigeration is characterized by wide temperature fluctuations, frequent door openings, and inconsistent consumer behavior—making it the predominant site of cold chain failure. </p>
+<h2 id="refrigeration-science-temperature-effects-on-food-matrices">Refrigeration Science: Temperature Effects on Food Matrices</h2>
+<p>Refrigeration at temperatures between 0°C and 4°C does not halt <a href="https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/">spoilage</a>—it decelerates it. Different food matrices respond to refrigeration in fundamentally different ways, governed by their biochemical composition, <a href="https://dotheygobad.com/what-is-water-activity-aw/">water activity</a>, and indigenous microbiota. 
+ Meat and Poultry: Fresh meat presents a particularly complex refrigeration challenge. Even at 0°C, endogenous proteolytic and lipolytic enzymes remain catalytically active. Calpains and cathepsins—calcium-dependent proteases—continue to degrade myofibrillar proteins, contributing to the tenderization process known as &#8220;ageing&#8221; or &#8220;conditioning.&#8221; However, this same enzymatic activity, if unchecked, leads to off-flavor development, texture degradation, and the accumulation of free amino acids that serve as substrates for <a href="https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/">microbial</a> growth. Lipid oxidation, catalyzed by myoglobin-derived iron and accelerated by oxygen exposure, produces rancidity even at refrigeration temperatures. The shelf life of vacuum-packaged beef at 0°C is typically 8–12 weeks, compared to 3–5 days at 4°C—a difference that illustrates the disproportionate benefit of every degree of temperature reduction near the freezing point. 
+ Dairy Products: Raw <a href="https://dotheygobad.com/how-to-store-milk-freshness-guide">proper milk storage</a> presents a cascade of spoilage events that accelerate dramatically with temperature. At 4°C, psychrotrophic bacteria—predominantly Pseudomonas spp.—become the dominant spoilage flora, producing heat-stable lipases and proteases that survive pasteurization and continue to degrade product quality. At 7°C, the growth rate of psychrotrophs roughly doubles, reducing shelf life from 10–14 days to 5–7 days. The spoilage cascade begins with proteolysis, producing bitter peptides; progresses to lipolysis, generating rancid, soapy off-flavors from free fatty acids; and culminates in visible coagulation and gas production as populations exceed 10⁷ CFU/mL. 
+ Fresh Produce: Fruits and vegetables are living, respiring tissues after harvest—a fact that fundamentally distinguishes produce refrigeration from that of animal products. Respiration generates metabolic heat, consumes stored carbohydrates, and produces ethylene gas, which accelerates ripening and senescence. The respiration rate is highly temperature-dependent: a 10°C increase typically causes a 2- to 3-fold increase in respiration rate (Q₁₀ = 2–3). Chilling injury, a physiological disorder affecting tropical and subtropical produce (bananas, tomatoes, cucumbers) at temperatures between 0°C and 12°C, manifests as pitting, discoloration, and failure to ripen—a reminder that &#8220;colder is always better&#8221; does not apply universally. 
+ Seafood: Fish and shellfish present the most demanding refrigeration requirements of any food category. Marine fish, adapted to cold-water environments, harbor psychrophilic bacteria and enzymes optimized for near-freezing temperatures. Trimethylamine oxide (TMAO), naturally present in marine fish, is reduced by bacterial action to trimethylamine (TMA)—the compound responsible for the characteristic &#8220;fishy&#8221; odor. This process continues, albeit slowly, at 0°C. The shelf life of fresh fish at 0°C in melting ice is typically 7–14 days, compared to 1–2 days at 10°C. This extreme temperature sensitivity explains why the seafood industry pioneered many cold chain innovations, from slurry ice systems to modified atmosphere packaging (MAP). </p>
+<h2 id="freezing-science-ice-crystals-cellular-damage-and-quality-preservation">Freezing Science: Ice Crystals, Cellular Damage, and Quality Preservation</h2>
+<p>Freezing represents a quantum leap in preservation—the phase change from liquid water to ice effectively halts microbial growth by immobilizing water molecules and concentrating solutes to bacteriostatic levels. But freezing is not inert; it is a dynamic process with profound physical and chemical consequences for food quality. 
+ Ice Crystal Formation: The freezing process is governed by nucleation and crystal growth kinetics. When a food material is cooled below its freezing point (typically -0.5°C to -2°C for most foods, depressed by dissolved solutes), ice nucleation begins. The rate of freezing is the critical determinant of ice crystal morphology. Slow freezing (typical of domestic freezers operating at -18°C) produces large, extracellular ice crystals that physically puncture cell walls and membranes. When the food is thawed, cellular contents leak—a phenomenon visible as &#8220;drip loss&#8221; in thawed meat, which can reach 5–10% of original weight and carries with it water-soluble vitamins, minerals, and flavor compounds. Rapid freezing—industrial blast freezing at -35°C to -40°C with high-velocity air—produces numerous small ice crystals, both intra- and extracellular, minimizing structural damage and drip loss to below 1–2%. Cryogenic freezing using liquid nitrogen (-196°C) or carbon dioxide (-78°C) achieves the fastest freezing rates and the finest ice crystal structure, but at substantially higher cost. 
+ Freezer Burn: Freezer burn is not microbial spoilage but a quality defect caused by sublimation—the direct transition of ice from solid to vapor without passing through the liquid phase. When frozen food is exposed to air within packaging with poor moisture barrier properties, surface ice crystals sublimate, leaving behind desiccated, discolored patches. These patches are characterized by protein denaturation, lipid oxidation, and textural degradation. While freezer-burned food is safe to eat, its sensory quality is severely compromised. Vacuum packaging and tight-wrapping with moisture-impermeable materials (such as polyethylene laminates) are the primary defenses against freezer burn. 
+ Glass Transition Temperature (Tg&#8217;): A concept crucial to frozen food stability that is often overlooked is the glass transition temperature of the maximally freeze-concentrated matrix (Tg&#8217;). Below Tg&#8217;, the unfrozen phase of the food exists as an amorphous glass of extremely high viscosity (10¹² Pa·s), in which molecular diffusion is effectively arrested and all deteriorative reactions—enzymatic, oxidative, and recrystallization—are essentially halted. For most frozen foods, Tg&#8217; falls between -25°C and -40°C. Commercial frozen storage at -18°C is therefore above Tg&#8217; for many products, meaning that slow deteriorative reactions continue. This is why premium ice cream, stored at -25°C or below (below its Tg&#8217;), maintains smooth texture for months, while ice cream stored in a typical home freezer at -15°C to -18°C develops coarse ice crystals through recrystallization—the Ostwald ripening process in which small ice crystals dissolve and redeposit onto larger crystals, driven by the minimization of surface free energy. </p>
+<h2 id="cold-chain-break-consequences-the-cumulative-cost-of-temperature-abuse">Cold Chain Break Consequences: The Cumulative Cost of Temperature Abuse</h2>
+<p>A &#8220;cold chain break&#8221; occurs any time a perishable product exceeds its specified temperature range for any duration. The damage is cumulative and irreversible: every hour above the target temperature adds to the product&#8217;s total time-temperature exposure, consuming a portion of its remaining shelf life. This is because the relationship between temperature and spoilage rate is non-linear, and the effects are additive. 
+ Consider a scenario where a refrigerated product with a design shelf life of 14 days at 2°C is exposed to three 2-hour breaks at 25°C during transport, warehousing, and retail stocking. If we assume a Q₁₀ of 3 (spoilage rate triples per 10°C rise), then 2 hours at 25°C is equivalent to approximately 18 hours at 2°C (2 × 3^2.3 ≈ 2 × 9 ≈ 18). Three such breaks represent 54 equivalent hours, or 2.25 days—consuming roughly 16% of the design shelf life even though the product was never &#8220;warm&#8221; for more than a few hours. In reality, the metabolic acceleration is often greater because temperature abuse frequently coincides with other stress factors: vibration during transport disrupts tissue integrity; condensation during temperature cycling creates free water on product surfaces, locally elevating <a href="https://dotheygobad.com/water-activity-food-stability/">water activity</a>; and repeated freeze-thaw cycles in frozen products cause progressive cellular damage through ice recrystallization. 
+ Predictive microbiology models, such as the ComBase Predictor and the Pathogen Modeling Program (PMP) maintained by the USDA Agricultural Research Service, enable food safety professionals to estimate pathogen growth under dynamic temperature conditions. These tools integrate time-temperature histories with strain-specific growth parameters to forecast whether a given abuse scenario could result in pathogen populations exceeding infectious dose thresholds. For Listeria monocytogenes , which has a remarkably low infectious dose for susceptible populations (estimated at 10²–10³ CFU/g) and can grow at refrigeration temperatures, cold chain integrity is particularly critical in ready-to-eat foods such as deli meats, soft cheeses, and smoked seafood. 
+ The economic consequences of cold chain breaks are staggering. The Food and Agriculture Organization (FAO) estimates that approximately 14% of the world&#8217;s food is lost before reaching retail, with inadequate cold chain infrastructure in developing countries being a primary driver. Post-harvest losses of perishable commodities in sub-Saharan Africa and South Asia frequently exceed 30–40%, compared to 2–5% in developed economies with mature cold chain infrastructure. The environmental cost is equally severe: food lost to cold chain failures represents wasted water, land, energy, and labor, along with unnecessary greenhouse gas emissions from both production and decomposition. </p>
+<h2 id="monitoring-technologies-rfid-iot-sensors-and-blockchain-traceability">Monitoring Technologies: RFID, IoT Sensors, and Blockchain Traceability</h2>
+<p>The integrity of a cold chain is only as reliable as the data that verifies it. Modern cold chain monitoring has evolved far beyond the traditional practice of placing a mercury-in-glass thermometer in a truck and hoping for the best. Today&#8217;s monitoring ecosystem integrates multiple layers of technology, each providing distinct insights into cold chain performance. 
+ RFID and NFC Tags: Radio Frequency Identification (RFID) tags, particularly battery-assisted passive (BAP) and active RFID variants with integrated temperature sensors, enable real-time or near-real-time temperature tracking throughout the supply chain. Unlike passive RFID tags that merely provide identity, sensor-equipped tags continuously log temperature data and transmit it when interrogated by readers at strategic points—loading docks, warehouse portals, and retail receiving areas. The data density enables precise identification of when and where temperature excursions occurred, facilitating root cause analysis and corrective action. 
+ IoT Sensors and Cloud Platforms: The Internet of Things (IoT) has transformed cold chain monitoring from periodic sampling to continuous surveillance. Low-power wireless sensors using technologies such as LoRaWAN, NB-IoT, and Bluetooth Low Energy (BLE) transmit temperature, humidity, shock, and location data to cloud platforms at configurable intervals (typically every 5–15 minutes). Machine learning algorithms analyze this data stream in real time, detecting anomalous patterns—a gradual temperature rise suggesting refrigeration failure, a door-open event inferred from a rapid spike, or a geofence breach indicating unauthorized route deviation. When anomalies are detected, automated alerts are pushed to logistics managers, enabling intervention before product is compromised. 
+ Time-Temperature Indicators (TTIs): TTIs are low-cost, disposable sensors that provide a visual, cumulative record of a product&#8217;s time-temperature history. These devices operate on physico-chemical principles—enzymatic reactions, polymerization, or diffusion—whose rates are temperature-dependent and whose progress is visible as a color change. Unlike electronic data loggers, TTIs require no power, no infrastructure, and no data retrieval process; a warehouse worker or retail inspector can instantly assess whether a product has experienced unacceptable temperature abuse simply by reading the indicator. The 3M MonitorMark and the VITSAB TTI are widely used examples, with activation energies tuned to match the spoilage kinetics of specific product categories. 
+ Blockchain Traceability: Blockchain technology addresses a fundamental limitation of traditional cold chain documentation: the potential for data manipulation. In a blockchain-based cold chain system, every temperature reading, custody transfer, and quality inspection is recorded as an immutable, time-stamped entry in a distributed ledger accessible to all authorized parties—growers, processors, logistics providers, retailers, and regulators. IBM Food Trust, built on Hyperledger Fabric, and the Walmart-led Food Traceability Initiative are prominent examples. When a food safety incident occurs, blockchain enables the source of contamination to be identified in seconds rather than days or weeks, dramatically reducing the scope and cost of recalls while protecting public health. </p>
+<h2 id="global-cold-chain-standards-and-regulatory-frameworks">Global Cold Chain Standards and Regulatory Frameworks</h2>
+<p>Cold chain management operates within a complex regulatory landscape shaped by international bodies, national governments, and industry associations. While requirements vary by jurisdiction and product category, several foundational frameworks establish the principles from which specific regulations derive. 
+ Codex Alimentarius: The Codex Alimentarius Commission, jointly established by the FAO and WHO, publishes the Code of Practice for the Processing and Handling of Quick Frozen Foods (CXC 8-1976) and the Code of Hygienic Practice for Refrigerated Packaged Foods with Extended Shelf Life (CXC 46-1999). These documents establish temperature control principles accepted as international benchmarks: quick-frozen foods should be maintained at -18°C or colder, with brief upward excursions permitted only during transport and retail to a maximum of -12°C at the thermal center of the product. The Codex General Principles of Food Hygiene (CXC 1-1969) identifies temperature control as a fundamental prerequisite program for food safety management systems. 
+ FDA Food Safety Modernization Act (FSMA): The FSMA, signed into United States law in 2011, represents the most significant overhaul of U.S. food safety regulation since the 1938 Food, Drug, and Cosmetic Act. Its Preventive Controls for Human Food rule (21 CFR Part 117) requires food facilities to implement temperature controls as preventive controls where appropriate, with validated parameters, monitoring procedures, corrective actions, and verification activities. The Sanitary Transportation of Human and Animal Food rule (21 CFR Part 1, Subpart O) specifically mandates that shippers, carriers, and receivers maintain temperature conditions adequate to prevent food from becoming adulterated during transport, including written procedures, training, and record-keeping. 
+ European Union Regulations: EU Regulation (EC) No 852/2004 on the hygiene of foodstuffs requires that cold chain continuity be maintained throughout production, processing, and distribution. Regulation (EC) No 853/2004 establishes specific temperature requirements for products of animal origin: fresh poultry meat must not exceed 4°C; minced meat must be transported at 2°C or below; fishery products must be maintained at a temperature approaching that of melting ice (0°C–2°C). The EU&#8217;s Rapid Alert System for Food and Feed (RASFF) consistently identifies temperature control failures as a leading cause of border rejections and intra-Union notifications of non-compliant food shipments. 
+ World Health Organization (WHO): The WHO&#8217;s &#8220;Five Keys to Safer Food&#8221; program identifies temperature control as a core principle of food safety, emphasizing that cooked food should not be left at room temperature for more than 2 hours, that refrigeration should maintain temperatures below 5°C, and that frozen food should not be thawed at room temperature. These guidelines, while targeted at consumers and food service operators, reflect the same scientific principles that inform industrial cold chain standards. </p>
+<h2 id="home-refrigeration-reality-the-weakest-link-in-the-cold-chain">Home Refrigeration Reality: The Weakest Link in the Cold Chain</h2>
+<p>Despite the sophistication of industrial cold chain infrastructure, the final link—the consumer&#8217;s refrigerator—remains the most vulnerable and least controlled segment of the temperature-controlled continuum. Peer-reviewed studies of domestic refrigeration practices consistently reveal concerning patterns that undermine food safety. 
+ A landmark multinational study published in the Journal of Food Protection found that the mean operating temperature of domestic refrigerators across five European countries was 6.6°C, with 34% of refrigerators operating above 7°C and 7% exceeding 10°C—well within the danger zone. In a separate study of U.S. households, researchers found that only 20% of consumers owned a refrigerator thermometer, and among those who did, fewer than half could correctly report their refrigerator&#8217;s temperature. Temperature fluctuation is exacerbated by door openings: a single door opening in a typical household refrigerator can raise shelf temperatures by 2°C–4°C, with recovery time ranging from 5 to 30 minutes depending on the thermal mass of stored items, ambient room temperature, and refrigerator age and efficiency. 
+ Consumer knowledge gaps compound these physical limitations. Surveys consistently show that fewer than 40% of consumers correctly identify the maximum safe refrigeration temperature, fewer than 30% understand the 2-hour rule for perishables left at room temperature, and significant proportions store high-risk foods—raw meat, dairy, and ready-to-eat items—on refrigerator door shelves, the warmest part of the appliance, where temperatures can exceed 10°C during periods of frequent use. The widespread practice of cooling hot food on the counter before refrigeration, intended to avoid &#8220;warming the fridge,&#8221; paradoxically keeps food in the danger zone longer than the alternative of placing warm food directly in the refrigerator, which modern compressor systems can readily accommodate without significant internal temperature rise. 
+ Energy efficiency trends have further complicated domestic refrigeration. Modern refrigerators, designed to minimize energy consumption, typically employ thinner insulation, smaller compressors, and more frequent defrost cycles than their predecessors. While the energy savings are substantial, the thermal stability of these units is often inferior to older models, with internal temperature gradients of 3°C–5°C between the coldest and warmest zones. Without temperature monitoring, consumers have no way of knowing which foods are being stored safely and which are not. </p>
+<h2 id="psychrotrophic-bacteria-the-cold-adapted-spoilers-in-your-fridge">Psychrotrophic Bacteria: The Cold-Adapted Spoilers in Your Fridge</h2>
+<p>The assumption that refrigeration eliminates microbial risk is dangerously incomplete. A specialized class of microorganisms—psychrotrophic bacteria—are cold-adapted organisms that not only survive but actively grow at refrigeration temperatures between 0°C and 7°C. Unlike mesophilic pathogens whose growth is arrested below 4°C, psychrotrophs have evolved membrane lipid compositions rich in unsaturated fatty acids, which maintain membrane fluidity at low temperatures, and cold-shock proteins (CSPs) that stabilize RNA secondary structure and facilitate translation in cold environments. 
+ The genus Pseudomonas dominates the psychrotrophic spoilage flora of refrigerated proteinaceous foods. Pseudomonas fluorescens , Pseudomonas fragi , and Pseudomonas putida are ubiquitous in soil, water, and processing environments, and their ability to form biofilms on food-contact surfaces makes them persistent contaminants in food processing facilities. At refrigeration temperatures, pseudomonads outcompete mesophilic competitors and become the predominant spoilage organisms of aerobically stored meat, poultry, fish, and dairy products. The spoilage they cause is characterized by slime formation, off-odors (sulphides, amines, and esters), and discoloration, driven by extracellular enzymes whose production is often upregulated at low temperatures. 
+ Of particular food safety concern is Listeria monocytogenes , a psychrotrophic pathogen capable of growth at temperatures as low as -0.4°C. Its ability to proliferate under refrigeration conditions makes it uniquely dangerous among foodborne pathogens. While most bacterial pathogens are controlled by adequate refrigeration, Listeria can multiply slowly but steadily in refrigerated ready-to-eat foods over extended storage periods. The infectious dose for susceptible populations—pregnant women, the elderly, and immunocompromised individuals—is estimated to be as low as 100–1,000 colony-forming units per gram, and listeriosis carries a case-fatality rate of 20–30%, among the highest of any foodborne illness. 
+ Other psychrotrophic spoilage organisms of significance include Brochothrix thermosphacta , which produces cheesy, sour off-odors in vacuum-packaged meat; Shewanella putrefaciens , a major contributor to fish spoilage through the production of hydrogen sulfide and trimethylamine; and Aeromonas spp., capable of both spoilage and opportunistic pathogenicity. The cold-adapted metabolic strategies of these organisms—including the production of cold-active enzymes with catalytic optima at 20°C–30°C but substantial activity at 0°C–5°C—mean that refrigeration alone cannot prevent quality deterioration over extended storage. Rather, refrigeration buys time: days or weeks rather than hours, but not indefinitely. </p>
+<h2 id="conclusion-the-cold-chain-as-the-backbone-of-modern-food-safety">Conclusion: The Cold Chain as the Backbone of Modern Food Safety</h2>
+<p>Cold chain management is the invisible infrastructure that makes the modern food system possible. It enables fresh produce harvested in Chile to arrive on dinner plates in Shanghai, dairy products processed in New Zealand to be consumed in Dubai, and vaccines—another cold chain-dependent product—to protect children in rural clinics across the developing world. The scientific principles that govern cold chain performance—bacterial growth kinetics, refrigeration thermodynamics, ice crystallization physics, and predictive microbiology—are well understood; the challenge lies in their consistent application across a fragmented, globalized supply chain. 
+ The future of cold chain management will be shaped by several converging trends. Real-time IoT monitoring and blockchain traceability will provide unprecedented transparency and accountability. Phase-change materials (PCMs) and advanced insulation technologies will reduce energy consumption and improve thermal stability. Machine learning algorithms will predict equipment failures before they occur and optimize routing to minimize time-temperature exposure. But technology alone is insufficient. The human elements—training, compliance culture, regulatory enforcement, and consumer education—remain the critical determinants of cold chain integrity. 
+ For the <a href="https://dotheygobad.com/food-science-basics/">food industry</a>, cold chain management is a non-negotiable foundation of quality and safety. For the consumer, understanding the science of temperature control—from the 2-hour rule to the importance of refrigerator thermometers—empowers better decisions that protect both health and the food budget. Temperature is, and will remain, the single most important factor in food preservation. Master the cold chain, and you master food safety itself. 
+ Further reading: Explore our guides on <a href="/what-makes-food-go-bad/">what makes food go bad</a>, the difference between <a href="/microbial-vs-chemical-spoilage-explained/">microbial and chemical spoilage</a>, the fundamentals of <a href="/food-science-basics/">food science</a>, the critical role of <a href="/what-is-water-activity-aw/">water activity (Aw)</a> in preservation, and a deep dive into the <a href="/does-pork-go-bad-industrial-science/">industrial science of pork spoilage</a>. </p>
+<h2 id="scientific-literature-references">Scientific Literature References</h2>
+<p>Baranyi J, Roberts TA (1994). &#8220;A dynamic approach to predicting bacterial growth in food.&#8221; International Journal of Food Microbiology , 23(3-4):277-294. <a href="https://doi.org/10.1016/0168-1605(94)90126-0">DOI: 10.1016/0168-1605(94)90126-0</a> 
+ Laguerre O, Derens E, Palagos B (2002). &#8220;Study of domestic refrigerator temperature and analysis of factors affecting temperature: a French survey.&#8221; International Journal of Refrigeration , 25(5):653-659. <a href="https://doi.org/10.1016/S0140-7007(01)00064-0">DOI: 10.1016/S0140-7007(01)00064-0</a> 
+ Ndraha N, Hsiao HI, Vlajic J, Yang MF, Lin HTV (2018). &#8220;Time-temperature abuse in the food cold chain: Review of issues, challenges, and recommendations.&#8221; Food Control , 89:12-21. <a href="https://doi.org/10.1016/j.foodcont.2018.01.027">DOI: 10.1016/j.foodcont.2018.01.027</a> 
+ Parfitt J, Barthel M, Macnaughton S (2010). &#8220;Food waste within food supply chains: quantification and potential for change to 2050.&#8221; Philosophical Transactions of the Royal Society B , 365(1554):3065-3081. <a href="https://doi.org/10.1098/rstb.2010.0126">DOI: 10.1098/rstb.2010.0126</a> 
+ Zhou GH, Xu XL, Liu Y (2010). &#8220;Preservation technologies for fresh meat — A review.&#8221; Meat Science , 86(1):119-128. <a href="https://doi.org/10.1016/j.meatsci.2010.04.033">DOI: 10.1016/j.meatsci.2010.04.033</a> 
+ Pham QT (2014). &#8220;Freezing time formulas for foods with low moisture content, low freezing temperature and for cryogenic freezing.&#8221; Journal of Food Engineering , 127:85-92. <a href="https://doi.org/10.1016/j.jfoodeng.2013.12.007">DOI: 10.1016/j.jfoodeng.2013.12.007</a> 
+ EFSA Panel on Biological Hazards (2018). &#8220; Listeria monocytogenes contamination of ready-to-eat foods and the risk for human health in the EU.&#8221; EFSA Journal , 16(1):e05134. <a href="https://doi.org/10.2903/j.efsa.2018.5134">DOI: 10.2903/j.efsa.2018.5134</a> </p>
+<p>[{"@context": "https://schema.org", "@type": "Article", "@id": "https://dotheygobad.com/cold-chain-management-complete-guide/#article", "headline": "Cold Chain Management: The Complete Guide to Temperature-Controlled Food Logistics", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://dotheygobad.com/cold-chain-management-complete-guide/"}, "author": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia \u2014 DoTheyGoBad", "url": "https://dotheygobad.com"}, "publisher": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia \u2014 DoTheyGoBad", "url": "https://dotheygobad.com"}}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "@id": "https://dotheygobad.com/cold-chain-management-complete-guide/#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dotheygobad.com/"}, {"@type": "ListItem", "position": 2, "name": "Articles", "item": "https://dotheygobad.com/articles/"}, {"@type": "ListItem", "position": 3, "name": "Cold Chain Management: The Complete Guide to Temperature-Controlled Food Logistics"}]}]</p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.sections", "navigation.expand"], "search": "../../assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.5a2dcb6a.min.js"></script>
+      
+    
+    
+  </body>
+</html>

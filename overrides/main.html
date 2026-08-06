@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <meta property="og:site_name" content="DoTheyGoBad">
+  <meta name="robots" content="index, follow">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "DoTheyGoBad",
+    "url": "https://dotheygobad.com",
+    "description": "Food Shelf Life Science Encyclopedia",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://dotheygobad.com/search/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+{% endblock %}

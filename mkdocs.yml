@@ -1,0 +1,13 @@
+site_name: DoTheyGoBad
+site_url: https://dotheygobad.com
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - navigation.sections
+    - navigation.expand
+  palette:
+    primary: deep orange
+nav:
+  - Home: index.md
+  - Articles: articles.md
