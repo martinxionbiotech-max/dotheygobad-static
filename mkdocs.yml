@@ -1,13 +1,164 @@
-site_name: DoTheyGoBad
+site_name: DoTheyGoBad — Food Shelf Life Science Encyclopedia
+site_description: Industrial food science encyclopedia explaining why foods spoil, how shelf life is determined, and what preservation methods work.
 site_url: https://dotheygobad.com
+
 theme:
   name: material
-  custom_dir: overrides
   features:
     - navigation.sections
     - navigation.expand
+    - navigation.top
   palette:
-    primary: deep orange
+    primary: amber
+    accent: deep orange
+
+plugins:
+  - search
+
+markdown_extensions:
+  - tables
+  - admonition
+  - footnotes
+  - attr_list
+  - pymdownx.superfences
+
 nav:
   - Home: index.md
-  - Articles: articles.md
+  - All Articles: articles.md
+  - Food Articles:
+    - 🔬 Food Science & Methods:
+      - Cold Chain Management The Complete Guide to Temperature-Controll: articles/cold-chain-management-complete-guide.md
+      - Food Preservation Technology Methods, Science and Applications: articles/preservation-technology.md
+      - Food Science Basics Understanding the Foundations of Industrial: articles/food-science-basics.md
+      - Food Shelf Life Database Complete Storage Times by Category: articles/shelf-life-database.md
+      - Food Shelf Life Science Understanding Expiration Across Major Fo: articles/staple-foods-never-expire.md
+      - Food Spoilage Science The Complete Guide to How Food Goes Bad: articles/food-spoilage-science.md
+      - Food Storage Guide Optimal Conditions by Food Type: articles/food-storage-science.md
+      - Ingredients & Additives Their Role in Food Stability and Spoilag: articles/ingredients-additives.md
+      - Microbial vs Chemical Spoilage Explained: articles/microbial-vs-chemical-spoilage-explained.md
+      - What Makes Food Go Bad? – Understanding Food Spoilage from an Ind: articles/what-makes-food-go-bad.md
+      - Why Some Foods Don’t Need Refrigeration The Science of Shelf-Sta: articles/shelf-stable-foods-science.md
+    - 🧀 Dairy & Eggs:
+      - Butter Shelf Life Science Lipolytic Rancidity, Hydrolysis and Co: articles/butter-rancidity-shelf-life-basic.md
+      - Butter Shelf Life Science Milkfat Hydrolysis, Lipolytic Rancidit: articles/butter-hydrolysis-rancidity.md
+      - Cheese Mold When to Cut It Off and When to Throw Away: articles/cheese-mold-safe-or-throw.md
+      - Cheese Shelf Life Science Aging, Microbial Dynamics and Spoilage: articles/cheese-shelf-life-aging-basic.md
+      - Cheese Shelf Life Science Mold Growth, Lipolysis and Proteolysis: articles/cheese-mold-lipolysis-proteolysis.md
+      - Does Condensed Milk Go Bad? An Industrial Food Science Perspectiv: articles/condensed-milk-shelf-life-science.md
+      - Egg Float Test Does It Actually Work?: articles/egg-float-test-science.md
+      - Egg Shelf Life Science Freshness Assessment, Cuticle Integrity a: articles/eggs-shelf-life-freshness-spoilage.md
+      - Eggs Shelf Life Science Cuticle Degradation, Salmonella and Fres: articles/eggs-cuticle-salmonella.md
+      - Frequently Asked Questions About Goat Cheese: articles/goat-cheese-shelf-life-spoilage.md
+      - Green Rot, Black Rot Egg Spoilage by Bacteria: articles/egg-spoilage-green-rot-black-rot.md
+      - Hard Cheese vs Soft Cheese Shelf Life Differences: articles/cheese-shelf-life-hard-vs-soft.md
+      - How to Store Milk Industrial Best Practices: articles/milk-storage-industrial-best-practices.md
+      - Hydrolytic Rancidity in Butter Water and Fat Interaction: articles/hydrolytic-rancidity-butter.md
+      - Ice Cream Shelf Life Science Recrystallization, Fat Separation a: articles/ice-cream-recrystallization-fat.md
+      - Milk Shelf Life Science Pasteurization, Souring Chemistry and Co: articles/milk-shelf-life-pasteurization-spoilage.md
+      - Natural vs Stabilized Peanut Butter The Spoilage Difference: articles/natural-vs-stabilized-peanut-butter.md
+      - Oil Separation in Peanut Butter Normal or Spoiled?: articles/peanut-butter-oil-separation-spoiled.md
+      - Pasteurized vs UHT Milk Understanding the Shelf Life Difference: articles/pasteurized-vs-uht-milk.md
+      - Peanut Butter Shelf Life Science Oil Rancidity, Microbial Stabil: articles/peanut-butter-rancidity-shelf-life.md
+      - Salted vs Unsalted Butter Shelf Life Differences: articles/salted-vs-unsalted-butter-shelf-life.md
+      - Sour Cream Shelf Life Science Acidification, Mold Growth and Ref: articles/sour-cream-shelf-life-spoilage.md
+      - The Egg Cold Chain Why Refrigeration Matters: articles/egg-cold-chain-refrigeration.md
+      - Why Butter Can Sit on the Counter: articles/why-butter-sits-on-counter.md
+      - Why Does Milk Smell Sour? The Chemistry of Milk Spoilage: articles/milk-sour-chemistry-spoilage.md
+      - Why Peanut Butter Doesn’t Grow Mold: articles/peanut-butter-no-mold-science.md
+      - Yogurt Shelf Life Science Post-Acidification, Whey Separation an: articles/yogurt-post-acidification-probiotics.md
+      - Yogurt Shelf Life Science Post-Acidification, Whey Separation an: articles/yogurt-post-acidification-whey.md
+    - 🍖 Meat & Seafood:
+      - Bacon Shelf Life Science Salt Curing, Smoking and Lipid Oxidatio: articles/bacon-salt-curing-smoking.md
+      - Chicken Shelf Life Science Campylobacter, Pseudomonas and Cold S: articles/chicken-campylobacter-cold-storage.md
+      - Chicken Shelf Life Science Pseudomonas, Campylobacter and Poultr: articles/chicken-shelf-life-microbiology-basic.md
+      - Does Beef Jerky Go Bad? Industrial Quality Control Explained: articles/beef-jerky-shelf-life-storage.md
+      - Freezer Burn on Chicken What It Is and How to Prevent It: articles/freezer-burn-chicken-prevention.md
+      - Frozen Shrimp Shelf Life Science Freezer Burn, Lipid Oxidation a: articles/frozen-shrimp-shelf-life-storage.md
+      - Ground Beef Shelf Life Science Bacterial Growth, Myoglobin Oxida: articles/ground-beef-bacteria-myoglobin.md
+      - Pork Shelf Life Science Bacterial Spoilage, Lipid Oxidation and: articles/pork-spoilage-lipid-oxidation.md
+      - Pork Shelf Life Science Spoilage Microbiology, Rancidity and Pre: articles/pork-spoilage-rancidity-science.md
+      - Pseudomonas and Chicken The Dominant Spoilage Bacteria: articles/pseudomonas-chicken-spoilage.md
+      - Raw Chicken vs Cooked Chicken How Spoilage Differs: articles/raw-vs-cooked-chicken-spoilage.md
+      - Salmon Shelf Life Science TMAO Reduction, Seafood Spoilage and C: articles/salmon-tmao-seafood-spoilage.md
+      - Tuna Shelf Life Science Scombrotoxin, Histamine Formation and Se: articles/tuna-histamine-scombrotoxin.md
+    - 🌾 Grains & Baked Goods:
+      - Bacillus Cereus in Cooked Rice The Danger of Leaving Rice Out: articles/bacillus-cereus-cooked-rice.md
+      - Bread Shelf Life Science Starch Retrogradation, Mold and Staling: articles/bread-starch-retrogradation-mold.md
+      - Bread Shelf Life Science Starch Retrogradation, Staling and Mold: articles/bread-shelf-life-staling-basic.md
+      - Bread Staling vs Mold Two Completely Different Spoilage Mechanis: articles/bread-staling-vs-mold.md
+      - Calcium Propionate How Commercial Bread Stays Fresh: articles/calcium-propionate-bread-preservative.md
+      - Dry Pasta vs Fresh Pasta Different Expiration Dates: articles/dry-pasta-vs-fresh-pasta-shelf-life.md
+      - Flour Shelf Life Science Insect Infestation, Rancidity and Glute: articles/flour-insect-infestation-rancidity.md
+      - How Rice Processing Affects Shelf Life: articles/rice-processing-shelf-life.md
+      - Instant Noodle Shelf Life Science Lipid Oxidation, Moisture and: articles/cup-noodles-shelf-life-storage.md
+      - Overnight Oat Shelf Life Science Fermentation, Spoilage Signs an: articles/overnight-oats-shelf-life.md
+      - Popcorn Shelf Life Science Moisture Content, Kernel Integrity an: articles/popcorn-kernels-shelf-life.md
+      - Rice Shelf Life Science Lipid Oxidation, Bacillus Cereus and Gra: articles/rice-lipid-oxidation-bacillus.md
+      - Rice Shelf Life Science Lipid Oxidation, Microbial Risk and Stor: articles/rice-shelf-life-oxidation-basic.md
+      - White Rice vs Brown Rice Why the Shelf Life Gap Exists: articles/white-rice-vs-brown-rice-shelf-life.md
+      - Why White Flour Lasts Longer Than Whole Wheat: articles/white-flour-vs-whole-wheat-shelf-life.md
+      - Why You Should Never Refrigerate Bread: articles/never-refrigerate-bread-science.md
+    - 🥬 Produce & Vegetables:
+      - Avocado Shelf Life Science Enzymatic Browning, Ripening and Shel: articles/avocado-shelf-life-browning-ripening.md
+      - Avocado Shelf Life Science Lipid Oxidation, Enzymatic Browning a: articles/avocado-lipid-oxidation-browning.md
+      - Banana Shelf Life Science Ethylene Ripening, Browning and Tropic: articles/banana-ethylene-ripening-browning.md
+      - Banana Shelf Life Science Ethylene Ripening, Crown Rot and Enzym: articles/banana-ethylene-crown-rot.md
+      - Garlic Shelf Life Science Sprouting Inhibition, Black Mold and S: articles/garlic-sprouting-black-mold.md
+      - Lettuce Shelf Life Science Enzymatic Browning, Leaf Senescence a: articles/lettuce-browning-leaf-spoilage.md
+      - Mushroom Shelf Life Science Moisture Loss, Enzymatic Browning an: articles/mushrooms-moisture-spoilage.md
+      - Onion Shelf Life Science Sprouting, Soft Rot and Black Mold Spoi: articles/onion-sprouting-soft-rot.md
+      - Potato Shelf Life Science Sprouting, Glycoalkaloids and Greening: articles/potato-sprouting-glycoalkaloid-science.md
+      - Tomato Shelf Life Science Fungal Rot, Chilling Injury and Lycope: articles/tomato-fungal-rot-lycopene.md
+      - Tomato Shelf Life Science Fungal Spoilage, Chilling Injury and P: articles/tomato-fungal-spoilage-chilling.md
+    - 🥜 Nuts, Oils & Condiments:
+      - Almond Extract Shelf Life Science Ethanol Preservation, Flavor a: articles/almond-extract-shelf-life.md
+      - Almond Shelf Life Science Lipid Oxidation, Rancidity and Protect: articles/almonds-shelf-life-rancidity.md
+      - Extra Virgin vs Refined Olive Oil Which Lasts Longer: articles/extra-virgin-vs-refined-olive-oil.md
+      - Flaxseed Meal Shelf Life Science Omega-3 Rancidity, Oxidation an: articles/flaxseed-meal-rancidity-shelf-life.md
+      - How Industry Tests Olive Oil Freshness: articles/olive-oil-freshness-testing.md
+      - Mayonnaise Shelf Life Science Emulsion Breakdown, Lipid Oxidatio: articles/mayonnaise-emulsion-breakdown.md
+      - Olive Oil Shelf Life Science Lipid Oxidation, Rancidity and Fres: articles/olive-oil-chemistry-oxidation.md
+      - Why Light Destroys Olive Oil Faster Than Heat: articles/light-destroys-olive-oil.md
+    - 🍷 Beverages & Spices:
+      - Apple Cider Vinegar Shelf Life Science Acetic Acid and Indefinit: articles/apple-cider-vinegar-shelf-life.md
+      - Apple Juice Shelf Life Science Oxidation, Enzymatic Browning and: articles/apple-juice-shelf-life-spoilage.md
+      - Coffee Shelf Life Science Flavor Freshness, CO2 Degassing and St: articles/coffee-beans-shelf-life-freshness.md
+      - Does Beer Go Bad? An Industrial Food Science Perspective: articles/does-beer-go-bad.md
+      - Does Red Wine Go Bad?: articles/does-red-wine-go-bad.md
+      - Does Wine Go Bad? An Industrial & Food Science Perspective: articles/does-wine-go-bad.md
+      - Refrigeration vs Freezing The Real Science: articles/matcha-shelf-life-quality.md
+      - Soy Sauce Shelf Life Science Fermentation Stability, Oxidation a: articles/soy-sauce-shelf-life-storage.md
+      - Tea Shelf Life Science Flavor Degradation, Moisture Absorption a: articles/tea-shelf-life-flavor-storage.md
+      - Turmeric Shelf Life Science Curcumin Degradation, Moisture and S: articles/turmeric-shelf-life-spice-storage.md
+      - Water Activity, pH, and Dissolved Oxygen in Beer: articles/water-activity-ph-and-dissolved-oxygen-in-beer.md
+      - Water Shelf Life Science Container Leaching, Microbial Risk and: articles/water-expire-shelf-life.md
+      - What Is Skunky Beer?: articles/what-is-skunky-beer.md
+      - What is Water Activity (aw)? How Does it Impact Food Stability, S: articles/water-activity-food-stability.md
+      - References: articles/coffee-flavor-roast-level.md
+    - 🍯 Sweets & Preserves:
+      - Chocolate Shelf Life Science Fat Bloom, Sugar Bloom and Temperat: articles/chocolate-shelf-life-bloom.md
+      - Crystallized Honey Is It Spoiled or Still Good?: articles/honey-crystallization-vs-spoilage.md
+      - Frequently Asked Questions About Dried Dates: articles/dried-dates-shelf-life-storage.md
+      - Food Date Labels Explained Best Before, Use By, Sell By — What T: articles/food-date-labels-explained.md
+      - Honey Shelf Life Science Osmotic Preservation, Crystallization a: articles/honey-shelf-life-forever-storage.md
+      - Sugar and Salt Why These Never Really Expire: articles/sugar-salt-never-expire.md
+      - The Glucose Oxidase Effect Honey’s Natural Preservative: articles/glucose-oxidase-honey-preservative.md
+      - Why Honey Never Expires The Science of Osmotic Preservation: articles/honey-forever-osmotic-preservation.md
+  - About: about.md
+  - FAQ: faq.md
+  - Glossary: food-science-glossary.md
+  - Resources: resources.md
+  - Tools: tools-dotheygobad.md
+  - Contact: contact.md
+  - More:
+    - About DoTheyGoBad: about-dotheygobad.md
+    - Editorial Principles: editorial-principles.md
+    - Author Profile: author-profile.md
+    - NRV Calculator: nrv-calculator.md
+    - Water Safety Calculator: water-safety-risk-calculator.md
+    - Water Science: articles/water.md
+    - HTML Sitemap: html-sitemap.md
+    - Privacy Policy: privacy-policy.md
+    - Terms of Use: terms-of-use.md
+    - Disclaimer: disclaimer.md
+    - AI Resources: resource-llms-txt.md

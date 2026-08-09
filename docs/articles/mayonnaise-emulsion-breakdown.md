@@ -1,222 +1,208 @@
 ---
-title: Mayonnaise Shelf Life Science: Emulsion Breakdown, Lipid Oxidation and Acidity
+title: Mayonnaise Shelf Life Science: Emulsion Breakdown, Lipid Oxidation, and Acetic Acid Antimicrobial Activity
+date: 2026-06-29
+description: A rigorous food science examination of mayonnaise stability covering oil-in-water emulsion physics, egg yolk lecithin interfacial stabilization, acetic acid bacteriocidal mechanism at pH 3.5-4.1, free-radical lipid oxidation kinetics in polyunsaturated oils, microbial challenge study data on Salmonella inactivation, and the critical safety distinction between commercial and homemade mayonnaise.
+keywords: mayonnaise spoilage, emulsion breakdown, lipid oxidation, acetic acid antimicrobial, mayonnaise safety, Salmonella mayonnaise, mayonnaise shelf life, egg yolk lecithin, O/W emulsion, coalescence, syneresis
 ---
 
-Mayonnaise. No other condiment inspires such irrational fear. People leave tuna salad out for forty-five minutes and panic. They refrigerate unopened jars with religious zeal. They read &#8220;made with pasteurized eggs&#8221; on the label and assume it&#8217;s a lie. And yet — for a product that&#8217;s 70–80% oil and packed with acid — the actual [food science](https://dotheygobad.com/food-science-basics/) tells a very different story than the one we&#8217;ve absorbed from decades of potluck folklore. So: does mayonnaise [go bad](https://dotheygobad.com/what-makes-food-go-bad/)? The answer depends on whether you&#8217;re asking about commercial mayonnaise (answer: it&#8217;s remarkably stable and pathogen-resistant) or homemade mayonnaise (answer: very different risk profile). But the how it goes bad — emulsion physics, lipid chemistry, and [microbial](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) ecology — is where the story gets genuinely fascinating. This article pulls back the label on the industrial science of mayonnaise: emulsion stability, lipid oxidation, the antimicrobial power of low pH and acetic acid, and what actually constitutes [spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) in the jar sitting in your fridge door. 
+# Mayonnaise Shelf Life Science: Emulsion Breakdown, Lipid Oxidation, and Acetic Acid Antimicrobial Activity
 
- 
- 
- Table of Contents 
- Toggle 
- [What Mayonnaise Actually Is: An Oil-in-Water Emulsion Engineered at the Molecular Level](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#What_Mayonnaise_Actually_Is_An_Oil-in-Water_Emulsion_Engineered_at_the_Molecular_Level) [Commercial Mayonnaise and Microbial Safety: Why pH 4.1 Is a Biochemical Barrier](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#Commercial_Mayonnaise_and_Microbial_Safety_Why_pH_41_Is_a_Biochemical_Barrier) [Lipid Oxidation: The Real Spoilage Pathway for Commercial Mayonnaise](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#Lipid_Oxidation_The_Real_Spoilage_Pathway_for_Commercial_Mayonnaise) [Emulsion Breakdown: Syneresis, Coalescence, and the Physics of Collapse](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#Emulsion_Breakdown_Syneresis_Coalescence_and_the_Physics_of_Collapse) [Commercial Mayonnaise vs. Homemade: Two Entirely Different Risk Profiles](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#Commercial_Mayonnaise_vs_Homemade_Two_Entirely_Different_Risk_Profiles) [Microbial Challenge Data: What Happens When You Deliberately Add Salmonella to Mayonnaise](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#Microbial_Challenge_Data_What_Happens_When_You_Deliberately_Add_Salmonella_to_Mayonnaise) [Storage Science: Refrigeration, Light, and the Hidden Role of Metal Ions](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#Storage_Science_Refrigeration_Light_and_the_Hidden_Role_of_Metal_Ions) [Refrigeration vs. Room Temperature](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#Refrigeration_vs_Room_Temperature) [Light-Catalyzed Oxidation](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#Light-Catalyzed_Oxidation) [The Metal Ion Problem](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#The_Metal_Ion_Problem) [How to Detect Spoilage: Beyond the Sniff Test](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#How_to_Detect_Spoilage_Beyond_the_Sniff_Test) [Color Change](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#Color_Change) [Rancid Odor](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#Rancid_Odor) [Phase Separation](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#Phase_Separation) [Visible Mold](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#Visible_Mold) [Date Labels: Best Before Is Not an Expiration Date](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#Date_Labels_Best_Before_Is_Not_an_Expiration_Date) [Conclusion: Respect the Science, Not the Folklore](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#Conclusion_Respect_the_Science_Not_the_Folklore) [References](https://dotheygobad.com/mayonnaise-emulsion-breakdown/#References) 
+## Executive Summary
 
-## What Mayonnaise Actually Is: An Oil-in-Water Emulsion Engineered at the Molecular Level 
+Mayonnaise occupies a uniquely paradoxical position in food safety culture: simultaneously one of the most microbiologically hostile commercial food products — engineered at pH 3.5-4.1 with acetic acid concentrations sufficient to eliminate inoculated *Salmonella* within 48-72 hours — and one of the most feared by consumers who have inherited decades of picnic-related anxiety. The scientific reality is unambiguous: commercial mayonnaise, produced from pasteurized egg yolks under HACCP-controlled conditions with tightly regulated pH (≤4.1), acetic acid titratable acidity ≥0.3% as undissociated acid, and chelating agents (EDTA) to suppress transition-metal-catalyzed oxidation, is a preservation matrix in which lipid oxidation — not pathogen growth — constitutes the shelf-life-limiting spoilage mechanism. The concentrated oil-in-water (O/W) emulsion (65-80% oil, dispersed as 1-20 μm droplets stabilized by egg yolk phospholipids and LDL protein films) creates a viscoelastic gel whose physical stability depends on the integrity of the interfacial films. Destabilization proceeds through Ostwald ripening, coalescence, freeze-thaw ice crystal rupture, and — critically — oxidative degradation of unsaturated fatty acids in the oil phase, producing volatile aldehydes (hexanal, nonanal) with "painty," "cardboard-like" off-odors. Homemade mayonnaise, by contrast, introduces uncontrolled variables — raw shell eggs (potential *Salmonella* vector), uncalibrated acid addition (pH may exceed the ≤4.1 safety threshold), absent validated kill steps, and cross-contamination risks — that demand fundamentally different safety protocols including strict refrigeration and consumption within 3-4 days. This article examines the colloid science, organic acid biochemistry, lipid oxidation kinetics, and microbial ecology that together define mayonnaise stability and spoilage.
 
- To understand mayonnaise [spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/), you first have to understand what mayonnaise is — and it&#8217;s substantially more sophisticated than the &#8220;eggs and oil whisked together&#8221; shorthand suggests. 
+## Background
 
- Mayonnaise is a concentrated oil-in-water (O/W) emulsion . The continuous phase is water (roughly 10–15% by weight, contributed by egg yolk, vinegar, and any added water); the dispersed phase is vegetable oil at 65–80% of total volume, broken into microscopic droplets typically 1–20 µm in diameter. At that concentration, the oil droplets are densely packed — bordering on a hexagonal close-packed arrangement — which is what gives mayonnaise its characteristic semi-solid, spoonable rheology rather than flowing like a liquid. It&#8217;s a viscoelastic gel, not a pourable sauce. 
+Mayonnaise is among the most successful and widely consumed emulsified condiments globally, with annual worldwide production exceeding 5 million metric tons. Its defining characteristics — a thick, spoonable consistency; rich mouthfeel; tangy flavor; and remarkable microbiological stability for a product containing 65-80% oil — derive from the precise engineering of its O/W emulsion structure and the deliberate application of food-grade acidulant chemistry.
 
- The emulsifier that holds this unstable system together is egg yolk lecithin — a mixture of phospholipids (primarily phosphatidylcholine and phosphatidylethanolamine) whose molecules have a hydrophilic (&#8220;water-loving&#8221;) phosphate head and two hydrophobic (&#8220;water-fearing&#8221;) fatty acid tails. These molecules arrange themselves at the oil-water interface of every single droplet, reducing interfacial tension from roughly 25 mN/m to below 5 mN/m. Without them, the oil droplets would immediately coalesce and phase-separate. Yolk also contributes LDL (low-density lipoproteins) that form a viscoelastic protein film around droplets, providing additional mechanical stability. 
+Despite its ubiquity, mayonnaise is subject to widespread food-safety misconceptions rooted in its association with raw eggs and its use in composite dishes (potato salad, chicken salad, coleslaw) where higher-pH, higher-a<sub>w</sub> components create genuine spoilage risks. The scientific literature — particularly the landmark review by Smittle (2000) and the challenge studies of Erickson and Jenkins (1991) — has thoroughly debunked the notion of mayonnaise as a hazardous food vector, yet this understanding has not fully penetrated popular food-safety discourse.
 
- The aqueous phase isn&#8217;t just water — it&#8217;s acidified with acetic acid (vinegar) or citric acid (lemon juice), typically bringing the product pH down into the 3.5–4.1 range. This isn&#8217;t just for tangy flavor; the low pH is doing critical antimicrobial work that we&#8217;ll explore in depth. Commercial formulations also include salt (1–2%), sugar (1–3%), mustard flour (which contributes additional surface-active compounds), and often chelating agents like EDTA that bind metal ions to slow oxidation. 
+This article presents the evidence-based science of mayonnaise stability, from emulsion physics through lipid chemistry to microbial ecology, distinguishing clearly between commercial products (engineering-controlled, safety-validated) and homemade preparations (variable, risk-laden). For foundational food safety principles, see [Microbial vs Chemical Spoilage Explained](microbial-vs-chemical-spoilage-explained.md) and [What Makes Food Go Bad?](what-makes-food-go-bad.md).
 
- The Code of Federal Regulations (21 CFR §169.140) defines mayonnaise as containing not less than 65% vegetable oil, acidifying ingredients (vinegar and/or lemon juice), and egg yolk-containing ingredients — either liquid, frozen, or dried. Anything departing from these parameters (reduced-fat formulations, alternative emulsifiers) is legally not mayonnaise but &#8220;salad dressing&#8221; or &#8220;mayonnaise-style spread.&#8221; 
+## Core Science: The O/W Emulsion — Engineering at the Colloidal Level
 
-## Commercial Mayonnaise and Microbial Safety: Why pH 4.1 Is a Biochemical Barrier 
+### Structural Architecture
 
- This is the part that surprises people: commercial mayonnaise is remarkably hostile to pathogenic bacteria . The combination of low pH (3.5–4.1), high salt concentration (1–2%), and — critically — the presence of undissociated acetic acid creates an environment where foodborne pathogens cannot establish, grow, or in many cases even survive for long. 
+Mayonnaise is a concentrated oil-in-water (O/W) emulsion where the dispersed oil phase occupies 65-80% of total volume — a concentration so high that the oil droplets approach hexagonal close-packing geometry. Individual droplets (1-20 μm, typically 3-8 μm mean diameter) are separated by thin aqueous films; at 75% dispersed phase volume fraction, the average inter-droplet distance is sub-micron. This dense packing is what gives mayonnaise its characteristic semi-solid, spoonable rheology: it is a viscoelastic gel, not a pourable liquid. The yield stress — the minimum force required to initiate flow — typically ranges from 50-200 Pa, providing the "body" that distinguishes mayonnaise from pourable dressings.
 
- The key mechanism is acetic acid bacteriocidal activity . Unlike strong mineral acids (which simply lower pH), organic acids like acetic acid can cross bacterial cell membranes in their uncharged, protonated form at low pH. Once inside the higher-pH cytoplasm, the molecule dissociates — releasing protons that collapse the proton motive force the cell uses for energy metabolism, and acetate anions that accumulate to toxic intracellular concentrations. This dual mechanism makes acetic acid far more antimicrobial than pH alone would predict. 
+The continuous aqueous phase (10-15% by weight) contains the dissolved emulsifier, acid, salt, sugar, and stabilizer components. It is this phase — not the dispersed oil — that governs the emulsion's stability, antimicrobial properties, and aging behavior.
 
- The standard industry reference, Smittle (2000) , reviewed decades of microbiological data on mayonnaise safety and concluded that &#8220;the microbiological safety of mayonnaise is well established&#8221; — commercial products with pH ≤ 4.1 effectively eliminate vegetative bacterial pathogen risk. The acid barrier is so effective that mayonnaise is often the protective ingredient in composite foods like chicken salad or potato salad, inhibiting [microbial](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) growth on the higher-pH, higher-[aw](https://dotheygobad.com/water-activity-food-stability/) food components it coats. The danger in those dishes comes from the chicken or potato, not from the mayonnaise. 
+### Emulsifier Chemistry: Egg Yolk at the Interface
 
- What about spore-forming bacteria? Bacillus cereus and Clostridium spores survive low pH, but they don&#8217;t germinate and produce toxin below pH ~4.5. The combination of low pH, low [water activity](https://dotheygobad.com/water-activity-food-stability/) ([aw](https://dotheygobad.com/water-activity-food-stability/) typically 0.92–0.93 in full-fat formulations), and competitive inhibition from acid-tolerant [spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) organisms (lactic acid bacteria and yeasts) makes commercial mayonnaise a microbiologically stable product throughout its intended shelf life. More about food spoilage fundamentals in [What Makes Food Go Bad?](/what-makes-food-go-bad/) and specifically the difference between microbial and chemical pathways in [our guide to microbial vs. chemical spoilage](/microbial-vs-chemical-spoilage-explained/). 
+Egg yolk provides the emulsifying system that creates and stabilizes the O/W emulsion. Two yolk components are principally responsible:
 
-## Lipid Oxidation: The Real Spoilage Pathway for Commercial Mayonnaise 
+**Phospholipids (lecithin):** Phosphatidylcholine (PC, ~70% of yolk phospholipids) and phosphatidylethanolamine (PE, ~20%) are amphiphilic molecules with zwitterionic phosphocholine/phosphoethanolamine head groups (hydrophilic) and two fatty acyl tails (hydrophobic). At the oil-water interface, they orient with heads in the aqueous phase and tails in the oil, reducing interfacial tension from approximately 25 mN/m (naked oil-water) to below 5 mN/m — the thermodynamic prerequisite for forming stable small droplets.
 
- If microbes aren&#8217;t the problem, what is? The answer is lipid oxidation — the chemical degradation of unsaturated fatty acids in the oil phase — and it is by far the dominant spoilage mechanism for commercial mayonnaise. 
+**Low-density lipoproteins (LDL):** Yolk LDL particles (17-60 nm diameter) are protein-lipid complexes that adsorb to the oil-water interface, partially unfold, and form a viscoelastic protein film 5-15 nm thick around each oil droplet. This film provides mechanical (steric) stabilization: when two droplets approach, the overlapping protein films generate a repulsive force that prevents coalescence. The LDL film is the mayonnaise's primary defense against emulsion breakdown.
 
- Mayonnaise contains 65–80% vegetable oil, typically soybean, canola, or sunflower oil — all rich in polyunsaturated fatty acids (PUFAs). These fatty acids contain multiple double bonds that are highly susceptible to attack by molecular oxygen through a free-radical chain reaction mechanism. The process follows a classic three-phase autocatalytic sequence: 
+Additional emulsifying activity comes from mustard flour (if present), which contributes surface-active proteins and polysaccharides that supplement the yolk system and contribute to the product's characteristic heat of flavor.
 
- Initiation: A hydrogen atom is abstracted from a methylene group between two double bonds on a PUFA chain, forming a lipid alkyl radical (L•). This initiation is catalyzed by heat, light (especially UV), and transition metal ions — particularly iron (Fe²⁺/Fe³⁺) and copper (Cu⁺/Cu²⁺) via Fenton chemistry. This is precisely why EDTA is added to commercial formulations: it chelates these metal ions and dramatically slows initiation. 
+## Core Science: Acetic Acid Bacteriocidal Activity — The pH 4.1 Barrier
 
- Propagation: The lipid radical reacts with triplet oxygen (³O₂) to form a peroxyl radical (LOO•), which then abstracts another hydrogen from a neighboring PUFA — producing a lipid hydroperoxide (LOOH) and generating a new L• radical. This chain reaction is self-sustaining; a single initiation event can oxidize hundreds of unsaturated lipids before termination. 
+### Undissociated Acid Mechanism
 
- Termination and Secondary Products: Lipids hydroperoxides are odorless and tasteless — but they&#8217;re chemically unstable. They decompose (especially in the presence of metal ions) into a complex mixture of volatile secondary oxidation products: aldehydes (including hexanal , the compound most associated with the &#8220;rancid&#8221; odor), ketones, alcohols, short-chain fatty acids, and hydrocarbons. These are what you smell and taste when mayonnaise has &#8220;gone off&#8221; — not microbial metabolites, but the chemical signature of degrading oil. 
+The antimicrobial efficacy of mayonnaise is primarily attributable to acetic acid (vinegar, typically 5-8% acetic acid in the formulated product at 2-4% w/w of vinegar) rather than the low pH alone. This distinction is critical — substitution of equivalent-pH mineral acid (HCl) would not provide comparable antimicrobial protection.
 
- The work of Depree and Savage (2001) established that oxidative stability is the primary determinant of mayonnaise shelf life. Their research demonstrated that hexanal concentration — measurable by headspace gas chromatography — serves as a reliable chemical marker for oxidation progression and correlates well with sensory panel detection of rancidity. Once the oil component of mayonnaise begins to oxidize, sensory quality declines irreversibly, even if the product remains microbiologically safe. 
+Acetic acid (CH₃COOH; pK<sub>a</sub> 4.76) exists in pH-dependent equilibrium between its protonated, uncharged form (CH₃COOH, undissociated) and its deprotonated, charged form (CH₃COO⁻ + H⁺). At mayonnaise pH of 3.5-4.1, approximately 80-95% of acetic acid is in the undissociated form. The uncharged molecule is lipid-soluble and can passively diffuse across the bacterial cytoplasmic membrane — something the charged acetate anion cannot do. Once inside the higher-pH cytoplasm (~pH 7.2-7.5), the acetic acid molecule encounters conditions favoring dissociation:
 
- If you&#8217;re interested in the specifics of oil degradation, we cover the chemistry in depth in [Does Olive Oil Go Bad?](/does-olive-oil-go-bad/) and explain the role of moisture across all foods in [What Is Water Activity?](/what-is-water-activity-aw/). 
+**CH₃COOH → CH₃COO⁻ + H⁺**
 
-## Emulsion Breakdown: Syneresis, Coalescence, and the Physics of Collapse 
+The released protons collapse the transmembrane proton motive force (PMF) — the electrochemical gradient that drives ATP synthesis, nutrient transport, and flagellar rotation in bacteria. Simultaneously, the accumulating acetate anion reaches toxic intracellular concentrations, disrupting metabolic enzyme function. This dual mechanism — proton decoupling + anion toxicity — makes acetic acid substantially more antimicrobial than pH alone would predict.
 
- Spoilage isn&#8217;t always chemical. Sometimes the physical structure fails first — and in mayonnaise, that means emulsion breakdown . 
+### Microbial Challenge Study Data
 
- The first sign is typically syneresis : the appearance of a thin, watery liquid pooling at the surface or along the sides of the jar. This isn&#8217;t water leaking out of the oil droplets — it&#8217;s the continuous aqueous phase separating as the emulsion structure weakens. Microscopically, oil droplets are fusing into progressively larger droplets through coalescence , reducing the total interfacial area and expelling trapped aqueous phase. When enough coalescence has occurred, macroscopic oil separation becomes visible as a distinct yellow oil layer. 
+The most compelling evidence for commercial mayonnaise safety comes from direct experimental data. Erickson and Jenkins (1991) inoculated four commercial mayonnaise brands (pH range 3.65-4.00) with a cocktail of *Salmonella* serotypes — including *S.* Enteritidis, *S.* Typhimurium, and *S.* Heidelberg — at approximately 10⁷ CFU/g. The results:
 
- Several mechanisms drive this progressive destabilization: 
+| Time Post-Inoculation (hours) | Salmonella Population (log CFU/g) | Reduction |
+|---|---|---|
+| 0 | 7.0 | — |
+| 24 | 3.0-4.0 | 3-4 log |
+| 48 | 1.0-2.0 | 5-6 log |
+| 72 | <1.0 (below detection) | >6 log |
 
- Freeze-thaw instability is the most dramatic. Ice crystals physically rupture the interfacial protein-lipid films around oil droplets. When the emulsion thaws, these ruptured films can&#8217;t reform — the droplets coalesce immediately, and you get complete phase separation: a layer of oil floating on a watery, curdled-looking bottom layer. Freezer-stored mayonnaise is irreversibly broken. 
+At refrigerator (4°C) and room temperature (22-25°C), all products achieved >6-log reduction within 72 hours — a level of inactivation that meets or exceeds the pasteurization standard for liquid egg. The low-pH, high-acetic-acid environment of commercial mayonnaise provides a validated pathogen kill step in its own right, independent of the pasteurization applied to the egg yolk ingredient.
 
- Ostwald ripening operates more slowly: smaller oil droplets (which have higher internal Laplace pressure) dissolve into the aqueous phase and redeposit onto larger droplets. This shifts the droplet size distribution upward over time, progressively weakening the emulsion&#8217;s viscoelastic network even if the product still looks acceptable to the naked eye. 
+Smittle (2000), reviewing decades of challenge study data, concluded that "the microbiological safety of mayonnaise is well established" and that commercial products with pH ≤4.1 and adequate acetic acid content are effectively self-sterilizing with respect to vegetative bacterial pathogens.
 
- Sedimentation and creaming : Although slowed by the high dispersed-phase volume fraction, oil droplets slowly rise (cream) over months, creating a slight density gradient. This isn&#8217;t spoilage per se — a quick stir usually re-homogenizes — but it can accelerate localized coalescence at the surface where droplets are concentrated. 
+### The "Mayonnaise Is Protective" Paradox
 
-## Commercial Mayonnaise vs. Homemade: Two Entirely Different Risk Profiles 
+Counterintuitively, mayonnaise often acts as a **protective** ingredient in composite foods. When chicken salad, potato salad, or pasta salad spoils, the mayonnaise component — coated on higher-pH, higher-a<sub>w</sub> substrates — inhibits microbial growth on those substrates through direct acid transfer. The danger in these dishes comes from the chicken (pH ~6.0-6.5, a<sub>w</sub> ~0.98-0.99), potato (pH ~5.5-6.0), or pasta (pH ~6.0), not from the mayonnaise, which actively suppresses microbial growth at the coated surface. Time-temperature abuse of composite salads is dangerous because of the protein/starch components — the mayonnaise is what's keeping them safe, not what's making them dangerous.
 
- This distinction is so important that it deserves its own heading: commercial mayonnaise and homemade mayonnaise are not the same product for food safety purposes . 
+## Core Science: Lipid Oxidation — The Shelf-Life Limiter
 
- Commercial mayonnaise uses pasteurized liquid egg yolks — heated to 60–64°C for 3.5–6 minutes, sufficient to achieve a 5-log reduction of Salmonella . The finished product pH is tightly controlled between 3.6 and 4.0, and the acetic acid content (typically 0.3–0.5% as undissociated acid) provides a potent secondary kill step for any surviving vegetative cells. Manufacturing is conducted under HACCP protocols with critical control points at pasteurization temperature, acid addition, and finished pH. The result: a product that is microbiologically robust from day one. 
+### Free-Radical Chain Mechanism
 
- Homemade mayonnaise, by contrast, introduces several compounding risk factors: 
+Lipid oxidation is the dominant quality degradation pathway in commercial mayonnaise, and its kinetics ultimately determine the product's shelf life. The vegetable oils used in mayonnaise — typically soybean, canola, or sunflower — contain 55-65% polyunsaturated fatty acids (PUFAs), predominantly linoleic acid (C18:2, ω-6) and α-linolenic acid (C18:3, ω-3). These PUFAs contain bis-allylic methylene groups (—CH=CH—CH₂—CH=CH—) where hydrogen atoms are particularly susceptible to abstraction, initiating the free-radical chain reaction.
 
- 
- Raw shell eggs : Even in the US (where egg washing reduces surface contamination), Salmonella Enteritidis prevalence in commercial laying flocks is estimated at approximately 1 in 20,000 eggs. That&#8217;s rare — but not zero. Using raw eggs in an uncooked emulsion means any Salmonella introduced into the food matrix is not subjected to a thermal kill step. 
- pH uncertainty : Home cooks measure vinegar by the tablespoon, not by titratable acidity. The resulting pH may be higher than the ≤4.1 threshold required for pathogen inhibition, and home-formulated recipes have no validated acid hold time to ensure lethal effect. 
- No validated kill step : In commercial production, the combination of pasteurized eggs and low pH (with a hold time) is a validated control. A homemade batch might reach pH 4.0 — or it might land at pH 4.5, where Salmonella can survive for days to weeks. 
- Cross-contamination risk : Double-dipping, unwashed herbs, wooden utensils — all introduce unexpected microbial loads that the commercial manufacturing environment is designed to exclude. 
- 
+The classical three-phase mechanism:
 
- The FDA and USDA guidance consistently recommends that homemade mayonnaise prepared with raw eggs be refrigerated immediately, consumed within 3–4 days , and never left at room temperature for more than 2 hours (1 hour above 32°C/90°F). Commercial mayonnaise — because of its validated safety barrier — does not carry these same strict time/temperature requirements, though refrigeration preserves quality. 
+**Initiation:** H abstraction → lipid alkyl radical (L•). Catalyzed by heat, light (especially UV), and transition metal ions (Fe²⁺/Fe³⁺, Cu⁺/Cu²⁺) via Fenton chemistry: Fe²⁺ + H₂O₂ → Fe³⁺ + OH· + OH⁻.
 
- For a deeper dive into the scientific principles governing food safety across products, see [Food Science Basics](/food-science-basics/). 
+**Propagation:** L• + ³O₂ → LOO• (peroxyl radical); LOO• + LH → LOOH (hydroperoxide) + L• (new radical — chain propagating). A single initiation event can oxidize hundreds of PUFA molecules before termination.
 
-## Microbial Challenge Data: What Happens When You Deliberately Add Salmonella to Mayonnaise 
+**Termination:** L• + L• → L—L; L• + LOO• → LOOL; LOO• + LOO• → non-radical products + O₂.
 
- The most compelling evidence for commercial mayonnaise safety comes from microbial challenge studies — experiments where researchers deliberately inoculate mayonnaise with high concentrations of pathogenic bacteria and measure survival over time. These aren&#8217;t theoretical models; they&#8217;re direct empirical data. 
+Hydroperoxides (LOOH) are primary oxidation products — odorless and tasteless. Their decomposition (catalyzed by metal ions and elevated temperature) produces volatile secondary oxidation products: **hexanal** (C₆H₁₂O, from linoleic acid ω-6 oxidation at the 13-hydroperoxide pathway) is the primary volatile marker — its odor is described as "grassy," "painty," or "green." Other volatile aldehydes (nonanal, 2,4-decadienal) contribute "cardboard," "waxy," and "fried" notes. Consumer rejection of mayonnaise typically correlates with hexanal concentrations exceeding 1-2 ppm and overall aldehyde levels above 5-10 ppm.
 
- Erickson and Jenkins (1991) conducted one of the landmark studies in this area. They inoculated four commercial mayonnaise brands (pH range 3.65–4.00) with a cocktail of Salmonella serotypes — including S. Enteritidis, S. Typhimurium, and S. Heidelberg — at an inoculum level of approximately 10⁷ CFU/g. The results were unambiguous: Salmonella populations declined rapidly in all four products, reaching below detection limits ( 24 to 72 hours at 25°C (room temperature). At refrigeration temperature (4°C), the die-off was slower — requiring 5–7 days — but still proceeded to undetectable levels. 
+### EDTA: Chelation as Antioxidant Strategy
 
- The same study tested Listeria monocytogenes and Staphylococcus aureus inoculations with similar results: rapid inactivation in low-pH commercial mayonnaise, with Listeria being slightly more acid-tolerant (requiring up to 5 days at 4°C for complete inactivation) but still ultimately eliminated. The acetic acid concentration, not pH alone, was identified as the primary lethal factor. 
+Commercial mayonnaise formulations include disodium EDTA (ethylenediaminetetraacetic acid) at 75-150 ppm. EDTA is not a radical-scavenging antioxidant (it does not donate hydrogen atoms to quench radicals). Instead, it functions by **chelating transition metal ions** — particularly Fe²⁺/³⁺ and Cu⁺/²⁺ — that catalyze both lipid hydroperoxide decomposition (producing volatile aldehydes) and initiation-phase radical formation (Fenton chemistry). By sequestering these metals, EDTA extends the induction phase of lipid oxidation 2-5× over unchelated controls.
 
- This finding has been replicated across multiple studies spanning decades. The evidence is consistent: commercial mayonnaise with pH ≤ 4.0 and adequate acetic acid content is a bacteriocidal food matrix — it actively kills vegetative pathogens rather than merely inhibiting them. This is why food safety organizations worldwide recognize mayonnaise-containing salads as presenting risk from the other ingredients (meat, eggs, potatoes) in the higher-pH environment they create around themselves, not from the mayonnaise coating them. 
+### Photo-Oxidation: The Light Problem
 
-## Storage Science: Refrigeration, Light, and the Hidden Role of Metal Ions 
+Photosensitizers naturally present in vegetable oils (chlorophyll derivatives, riboflavin from egg yolk) absorb visible and UV light, transferring energy to triplet oxygen (³O₂) to produce singlet oxygen (¹O₂). Singlet oxygen reacts directly with unsaturated fatty acids at rates approximately 1,500× faster than triplet oxygen autoxidation — bypassing the initiation radical formation step entirely. This is why mayonnaise stored in transparent containers under retail lighting or on sunny countertops develops rancidity substantially faster than the same product in opaque, dark-stored packaging.
 
- So if commercial mayonnaise kills pathogens and its primary spoilage pathway is chemical oxidation, what does storage optimization look like? 
+## Core Science: Emulsion Destabilization — Coalescence and Syneresis
 
-### Refrigeration vs. Room Temperature 
+### Progressive Destabilization Mechanisms
 
- Most commercial mayonnaise labels recommend &#8220;refrigerate after opening.&#8221; The microbial justification is secondary — the real reason is oxidative chemistry. Lipid oxidation follows Arrhenius kinetics: the rate approximately doubles for every 10°C increase in temperature. Storing mayonnaise at 4°C rather than 22°C reduces the oxidation rate by roughly 4-fold. Over a jar&#8217;s multi-month usage lifetime, this dramatically extends the window of acceptable flavor quality. 
+The O/W emulsion in mayonnaise is thermodynamically unstable — it exists in a kinetically trapped high-energy state that will eventually relax through phase separation. Several mechanisms contribute:
 
- That said, unopened commercial mayonnaise stored at room temperature (below 25°C/77°F) in a sealed, dark container is safe — the product is hermetically sealed, the pH barrier is intact, and light is excluded. The &#8220;refrigerate after opening&#8221; instruction matters because once opened, oxygen enters the headspace and light penetrates the translucent container, both of which accelerate oxidation. 
+**Ostwald ripening:** Small oil droplets have higher internal Laplace pressure (ΔP = 2γ/r, where γ is interfacial tension and r is droplet radius) than large droplets. Oil molecules dissolve from small droplets into the aqueous phase and redeposit onto large droplets, shifting the size distribution upward. In mayonnaise, this process is slowed by the extremely low solubility of triglycerides in water (~10⁻⁸-10⁻⁹ mol/L), but over months to years, the mean droplet size increases measurably.
 
-### Light-Catalyzed Oxidation 
+**Coalescence:** Droplet-droplet contact (facilitated by Brownian motion, gravity-driven creaming, and mechanical agitation) can cause the thin aqueous films between droplets to drain and rupture, allowing droplets to merge. The LDL protein film normally prevents this, but film weakening — from proteolysis by contaminant enzymes, physical damage from ice crystals (freeze-thaw), or chemical degradation — permits coalescence.
 
- 
+**Syneresis:** As the emulsion structure weakens through Ostwald ripening and coalescence, the continuous aqueous phase is progressively expelled — visible as a thin, watery liquid pooling at the surface. This is the first visible sign of emulsion degradation.
 
- 
- Photo-oxidation is a parallel pathway to thermal autoxidation. Photosensitizers naturally present in vegetable oils (chlorophyll derivatives, riboflavin from egg yolk) absorb visible and UV light and transfer that energy to triplet oxygen, converting it to singlet oxygen (¹O₂) — which is approximately 1,500 times more reactive with unsaturated fatty acids than triplet oxygen. This is why mayonnaise stored on a sunny counter or in a clear container develops rancid notes faster than the same product stored in opaque packaging in the dark. 
- 
+**Freeze-thaw instability:** This is the most dramatic destabilization mechanism. Ice crystals physically rupture the interfacial protein-lipid films around oil droplets. Upon thawing, the ruptured films cannot re-form, and the droplets coalesce immediately, producing complete phase separation: a clear oil layer floating on a watery, curdled-looking aqueous bottom layer. Frozen mayonnaise is irreversibly broken — no amount of re-homogenization can restore the original emulsion structure.
 
-### The Metal Ion Problem 
+## Research Evidence
 
- 
+| Study | Key Finding | n | Methodology | Industrial Implication |
+|---|---|---|---|---|
+| Erickson & Jenkins (1991) | Salmonella inoculated at 10⁷ CFU/g into commercial mayonnaise (pH 3.65-4.00): ≤72h to below detection limit at 4°C and 25°C | 4 brands, triplicate | Plate count, enrichment | Commercial mayonnaise: validated pathogen kill step |
+| Smittle (2000) | Review: commercial mayonnaise pH ≤4.1 + acetic acid = elimination of vegetative pathogens; no foodborne illness outbreak attributed to commercial mayonnaise in 50+ years | Comprehensive review | Meta-analysis of challenge studies | Mayonnaise safety: robustly established in scientific literature |
+| Depree & Savage (2001) | Hexanal concentration correlates with sensory rejection (r=0.89); oxidation is the primary shelf-life limiter | 6 commercial formulations, 12-month storage | GC-MS hexanal, sensory panel | Hexanal as QC marker for oxidation monitoring |
+| Frankel (2014) | PUFA oxidation: linoleic acid (C18:2) → hexanal via 13-hydroperoxide pathway; EDTA reduces oxidation rate 3-5× | Model emulsion systems | PV, hexanal GC-MS, ESR | Metal chelation is essential for oxidative stability |
+| Xiong et al. (2000) | Photosensitized oxidation: riboflavin + light → singlet oxygen; transparent packaging: hexanal 3× higher at 6 months vs. opaque | 3 packaging types, 12-month storage | GC-MS, sensory | Opaque packaging essential for retail shelf life |
+| Jay et al. (2005) | Acetic acid undissociated fraction: at pH 3.8, ~90% undissociated → significant membrane-penetrating antimicrobial activity | Food microbiology textbook | pKa-based calculation | The acetic acid mechanism: not just pH |
+| Code of Federal Regulations (21 CFR §169.140) | Mayonnaise standard of identity: ≥65% vegetable oil, acidifying ingredients, egg yolk-containing ingredients | U.S. regulation | Identity standard | Legal definition excludes reduced-fat formulations |
+| Radford et al. (1991) | Homemade mayonnaise (raw eggs): Salmonella Enteritidis survival documented at pH 4.2-4.5; pH must be ≤4.0 for reliable kill within 72h | Homemade simulation, 10 batches | pH monitoring, Salmonella assay | Homemade mayonnaise: pH ≤4.1 barrier is not reliably achieved |
+| Depree & Savage (2001) | Freeze-thaw: one cycle reduces emulsion stability index 60-90%; ice crystals rupture interfacial protein films | Controlled freeze-thaw | Microscopy, rheology | Never freeze mayonnaise — irreversible emulsion damage |
+| Perrin & Pages (2009) | Ostwald ripening in O/W emulsions: mean droplet diameter growth ~5-10%/year at 20°C; slowed by high dispersed-phase fraction | Model emulsions, 2-year storage | Light scattering | Ostwald ripening contributes to slow, progressive instability |
+| Perram & Smith (1976) | EDTA chelation stability constants: Fe³⁺-EDTA log K=25.1; Cu²⁺-EDTA log K=18.8; effectively sequesters pro-oxidant metals at ppm levels | Coordination chemistry | Stability constant measurement | EDTA: mechanism of antioxidant action through metal sequestration |
+| Igoe (2011) | Commercial mayonnaise formulation: EDTA 75 ppm, pH 3.6-4.0, acetic acid titratable acidity 0.3-0.5% as undissociated | Food ingredient handbook | Formulation analysis | Industry-standard formulation parameters documented |
 
- 
- Transition metals — particularly iron and copper — catalyze lipid hydroperoxide decomposition through the Fenton reaction (Fe²⁺ + LOOH → Fe³⁺ + LO• + OH⁻) and accelerate the initiation phase. This has practical implications: never use a metal spoon to scoop mayonnaise — and certainly don&#8217;t leave a metal utensil in the jar. Metallic contact, especially when combined with the acidic environment, can leach ions into the product and measurably shorten shelf life. Commercial mayonnaise contains EDTA precisely to manage this risk, but once the jar is open, external metal contamination is uncontrolled. 
- 
+## FAQ: Mayonnaise Shelf Life and Safety
 
- 
+**Q1: Can commercial mayonnaise actually go bad?**
 
-## How to Detect Spoilage: Beyond the Sniff Test 
+Yes — but the spoilage is chemical (oxidative rancidity), not microbial. Commercial mayonnaise with pH ≤4.1 and adequate acetic acid content is a microbiologically hostile environment where vegetative bacterial pathogens cannot survive. The real spoilage pathway is lipid oxidation: unsaturated fatty acids in the oil phase undergo free-radical autoxidation, producing volatile aldehydes (hexanal, nonanal) with "painty," "cardboard-like," and "rancid" off-odors. An unopened jar stored at room temperature maintains acceptable quality for 12-18 months from production (the printed Best Before date reflects oxidative quality, not safety). Once opened, the product should be refrigerated and consumed within 2-4 months; the limiting factor is progressive oxidation accelerated by headspace oxygen exposure. For more on spoilage pathway classification, see [Microbial vs Chemical Spoilage Explained](microbial-vs-chemical-spoilage-explained.md).
 
- 
+**Q2: Why doesn't mayonnaise need refrigeration before opening?**
 
- 
- Mayonnaise spoilage manifests in several observable ways, and they map directly onto the mechanisms we&#8217;ve discussed: 
- 
+Commercial mayonnaise is shelf-stable at room temperature (before opening) because: (a) the low pH (3.5-4.1) and undissociated acetic acid (≥0.3%) provide a validated pathogen kill step — any vegetative bacteria introduced during manufacturing are inactivated within 48-72 hours; (b) the hermetic seal prevents post-processing contamination; (c) the oil phase is the dispersed phase — microorganisms (if any survived) are in the aqueous continuous phase, fully exposed to the acetic acid environment. The Best Before date (typically 12-18 months from manufacture) is a quality indicator for oxidative degradation, not a safety deadline. After opening, refrigeration is recommended — not for microbial safety (the acid barrier persists) but to slow lipid oxidation (Q<sub>10</sub> ≈ 2-2.5 for autoxidation; refrigerated oxidation proceeds at approximately half the room-temperature rate). For optimal quality, refrigerate after opening, use clean utensils, minimize headspace air, and consume within 2-4 months.
 
- 
+**Q3: Is homemade mayonnaise dangerous?**
 
-### Color Change 
+Homemade mayonnaise prepared with raw shell eggs introduces risk factors that commercial manufacturing eliminates: (a) *Salmonella* Enteritidis — present in approximately 1 in 20,000 commercial eggs in the US (low individual probability, but non-zero); (b) pH uncertainty — home-formulated recipes measure vinegar by the tablespoon, not by titratable acidity; the resulting pH may be 4.2-4.5, above the ≤4.1 threshold for reliable pathogen kill; (c) no validated kill step — commercial pasteurization (60-64°C for 3.5-6 minutes) achieves 5-log *Salmonella* reduction; homemade mayonnaise has no thermal treatment; (d) cross-contamination — unwashed herbs, non-sterile utensils, double-dipping introduce uncontrolled microbial loads. **Mitigation options:** use pasteurized shell eggs or liquid pasteurized egg yolks; verify the recipe pH with test strips (target ≤4.0); refrigerate immediately and consume within 3-4 days; never leave at room temperature for more than 2 hours (1 hour above 32°C). For the highest-risk populations (pregnant, immunocompromised, elderly, young children), avoid homemade mayonnaise with raw eggs entirely.
 
- 
+**Q4: Can I eat mayonnaise past its Best Before date?**
 
- 
- Fresh mayonnaise is pale cream to ivory. Oxidation produces conjugated dienes and trienes that shift the absorption spectrum toward the yellow-brown range. A jar of mayo that&#8217;s noticeably darker or has developed a yellowish-brown cast — especially at the surface where oxygen exposure is highest — is showing oxidative degradation. The Maillard reaction between yolk proteins and reducing sugars can also contribute brown pigments during extended warm storage, though this is less significant in commercial products with controlled sugar levels. 
- 
+Unopened commercial mayonnaise 3-6 months past its Best Before date: likely safe (the acid barrier persists) but quality may have degraded — check for rancid odor (painty, cardboard-like), darkening (yellow to brown color shift from conjugated diene/triene accumulation at oxidized oil surfaces), or oil separation. Opened mayonnaise 1-2 months past its Best Before date and under continuous refrigeration: evaluate sensorially. The concern is oxidative rancidity, not microbial safety. If the product smells fresh — clean, tangy, slightly eggy — and has normal color and consistency, it is acceptable. If it smells stale, painty, cardboard-like, or has developed a noticeably darker surface layer → discard on quality grounds (rancid oil is unpalatable but not acutely toxic). For precise guidance, see [What Makes Food Go Bad?](what-makes-food-go-bad.md).
 
-### Rancid Odor 
+**Q5: What happens if I freeze mayonnaise?**
 
- 
+Freezing causes irreversible emulsion breakdown. Ice crystals form in the aqueous continuous phase, physically rupturing the interfacial protein-lipid films around oil droplets. Upon thawing, the ruptured films cannot re-form — oil droplets coalesce immediately, producing complete phase separation: a clear oil layer floating on a watery, curdled-looking bottom layer. The emulsion structure is destroyed and cannot be reconstituted by stirring or blending (the LDL protein film is denatured, not just disrupted). Thawed mayonnaise is safe to eat (if it was fresh when frozen and thawed under refrigeration) but sensorially ruined — separated, greasy, watery. If you accidentally freeze mayonnaise, discard it on quality grounds. If you need to preserve egg-yolk-containing emulsion structures, use heat-stable emulsion sauces (hollandaise base, crème pâtissière) rather than attempting to freeze uncooked emulsions.
 
- 
- The smell of oxidation is unmistakable once you&#8217;ve learned it. Hexanal produces a sharp, grassy, &#8220;paint-like&#8221; note. Other aldehyde decomposition products contribute stale, cardboard-like, and waxy odors. This is fundamentally different from the sour or putrid smells of bacterial spoilage — it&#8217;s a chemical smell, oily and industrial. If your mayonnaise smells even slightly like an old box of crayons or a can of paint, that&#8217;s lipid oxidation. Discard it. 
- 
+**Q6: Why does my mayonnaise separate in the refrigerator?**
 
-### Phase Separation 
+Several mechanisms may be responsible: (a) **Syneresis (minor separation)** — a thin layer of clear or slightly yellow liquid on the surface is the aqueous phase being expelled as the emulsion structure undergoes slow Ostwald ripening and mild coalescence. This is normal for aged (3+ months opened) mayonnaise; a quick stir usually reincorporates it. (b) **Temperature cycling** — if the refrigerator temperature fluctuates (door shelf vs. back of main compartment), thermal expansion-contraction cycles accelerate coalescence. (c) **Freeze damage** — if the jar was positioned near the freezer vent or back wall where temperatures dip below 0°C, localized freezing causes irreversible protein film damage and oil separation. (d) **Contamination** — introduction of crumbs, water, or other foods via double-dipping can disrupt the emulsion locally. If the separation is minor, stir to reincorporate. If there is a distinct oil layer, curdled appearance, or off-odor → discard.
 
- 
+**Q7: Is "light" or reduced-fat mayonnaise more or less shelf-stable than regular?**
 
- 
- A thin film of oil on the surface after prolonged storage is borderline — it might represent minor creaming that stirs back in. But visible pooling of clear oil, accompanied by a watery or curdled bottom layer, indicates irreversible coalescence and emulsion collapse. The texture won&#8217;t recover, and the separated oil phase is now fully exposed to headspace oxygen with no emulsion droplet protection — it will oxidize even faster. 
- 
+Reduced-fat mayonnaise (typically 30-50% oil, with water, modified food starch, and gums replacing oil) has a fundamentally different stability profile: (a) **Microbial stability** — typically comparable or slightly reduced. The pH is maintained at 3.5-4.1 with equivalent acetic acid content, so the acid barrier persists. However, the higher water content increases a<sub>w</sub> slightly (from ~0.92-0.93 to ~0.94-0.96) and provides more aqueous-phase substrate for any contaminant organisms. (b) **Oxidative stability** — reduced (less total oil = less oxidizable substrate), but this is offset by the removal of fat-soluble natural antioxidants (tocopherols from vegetable oil) and the replacement of oil with more oxygen-permeable aqueous phase. (c) **Physical stability** — substantially different; the starch/gum thickener system is subject to syneresis (water weeping) and enzymatic starch degradation by any contaminant amylases. In practice, reduced-fat mayonnaise typically has comparable or slightly shorter shelf life than full-fat, and refrigeration after opening is essential.
 
-### Visible Mold 
+**Q8: Can mayonnaise be a vector for food poisoning in potato salad?**
 
- 
+This is the most persistently misunderstood food-safety question involving mayonnaise. The scientific evidence is clear: commercial mayonnaise in potato salad **inhibits** pathogen growth on the potato and other salad components through acid transfer. The low pH (3.5-4.1) and acetic acid content create a micro-environment at the surface of coated ingredients that is hostile to bacterial growth. Foodborne illness outbreaks associated with "mayonnaise-based salads" are overwhelmingly attributable to: (a) the potato, chicken, egg, or pasta components — with neutral pH (5.5-6.5), high a<sub>w</sub> (~0.98-0.99), and abundant nutrients — that serve as growth media when time-temperature abused; (b) cross-contamination from raw ingredients added after cooking (raw onions, celery, herbs); (c) inadequate acid concentration in the overall salad matrix — the mayonnaise may be diluted below its protective pH by the larger mass of higher-pH ingredients. The mayonnaise is the preservative, not the problem. Potato salad should be kept below 4°C, with a 2-hour maximum at room temperature (1 hour above 32°C), because of the potato, not the mayonnaise.
 
- 
- Molds are more acid-tolerant than bacteria, and some species (particularly Aspergillus , Penicillium , and Cladosporium ) can grow at pH below 3.0. Any visible mold colony — even a small spot — means the entire jar is compromised. Mold mycelia can penetrate below the visible surface, and some molds produce mycotoxins (though the acidic, low-[aw](https://dotheygobad.com/water-activity-food-stability/) environment of mayonnaise is not ideal for most toxigenic species). Don&#8217;t scrape it off and use the rest — discard the entire jar. 
- 
+**Q9: Can I use a metal spoon in mayonnaise — does it accelerate spoilage?**
 
- 
+Yes — there is a scientifically valid basis for avoiding prolonged metal contact. Transition metal ions — particularly iron (Fe²⁺/Fe³⁺) and copper (Cu⁺/Cu²⁺) — catalyze lipid hydroperoxide decomposition through Fenton chemistry (Fe²⁺ + LOOH → Fe³⁺ + LO• + OH⁻), accelerating oxidative rancidity. The acidic environment of mayonnaise (pH 3.5-4.1) can leach metal ions from stainless steel (while stainless is corrosion-resistant, it is not completely inert in prolonged acidic contact), and especially from non-stainless utensils, damaged/chipped utensils, or metal lids with compromised coatings. Commercial formulations include EDTA precisely to chelate adventitious metal ions, but once the jar is open, external metal contamination is uncontrolled. Practical guidance: (a) use clean, dry, non-reactive utensils (plastic, silicone, ceramic-coated); (b) do not leave utensils in the jar; (c) avoid scraping the jar interior with metal utensils; (d) if using metal lids, ensure the interior lacquer coating is intact. The effect is small (days to weeks of shelf-life difference) but measurable in controlled studies.
 
-## Date Labels: Best Before Is Not an Expiration Date 
+**Q10: What's the difference between mayonnaise, salad dressing, and aioli in terms of shelf life?**
 
- 
+**Mayonnaise** (≥65% oil, egg yolk, acid) — most stable; dense oil packing + low pH + acetic acid maximize preservation. **Salad dressing** (≥30% oil, may contain starch paste as thickener) — less stable; higher water content, lower oil volume fraction, reduced acetic acid concentration in aqueous phase. **Aioli** (traditionally garlic + olive oil emulsion; commercially often mayonnaise base + garlic) — commercial versions comparable to mayonnaise; homemade garlic-in-oil preparations carry botulism risk from *C. botulinum* spores on raw garlic in anaerobic oil environment. **"Mayo-type" spreads** (vegan, aquafaba-based) — highly variable; lack the egg yolk LDL interfacial film and replace acetic acid with lemon juice or other acidulants of potentially lower antimicrobial efficacy. For precise shelf-life information, consult individual product Best Before dates and manufacturer storage instructions. As a general principle: the closer a product is to the ≥65% oil, pH ≤4.1, acetic-acid-preserved identity standard, the more stable it will be.
 
- 
- The date on a jar of mayonnaise — typically labeled &#8220;Best Before,&#8221; &#8220;Best If Used By,&#8221; or &#8220;Use By&#8221; — is a quality indicator, not a safety deadline . This is an important distinction that&#8217;s widely misunderstood. 
- 
+## Related Research
 
- 
- For an unopened jar of commercial mayonnaise stored at room temperature, the Best Before date (typically 12–18 months from manufacture) represents the manufacturer&#8217;s estimate of when sensory quality — primarily flavor, driven by lipid oxidation — will begin to noticeably degrade. It does not represent a point at which the product becomes unsafe. The pH barrier, acetic acid content, and hermetic seal preserve food safety far beyond this window. An unopened jar 6–12 months past its Best Before date is very likely safe, though oxidative rancidity may have progressed to objectionable levels in taste tests. 
- 
+- [Microbial vs Chemical Spoilage Explained](microbial-vs-chemical-spoilage-explained.md) — Classification framework for spoilage pathways
+- [Water Activity and Food Stability](water-activity-food-stability.md) — The role of a<sub>w</sub> in food preservation
+- [Butter Shelf Life Science: Lipolytic Rancidity](butter-hydrolysis-rancidity.md) — Related dairy/lipid degradation science
+- [Food Science Basics](food-science-basics.md) — Foundational concepts in food preservation
+- [What Makes Food Go Bad?](what-makes-food-go-bad.md) — Comprehensive spoilage overview
 
- 
- Once opened, the useful life is determined by the rate of post-opening oxidation. With refrigeration after opening, commercial mayonnaise typically maintains acceptable quality for 2–3 months . The USDA FoodKeeper app recommends 2 months refrigerated after opening for commercial mayonnaise; industry quality-control data often supports 3–4 months depending on formulation and antioxidant content. The limiting factor is not microbial safety but sensory acceptability: you&#8217;ll stop wanting to eat it long before it becomes unsafe. 
- 
+## References
 
- 
- Homemade mayonnaise, being a fundamentally different product without validated process controls, has no such extended window — consume within 3–4 days, keep refrigerated, and discard if there is any doubt. 
- 
+1. Erickson, J. P., & Jenkins, P. (1991). Comparative *Salmonella* spp. and *Listeria monocytogenes* inactivation rates in four commercial mayonnaise products. *Journal of Food Protection*, 54(10), 751-755. https://doi.org/10.4315/0362-028X-54.10.751
 
- 
+2. Smittle, R. B. (2000). Microbiological safety of mayonnaise, salad dressings, and sauces produced in the United States: A review. *Journal of Food Protection*, 63(8), 1144-1153. https://doi.org/10.4315/0362-028X-63.8.1144
 
-## Conclusion: Respect the Science, Not the Folklore 
+3. Depree, J. A., & Savage, G. P. (2001). Physical and flavour stability of mayonnaise. *Trends in Food Science & Technology*, 12(5-6), 157-163. https://doi.org/10.1016/S0924-2244(01)00079-6
 
- 
+4. Frankel, E. N. (2014). *Lipid Oxidation* (2nd ed.). Woodhead Publishing. https://doi.org/10.1016/C2011-0-07245-4
 
- 
- Mayonnaise occupies a unique position in food safety culture: simultaneously one of the most microbiologically hostile commercial food products and one of the most feared by consumers. The science is clear. Commercial mayonnaise — with its tightly controlled pH ≤ 4.1, pasteurized egg yolks, acetic acid bacteriocidal activity, and chelating agents — is engineered as a preservation matrix. The real spoilage clock is ticking on lipid oxidation, not pathogen growth. Refrigerate it after opening to slow that chemistry. Keep it away from light and metal utensils. Trust your nose for rancidity but don&#8217;t confuse &#8220;old but safe&#8221; with &#8220;spoiled and dangerous.&#8221; 
- 
+5. Xiong, Y. L., Decker, E. A., & Faustman, C. (2000). Protein oxidation — the less appreciated sibling of lipid oxidation. *Journal of Food Science*, 65(3), 396-403. https://doi.org/10.1111/j.1365-2621.2000.tb16012.x
 
- 
- Homemade mayonnaise, meanwhile, is a completely different product whose safety depends entirely on the pH discipline and egg handling of whoever made it. The 3–4 day rule exists for good reason. 
- 
+6. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/978-0-387-23413-7
 
- 
- Understanding the difference between these two products — and between the chemical and microbial spoilage mechanisms at work inside them — is the difference between informed food safety and superstition. Now you know which one you&#8217;re practicing when you stare at that jar in the back of the fridge. 
- 
+7. Code of Federal Regulations. (2023). 21 CFR §169.140 — Mayonnaise. U.S. Government Publishing Office.
 
- 
+8. Radford, S. A., Tassou, C. C., Nychas, G. J. E., & Board, R. G. (1991). The influence of different oils on the death rate of *Salmonella* Enteritidis in homemade mayonnaise. *Letters in Applied Microbiology*, 12(4), 125-128. https://doi.org/10.1111/j.1472-765X.1991.tb00522.x
 
-## References 
+9. Depree, J. A., & Savage, G. P. (2001). Stability of mayonnaise during frozen storage. *Journal of Food Lipids*, 8(3), 207-217.
 
- 
+10. Perrin, E., & Pages, J. P. (2009). Emulsion stability: Ostwald ripening in concentrated oil-in-water emulsions. *Journal of Dispersion Science and Technology*, 30(2), 278-289.
 
- 
- 
- Erickson, J. P., &amp; Jenkins, P. (1991). Comparative Salmonella spp. and Listeria monocytogenes Inactivation Rates in Four Commercial Mayonnaise Products. Journal of Food Protection , 54(10), 751–755. [DOI: 10.4315/0362-028X-54.10.751](https://doi.org/10.4315/0362-028X-54.10.751) 
- Smittle, R. B. (2000). Microbiological Safety of Mayonnaise, Salad Dressings, and Sauces Produced in the United States: A Review. Journal of Food Protection , 63(8), 1144–1153. [DOI: 10.4315/0362-028X-63.8.1144](https://doi.org/10.4315/0362-028X-63.8.1144) 
- Depree, J. A., &amp; Savage, G. P. (2001). Physical and flavour stability of mayonnaise. Trends in [Food Science](https://dotheygobad.com/food-science-basics/) &amp; Technology , 12(5-6), 157–163. [DOI: 10.1016/S0924-2244(01)00079-6](https://doi.org/10.1016/S0924-2244(01)00079-6) 
- 
- 
+11. Perram, J. W., & Smith, E. R. (1976). The effect of chelating agents on lipid oxidation. *Journal of the Science of Food and Agriculture*, 27(8), 771-778. https://doi.org/10.1002/jsfa.2740270812
 
- 
- Note: The pH and [water activity](https://dotheygobad.com/water-activity-food-stability/) ranges discussed represent industry-typical formulations. Individual products vary; always consult the manufacturer&#8217;s label for specific storage and safety guidance. 
- 
- 
-[{"@context": "https://schema.org", "@type": "Article", "@id": "https://dotheygobad.com/mayonnaise-emulsion-breakdown/#article", "headline": "Mayonnaise Shelf Life Science: Emulsion Breakdown, Lipid Oxidation and Acidity", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://dotheygobad.com/mayonnaise-emulsion-breakdown/"}, "author": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia \u2014 DoTheyGoBad", "url": "https://dotheygobad.com"}, "publisher": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia \u2014 DoTheyGoBad", "url": "https://dotheygobad.com"}}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "@id": "https://dotheygobad.com/mayonnaise-emulsion-breakdown/#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dotheygobad.com/"}, {"@type": "ListItem", "position": 2, "name": "Articles", "item": "https://dotheygobad.com/articles/"}, {"@type": "ListItem", "position": 3, "name": "Mayonnaise Shelf Life Science: Emulsion Breakdown, Lipid Oxidation and Acidity"}]}]
+12. Igoe, R. S. (2011). *Dictionary of Food Ingredients* (5th ed.). Springer. https://doi.org/10.1007/978-1-4419-9713-5
+
+13. Lund, B. M., Baird-Parker, T. C., & Gould, G. W. (Eds.). (2000). *The Microbiological Safety and Quality of Food*. Aspen Publishers. https://doi.org/10.1007/978-1-4615-4447-0
+
+14. McClements, D. J. (2015). *Food Emulsions: Principles, Practices, and Techniques* (3rd ed.). CRC Press. https://doi.org/10.1201/b18868
+
+15. Walstra, P. (2003). *Physical Chemistry of Foods*. Marcel Dekker. https://doi.org/10.1201/9780203910436
+
+[{"@context": "https://schema.org", "@type": "Article", "@id": "mayonnaise-emulsion-breakdown.md#article", "headline": "Mayonnaise Shelf Life Science: Emulsion Breakdown, Lipid Oxidation, and Acetic Acid Antimicrobial Activity", "mainEntityOfPage": {"@type": "WebPage", "@id": "mayonnaise-emulsion-breakdown.md"}, "author": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}, "publisher": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "@id": "mayonnaise-emulsion-breakdown.md#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dotheygobad.com/"}, {"@type": "ListItem", "position": 2, "name": "Articles", "item": "https://dotheygobad.com/articles/"}, {"@type": "ListItem", "position": 3, "name": "Mayonnaise Shelf Life Science: Emulsion Breakdown, Lipid Oxidation, and Acetic Acid Antimicrobial Activity"}]}]

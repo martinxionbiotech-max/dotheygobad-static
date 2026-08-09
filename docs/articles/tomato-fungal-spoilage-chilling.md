@@ -1,179 +1,197 @@
 ---
-title: Tomato Shelf Life Science: Fungal Spoilage, Chilling Injury and Post-Harvest
+title: "Tomato Chilling Injury & Fungal Spoilage: Postharvest Science Guide"
+date: 2026-08-07
+description: "Comprehensive postharvest science guide on tomato spoilage: chilling injury membrane biochemistry, pectolytic enzyme textural collapse, fungal infection pathways, bacterial soft rot quorum sensing, volatile flavor loss mechanisms, and evidence-based storage protocols."
+keywords: "tomato chilling injury, tomato fungal spoilage, tomato soft rot, tomato texture degradation, tomato volatile loss, tomato cold storage, tomato postharvest handling"
 ---
 
-Tomato (Solanum lycopersicum) is the most consumed fruit in the world that is culinarily treated as a vegetable, with global production exceeding 180 million metric tons. Its [spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) is a study in contrasts — a climacteric fruit whose ripening is finely controlled by ethylene, yet whose susceptibility to fungal pathogens, chilling injury, and textural collapse makes it one of the most challenging commodities for the fresh produce industry. This article examines tomato [spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) through the lens of [industrial food](https://dotheygobad.com/food-science-basics/) science, covering the major deterioration pathways from field to consumer. 
- 
- 
- Table of Contents 
- Toggle 
- 
- 
- [The Tomato&#8217;s Compositional Vulnerability](https://dotheygobad.com/tomato-fungal-spoilage-chilling/#The_Tomatos_Compositional_Vulnerability) 
- [Fungal Spoilage: The Primary Deterioration Pathway](https://dotheygobad.com/tomato-fungal-spoilage-chilling/#Fungal_Spoilage_The_Primary_Deterioration_Pathway)
- 
- [Alternaria alternata (Black Mold Rot)](https://dotheygobad.com/tomato-fungal-spoilage-chilling/#Alternaria_alternata_Black_Mold_Rot) 
- [Botrytis cinerea (Gray Mold)](https://dotheygobad.com/tomato-fungal-spoilage-chilling/#Botrytis_cinerea_Gray_Mold) 
- [Geotrichum candidum (Sour Rot)](https://dotheygobad.com/tomato-fungal-spoilage-chilling/#Geotrichum_candidum_Sour_Rot) 
- 
- 
- [Chilling Injury: The Storage Temperature Paradox](https://dotheygobad.com/tomato-fungal-spoilage-chilling/#Chilling_Injury_The_Storage_Temperature_Paradox)
- 
- [The Physiological Basis of Chilling Injury](https://dotheygobad.com/tomato-fungal-spoilage-chilling/#The_Physiological_Basis_of_Chilling_Injury) 
- 
- 
- [Textural Collapse and Cell Wall Degradation](https://dotheygobad.com/tomato-fungal-spoilage-chilling/#Textural_Collapse_and_Cell_Wall_Degradation)
- 
- [Pectin Metabolism and Wall Loosening](https://dotheygobad.com/tomato-fungal-spoilage-chilling/#Pectin_Metabolism_and_Wall_Loosening) 
- 
- 
- [Flavor Loss and Volatile Chemistry](https://dotheygobad.com/tomato-fungal-spoilage-chilling/#Flavor_Loss_and_Volatile_Chemistry)
- 
- [Key Flavor Compounds and Their Degradation](https://dotheygobad.com/tomato-fungal-spoilage-chilling/#Key_Flavor_Compounds_and_Their_Degradation) 
- 
- 
- [Ripening Stage and Shelf-Life Management](https://dotheygobad.com/tomato-fungal-spoilage-chilling/#Ripening_Stage_and_Shelf-Life_Management) 
- [Industrial Interventions and Spoilage Prevention](https://dotheygobad.com/tomato-fungal-spoilage-chilling/#Industrial_Interventions_and_Spoilage_Prevention) 
- [Conclusion: The Fragile Interface Between Quality and Spoilage](https://dotheygobad.com/tomato-fungal-spoilage-chilling/#Conclusion_The_Fragile_Interface_Between_Quality_and_Spoilage) 
- [Related Articles](https://dotheygobad.com/tomato-fungal-spoilage-chilling/#Related_Articles) 
- 
- 
- 
+# Tomato Chilling Injury and Fungal Spoilage: The Complete Postharvest Science Guide
 
-## The Tomato&#8217;s Compositional Vulnerability 
+## Executive Summary
 
- Tomatoes occupy a curious position on the [spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) spectrum. Unlike low-pH fruits (citrus, berries) that resist [microbial](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) growth, or high-starch commodities (potatoes, grains) that are metabolically stable, tomatoes combine moderate acidity with high [water activity](https://dotheygobad.com/water-activity-food-stability/) in a thin-skinned package that offers minimal physical protection: 
- 
- [Water activity](https://dotheygobad.com/water-activity-food-stability/) (a w ): 0.97–0.99 (pulp and juice). The highest end of the a w spectrum — all spoilage microorganisms can grow. 
- pH: 4.0–4.6 (ripe). This is borderline acidic — enough to inhibit some pathogens (e.g., Clostridium botulinum cannot grow below pH 4.6), but not enough to prevent spoilage fungi and acid-tolerant bacteria. 
- Cuticle thickness: 2–5 μm — one of the thinnest cuticles of any commercially significant fruit. The cuticle is the primary barrier against both water loss and pathogen entry. 
- Epidermal structure: A single layer of epidermal cells covered by a thin cuticle, with occasional stomata and microcracks that serve as entry points for pathogens. 
- 
- Understanding [what makes food go bad](https://dotheygobad.com/what-makes-food-go-bad/) in tomatoes requires acknowledging that spoilage is rarely a single process but rather an interacting cascade of physical, chemical, and biological events. The thin cuticle is the single most important design flaw — it provides minimal barrier function once ripening begins. 
- Tomatoes are vulnerable to multiple spoilage mechanisms, with fungal infection being the most economically significant. See [microbial vs chemical spoilage pathways](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) for a detailed comparison of the mechanisms affecting fresh produce. 
+The tomato (*Solanum lycopersicum* L.) exemplifies the central paradox of postharvest science: the very environmental condition — refrigeration — that most reliably extends the shelf life of other foods actively damages this fruit at the molecular level. Below 10–13°C, the tomato's cellular membranes undergo a phospholipid phase transition from liquid-crystalline to gel state, triggering an irreversible cascade of ion leakage, enzyme dysregulation, volatile flavor compound suppression, and pectin metabolism disorder. Simultaneously, at room temperature, the tomato's thin cuticle (2–5 μm), high water activity (aw ≈ 0.99), and moderate pH (4.0–4.6) render it vulnerable to a suite of fungal pathogens (*Alternaria alternata*, *Botrytis cinerea*, *Rhizopus stolonifer*, *Geotrichum candidum*) and pectinolytic bacteria (*Pectobacterium carotovorum*) that can destroy a fruit within 24–48 hours. This article provides a systematic review of the molecular mechanisms governing both temperature-mediated and pathogen-mediated tomato spoilage, synthesizes cultivar-dependent susceptibility data, and presents evidence-based storage recommendations grounded in published postharvest research.
 
-## Fungal Spoilage: The Primary Deterioration Pathway 
+## Background
 
- Fungal infection accounts for the majority of post-harvest tomato losses worldwide, with estimates of 10–30% of harvested fruit lost to fungal decay before reaching the consumer. The primary pathogens have evolved specialized strategies for infecting tomato fruit at different stages of ripeness. 
+Tomato production exceeds 180 million metric tons annually, making it the most economically significant fruit-vegetable in global agriculture. The fresh-market tomato supply chain faces a fundamental tension: the fruit's climacteric physiology requires continued metabolic activity to develop eating quality (color, flavor volatiles, sugar accumulation), but this same metabolic program simultaneously drives the senescence processes that lead to spoilage. The fruit's thin cuticle — one of the thinnest of any commercially significant fruit — provides minimal barrier function against water loss, pathogen ingress, and gas exchange. Understanding tomato spoilage requires integrating knowledge across plant physiology (ethylene signaling, cell wall metabolism), food chemistry (volatile organic compound biosynthesis, pectin biochemistry), and microbiology (fungal pathogenesis, bacterial quorum sensing) ([What Makes Food Go Bad?](what-makes-food-go-bad.md)).
 
-### Alternaria alternata (Black Mold Rot) 
+## Chilling Injury: Membrane Biochemistry of Cold Damage
 
- Alternaria alternata is the most common spoilage fungus on ripe and overripe tomatoes. It produces dark, sunken lesions that can expand to cover the entire fruit surface within 3–5 days at 25°C. 
- 
- Infection route: Direct penetration of the cuticle via appressoria, or entry through natural openings (stomata) and wounds. The fungus produces cutinase enzymes that degrade the wax and cutin layers of the cuticle. 
- Growth temperature range: 2–35°C, with optimum at 25–28°C. It grows slowly at refrigeration temperatures (4°C), making it a persistent problem in cold storage. 
- Mycotoxin production: A. alternata produces alternariol (AOH), alternariol monomethyl ether (AME), and tenuazonic acid (TeA). The European Food Safety Authority (EFSA) has established a tolerable daily intake of 0.02 μg/kg body weight for AOH. Mycotoxin accumulation is highest when temperature fluctuations occur during storage. 
- Industrial detection: UV light (365 nm) reveals Alternaria infection as yellow-green fluorescence on the fruit surface, allowing for optical sorting in packing houses. 
- 
+### The Phospholipid Phase Transition
 
-### Botrytis cinerea (Gray Mold) 
+The primary molecular event in tomato chilling injury (CI) is a thermotropic phase transition in the plasma membrane phospholipid bilayer. At physiological temperatures (12–30°C), membrane phospholipids — predominantly phosphatidylcholine (PC) and phosphatidylethanolamine (PE) with high proportions of linoleic (C18:2) and linolenic (C18:3) acyl chains — exist in the fluid liquid-crystalline (Lα) phase. This fluidity is essential for membrane protein function, selective ion permeability, and endomembrane trafficking.
 
- Botrytis cinerea is a necrotrophic fungus with an exceptionally broad host range that causes gray mold on tomato fruit, stems, and leaves. It is particularly problematic in greenhouse tomato production where humidity is high. 
- 
- Infection strategy: Conidia (spores) germinate on the fruit surface and penetrate through wounds, stomata, or directly through the cuticle using a combination of mechanical pressure and cutinase/cellulase enzymes. Botrytis can also penetrate through the stem scar (calyx attachment point) of harvested fruit. 
- Disease progression: Infected tissue becomes water-soaked and soft, then develops a gray-brown fuzzy mycelium bearing masses of conidia. The fungus produces oxalic acid, which lowers tissue pH and activates cell wall-degrading enzymes. 
- Latent infection: Botrytis can infect green fruit in the field and remain quiescent until the fruit ripens, at which point host defenses decline and the fungus resumes growth. This is why tomatoes that look perfect at harvest may develop gray mold in transit or at retail. 
- Environmental triggers: Relative humidity >93% and free water on the fruit surface are essential for infection. A single rain event near harvest can trigger infection of the entire crop. 
- 
+Below approximately 10–13°C (cultivar-dependent), the phospholipids undergo a phase transition to the ordered gel (Lβ) phase. In the gel state, acyl chain packing becomes more ordered, lateral diffusion of membrane components is severely restricted, and the membrane's selective permeability is compromised. The critical temperature for this transition depends on the fatty acid composition of the membrane: cultivars with higher proportions of unsaturated fatty acids maintain fluidity to lower temperatures and thus exhibit greater chilling tolerance.
 
-### Geotrichum candidum (Sour Rot) 
+### Cascading Consequences of Membrane Failure
 
- Sour rot is distinguishable from other fungal rots by its characteristic odor and appearance: 
- 
- Visual: A watery, soft, light-colored rot that retains the fruit shape (the skin remains intact while internal tissue liquefies). 
- Odor: A sharp, vinegary, sour smell from acetic acid production — hence the name. This distinguishes it from the earthy/musty smell of Alternaria or the geranium-like odor of Botrytis . 
- Ecology: G. candidum is primarily a wound pathogen that requires breaks in the cuticle to enter. It is commonly introduced through contaminated wash water in packing houses. 
- 
- Processing and packaging methods significantly impact tomato shelf life. For a broader understanding of post-harvest preservation, read [what makes food go bad](https://dotheygobad.com/what-makes-food-go-bad/) and [the complete guide to water activity in food preservation](https://dotheygobad.com/what-is-water-activity-aw/). 
+Once the membrane phase transition occurs, a sequence of interconnected cellular failures ensues:
 
-## Chilling Injury: The Storage Temperature Paradox 
+1. **Electrolyte Leakage (0–24 hours):** K⁺ ions, the primary osmotic solute in plant cells, leak from the cytoplasm through the damaged membrane. Simultaneously, Ca²⁺, normally maintained at submicromolar cytoplasmic concentrations by active transport, floods in from the apoplast. Electrolyte leakage rates increase 3–5 fold at 4°C compared to 13°C storage. This is the most sensitive and earliest quantifiable marker of CI.
 
- Tomatoes are chilling-sensitive fruit, with a critical threshold of approximately 10°C for mature-green fruit and 7–8°C for fully ripe fruit. Below these temperatures, chilling injury occurs — a metabolic disorder that paradoxically shortens shelf life rather than extending it. 
+2. **Reactive Oxygen Species (ROS) Burst (6–48 hours):** The membrane phase transition disables mitochondrial electron transport chain complexes, causing electrons to leak to O₂ and generating superoxide (O₂⁻•). Superoxide dismutase converts this to H₂O₂, which accumulates to phytotoxic levels. The ROS then initiate lipid peroxidation chain reactions in the already-damaged membranes, amplifying the injury through a positive feedback loop.
 
-### The Physiological Basis of Chilling Injury 
+3. **Ethylene Signaling Disruption (12–72 hours):** The ethylene receptors (ETR family), which are integral membrane proteins, lose function in the gel-phase lipid environment. This has a paradoxical effect: ethylene production may initially spike (stress ethylene from membrane damage), but normal ripening-related ethylene signaling is permanently impaired. The fruit cannot resume its developmental ripening program when returned to warm temperatures — it remains physiologically arrested.
 
- Chilling injury in tomatoes is initiated by a phase transition in the plasma membrane lipids, similar to that seen in bananas. The consequences cascade through multiple metabolic pathways: 
- 
- Membrane damage (0–24 hours at The plasma membrane undergoes a transition from liquid-crystalline to gel phase. This increases membrane permeability, causing ion leakage. Potassium (K⁺) efflux and calcium (Ca²⁺) influx activate stress signaling pathways. 
- Oxidative stress (24–72 hours): Reactive oxygen species (ROS) — superoxide (O₂⁻), hydrogen peroxide (H₂O₂), and hydroxyl radicals (·OH) — accumulate as antioxidant enzyme systems (superoxide dismutase, catalase, ascorbate peroxidase) are disrupted by cold. Lipid peroxidation damages membrane lipids, producing malondialdehyde (MDA) as a byproduct. 
- Ethylene dysregulation (72+ hours): Chilling stress causes a burst of stress ethylene from ACC accumulation. This ethylene accelerates ripening in an uncontrolled manner, leading to uneven ripening, poor color development, and rapid senescence. 
- Secondary infection: The weakened, water-soaked tissue is highly susceptible to infection by opportunistic fungi and bacteria that would be rejected by healthy tissue. 
- 
- The visual symptoms of chilling injury in tomatoes appear 3–7 days after exposure and include: 
- 
- Pitting: Small, sunken, water-soaked lesions on the fruit surface, typically 1–5 mm in diameter. These form over oil glands and lenticels. 
- Uneven ripening: Red color develops in patches, leaving green or yellow areas (&#8220;blotchy ripening&#8221;). The fruit may have a bright red exterior with a green internal locule tissue. 
- Softening: The fruit becomes excessively soft (firmness 
- Enhanced susceptibility to Alternaria: Chilled tomatoes develop black mold lesions much more readily than unchilled controls. 
- 
- For the industry, the practical guideline is straightforward: never store mature-green tomatoes below 12°C, and never store ripe tomatoes below 8°C. The common consumer practice of refrigerating tomatoes may extend visual shelf life by a few days, but at the cost of flavor, texture, and ultimately a more rapid transition to the spoiled state once returned to room temperature. 
+4. **Volatile Aroma Compound Suppression (24–96 hours):** The lipoxygenase (LOX) pathway, which converts linoleic and linolenic acids into the C6 aldehydes and alcohols (hexanal, (Z)-3-hexenal, hexanol) that constitute tomato aroma, is transcriptionally suppressed at low temperature. The *TomloxC* gene — the key isoform for fruit volatile production — shows 80–90% reduced transcript abundance after 48 hours at 4°C. Critically, this suppression is **irreversible** — volatile production capacity is not recovered upon rewarming.
 
-## Textural Collapse and Cell Wall Degradation 
+5. **Abnormal Pectin Metabolism (48+ hours):** Chilling disrupts the normally coordinated action of polygalacturonase (PG) and pectin methylesterase (PME). PME demethylates pectin (generating free carboxyl groups) without the corresponding PG activity to cleave the demethylated polymer, resulting in pectin that cross-links with Ca²⁺ abnormally — the molecular basis of the mealy, granular texture of refrigerated tomatoes.
 
- The progressive softening of tomato fruit during ripening is a programmed cell wall disassembly process. While some softening is desirable (the transition from hard green to firm ripe), the continuation of this process leads to textural spoilage — a condition where the fruit collapses under its own weight and becomes unmarketable. 
+### The Flavor Biochemistry of Cold Damage
 
-### Pectin Metabolism and Wall Loosening 
+The sensory impact of chilling injury on tomato flavor is profound and demonstrable. Tieman et al. (2017) identified 26 volatile compounds that significantly contribute to consumer liking of tomato, with C6 volatiles (hexanal, (Z)-3-hexenal) and 2-isobutylthiazole being the most important. Below 7°C, transcription of the genes encoding the LOX pathway enzymes (LOXC, HPL) is permanently downregulated. The result is a tomato that may appear visually acceptable (red coloration from lycopene is less temperature-sensitive than volatile production) but tastes like "cardboard" — a phenomenon confirmed by descriptive sensory panels that show chilled tomatoes score 40–50% lower on flavor intensity ratings compared to never-chilled controls, even after 24 hours of recovery at room temperature.
 
- Tomato fruit softening is primarily driven by the depolymerization and solubilization of pectin in the cell wall and middle lamella. The sequence of events is tightly controlled: 
- 
- Pectin methylesterase (PME): PME activity begins in the mature-green stage and continues throughout ripening. It demethylates the pectin backbone, converting high-methoxyl pectin to low-methoxyl pectin, which increases calcium binding and initial wall stiffening — but also creates the substrate for subsequent polygalacturonase attack. 
- Polygalacturonase (PG): PG2A and PG2B isoforms increase 100–500× during ripening. PG hydrolyzes the α-1,4-galacturonan backbone of pectin, causing solubilization of the wall. PG activity is the primary driver of the firm tomato → soft ripe tomato transition. 
- Expansin (Exp1): A non-enzymatic cell wall protein that disrupts hydrogen bonds between cellulose microfibrils and hemicelluloses. Expansin activity increases the accessibility of wall polymers to hydrolases. Tomato mutants lacking Exp1 are dramatically firmer than wild-type. 
- 
- In overripe and spoiled tomatoes, the cell wall has been catastrophically depolymerized. The middle lamella — the pectin-rich glue holding adjacent cells together — is completely solubilized. Individual cells lose adhesion, creating a &#8220;soup&#8221; of separated cells suspended in their own exudate. This is the waterlogged, mushy texture of a spoiled tomato — deterioration of physical structure to the point of consumer rejection, even in the absence of microbial growth. 
+## Bacterial Soft Rot: The Quorum-Sensing Pathogen
 
-## Flavor Loss and Volatile Chemistry 
+### Pectobacterium carotovorum and Enzymatic Tissue Destruction
 
- One of the most insidious aspects of tomato spoilage — and the one most often overlooked in industrial quality control — is flavor loss that occurs before any visible signs of spoilage. Tomato flavor is a complex mixture of sugars, acids, and over 30 volatile aroma compounds, many of which are produced during the climacteric and degrade rapidly thereafter. 
+While fungi dominate tomato spoilage at typical storage temperatures, bacterial soft rot caused by *Pectobacterium carotovorum* (formerly *Erwinia carotovora*) represents the most rapidly destructive spoilage pathway when conditions favor the pathogen. The bacterium's pathogenicity is entirely enzyme-mediated — it does not produce host-specific toxins but instead secretes a coordinated battery of pectinolytic enzymes that dissolve the structural polysaccharides of the tomato cell wall.
 
-### Key Flavor Compounds and Their Degradation 
+The enzyme arsenal includes:
 
- The primary aroma-active compounds in tomato and their spoilage trajectories: 
- 
- Hexanal/(E)-2-hexenal (C6 aldehydes — &#8220;green/grassy&#8221; notes): Produced via the lipoxygenase (LOX) pathway from linoleic and linolenic acids. These compounds peak at the mature-green to breaker stage and decline rapidly as the fruit ripens. In overripe fruit, they fall below sensory threshold. 
- β-Damascenone (C13 norisoprenoid — &#8220;fruity/floral&#8221; notes): Derived from carotenoid (neoxanthin) degradation. β-Damascenone concentration is highly correlated with consumer liking. It peaks at the firm-ripe stage and declines by 50–70% during the transition to overripe. 
- 6-Methyl-5-hepten-2-one (MHO — &#8220;metallic/earthy&#8221; notes): Also a carotenoid-derived volatile. MHO increases as the fruit overripens, shifting the flavor profile from fruity toward earthy/metallic — a key indicator of spoilage in sensory panels. 
- Glutamic acid (umami): The primary free amino acid in tomato, glutamic acid provides the umami taste that distinguishes tomato from other fruits. Levels peak at the red-ripe stage and decline by 30–50% during overripening, as the amino acid is metabolized by the fruit&#8217;s own enzymes and by surface microorganisms. 
- 
- The practical consequence: a tomato that passes visual inspection (no mold, no obvious damage) may already be sensorially spoiled. The industry is increasingly using volatile analysis (SPME-GC-MS or electronic nose arrays) as a non-destructive quality control tool, but these methods remain too expensive for routine use in most packing houses. 
+- **Pectate Lyase (Pel):** The primary macerating enzyme. Cleaves α-1,4-glycosidic bonds in demethylated pectate via β-elimination, producing unsaturated oligogalacturonides. Requires Ca²⁺ as a cofactor. Optimal activity at pH 8.0–9.5 — the alkaline microenvironment created by the bacterium's ammonia production from amino acid deamination during tissue colonization.
+- **Polygalacturonase (Peh):** Hydrolyzes α-1,4 bonds in pectate to produce galacturonic acid monomers. Optimal activity at pH 5.0–6.0, complementing the alkaline-optimum pectate lyase.
+- **Pectin Methylesterase (Pem):** Demethylates pectin, generating the demethylated pectate substrate required by pectate lyase.
+- **Cellulase (Cel):** Degrades cellulose microfibrils exposed after pectin removal, completing the structural dissolution of the cell wall.
 
-## Ripening Stage and Shelf-Life Management 
+The key regulatory mechanism is **quorum sensing**. *P. carotovorum* uses N-acyl homoserine lactone (AHL) signaling molecules — specifically 3-oxo-C6-HSL and 3-oxo-C8-HSL — to coordinate pectinase production. At low cell densities, AHL concentrations are below the activation threshold of the ExpR transcriptional regulator, and pectinase genes remain repressed. This prevents premature activation of virulence factors that would alert the host's defense systems. Once the bacterial population reaches a critical density (approximately 10⁷–10⁸ CFU/g tissue), AHL concentrations exceed the threshold, triggering the ExpR regulon and unleashing the full pectinolytic arsenal in a synchronized attack. This population-dependent regulation explains why bacterial soft rot can transition from undetectable to catastrophic within hours — the bacteria essentially "count" their population before launching the enzymatic assault.
 
- Tomatoes are harvested at different ripening stages depending on the intended market and supply chain duration. The six-stage USDA color classification system is the industry standard: 
- 
- Stage 1 (Green): Fruit is fully developed but entirely green. At 12–15°C with 90–95% RH, shelf life is 3–5 weeks. Ethylene treatment (100 ppm, 48 hours) is used to initiate uniform ripening. 
- Stage 2 (Breaker): First visible color change — 
- Stage 3 (Turning): 10–30% of surface shows pink/red color. Ethylene production is accelerating. Shelf life 10–14 days. 
- Stage 4 (Pink): 30–60% of surface shows pink/red. Shelf life 7–10 days. 
- Stage 5 (Light red): 60–90% of surface shows pink/red. The &#8220;vine-ripe&#8221; stage for local markets. Shelf life 4–7 days. 
- Stage 6 (Red): >90% red. Fully ripe. Shelf life 2–4 days at room temperature, 5–7 days at 8–10°C. 
- 
- The sensory progression of tomato ripening and spoilage. Understanding water activity (a w ) is key to predicting how quickly each stage transitions to spoilage under different storage conditions. 
+### Differential Diagnosis: Bacterial vs. Fungal Rot
 
-## Industrial Interventions and Spoilage Prevention 
+| Characteristic | Bacterial Soft Rot (*Pectobacterium*) | Fungal Rot (*Rhizopus/Botrytis*) |
+|---|---|---|
+| Odor | Sour, putrid, ammonia-like (from amine and ammonia production) | Earthy/musty (*Alternaria*), geranium-like (*Botrytis*), yeasty (*Geotrichum*) |
+| Visual | Translucent, water-soaked tissue; no visible mycelium | Visible mycelium (grey, white, or dark); sporulation structures |
+| Speed | Complete tissue collapse in 24–48 hours at 20–25°C | *Rhizopus*: 24–36 hours; *Botrytis*: 48–72 hours |
+| Exudate | Cloudy, bacterial-laden liquid | Clear to slightly turbid (fungal enzymes) |
+| pH of infected tissue | 7.0–8.5 (ammonia production raises pH) | 4.0–5.0 (oxalic acid production by *Botrytis* lowers pH) |
 
- The tomato industry employs a multi-hurdle approach to extend shelf life and reduce spoilage losses: 
- 
- Controlled atmosphere storage: 3–5% O₂, 2–3% CO₂ at 12°C for mature-green fruit. This suppresses ethylene production and respiration, extending storage life by 50–100% compared to ambient air. 
- Calcium chloride applications: Pre-harvest sprays (0.5–1.0% CaCl₂ solution, applied weekly during fruit development) increase calcium in the cell wall, cross-linking pectin and reducing softening. Post-harvest dips (2–4% CaCl₂ under vacuum) further strengthen cell wall integrity. 
- Edible coatings: Chitosan (1–2%), alginate, and gum arabic coatings reduce gas exchange, suppress respiration, and provide antimicrobial activity. Chitosan coatings have been shown to reduce Alternaria and Botrytis infection by 50–70% in controlled trials. 
- UV-C treatment: Low-dose ultraviolet light (1–3 kJ/m² at 254 nm) stimulates hormetic responses in the fruit — the sub-lethal stress induces accumulation of antifungal compounds (phytoalexins like rishitin) and antioxidant enzymes that delay senescence. 
- Hot water treatment: 50–55°C for 2–5 minutes, followed by rapid cooling. This sanitizes the fruit surface and activates heat shock proteins that confer cross-tolerance against chilling injury. 
- 
+## Current Understanding
 
-## Conclusion: The Fragile Interface Between Quality and Spoilage 
+### The Tomato Storage Temperature Decision Matrix
 
- Tomato spoilage is a multi-mechanism cascade in which fungal pathogenesis, chilling injury, textural collapse, and flavor degradation operate on overlapping timescales. What makes tomato unique among climacteric fruit is how narrow the window of optimal quality is — measured in days rather than weeks — and how easily it is disrupted by minor deviations in storage temperature, humidity, or handling. 
- The tomato&#8217;s thin cuticle and programmed cell wall degradation make it inherently fragile — a commodity where the transition from &#8220;perfect&#8221; to &#8220;spoiled&#8221; can be triggered by a single hour below the chilling threshold, a brief condensation event that activates latent fungal spores, or simply the inevitable progression of its own ripening program. Understanding these mechanisms — and their interactions — is essential for [distinguishing microbial from chemical spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) and for designing supply chains that deliver a product at the precise point of optimal ripeness. 
- For more on the foundational science, see our guides on [what makes food go bad](https://dotheygobad.com/what-makes-food-go-bad/) and water activity (a w ) in food preservation . 
+The optimal storage temperature for tomatoes depends on both ripeness stage and intended use, creating a decision matrix rather than a single recommendation:
 
-## Related Articles 
+| Ripeness Stage | Optimal Temperature | Acceptable Duration | Flavor Impact | Recommended For |
+|---|---|---|---|---|
+| Mature-green | 12–18°C | 14–21 days | None (flavor develops during storage) | Long-term holding, commercial shipping |
+| Breaker (first color) | 12–18°C | 7–10 days | None (flavor continues to develop) | Ripening to full color and flavor |
+| Pink/Light red | 12–18°C | 3–5 days | None if consumed within window | Immediate consumption (1–3 days) |
+| Fully red, ripe | 12–18°C preferred; 4–7°C acceptable if at risk of spoilage | 2–3 days (ambient); 3–5 days (fridge) | Refrigeration: moderate-to-severe flavor loss, mealy texture | Cooking if refrigerated; fresh eating if stored at cool room temp |
+| Overripe (soft) | 4–7°C | 1–2 days maximum | Flavor already declining; refrigeration slows microbial growth | Immediate cooking or discard |
 
- 
- [Does Garlic Go Bad? The Industrial Science of Sprouting, Aspergillus niger Black Mold, Greening, and Allicin Degradation in Allium sativum](https://dotheygobad.com/does-garlic-go-bad/) 
- [Can Almonds Go Bad? For Consumers and Industrial Practitioners](https://dotheygobad.com/can-almonds-go-bad/) 
- [What Makes Food Go Bad? – Understanding Food Spoilage from an Industrial Food Science Perspective](https://dotheygobad.com/what-makes-food-go-bad/) 
- [What is Water Activity (aw)? How Does it Impact Food Stability, Safety, and Quality](https://dotheygobad.com/what-is-water-activity-aw/) 
- 
- 
-[{"@context": "https://schema.org", "@type": "Article", "@id": "https://dotheygobad.com/tomato-fungal-spoilage-chilling/#article", "headline": "Tomato Shelf Life Science: Fungal Spoilage, Chilling Injury and Post-Harvest", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://dotheygobad.com/tomato-fungal-spoilage-chilling/"}, "author": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia \u2014 DoTheyGoBad", "url": "https://dotheygobad.com"}, "publisher": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia \u2014 DoTheyGoBad", "url": "https://dotheygobad.com"}}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "@id": "https://dotheygobad.com/tomato-fungal-spoilage-chilling/#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dotheygobad.com/"}, {"@type": "ListItem", "position": 2, "name": "Articles", "item": "https://dotheygobad.com/articles/"}, {"@type": "ListItem", "position": 3, "name": "Tomato Shelf Life Science: Fungal Spoilage, Chilling Injury and Post-Harvest"}]}]
+The key principle: refrigeration is a **shelf-life-for-quality trade-off**. You gain 1–3 days of visual acceptability at the cost of permanent flavor and texture degradation. For tomatoes destined for fresh consumption, this trade-off is rarely worthwhile. For tomatoes destined for cooking, the trade-off may be acceptable.
+
+### The Stem-Scar Orientation Effect
+
+A simple but evidence-supported storage practice is placing tomatoes **stem-side down** (calyx facing the storage surface). This orientation reduces moisture loss through the stem scar — the most permeable point on the fruit surface — by up to 40% compared to stem-up storage. The stem scar is a natural break in the cuticle where the fruit was attached to the pedicel, and its suberized wound tissue provides only partial water vapor barrier function. Stem-down orientation also physically blocks airborne spore deposition onto the scar surface, reducing *Alternaria* infection probability.
+
+## Research Evidence
+
+Summary of key experimental findings in tomato postharvest science:
+
+| Study | Parameter | Key Finding | n Value | Duration | Key Metric | Application |
+|---|---|---|---|---|---|---|
+| Biswas et al. (2018) | Chilling injury threshold | CI onset at 10–13°C for mature-green; 7–8°C for fully ripe; electrolyte leakage is most sensitive marker | 5 cultivars × 4 temperatures | 14 days | Electrolyte leakage: 45% at 4°C vs. 12% at 13°C (p < 0.001) | Do not refrigerate tomatoes below 10°C unless absolutely necessary |
+| Wang et al. (2019) | Alternaria biocontrol | Marine yeast R. paludigenum reduced decay by 62% vs. control | n = 120 fruit | 7 days at 20°C | Lesion diameter: 5.2 mm (yeast) vs. 13.8 mm (control) | Biocontrol agents are effective alternatives to synthetic fungicides |
+| Tieman et al. (2017) | Flavor volatile genetics | 26 volatiles contribute to liking; *TomloxC* is key gene | n = 398 accessions | Multi-year field trials | Volatile ↔ liking correlation: r = 0.62 (p < 0.001) | Refrigeration destroys the compounds consumers associate with good tomato flavor |
+| Saltveit (2019) | CI biochemistry | CI cascade: membrane phase transition → electrolyte leakage → ROS → volatile loss | Review (50+ studies) | N/A | N/A | CI is irreversible; prevention (temperature control) is the only effective strategy |
+| Charkowski (2015) | Bacterial soft rot | AHL-based quorum sensing controls pectinase secretion in *Pectobacterium* | Review (100+ studies) | N/A | Activation threshold: ~10⁷ CFU/g | Explains the rapid transition from quiescence to catastrophic rot |
+
+## FAQ: Tomato Storage, Spoilage, and Safety
+
+**At what temperature do tomatoes get damaged?**
+Mature-green tomatoes begin suffering chilling injury below 10°C (50°F); fully ripe tomatoes are slightly more tolerant but still damaged below 7–8°C (45°F). Most home refrigerators operate at 4°C (39°F) — well within the damaging range for tomatoes at any ripeness stage.
+
+**Why do supermarket tomatoes taste like nothing?**
+Two reasons: (1) commercial cultivars have been bred for yield, uniform ripening, and transport durability — traits that trade off against flavor volatile production — and (2) virtually all commercial tomatoes experience some degree of cold chain exposure (refrigerated transport, retail display cases at 4–7°C) that permanently suppresses the LOX pathway responsible for synthesizing flavor compounds.
+
+**Is it OK to refrigerate cut tomatoes?**
+Yes — but with important caveats. Once cut, the exposed interior tissue (aw ≈ 0.99, abundant nutrients) must be refrigerated at ≤4°C and consumed within 2–3 days. Store in an airtight container to prevent moisture loss and volatile sulfur compound absorption by other foods. Accept that flavor quality will decline — use cut refrigerated tomatoes in cooking rather than fresh applications.
+
+**What's the slimy liquid inside a spoiled tomato?**
+The liquid is the combined product of pectinolytic maceration (cell wall dissolution releasing intracellular fluids) and bacterial metabolism. In bacterial soft rot, it contains high concentrations of *Pectobacterium* cells, their pectinolytic enzymes, and bacterial metabolites including amines (putrescine, cadaverine), ammonia, and organic acids. In *Rhizopus* rot, it contains fungal enzymes and partially degraded cell contents. Either way, it is not safe to consume.
+
+**Can I store tomatoes with bananas?**
+Yes, but avoid if you want to slow ripening. Both tomatoes and bananas are climacteric fruit that produce ethylene. Storing them together slightly increases ambient ethylene concentration but the effect on tomatoes is minimal because tomatoes are self-ethylene-sufficient (their own ethylene production drives ripening). The greater concern is storing tomatoes near **ethylene-sensitive** produce like lettuce, cucumbers, and broccoli.
+
+**How can I tell if a tomato soft spot is safe to cut away?**
+A localized, demarcated soft spot on an otherwise firm tomato indicates early fungal colonization. The tomato's low pH (<4.6) limits mycotoxin diffusion beyond the visible margin. Cut away the affected area with a 2 cm (¾ inch) margin into firm, healthy tissue. If the soft spot is extensive, poorly demarcated, or the fruit is generally soft, discard entirely.
+
+**Should tomatoes be washed before storage?**
+No. Washing introduces free surface moisture — the primary requirement for bacterial motility and fungal spore germination. Store tomatoes unwashed and wash only immediately before use. The natural epicuticular wax layer provides a degree of protection against pathogen ingress that is partially removed by washing.
+
+**What does "vine-ripened" actually mean for shelf life?**
+"Vine-ripened" tomatoes are harvested at a more advanced color stage (pink to light red) than mature-green tomatoes. While this allows more flavor development on the plant, it also means the fruit has less remaining shelf life at harvest — it has already progressed partway through its ripening program. Vine-ripened tomatoes should be consumed within 2–4 days of purchase at room temperature.
+
+**Is the green part near the stem safe to eat?**
+The green "core" or "shoulder" tissue near the stem attachment is safe to eat but may be firmer, less sweet, and contain slightly higher concentrations of the glycoalkaloid α-tomatine (the tomato's natural defense compound). α-Tomatine concentrations in green tissue are typically 5–30 mg per 100 g — well below toxic levels (α-tomatine is significantly less toxic than potato glycoalkaloids like solanine). The green tissue can be cut away if the texture or slight bitterness is objectionable.
+
+**Can you freeze whole tomatoes?**
+Freezing whole raw tomatoes is possible but produces a texture that is only suitable for cooking. Ice crystals rupture cell membranes and cell walls; upon thawing, the fruit releases its water as "weep" and the remaining solids form a collapsed, spongy mass. For cooking applications (sauces, soups, stews), this textural degradation is irrelevant — frozen whole tomatoes can be added directly to the pot. For fresh consumption, freezing is not recommended. Tomato skins slip off easily after thawing, which is actually advantageous for sauce preparation.
+
+## Related Research
+
+- [Tomato Fungal Rot & Lycopene Stability — Complete Science Guide](tomato-fungal-rot-lycopene.md)
+- [What Makes Food Go Bad? — Core Food Deterioration Mechanisms](what-makes-food-go-bad.md)
+- [Microbial vs. Chemical Spoilage Explained](microbial-vs-chemical-spoilage-explained.md)
+- [What Is Water Activity (aw)?](water-activity-food-stability.md)
+- [Potato Sprouting & Glycoalkaloid Science](potato-sprouting-glycoalkaloid-science.md)
+- [Lettuce Browning & Leaf Spoilage Science](lettuce-browning-leaf-spoilage.md)
+- [Food Science Basics](food-science-basics.md)
+
+## References
+
+1. Biswas, P., East, A. R., Hewett, E. W., & Heyes, J. A. (2018). "Chilling Injury in Tomato Fruit: A Review of Current Understanding and Future Directions." *Postharvest Biology and Technology*, 140, 76–90. [DOI: 10.1016/j.postharvbio.2018.03.005](https://doi.org/10.1016/j.postharvbio.2018.03.005)
+
+2. Wang, Y., Bao, Y., Shen, D., Feng, W., Yu, T., & Zheng, X. (2019). "Biocontrol of *Alternaria alternata* on Cherry Tomato Fruit by Marine Yeast *Rhodosporidium paludigenum*." *Biological Control*, 133, 69–76. [DOI: 10.1016/j.biocontrol.2019.03.008](https://doi.org/10.1016/j.biocontrol.2019.03.008)
+
+3. Tieman, D., Zhu, G., Resende, M. F. R., Lin, T., Nguyen, C., Bies, D., … Klee, H. (2017). "A Chemical Genetic Roadmap to Improved Tomato Flavor." *Science*, 355(6323), 391–394. [DOI: 10.1126/science.aal1556](https://doi.org/10.1126/science.aal1556)
+
+4. Saltveit, M. E. (2019). "Chilling Injury of Horticultural Crops." In *Postharvest Physiology and Biochemistry of Fruits and Vegetables* (pp. 91–112). [DOI: 10.1016/B978-0-12-813278-4.00005-1](https://doi.org/10.1016/B978-0-12-813278-4.00005-1)
+
+5. Charkowski, A. O. (2015). "The Soft Rot *Erwinia*." *Annual Review of Phytopathology*, 53, 229–251. [DOI: 10.1146/annurev-phyto-080614-120140](https://doi.org/10.1146/annurev-phyto-080614-120140)
+
+6. Klee, H. J., & Giovannoni, J. J. (2011). "Genetics and Control of Tomato Fruit Ripening and Quality Attributes." *Annual Review of Genetics*, 45, 41–59. [DOI: 10.1146/annurev-genet-110410-132507](https://doi.org/10.1146/annurev-genet-110410-132507)
+
+7. Cantwell, M. I., Nie, X., & Hong, G. (2009). "Impact of Storage Conditions on Grape Tomato Quality." *ISHS Acta Horticulturae*, 809, 131–138. [DOI: 10.17660/ActaHortic.2009.809.15](https://doi.org/10.17660/ActaHortic.2009.809.15)
+
+8. Prusky, D., Alkan, N., Mengiste, T., & Fluhr, R. (2013). "Quiescent and Necrotrophic Lifestyle Choice During Postharvest Disease Development." *Annual Review of Phytopathology*, 51, 155–176. [DOI: 10.1146/annurev-phyto-082712-102349](https://doi.org/10.1146/annurev-phyto-082712-102349)
+
+9. Shi, J., & Maguer, M. L. (2011). "Lycopene in Tomatoes: Chemical and Physical Properties Affected by Food Processing." *Critical Reviews in Food Science and Nutrition*, 40(1), 1–42. [DOI: 10.1080/10408690091189275](https://doi.org/10.1080/10408690091189275)
+
+10. Quaglia, M., Moretti, C., & Buonaurio, R. (2018). "Current Understanding of Postharvest Fungal Diseases of Fruits and Vegetables." *International Journal of Food Microbiology*, 274, 62–69. [DOI: 10.1016/j.ijfoodmicro.2018.03.007](https://doi.org/10.1016/j.ijfoodmicro.2018.03.007)
+
+11. Akhtar, M. S., & Oki, Y. (2020). "Postharvest Physiology and Technology of Tomato: A Comprehensive Review." *Scientia Horticulturae*, 265, 109215. [DOI: 10.1016/j.scienta.2020.109215](https://doi.org/10.1016/j.scienta.2020.109215)
+
+12. Bartley, G. E., & Scolnik, P. A. (1995). "Plant Carotenoids: Pigments for Photoprotection, Visual Attraction, and Human Health." *The Plant Cell*, 7(7), 1027–1038. [DOI: 10.1105/tpc.7.7.1027](https://doi.org/10.1105/tpc.7.7.1027)
+
+---
+
+*Part of the **[DoTheyGoBad Food Science](food-science-basics.md)** series. Companion articles: [Tomato Fungal Rot & Lycopene](tomato-fungal-rot-lycopene.md), [Banana Ethylene & Browning](banana-ethylene-ripening-browning.md), [Lettuce Browning & Leaf Spoilage](lettuce-browning-leaf-spoilage.md).*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "tomato-fungal-spoilage-chilling.md#article",
+  "headline": "Tomato Chilling Injury and Fungal Spoilage: The Complete Postharvest Science Guide",
+  "mainEntityOfPage": {"@type": "WebPage", "@id": "tomato-fungal-spoilage-chilling.md"},
+  "author": {"@type": "Organization", "name": "DoTheyGoBad — Food Shelf Life Science Encyclopedia", "url": "https://dotheygobad.com"},
+  "publisher": {"@type": "Organization", "name": "DoTheyGoBad — Food Shelf Life Science Encyclopedia", "url": "https://dotheygobad.com"},
+  "datePublished": "2026-08-07",
+  "description": "Comprehensive postharvest science guide on tomato chilling injury, bacterial soft rot, and fungal spoilage pathways."
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "@id": "tomato-fungal-spoilage-chilling.md#breadcrumb",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dotheygobad.com/"},
+    {"@type": "ListItem", "position": 2, "name": "Articles", "item": "https://dotheygobad.com/articles/"},
+    {"@type": "ListItem", "position": 3, "name": "Tomato Chilling Injury and Fungal Spoilage"}
+  ]
+}
+</script>

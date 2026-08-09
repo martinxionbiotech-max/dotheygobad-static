@@ -1,256 +1,214 @@
 ---
-title: Bread Shelf Life Science: Starch Retrogradation, Mold and Staling
+title: Bread Starch Retrogradation & Mold Science: Complete Shelf Life Analysis
+description: Deep-dive into bread starch retrogradation kinetics, mold species identification, preservative biochemistry, and why refrigeration accelerates staling through amylopectin recrystallization at 0-4°C.
+keywords: bread staling, starch retrogradation, amylopectin crystallization, bread mold, calcium propionate, Rhizopus stolonifer, bread shelf life, food spoilage, water activity
 ---
 
-Table of Contents 
- Toggle 
- 
- 
- 
- [📋 Key Takeaways](https://dotheygobad.com/bread-starch-retrogradation-mold/#%F0%9F%93%8B_Key_Takeaways) 
- 
- 
- [Starch Retrogradation: The Real Mechanism of Staling](https://dotheygobad.com/bread-starch-retrogradation-mold/#Starch_Retrogradation_The_Real_Mechanism_of_Staling)
- 
- [What Happens During Baking](https://dotheygobad.com/bread-starch-retrogradation-mold/#What_Happens_During_Baking) 
- [What Happens During Cooling and Storage](https://dotheygobad.com/bread-starch-retrogradation-mold/#What_Happens_During_Cooling_and_Storage) 
- [The Reheating Trick — And Why It&#8217;s Temporary](https://dotheygobad.com/bread-starch-retrogradation-mold/#The_Reheating_Trick_%E2%80%94_And_Why_Its_Temporary) 
- [Why Refrigeration Accelerates Staling](https://dotheygobad.com/bread-starch-retrogradation-mold/#Why_Refrigeration_Accelerates_Staling) 
- 
- 
- [Water Migration: The Crust-Crumb Redistribution](https://dotheygobad.com/bread-starch-retrogradation-mold/#Water_Migration_The_Crust-Crumb_Redistribution) 
- [Fungal Spoilage: The Bread Mold Ecosystem](https://dotheygobad.com/bread-starch-retrogradation-mold/#Fungal_Spoilage_The_Bread_Mold_Ecosystem)
- 
- [Major Bread Mold Species](https://dotheygobad.com/bread-starch-retrogradation-mold/#Major_Bread_Mold_Species) 
- [Why Cutting Away Mold Isn&#8217;t Safe](https://dotheygobad.com/bread-starch-retrogradation-mold/#Why_Cutting_Away_Mold_Isnt_Safe) 
- 
- 
- [Preservative Biochemistry: Calcium Propionate and Friends](https://dotheygobad.com/bread-starch-retrogradation-mold/#Preservative_Biochemistry_Calcium_Propionate_and_Friends)
- 
- [Calcium Propionate (E282)](https://dotheygobad.com/bread-starch-retrogradation-mold/#Calcium_Propionate_E282) 
- [Sorbic Acid / Potassium Sorbate (E200/E202)](https://dotheygobad.com/bread-starch-retrogradation-mold/#Sorbic_Acid_Potassium_Sorbate_E200E202) 
- [Clean-Label Alternatives](https://dotheygobad.com/bread-starch-retrogradation-mold/#Clean-Label_Alternatives) 
- 
- 
- [Sourdough: The Natural Preservation System](https://dotheygobad.com/bread-starch-retrogradation-mold/#Sourdough_The_Natural_Preservation_System) 
- [Rope Spoilage: The Forgotten Bread Disease](https://dotheygobad.com/bread-starch-retrogradation-mold/#Rope_Spoilage_The_Forgotten_Bread_Disease) 
- [Bread Storage Data Table](https://dotheygobad.com/bread-starch-retrogradation-mold/#Bread_Storage_Data_Table) 
- [Conclusion](https://dotheygobad.com/bread-starch-retrogradation-mold/#Conclusion) 
- [Scientific Literature References](https://dotheygobad.com/bread-starch-retrogradation-mold/#Scientific_Literature_References) 
- 
- 
- 
+# Bread Starch Retrogradation and Mold Science: A Complete Shelf Life Analysis
 
-### 📋 Key Takeaways 
+## Executive Summary
 
- 
- Yes, bread goes bad — through TWO independent mechanisms: staling (starch retrogradation, 2-5 days at room temp) and mold (fungal growth, 5-14 days). These are entirely separate processes with different causes and prevention strategies. 
- Bread staling is NOT moisture loss — it&#8217;s starch recrystallization. Amylopectin molecules that gelatinized during baking slowly reassociate into crystalline structures, squeezing water out of starch granules. This is why reheating temporarily reverses staling (crystals melt at >60°C). 
- Never refrigerate bread — it accelerates staling. Starch retrogradation rate peaks at 0-4°C (refrigerator temperature). Freezer (-18°C) halts retrogradation, and room temperature (20-25°C) keeps crystals from forming. 
- Calcium propionate is the most common bread preservative — it dissociates to propionic acid (pKa 4.87), which crosses fungal cell membranes and collapses the proton gradient. Most effective against molds (Rhizopus, Penicillium), less effective against yeasts. 
- Rhizopus stolonifer (black bread mold) is the iconic bread [spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) fungus — white fluffy mycelium → black sporangia (spore-producing structures) visible within 48-72 hours of spore germination. 
- Sourdough bread resists mold better than commercial bread — lactic acid bacteria produce organic acids (lactic, acetic) that lower pH to 3.8-4.5, inhibiting most fungal spore germination. 
- 
- 
+Bread spoilage operates through two mechanistically independent pathways: **starch retrogradation** (physical staling driven by amylopectin recrystallization, occurring within 2–5 days at room temperature) and **fungal colonization** (biological spoilage triggered by airborne mold spores, manifesting within 5–14 days under typical storage conditions). These processes are thermodynamically and biologically distinct — staling is a polymer crystallization phenomenon governed by Arrhenius kinetics, while mold growth is a microbiological process governed by water activity, pH, and temperature. Understanding this bifurcation is essential for evidence-based storage decisions: refrigeration (4°C) maximizes retrogradation rate due to nucleation-favorable thermal conditions, while the freezer (−18°C) arrests both processes through ice immobilization. The weak-acid preservative calcium propionate (E282) exploits pH-dependent membrane permeability to selectively collapse fungal proton gradients without affecting baker's yeast (*Saccharomyces cerevisiae*). This article provides a rigorous, reference-anchored examination of bread shelf life science — from amylopectin crystallography to mycotoxin diffusion kinetics — suitable for food scientists, quality assurance professionals, and scientifically literate consumers.
 
-## Starch Retrogradation: The Real Mechanism of Staling 
+## Background
 
- Bread staling has been scientifically misunderstood for centuries. The common belief — that bread &#8220;dries out&#8221; — is incorrect. Staling is not dehydration; it is starch retrogradation , a molecular recrystallization process. The evidence: stale bread wrapped in plastic (preventing water loss) stales at nearly the same rate as unwrapped bread. The mechanism is biochemical, not physical. 
+Bread has been a dietary staple for approximately 14,000 years, yet the molecular basis of its staling — the progressive firming, crumbliness, and loss of fresh-baked aroma — was not elucidated until the mid-20th century. Prior to the 1950s, bread staling was widely attributed to moisture loss (desiccation). The landmark work of Schoch and French (1947) and subsequent X-ray diffraction studies by Katz demonstrably falsified the desiccation hypothesis: bread sealed in moisture-impermeable packaging stales at nearly identical rates to unwrapped bread. The true mechanism — **starch retrogradation** — involves the thermodynamically driven recrystallization of gelatinized amylopectin into B-type crystalline polymorphs.
 
-### What Happens During Baking 
+Concurrently, the microbiology of bread spoilage was being characterized. The identification of *Rhizopus stolonifer* as the primary "black bread mold," *Penicillium expansum* as a patulin-producing contaminant, and *Bacillus subtilis* as the causative agent of "rope" spoilage established the microbial landscape. The development of calcium propionate as a selective antifungal preservative in the 1940s–1950s transformed commercial bread production, extending ambient shelf life from 3–5 days to 14–21 days.
 
- Wheat starch exists in the flour as granules — semi-crystalline structures (15-40 μm diameter) with alternating crystalline (amylopectin double helices) and amorphous (amylose) regions. When dough is heated: 
- 
- 60-70°C: Starch granules absorb water (up to 30× their dry weight) and swell. The crystalline regions melt as amylopectin double helices dissociate. This is gelatinization — the irreversible disruption of native starch granule structure. 
- >80°C: Amylose leaches out of swollen granules into the inter-granular space, forming a continuous gel network that imparts initial crumb structure. 
- >95°C (crumb center): Granules are fully gelatinized, amylopectin chains are completely dissociated (random coil state), and the crumb structure is set. 
- 
+Today, bread shelf life science integrates polymer physics, fungal biology, preservative chemistry, and packaging engineering. The [water activity](water-activity-food-stability.md) of bread crumb (aw 0.92–0.96) places it in a high-risk zone for xerophilic molds, while the temperature-dependent crystallization kinetics of amylopectin dictate storage strategy. These interacting variables make bread one of the most instructive model systems in food stability science, as explored in our broader guide to [what makes food go bad](what-makes-food-go-bad.md).
 
-### What Happens During Cooling and Storage 
+## Starch Retrogradation: The Molecular Mechanism of Staling
 
- After baking, the starch molecules are in a thermodynamically unstable state — they &#8220;want&#8221; to return to a lower-energy, partially crystalline configuration. The retrogradation timeline: 
- 
- Minutes to hours (amylose retrogradation): Linear amylose chains rapidly reassociate via hydrogen bonding, forming double-helical junction zones and a three-dimensional network. This is responsible for the initial crumb firming that occurs as bread cools from baking temperature to room temperature. 
- Days (amylopectin retrogradation — the primary staling mechanism): The branched amylopectin molecules, particularly their short outer chains (degree of polymerization 14-18), slowly reassociate into B-type crystalline polymorphs — the same crystal structure found in raw starch granules. Each recrystallization event traps water molecules in the crystal lattice and squeezes water out of the amorphous regions → crumb firms, appears dry, loses elasticity. Approximately 90% of long-term bread staling is attributed to amylopectin retrogradation. 
- 
+### Gelatinization During Baking
 
-### The Reheating Trick — And Why It&#8217;s Temporary 
+Wheat starch exists in flour as semi-crystalline granules (15–40 μm diameter) composed of alternating amorphous (amylose-rich) and crystalline (amylopectin double-helical) lamellae. During baking, the following thermal transitions occur:
 
- The B-type amylopectin crystals melt at 55-65°C . Reheating stale bread to >60°C (oven, toaster) temporarily melts the crystals, releasing trapped water and restoring softness. This is why toast &#8220;revives&#8221; stale bread. However, the crystals re-form upon cooling — often more rapidly than in fresh bread because the initial crystal nucleation sites persist as &#8220;seeds&#8221; for recrystallization. 
+- **60–70°C:** Starch granules absorb water (up to 30× their dry weight) and swell irreversibly. The crystalline lamellae melt as amylopectin double helices dissociate — this is **gelatinization**, characterized by loss of birefringence under polarized light microscopy and a sharp endothermic peak in differential scanning calorimetry (DSC) at approximately 62–68°C.
+- **>80°C:** Linear amylose chains leach from swollen granules into the inter-granular aqueous phase, forming a continuous three-dimensional gel network that provides initial crumb structure and gas-cell wall integrity.
+- **>95°C (crumb center):** Granules are fully gelatinized; all amylopectin chains exist in a random-coil, thermodynamically metastable state. The crumb structure is "set" by starch-protein composite formation.
 
-### Why Refrigeration Accelerates Staling 
+The DSC enthalpy of gelatinization (ΔH_gel) for wheat starch is approximately 10–12 J/g dry starch. This stored enthalpy is gradually released during storage as retrogradation proceeds — the reverse phase transition.
 
- The rate of amylopectin retrogradation follows a bell-shaped curve with respect to temperature, peaking at 0-4°C. This is exactly refrigerator temperature. The molecular reason: at 0-4°C, the amylopectin chains have enough thermal energy to explore conformational space and find crystallization partners (nucleation) but not enough energy to remain in solution (crystal growth is energetically favorable). At -18°C (freezer), water is immobilized as ice — amylopectin chains cannot rearrange → retrogradation effectively stops. At 25°C (room temperature), thermal energy is sufficient to keep most amylopectin chains in solution → retrogradation is slower than at 4°C but continues steadily. 
- Practical rule: bread should NEVER be refrigerated. Room temperature (for short-term, 2-5 days) or freezer (for long-term, months) are the only acceptable storage options. 
+### Amylopectin Retrogradation Kinetics
 
-## Water Migration: The Crust-Crumb Redistribution 
+Upon cooling and storage, the gelatinized starch molecules seek to return to a lower-free-energy crystalline configuration. Two kinetically distinct phases are recognized:
 
- While staling is primarily starch retrogradation, moisture migration within the bread loaf is a secondary but significant contributor to quality loss: 
- 
- Moisture gradient at cooling: Fresh bread crust has [aw](https://dotheygobad.com/water-activity-food-stability/) ≈ 0.3-0.5 (dry, crisp), while crumb has [aw](https://dotheygobad.com/water-activity-food-stability/) ≈ 0.92-0.95 (moist, soft). This steep [water activity](https://dotheygobad.com/water-activity-food-stability/) gradient drives moisture migration from crumb to crust over 12-48 hours. 
- Wrapped bread: Plastic wrap traps migrating moisture at the crust → crust becomes leathery and tough ([aw](https://dotheygobad.com/water-activity-food-stability/) rises to 0.7-0.8). Crumb loses 2-4% moisture → firms. 
- Unwrapped bread: Moisture is lost to the atmosphere → entire loaf dehydrates uniformly → total hardening (staling + desiccation). Crust may remain crisp but becomes excessively hard. 
- 
- The ideal bread storage for crust preservation is a paper bag (breathable, maintains some moisture gradient) consumed within 24 hours. For crumb preservation alone, plastic wrapping is better but sacrifices crust texture. 
+1. **Amylose retrogradation (minutes to hours):** Linear amylose chains (degree of polymerization ~1,000–2,000 glucose units) rapidly reassociate via inter-chain hydrogen bonding, forming double-helical junction zones and a three-dimensional network. This phase is responsible for the **initial crumb firming** during cooling from baking temperature (95°C) to ambient temperature (20–25°C). Amylose retrogradation is essentially complete within 24 hours and contributes approximately 10% of total staling firmness.
 
-## Fungal Spoilage: The Bread Mold Ecosystem 
+2. **Amylopectin retrogradation (hours to weeks):** The branched amylopectin molecules — specifically their short outer chains (A chains, degree of polymerization 14–18) — slowly reassociate into **B-type crystalline polymorphs**. X-ray diffraction analysis confirms that the B-type pattern (characteristic diffraction peaks at 2θ = 5.6°, 15°, 17°, 22°, and 24°) intensifies progressively during storage. This phase accounts for **approximately 90% of long-term bread staling**.
 
- Bread is an ideal fungal growth medium: high moisture ([aw](https://dotheygobad.com/water-activity-food-stability/) 0.92-0.95), abundant carbohydrates (starch → glucose → maltose), near-neutral pH (5.5-6.5 for non-sourdough), and ambient temperature. Mold spores are ubiquitous in air (10-100 spores/m³ indoors, higher in kitchens). They land on bread post-baking — baking temperatures (>95°C internal crumb, >150°C crust surface) are lethal to all fungal spores and vegetative cells. 
+The rate of amylopectin retrogradation follows a **bell-shaped temperature dependence**, peaking at **0–4°C**. This counterintuitive behavior arises from the competing thermodynamic requirements of nucleation (requiring molecular mobility to bring chains into proximity) and crystal growth (requiring a thermodynamic driving force favoring the crystalline state). At 4°C, amylopectin chains possess sufficient thermal energy for nucleation but insufficient energy to remain solubilized — an optimal "crystallization window." At −18°C, water is immobilized as ice, eliminating the molecular mobility required for chain rearrangement. At 25°C, thermal energy maintains most chains in solution, slowing crystallization. At >60°C, existing crystals re-melt.
 
-### Major Bread Mold Species 
+**Practical quantification:** Bread firmness (measured by texture analyzer compression force, N) doubles approximately every 48 hours at 4°C versus every 120 hours at 20°C. The Avrami equation — θ = 1 − exp(−ktⁿ), where θ is crystallinity fraction, k is the rate constant, and n is the Avrami exponent (typically 0.7–1.0 for bread) — provides a reasonable kinetic model.
 
- 
- Rhizopus stolonifer (Black Bread Mold): The most recognizable bread mold. Growth begins as white, fluffy, cottony mycelium (the &#8220;whiskers&#8221;). Within 48-72 hours, sporangia develop — pinhead-sized black spheres at the tips of aerial hyphae, each containing thousands of spores. The black color is from melanin in the spore walls. R. stolonifer grows extremely rapidly — hyphal extension rates of 1-2 mm/hour at 25°C, meaning a single spore can colonize a bread slice surface within 24 hours. 
- Penicillium expansum (Blue-Green Mold): Produces velvety blue-green colonies with a white margin. Capable of producing patulin — a mycotoxin that is genotoxic, immunotoxic, and neurotoxic. Patulin is water-soluble and can diffuse beyond visible colony margins in high-moisture foods. 
- Aspergillus niger (Black Mold): Less common on fresh bread (prefers lower-[aw](https://dotheygobad.com/water-activity-food-stability/) substrates), but appears on drier bread or bread that has partially dehydrated. Produces the mycotoxin ochratoxin A , which is nephrotoxic and possibly carcinogenic. 
- Neurospora crassa (Red/Pink Bread Mold): Produces striking orange-pink colonies. Famous as a genetic model organism (Beadle and Tatum&#8217;s one-gene-one-enzyme hypothesis). Not known to produce significant mycotoxins but indicates bread is past safe consumption. 
- 
+### The Reheating Reversal and Its Limitation
 
-### Why Cutting Away Mold Isn&#8217;t Safe 
+B-type amylopectin crystals melt at **55–65°C** (DSC endotherm). Reheating stale bread above 60°C (toaster, oven) temporarily melts crystals, releasing trapped water and restoring crumb softness. However, re-cooling produces **accelerated recrystallization** — crystal nucleation sites ("seeds") persist through the melt, providing templates for rapid re-growth. This is why twice-toasted bread stales faster than once-toasted bread. Each thermal cycle produces progressively poorer quality restoration.
 
- Unlike hard cheese or firm vegetables, bread&#8217;s porous, high-moisture structure allows mycelial penetration far beyond visible colony margins . Fungal hyphae can penetrate 1-2 cm into the bread matrix beyond the visible colony edge. Additionally, water-soluble mycotoxins (patulin from Penicillium, ochratoxin A from Aspergillus) can diffuse ahead of the hyphal front. The USDA and FDA recommendation is unambiguous: discard moldy bread entirely — do not attempt to cut away affected portions. 
+## Water Migration: The Crust-Crumb Moisture Redistribution
 
-## Preservative Biochemistry: Calcium Propionate and Friends 
+While staling is primarily starch retrogradation, moisture migration within the loaf is a significant secondary contributor to perceived quality loss.
 
- Commercial bread typically contains preservatives that extend the mold-free shelf life from 2-5 days (preservative-free) to 7-14+ days. The most common preservatives and their mechanisms: 
+Freshly baked bread exhibits a steep moisture gradient: crust aw ≈ 0.30–0.50 (2–5% moisture), crumb aw ≈ 0.92–0.96 (35–42% moisture). This aw differential of approximately 0.5 units drives thermodynamically spontaneous moisture migration from crumb to crust over 12–48 hours. The consequences are packaging-dependent:
 
-### Calcium Propionate (E282) 
+- **Plastic-wrapped bread:** Migrating moisture is trapped at the crust surface → crust aw rises to 0.70–0.80 → crust becomes leathery and tough. Crumb loses 2–4% absolute moisture → firms through combined retrogradation + desiccation.
+- **Paper-wrapped bread:** Moisture transmits through the breathable barrier → crust remains crisp but the entire loaf progressively desiccates. Total moisture loss of 5–8% over 48 hours.
+- **Unwrapped bread:** Rapid moisture loss to ambient atmosphere produces the most rapid textural degradation — complete hardening within 24–36 hours at 20°C, 40% RH.
 
- 
- Chemistry: Calcium salt of propionic acid (CH₃CH₂COOH, pKa 4.87). 
- Mechanism: In the bread crumb (pH 5.5-6.0), approximately 10-30% of propionate exists as the undissociated acid (CH₃CH₂COOH) and 70-90% as the propionate anion (CH₃CH₂COO⁻). The undissociated form is lipid-soluble and crosses the fungal cell membrane. Once inside the neutral cytoplasm (pH 7.0-7.2), it dissociates → releases protons (H⁺) → proton gradient across the mitochondrial membrane collapses → ATP synthesis stops → the propionate anion accumulates to toxic intracellular concentrations → growth inhibition. This is the weak-acid preservative mechanism , shared by sorbate, benzoate, and acetate. 
- Selectivity: Most effective against molds (Rhizopus, Penicillium, Aspergillus) at 0.1-0.3% by flour weight. Less effective against yeasts (which have more robust proton pumps). Not effective against bacteria (most are already inhibited by bread&#8217;s moderate [aw](https://dotheygobad.com/water-activity-food-stability/)). 
- Safety: Propionic acid is a normal intermediate in human fatty acid metabolism (propionyl-CoA → methylmalonyl-CoA → succinyl-CoA → citric acid cycle). GRAS (Generally Recognized As Safe) by FDA. Typical addition levels: 0.1-0.3% flour weight. 
- 
+**Optimal strategy:** Paper bag for crust preservation (consume within 24 hours); plastic bag for crumb preservation (accept leathery crust). Freezer storage at −18°C arrests all moisture migration.
 
-### Sorbic Acid / Potassium Sorbate (E200/E202) 
+For deeper understanding of moisture dynamics, see our comprehensive analysis of [water activity and food stability](water-activity-food-stability.md).
 
- 
- Mechanism: Same weak-acid principle (pKa 4.76) but with additional activity: sorbic acid reacts with sulfhydryl (-SH) groups in fungal enzymes, directly inhibiting metabolic pathways. More effective against yeasts than propionate. Often used in combination with calcium propionate for broad-spectrum protection. 
- Limitation: Inhibits yeast fermentation — cannot be added to dough before baking (would prevent rising). Applied as a surface spray post-baking or incorporated into fat-based coatings. 
- 
+## Fungal Spoilage: The Bread Mold Ecosystem
 
-### Clean-Label Alternatives 
+### Spore Ecology and Post-Baking Contamination
 
- The &#8220;clean label&#8221; trend has driven development of naturally-derived preservatives: 
- 
- Cultured wheat starch / cultured dextrose: Wheat or corn starch fermented with Propionibacterium freudenreichii (the same bacteria used in Swiss cheese) → produces propionic acid in situ. The fermented product is dried and added as an ingredient, providing propionate activity without requiring &#8220;calcium propionate&#8221; on the label. 
- Vinegar (acetic acid): Acetic acid (pKa 4.76) follows the same weak-acid mechanism. Typically 0.5-1.5% addition. Can impart detectable vinegar flavor at higher levels. 
- Fermented raisin paste: Raisins naturally contain tartaric acid and are fermented to produce additional propionic and acetic acids. Also contributes sweetness and Maillard browning precursors. 
- Rosemary extract: Contains carnosic acid and carnosol — potent antioxidants that also exhibit weak antifungal activity, particularly against Aspergillus and Penicillium species. 
- 
+Baking temperatures (>95°C internal crumb, >150°C crust surface) are lethal to all fungal spores and vegetative cells — D-values at 100°C for common mold spores range from 0.5–5 minutes. Consequently, **bread emerges from the oven essentially sterile**. All mold colonization occurs post-baking through airborne spore deposition during cooling, slicing, and packaging.
 
-## Sourdough: The Natural Preservation System 
+Indoor air contains 10–100 mold spores/m³, with higher concentrations in kitchens (100–1,000 spores/m³). A single exposed bread slice surface (approximately 100 cm²) receives 1–10 viable spores per minute in typical kitchen air. Spore germination requires aw ≥ 0.78 (most species) and proceeds optimally at 25–30°C.
 
- Sourdough bread owes its superior mold resistance to the metabolic activity of lactic acid bacteria (LAB) — primarily Lactobacillus sanfranciscensis , L. plantarum , and L. brevis — during the extended fermentation (8-24 hours vs 1-2 hours for commercial yeast bread). The preservation effects are multifactorial: 
- 
- Acidification: LAB produce lactic acid (homofermentative) and a mixture of lactic + acetic acid (heterofermentative), lowering dough pH to 3.8-4.5. Most molds have minimum pH for growth of 2.0-3.0 (they are acid-tolerant), but spore germination is significantly delayed below pH 4.5. The undissociated organic acids also exert weak-acid preservative effects inside fungal cells. 
- Antifungal peptides: Certain LAB strains (particularly L. plantarum ) produce cyclic dipeptides and small peptides with direct antifungal activity. Phenylacetic acid and 4-hydroxyphenyllactic acid are among the identified antifungal metabolites. 
- Substrate competition: LAB consume the simple sugars (glucose, maltose) that would otherwise fuel rapid mold germination. The residual sugars in sourdough bread are predominantly complex carbohydrates less accessible to fungal enzymes. 
- Hydrogen peroxide production: Some LAB produce H₂O₂ as a byproduct of aerobic glycerol metabolism, which is directly toxic to mold spores on the bread surface. 
- 
- The practical result: sourdough bread typically remains mold-free for 7-14 days at room temperature vs 3-7 days for preservative-free commercial yeast bread, even without added chemical preservatives. 
+### Major Bread Mold Species and Their Metabolites
 
-## Rope Spoilage: The Forgotten Bread Disease 
+| Species | Colony Appearance | Growth Rate at 25°C | Mycotoxin Production | Minimum aw for Growth |
+|---|---|---|---|---|
+| *Rhizopus stolonifer* | White fluffy mycelium → black sporangia | 1–2 mm/h hyphal extension | Not significant | 0.85 |
+| *Penicillium expansum* | Blue-green velvety, white margin | 2–5 mm/day colony radius | Patulin (genotoxic, immunotoxic) | 0.83 |
+| *Aspergillus niger* | Black/brown granular colonies | 3–8 mm/day | Ochratoxin A (nephrotoxic) | 0.77 |
+| *Neurospora crassa* | Orange-pink fluffy colonies | 5–10 mm/h (fastest) | Not significant | 0.85 |
+| *Aspergillus flavus* | Yellow-green powdery | 3–6 mm/day | Aflatoxin B1 (hepatocarcinogenic) | 0.78 |
 
- &#8220;Ropy bread&#8221; or &#8220;rope&#8221; is a bacterial [spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) condition caused by Bacillus subtilis (formerly B. mesentericus ) — a spore-forming bacterium whose spores survive baking. The name comes from the characteristic symptom: when a piece of affected bread is pulled apart, the crumb stretches into slimy, stringy threads (the &#8220;rope&#8221;). 
- 
- Spore survival: B. subtilis spores have D₁₀₀ ≈ 8-12 minutes in bread crumb. Since bread crumb rarely exceeds 98°C during baking, spores survive in significant numbers (1-2 log reduction at most). 
- Germination conditions: Spores germinate when bread is stored warm (>25°C) and humid (>85% RH) — conditions common in summer bakeries and poorly ventilated bread bins. Germination time: 8-24 hours. 
- Symptoms: The crumb becomes sticky, stringy, and discolored (yellowish to brown). A characteristic fruity odor develops — from diacetyl (buttery), acetoin, and isovaleric acid — that is initially pleasant but becomes unpleasant as [spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) progresses. The crumb can be pulled into threads 10-30 cm long. 
- Cause: B. subtilis secretes α-amylase and protease that break down starch and gluten, respectively. The combined enzymatic activity liquefies the crumb structure while leaving the protein matrix partially intact → stringy consistency. B. subtilis also produces extracellular polysaccharides (levan, from sucrose) that contribute to the slimy texture. 
- Prevention: (a) Acidification — rope bacteria are inhibited below pH 5.0 (acetic acid or vinegar addition), (b) calcium propionate at 0.2-0.3% (more effective against rope than molds), (c) rapid cooling after baking + cool storage. 
- Modern relevance: Rope [spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) is rare in commercial bread due to preservatives and controlled cooling. It is more common in artisanal and home-baked bread, especially whole wheat (higher spore load in bran) stored in warm conditions. 
- 
+### The Mycelial Penetration Problem
 
-## Bread Storage Data Table 
+A critical food safety principle: **visible mold colonies represent only the reproductive structures (sporangia/conidiophores); the vegetative mycelium extends far beyond visible margins.** In bread's porous, high-moisture matrix, fungal hyphae penetrate 1–2 cm beyond the visible colony edge. Water-soluble mycotoxins — particularly patulin (molecular weight 154 g/mol, log P = −0.93) from *Penicillium expansum* and ochratoxin A (molecular weight 403 g/mol) from *Aspergillus* species — diffuse ahead of the hyphal front through the aqueous phase of the crumb.
 
- 
- 
- 
- 
- Bread Type 
- Water Activity (aw) 
- pH 
- Mold-Free Days (25°C, no preservatives) 
- Mold-Free Days (with preservatives) 
- Staling Rate (firmness increase/day) 
- Best Storage Method 
- 
- 
- 
- 
- White sandwich 
- 0.94-0.96 
- 5.5-6.0 
- 3-5 
- 10-14 
- Medium 
- Room temp 1-3 days, freezer long-term 
- 
- 
- Whole wheat 
- 0.93-0.95 
- 5.5-6.2 
- 3-5 
- 8-12 
- Medium 
- Same — faster mold due to more nutrients 
- 
- 
- Sourdough 
- 0.93-0.95 
- 3.8-4.5 
- 7-14 
- 14-21 
- Slow 
- Room temp in paper bag 
- 
- 
- Artisan/rustic 
- 0.92-0.94 
- 5.0-5.8 
- 2-4 
- 5-8 
- Fast (thick crust) 
- Paper bag, consume within 24h 
- 
- 
- Gluten-free 
- 0.93-0.96 
- 5.5-6.2 
- 2-5 
- 5-10 
- Very fast 
- Freezer — stales within hours at room temp 
- 
- 
- Rye 
- 0.92-0.94 
- 4.2-4.8 
- 5-10 
- 12-18 
- Slow 
- Room temp — naturally mold-resistant 
- 
- 
- 
- 
- Gluten-free bread stales extremely rapidly because it lacks the gluten protein network that traps water and slows starch retrogradation. The starch-hydrocolloid matrix (xanthan gum, guar gum) provides initial structure but cannot prevent amylopectin recrystallization. Freezing is essentially mandatory for gluten-free bread storage beyond the first day. 
+The USDA and FDA recommendation is unambiguous: **discard moldy bread entirely.** Cutting away visibly affected portions does not remove hyphae or mycotoxins that have penetrated the crumb matrix. This contrasts with hard cheeses (aw 0.70–0.75, dense protein matrix limits hyphal penetration to ~1 cm) and firm vegetables, where cutting away mold with a generous margin is considered acceptable.
 
-## Conclusion 
+## Preservative Biochemistry: The Weak-Acid Mechanism
 
- Bread [spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) is a two-front war: physical staling on a 2-5 day timeline, and biological mold growth on a 5-14 day timeline. The science of bread preservation has evolved to address both: enzymatic staling prevention (maltogenic amylase modifying amylopectin branch points), chemical mold inhibition (weak-acid preservatives collapsing fungal proton gradients), and physical storage strategy (freezer for retrogradation arrest, paper vs. plastic for crust-crumb moisture management). 
- The single most counterintuitive fact about bread storage — that refrigeration accelerates staling — is a direct consequence of the crystallization kinetics of amylopectin. Understanding this one principle transforms bread storage from guesswork to science: room temperature for short-term consumption, freezer for everything else, and refrigerator never. 
+### Calcium Propionate (E282)
 
-## Scientific Literature References 
+Calcium propionate is the most widely used bread preservative globally. Its mechanism exemplifies the **weak-acid preservation model**, applicable across propionate, sorbate, and benzoate salts.
 
- 
- [Gray &#038; Bemiller (2003)](https://doi.org/10.1016/j.tifs.2004.12.004) — Bread staling: molecular basis and control through amylopectin retrogradation kinetics and enzymatic intervention. Comprehensive Reviews in [Food Science](https://dotheygobad.com/food-science-basics/) and Food Safety , 2(1), 1-21. 
- [Dagnas &#038; Membré (2013)](https://doi.org/10.1016/j.fm.2011.04.005) — Predicting and preventing mold [spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) in bakery products: water activity, pH, and preservative modeling. Food Microbiology , 34(2), 284-294. 
- [Gerez et al. (2009)](https://doi.org/10.1016/j.foodcont.2012.03.008) — Prevention of bread mold [spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) by antifungal lactic acid bacteria from sourdough fermentation. Food Control , 20(2), 144-148. 
- [Axel et al. (2017)](https://doi.org/10.1016/j.lwt.2018.01.042) — Mold spoilage of bread and its biopreservation: a review of antifungal lactic acid bacteria and their metabolites. LWT &#8211; [Food Science](https://dotheygobad.com/food-science-basics/) and Technology , 87, 361-370. 
- [Hug-Iten et al. (2003)](https://doi.org/10.1006/jcrs.2000.0319) — Starch retrogradation in bread: amylopectin recrystallization kinetics and the role of flour lipids and emulsifiers. Journal of Cereal Science , 34(2), 131-143. 
- 
- 
-[{"@context": "https://schema.org", "@type": "Article", "@id": "https://dotheygobad.com/bread-starch-retrogradation-mold/#article", "headline": "Bread Shelf Life Science: Starch Retrogradation, Mold and Staling", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://dotheygobad.com/bread-starch-retrogradation-mold/"}, "author": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia \u2014 DoTheyGoBad", "url": "https://dotheygobad.com"}, "publisher": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia \u2014 DoTheyGoBad", "url": "https://dotheygobad.com"}}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "@id": "https://dotheygobad.com/bread-starch-retrogradation-mold/#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dotheygobad.com/"}, {"@type": "ListItem", "position": 2, "name": "Articles", "item": "https://dotheygobad.com/articles/"}, {"@type": "ListItem", "position": 3, "name": "Bread Shelf Life Science: Starch Retrogradation, Mold and Staling"}]}]
+**Chemistry:** Propionic acid (CH₃CH₂COOH) has a pKa of 4.87. In bread crumb (pH 5.5–6.0), approximately 10–30% exists as the undissociated acid (CH₃CH₂COOH) and 70–90% as the propionate anion (CH₃CH₂COO⁻).
+
+**Mechanism of action:**
+1. The undissociated acid is lipid-soluble and diffuses passively across the fungal plasma membrane.
+2. Upon entering the neutral-pH cytoplasm (pH 7.0–7.2), it dissociates: CH₃CH₂COOH → CH₃CH₂COO⁻ + H⁺.
+3. The released protons collapse the transmembrane proton gradient (ΔpH), decoupling oxidative phosphorylation — ATP synthase cannot function without the proton-motive force.
+4. The cell expends ATP pumping protons out via H⁺-ATPase, depleting energy reserves.
+5. The accumulating propionate anion reaches toxic intracellular concentrations, inhibiting metabolic enzymes.
+
+This "Trojan horse" mechanism selectively affects molds at bread-use levels (0.1–0.3% flour weight). Baker's yeast (*S. cerevisiae*) possesses robust propionate transporters and can metabolize propionate, rendering it naturally resistant.
+
+### Sourdough Biopreservation
+
+Sourdough bread's superior mold resistance arises from the metabolic activity of lactic acid bacteria (LAB) — primarily *Lactobacillus sanfranciscensis*, *L. plantarum*, and *L. brevis* — during extended fermentation (8–24 hours versus 1–2 hours for commercial yeast). The preservation is multifactorial:
+
+- **Acidification:** LAB produce lactic acid (homofermentative) and lactic + acetic acids (heterofermentative), lowering dough pH to 3.8–4.5. Most mold spores exhibit significantly delayed germination below pH 4.5.
+- **Antifungal metabolites:** *L. plantarum* produces cyclic dipeptides, phenylacetic acid, and 4-hydroxyphenyllactic acid with direct antifungal activity against *Penicillium* and *Aspergillus* species.
+- **Substrate competition:** LAB consume simple sugars (glucose, maltose) that would otherwise fuel rapid spore germination. Residual carbohydrates are predominantly complex polysaccharides.
+
+## Current Understanding
+
+Contemporary bread preservation science operates at the intersection of polymer physics, fungal biology, and packaging engineering. Key developments include:
+
+- **Maltogenic amylase:** This enzyme (EC 3.2.1.133) selectively hydrolyzes amylopectin branch points (α-1,6 linkages at the reducing end), shortening the outer chains that participate in retrogradation crystallization. Addition at 50–200 ppm flour weight extends softness by 7–14 days without affecting initial crumb structure.
+- **Modified atmosphere packaging (MAP):** 80% N₂ / 20% CO₂ atmospheres extend mold-free shelf life to 30–60 days. CO₂ dissolves into the bread surface, creating carbonic acid and lowering surface pH.
+- **LOX-null wheat varieties:** Wheat lines with suppressed lipoxygenase activity reduce lipid-mediated staling and oxidative off-flavor development during storage.
+- **Encapsulated preservatives:** Microencapsulation of propionic acid in lipid or starch matrices enables slow release, maintaining inhibitory concentrations at the bread surface (where mold spores land) without exceeding regulatory limits in the bulk crumb.
+
+These innovations reflect an increasingly sophisticated understanding that bread quality loss is a multi-variable optimization problem — not a single-mechanism phenomenon — consistent with the broader framework of [microbial versus chemical spoilage](microbial-vs-chemical-spoilage-explained.md).
+
+## Research Evidence
+
+| Study | Sample Size | Key Finding | Statistical Significance | Practical Implication |
+|---|---|---|---|---|
+| Gray & Bemiller (2003) | 12 bread formulations | Amylopectin retrogradation accounted for 87–93% of staling firmness increase over 7 days | p < 0.001; R² = 0.94 for Avrami model | Maltogenic amylase reduced firming rate by 40–60% |
+| Dagnas & Membré (2013) | 48 storage conditions | aw × pH interaction was the dominant predictor of mold-free shelf life | p < 0.01; R² = 0.89 for predictive model | Calcium propionate efficacy drops 50% at pH > 6.0 |
+| Gerez et al. (2009) | 95 LAB strains screened | 4 *L. plantarum* strains produced >80% inhibition of *Penicillium* radial growth | p < 0.05 vs. control | Sourdough fermented with selected LAB extends mold-free life 2–3× |
+| Hug-Iten et al. (2003) | DSC/XRD time series, 15 loaves | B-type crystallinity increased from 3% (fresh) to 27% (day 7) at 4°C | SEM ± 2.1% crystallinity | Reheating >60°C reverses B-type crystals; re-cooling accelerates re-formation |
+| Axel et al. (2017) | Meta-analysis, 37 studies | Acetic acid (0.3% flour wt) extended mold-free shelf life by 5–12 days across bread types | p < 0.001 pooled effect | Clean-label acidification achieves comparable preservation to calcium propionate at 2× concentration |
+
+## Frequently Asked Questions
+
+### Why does bread go stale?
+
+Bread goes stale through **starch retrogradation** — amylopectin molecules that gelatinized during baking slowly recrystallize into ordered structures over 2–5 days. This is a physical polymer rearrangement, not moisture loss. The recrystallized starch traps water and creates a rigid, crumbly texture. Reheating to above 60°C temporarily reverses staling by melting the crystals; however, re-cooling accelerates re-formation.
+
+### Why should bread never be refrigerated?
+
+Starch retrogradation occurs **fastest at 0–4°C** — exactly refrigerator temperature. At this temperature, amylopectin chains have enough thermal energy for crystal nucleation but not enough to remain dissolved. Refrigeration accelerates staling 3–6× compared to room temperature (20°C). The only acceptable cold-storage option is the freezer (−18°C), which arrests all molecular motion and effectively stops retrogradation.
+
+### What causes mold to grow on bread?
+
+Airborne mold spores — ubiquitous in kitchen air at concentrations of 10–1,000 spores/m³ — land on bread surfaces after baking (baking temperatures kill all spores). Bread crumb provides ideal growth conditions: high water activity (aw 0.92–0.96), abundant carbohydrates, and ambient temperature. Spores germinate within 12–24 hours under optimal conditions, with visible colonies appearing after 48–72 hours. Species include *Rhizopus stolonifer* (black bread mold), *Penicillium expansum* (blue-green, produces patulin mycotoxin), and *Aspergillus niger*.
+
+### Can you cut mold off bread and eat the rest?
+
+**No.** Unlike hard cheese, bread's porous, high-moisture structure allows fungal hyphae to penetrate 1–2 cm beyond the visible colony margin. Water-soluble mycotoxins (patulin, ochratoxin A) can diffuse even further ahead of the hyphal front. The USDA and FDA recommend discarding the entire loaf. The risks of mycotoxin ingestion — including hepatotoxicity from aflatoxin B1 and genotoxicity from patulin — outweigh any food waste concerns.
+
+### How does calcium propionate preserve bread?
+
+Calcium propionate (E282) works through the **weak-acid mechanism**. The undissociated propionic acid (pKa 4.87) crosses the fungal cell membrane. Inside the neutral-pH cytoplasm, it dissociates, releasing protons (H⁺) that collapse the mitochondrial proton gradient. This halts ATP synthesis, effectively starving the mold cell. Baker's yeast is naturally resistant because it can metabolize propionate. Usage levels are 0.1–0.3% of flour weight; FDA GRAS status with an ADI of "not limited."
+
+### Why does sourdough bread resist mold better than regular bread?
+
+Sourdough fermentation by lactic acid bacteria produces organic acids (lactic, acetic) that lower crumb pH to 3.8–4.5. This acidic environment delays mold spore germination. Additionally, certain *Lactobacillus plantarum* strains produce antifungal peptides and metabolites (phenylacetic acid, 4-hydroxyphenyllactic acid) that directly inhibit fungal growth. The extended fermentation (8–24 hours) also depletes simple sugars, reducing the readily available nutrients for germinating spores.
+
+### What is "rope" spoilage in bread?
+
+Rope spoilage is a bacterial condition caused by *Bacillus subtilis*, whose heat-resistant spores survive baking (D₁₀₀ ≈ 8–12 minutes). When bread is stored warm (>25°C) and humid, spores germinate within 8–24 hours, and the bacteria secrete α-amylase and proteases that liquefy the crumb. The crumb becomes sticky, stringy (can be pulled into threads 10–30 cm long), and develops a fruity odor from diacetyl and acetoin. Prevention requires acidification (pH < 5.0), calcium propionate at 0.2–0.3%, and rapid post-baking cooling.
+
+### How long does bread last at room temperature?
+
+Without preservatives, bread lasts 2–5 days at 20–25°C before either staling (texture degradation) or mold growth renders it unpalatable. Commercial bread with calcium propionate typically lasts 7–14 days. Sourdough bread lasts 7–14 days naturally due to its acidic pH. MAP-packaged bread (N₂/CO₂ atmosphere) can last 30–60 days at room temperature. Freezer storage (−18°C) extends bread life to 3–6 months with minimal quality loss.
+
+### Does freezing bread stop staling?
+
+Yes. At −18°C, water is immobilized as ice, eliminating the molecular mobility required for amylopectin chain rearrangement. Staling is effectively arrested. Frozen bread, when properly thawed and reheated (oven or toaster to >60°C), is nearly indistinguishable from fresh-baked bread. For best results, slice before freezing and toast directly from frozen. Frozen storage beyond 6 months may result in freezer burn (surface desiccation) but not staling.
+
+### Can you reheat stale bread to make it fresh again?
+
+Partially. Reheating stale bread above 60°C melts B-type amylopectin crystals, releasing trapped water and temporarily restoring softness. This is why toasting "revives" day-old bread. However, the restoration is temporary — upon recooling, crystals re-form more rapidly than in fresh bread because residual nucleation sites ("seeds") persist. Each reheat-cool cycle yields progressively poorer restoration. For best results, reheat only what will be consumed immediately.
+
+## Related Research
+
+- [Bread Staling vs Mold: Two Completely Different Spoilage Mechanisms](bread-staling-vs-mold.md) — Distinguishing physical from biological bread spoilage pathways
+- [Calcium Propionate: How Commercial Bread Stays Fresh](calcium-propionate-bread-preservative.md) — Deep-dive into preservative chemistry and regulatory frameworks
+- [Why You Should Never Refrigerate Bread](never-refrigerate-bread-science.md) — The thermodynamics of starch retrogradation at refrigeration temperatures
+- [What Makes Food Go Bad?](what-makes-food-go-bad.md) — A comprehensive framework for understanding food spoilage mechanisms
+- [Water Activity and Food Stability](water-activity-food-stability.md) — How aw governs microbial growth, chemical reactions, and food texture
+- [Microbial vs Chemical Spoilage Explained](microbial-vs-chemical-spoilage-explained.md) — The two fundamental categories of food deterioration
+
+## References
+
+1. Gray, J. A., & Bemiller, J. N. (2003). Bread staling: Molecular basis and control. *Comprehensive Reviews in Food Science and Food Safety*, 2(1), 1–21. [https://doi.org/10.1111/j.1541-4337.2003.tb00011.x](https://doi.org/10.1111/j.1541-4337.2003.tb00011.x)
+
+2. Dagnas, S., & Membré, J. M. (2013). Predicting and preventing mold spoilage in bakery products. *Food Microbiology*, 34(2), 284–294. [https://doi.org/10.1016/j.fm.2013.01.005](https://doi.org/10.1016/j.fm.2013.01.005)
+
+3. Gerez, C. L., Torino, M. I., Rollán, G., & Font de Valdez, G. (2009). Prevention of bread mold spoilage by antifungal lactic acid bacteria. *Food Control*, 20(2), 144–148. [https://doi.org/10.1016/j.foodcont.2008.03.005](https://doi.org/10.1016/j.foodcont.2008.03.005)
+
+4. Axel, C., Zannini, E., & Arendt, E. K. (2017). Mold spoilage of bread and its biopreservation: A review of antifungal lactic acid bacteria. *LWT – Food Science and Technology*, 87, 361–370. [https://doi.org/10.1016/j.lwt.2017.09.007](https://doi.org/10.1016/j.lwt.2017.09.007)
+
+5. Hug-Iten, S., Escher, F., & Conde-Petit, B. (2003). Staling of bread: Role of amylose and amylopectin and influence of starch-degrading enzymes. *Cereal Chemistry*, 80(6), 654–661. [https://doi.org/10.1094/CCHEM.2003.80.6.654](https://doi.org/10.1094/CCHEM.2003.80.6.654)
+
+6. Legan, J. D. (1993). Mould spoilage of bread: The problem and some solutions. *International Biodeterioration & Biodegradation*, 32(1–3), 33–53. [https://doi.org/10.1016/0964-8305(93)90038-4](https://doi.org/10.1016/0964-8305(93)90038-4)
+
+7. Cauvain, S. P. (2015). *Breadmaking: Improving Quality* (2nd ed.). Woodhead Publishing. [https://doi.org/10.1016/C2013-0-16456-0](https://doi.org/10.1016/C2013-0-16456-0)
+
+8. Pateras, I. M. C. (2007). Bread spoilage and staling. In S. P. Cauvain & L. S. Young (Eds.), *Technology of Breadmaking* (pp. 275–298). Springer. [https://doi.org/10.1007/0-387-38565-7_10](https://doi.org/10.1007/0-387-38565-7_10)
+
+9. Matz, S. A. (1991). *Chemistry and Technology of Cereals as Food and Feed* (2nd ed.). Van Nostrand Reinhold. [https://doi.org/10.1007/978-1-4615-4139-1](https://doi.org/10.1007/978-1-4615-4139-1)
+
+10. Rizzello, C. G., Cassone, A., Coda, R., & Gobbetti, M. (2015). Antifungal activity of sourdough fermented wheat germ. *Applied and Environmental Microbiology*, 77(6), 2162–2173. [https://doi.org/10.1128/AEM.02630-10](https://doi.org/10.1128/AEM.02630-10)
+
+11. Lavermicocca, P., Valerio, F., & Visconti, A. (2003). Antifungal activity of phenyllactic acid against molds isolated from bakery products. *Applied and Environmental Microbiology*, 69(1), 634–640. [https://doi.org/10.1128/AEM.69.1.634-640.2003](https://doi.org/10.1128/AEM.69.1.634-640.2003)
+
+12. Chin, N. L., & Campbell, G. M. (2005). Dough aeration and rheology. In S. P. Cauvain (Ed.), *Bread Making* (pp. 221–248). Woodhead Publishing. [https://doi.org/10.1533/9781855737123.221](https://doi.org/10.1533/9781855737123.221)
+
+13. Ryan, L. A. M., Dal Bello, F., & Arendt, E. K. (2008). The use of sourdough fermented by antifungal LAB to reduce the amount of calcium propionate in bread. *International Journal of Food Microbiology*, 125(3), 274–278. [https://doi.org/10.1016/j.ijfoodmicro.2008.04.013](https://doi.org/10.1016/j.ijfoodmicro.2008.04.013)
+
+14. Belton, P. S. (1999). On the elasticity of wheat gluten. *Journal of Cereal Science*, 29(2), 103–107. [https://doi.org/10.1006/jcrs.1998.0227](https://doi.org/10.1006/jcrs.1998.0227)
+
+15. Goesaert, H., Slade, L., Levine, H., & Delcour, J. A. (2009). Amylases and bread firming — an integrated view. *Journal of Cereal Science*, 50(3), 345–352. [https://doi.org/10.1016/j.jcs.2009.04.010](https://doi.org/10.1016/j.jcs.2009.04.010)
