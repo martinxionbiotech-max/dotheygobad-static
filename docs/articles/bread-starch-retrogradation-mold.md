@@ -1,5 +1,6 @@
 ---
 title: Bread Starch Retrogradation & Mold Science: Complete Shelf Life Analysis
+date: 2026-08-09
 description: Deep-dive into bread starch retrogradation kinetics, mold species identification, preservative biochemistry, and why refrigeration accelerates staling through amylopectin recrystallization at 0-4°C.
 keywords: bread staling, starch retrogradation, amylopectin crystallization, bread mold, calcium propionate, Rhizopus stolonifer, bread shelf life, food spoilage, water activity
 ---

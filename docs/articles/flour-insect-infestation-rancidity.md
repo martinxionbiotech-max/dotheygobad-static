@@ -1,5 +1,6 @@
 ---
 title: Flour Shelf Life Science: Insect Infestation, Lipid Oxidation, and Gluten Degradation
+date: 2026-08-09
 description: Comprehensive analysis of flour spoilage mechanisms including lipoxygenase-mediated rancidity, Tribolium beetle biology, Indian meal moth infestation, gluten protein oxidation, mycotoxin risks, and evidence-based storage protocols.
 keywords: flour shelf life, insect infestation flour, Tribolium castaneum, lipoxygenase rancidity, gluten oxidation, flour beetles, Indian meal moth, hexanal, mycotoxins flour
 ---

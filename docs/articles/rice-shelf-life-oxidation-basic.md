@@ -1,5 +1,6 @@
 ---
 title: Rice Shelf Life Fundamentals: Oxidation, Microbial Risk, and Storage Science
+date: 2026-08-09
 description: A comprehensive overview of rice spoilage covering bran lipid oxidation, Bacillus cereus food safety, insect infestation, water activity thresholds, starch retrogradation, and evidence-based storage practices for white, brown, and cooked rice.
 keywords: rice shelf life, rice spoilage, Bacillus cereus, brown rice rancidity, rice storage, water activity rice, insect infestation, cooked rice safety
 ---

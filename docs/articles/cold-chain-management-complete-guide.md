@@ -1,5 +1,6 @@
 ---
 title: "Cold Chain Management: Arrhenius Kinetics, Q₁₀ Values, Refrigeration Physics, and Regulatory Frameworks"
+date: 2026-08-09
 description: "Master cold chain science: temperature danger zone kinetics, Arrhenius equation, Q₁₀ values, refrigeration thermodynamics, freezing physics, and global regulatory standards for perishable food logistics."
 keywords: food spoilage, cold chain, temperature danger zone, Arrhenius kinetics, Q10, refrigeration, freezing, RFID, TTI, food safety
 ---

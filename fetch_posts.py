@@ -8,7 +8,7 @@ import time
 
 BASE = 'https://dotheygobad.com'
 API = f'{BASE}/wp-json/wp/v2'
-AUTH = ('agent', 'nJKltWqJzezM9lXFNArstS5f')
+AUTH = (os.environ.get('WP_USER', 'agent'), os.environ.get('WP_PASS', ''))
 OUT_ARTICLES = 'docs/articles'
 OUT_PAGES = 'docs/pages'
 OUT_IMAGES = 'docs/assets/images'
@@ -178,7 +178,8 @@ def main():
             process_item(item, 'article')
         else:
             print(f'    not found')
-        time.sleep(0.3)  # be gentle to the server
+        # Rate limiting between requests
+            time.sleep(0.3)  # be gentle to the server
 
     # Pages
     print('\nFetching page slugs...')

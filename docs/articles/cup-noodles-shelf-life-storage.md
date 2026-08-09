@@ -1,5 +1,6 @@
 ---
 title: Instant Noodle Shelf Life Science: Lipid Oxidation, Moisture, and Packaging
+date: 2026-08-09
 description: Comprehensive scientific analysis of instant noodle shelf life including fried vs non-fried noodle oxidation kinetics, palm oil chemistry, TBHQ/BHA antioxidant science, packaging barrier physics (OTR/MVTR), moisture-induced starch retrogradation, and evidence-based storage guidelines.
 keywords: cup noodle shelf life, instant noodle oxidation, instant noodle spoilage, fried noodle rancidity, palm oil shelf life, TBHQ antioxidant, instant noodle packaging, noodle moisture stability
 ---

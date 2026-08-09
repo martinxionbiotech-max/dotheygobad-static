@@ -1,5 +1,6 @@
 ---
 title: Egg Cuticle Biochemistry and Salmonella Penetration: From Nanostructure to Food Safety Policy
+date: 2026-08-09
 description: Comprehensive analysis of egg cuticle glycoprotein ultrastructure, trans-shell Salmonella penetration mechanisms, cuticle degradation kinetics, and the US-EU regulatory divergence in egg washing policy — with TEM imaging insights and pH-dependent antimicrobial activity.
 keywords: egg cuticle, bloom, Salmonella Enteritidis, trans-shell penetration, glycoprotein, cuticle degradation, egg washing, USDA egg regulations, EU egg policy, ovotransferrin, lysozyme, eggshell TEM, food microbiology, food safety
 ---

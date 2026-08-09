@@ -1,6 +1,8 @@
 site_name: DoTheyGoBad — Food Shelf Life Science Encyclopedia
 site_description: Industrial food science encyclopedia explaining why foods spoil, how shelf life is determined, and what preservation methods work.
 site_url: https://dotheygobad.com
+site_author: DoTheyGoBad Editorial Team
+copyright: © 2026 DoTheyGoBad. All rights reserved.
 
 theme:
   name: material
@@ -162,3 +164,9 @@ nav:
     - Terms of Use: terms-of-use.md
     - Disclaimer: disclaimer.md
     - AI Resources: resource-llms-txt.md
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/dotheygobad
+  generator: false
+

@@ -1,5 +1,6 @@
 ---
 title: Bacillus Cereus in Cooked Rice: The Complete Food Safety Science
+date: 2026-08-09
 description: Comprehensive analysis of Bacillus cereus in cooked rice — spore heat resistance, cereulide toxin chemistry, temperature danger zones, fried rice syndrome, prevention protocols, industrial HACCP controls, and consumer safety guidelines.
 keywords: Bacillus cereus cooked rice, fried rice syndrome, cereulide toxin, rice food poisoning, B. cereus spores, cooked rice safety, rice storage food safety
 ---

@@ -1,5 +1,6 @@
 ---
 title: Rice Shelf Life Science: Lipid Oxidation, Bacillus Cereus, and Grain Aging
+date: 2026-08-09
 description: Comprehensive analysis of rice spoilage mechanisms including bran lipid oxidation kinetics, Bacillus cereus food safety, starch retrogradation in cooked rice, insect infestation biology, and multi-decade storage science for white and brown rice.
 keywords: rice shelf life, lipid oxidation rice, Bacillus cereus cooked rice, brown rice rancidity, rice storage, insect infestation rice, rice weevil, starch retrogradation, hexanal rice
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Food Preservation Technology: Thermal Processing, Non-Thermal Methods, Chemical Preservatives, MAP, Irradiation, and Hurdle Combinations"
+date: 2026-08-09
 description: "Comprehensive industrial food preservation guide: pasteurization, UHT, retort, HPP, PEF, cold plasma, chemical preservatives, modified atmosphere packaging, irradiation, and hurdle synergy."
 keywords: food spoilage, food preservation, pasteurization, UHT, HPP, PEF, cold plasma, MAP, irradiation, hurdle technology, shelf life
 ---

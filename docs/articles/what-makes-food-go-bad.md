@@ -1,5 +1,6 @@
 ---
 title: What Makes Food Go Bad? — The Complete Industrial Food Science Guide to Spoilage Mechanisms
+date: 2026-08-09
 description: "Understand the 5 fundamental mechanisms of food spoilage: microbial growth, lipid oxidation, enzymatic degradation, moisture migration, and physical deterioration. Industrial science explained with water activity, pH, and temperature kinetics."
 keywords: food spoilage, spoilage mechanisms, food safety, microbial growth, lipid oxidation, enzymatic degradation, water activity, cold chain management
 ---

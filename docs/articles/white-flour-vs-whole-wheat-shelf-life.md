@@ -1,5 +1,6 @@
 ---
 title: White Flour vs Whole Wheat Flour: The Lipid Chemistry Behind Shelf Life Differences
+date: 2026-08-09
 description: A comprehensive analysis of why white flour lasts 6-12 months while whole wheat flour lasts only 3-6 months — the science of germ lipid oxidation, lipoxygenase enzymology, storage strategies, and the extraction rate paradigm.
 keywords: white flour vs whole wheat shelf life, wheat germ oxidation, lipoxygenase rancidity, flour storage, lipid oxidation, hexanal, whole grain stability
 ---

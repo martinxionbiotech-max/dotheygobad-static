@@ -1,5 +1,6 @@
 ---
 title: Dry Pasta vs Fresh Pasta: Water Activity and Shelf Life Science
+date: 2026-08-09
 description: A rigorous scientific comparison of dry pasta (aw 0.10-0.15, 1-2+ years shelf life) vs fresh pasta (aw 0.85-0.90, 2-5 days refrigerated), explaining water activity thresholds, microbial ecology, egg ingredient effects, MAP technology, and storage science.
 keywords: dry pasta vs fresh pasta shelf life, pasta water activity, fresh pasta spoilage, pasta storage, MAP packaging pasta, egg pasta safety, pasta expiration
 ---

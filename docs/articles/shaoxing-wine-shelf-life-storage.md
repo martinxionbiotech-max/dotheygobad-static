@@ -1,5 +1,7 @@
 ---
 title: Does Shaoxing Wine Go Bad? Understanding the Shelf Life and Quality of Huangjiu
+description: "Industrial food science analysis of does shaoxing wine go bad? understanding the shelf life and quality of huangjiu — spoilage mechanisms, shelf life determinants, and storage best practices."
+date: 2026-08-09
 ---
 
 Does Shaoxing wine [go bad](https://dotheygobad.com/what-makes-food-go-bad/)? Shaoxing wine can deteriorate, but not in the dramatic [spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) way most perishable foods do. As a fermented rice — key [ingredients and additives](https://dotheygobad.com/ingredients-additives/) that determine stability wine with residual sugars and alcohol (which lowers [water activity (aw)](https://dotheygobad.com/what-is-water-activity-aw/) and prevents spoilage), it’s naturally more stable, yet microbial contamination, oxidation, and poor storage gradually degrade its quality — especially once opened. Higher‑alcohol, aged styles resist spoilage longer, while lower‑ABV cooking versions lose aroma and develop sour, stale notes more quickly. Clear signs it’s past its prime include cloudiness, loss of transparency, pungent sourness, and off‑aromas, even if it may still be technically drinkable or usable in cooking. 

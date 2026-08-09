@@ -1,5 +1,6 @@
 ---
 title: What is Water Activity (aw)? The Complete Industrial Guide to Food Stability, Safety and Quality
+date: 2026-08-09
 description: "Water activity (aw) is the single most predictive parameter in food stability science. Learn how aw governs microbial growth thresholds, chemical reaction rates, and texture at every aw level from 0 to 1.0."
 keywords: water activity, aw, food stability, food safety, microbial growth, shelf life, moisture, food science
 ---

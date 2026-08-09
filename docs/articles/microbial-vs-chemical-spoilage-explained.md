@@ -1,5 +1,6 @@
 ---
 title: Microbial vs Chemical Spoilage Explained — Two Mechanisms, One Shared Outcome
+date: 2026-08-09
 description: "Understand the fundamental distinction between microbial spoilage (bacteria, yeasts, molds) and chemical spoilage (oxidation, hydrolysis, Maillard reactions). Industrial differentiation techniques, case studies, and integrated control strategies."
 keywords: food spoilage, spoilage mechanisms, microbial spoilage, chemical spoilage, lipid oxidation, enzymatic degradation, food safety, industrial quality control
 ---

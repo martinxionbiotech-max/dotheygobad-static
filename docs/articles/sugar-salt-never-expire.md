@@ -1,5 +1,6 @@
 ---
 title: Sugar and Salt: Why These Never Really Expire — The Science of Indefinite Shelf Life
+date: 2026-08-09
 description: Deep-dive into water activity depression by solutes (Raoult's law extension), osmotic dehydration of microorganisms, humectant chemistry, caking mechanisms, and iodine stability in salt.
 keywords: sugar salt shelf life, water activity depression, Raoult's law food, osmotic dehydration, humectant chemistry, salt caking, iodine stability, sugar crystallization, solute antimicrobial mechanism
 ---

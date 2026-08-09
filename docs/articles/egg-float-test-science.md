@@ -1,5 +1,6 @@
 ---
 title: Egg Float Test: The Physics, Microbiology, and Limitations of Buoyancy-Based Freshness Assessment
+date: 2026-08-09
 description: Rigorous examination of the egg float test through fluid mechanics, air cell morphogenesis, cuticle biochemistry, and Salmonella enteritidis contamination pathways — revealing why buoyancy measures age, not safety.
 keywords: egg float test, egg freshness, air cell formation, shell porosity, Salmonella enteritidis, transovarian transmission, trans-shell penetration, Archimedes principle, egg buoyancy, FDA egg safety, cuticle degradation, egg microbiology
 ---

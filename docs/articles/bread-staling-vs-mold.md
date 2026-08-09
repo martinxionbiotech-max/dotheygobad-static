@@ -1,5 +1,6 @@
 ---
 title: Bread Staling vs Mold: Two Fundamentally Different Spoilage Mechanisms
+date: 2026-08-09
 description: A rigorous comparison of bread staling (starch retrogradation, a physical polymer recrystallization) and mold growth (biological fungal colonization), explaining why they require completely different prevention strategies.
 keywords: bread staling vs mold, starch retrogradation, fungal spoilage, bread mold species, mycotoxin safety, bread storage science, food spoilage mechanisms
 ---

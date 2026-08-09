@@ -1,5 +1,6 @@
 ---
 title: Food Spoilage Science: The Complete Guide to How Food Goes Bad
+date: 2026-08-09
 description: Deep-dive into microbial spoilage kinetics (Gompertz/sqrt models), chemical degradation pathways, physical spoilage mechanisms, spoilage detection technologies, and hurdle technology for food stability.
 keywords: food spoilage science, microbial spoilage kinetics, Gompertz model, food degradation, lipid oxidation, hurdle technology, food spoilage detection, electronic nose, ATP bioluminescence, TVB-N, TMA-N
 ---

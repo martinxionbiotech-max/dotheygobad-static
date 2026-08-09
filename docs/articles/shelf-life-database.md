@@ -1,5 +1,6 @@
 ---
 title: "Food Shelf Life Database: 30+ Categories with Water Activity, pH, Storage Life, and Limiting Mechanisms"
+date: 2026-08-09
 description: "Comprehensive food shelf life database covering 30+ categories with scientific parameters: water activity (aw), pH, storage life, limiting spoilage mechanism, and optimal storage temperature."
 keywords: food spoilage, shelf life, food storage, water activity, food categories, storage time, spoilage mechanism
 ---

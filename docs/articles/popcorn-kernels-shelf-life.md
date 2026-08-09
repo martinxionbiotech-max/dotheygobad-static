@@ -1,5 +1,6 @@
 ---
 title: Popcorn Shelf Life Science: Moisture Content, Kernel Integrity, and Popping Quality
+date: 2026-08-09
 description: Comprehensive analysis of popcorn kernel shelf life including moisture diffusion physics, hull integrity mechanics, popping temperature-pressure thresholds, ice crystal damage from freezing, mycotoxin risks (aflatoxin/fumonisin), microwave popcorn lipid oxidation, and evidence-based storage protocols.
 keywords: popcorn kernel shelf life, popcorn moisture content popping, popcorn freezing damage, popcorn mold aflatoxin, microwave popcorn oxidation, popcorn kernel storage, popcorn pop rate science
 ---

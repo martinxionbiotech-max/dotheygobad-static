@@ -1,5 +1,6 @@
 ---
 title: Overnight Oats Shelf Life Science: Fermentation, Lipase Activity, and Spoilage Prevention
+date: 2026-08-09
 description: Comprehensive analysis of overnight oats spoilage mechanisms including water activity elevation, lipase-driven rancidity, microbial ecology at refrigeration temperatures, ingredient interactions, nitrite concerns, and evidence-based storage protocols for safe consumption within 1-4 days.
 keywords: overnight oats shelf life, overnight oats spoilage, oat lipase rancidity, overnight oats safety, soaked oats refrigerator, oat lipid oxidation, overnight oats fermentation
 ---

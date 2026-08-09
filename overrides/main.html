@@ -2,8 +2,14 @@
 
 {% block extrahead %}
   {{ super() }}
-  <meta property="og:site_name" content="DoTheyGoBad">
+  <!-- Primary Meta -->
   <meta name="robots" content="index, follow">
+  <meta property="og:site_name" content="DoTheyGoBad">
+  <meta property="og:type" content="article">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@dotheygobad">
+  
+  <!-- Schema.org WebSite -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -16,6 +22,17 @@
       "target": "https://dotheygobad.com/search/?q={search_term_string}",
       "query-input": "required name=search_term_string"
     }
+  }
+  </script>
+  
+  <!-- Schema.org Organization -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "DoTheyGoBad",
+    "url": "https://dotheygobad.com",
+    "description": "Industrial food science encyclopedia explaining food spoilage mechanisms"
   }
   </script>
 {% endblock %}

@@ -1,5 +1,6 @@
 ---
 title: Calcium Propionate: The Science of Bread Preservation and Mold Inhibition
+date: 2026-08-09
 description: A rigorous analysis of calcium propionate (E282) as a bread preservative: weak-acid mechanism, selective antifungal activity, regulatory limits worldwide, safety toxicology, and clean-label alternatives.
 keywords: calcium propionate, E282, bread preservative, weak-acid preservation, mold inhibition, propionic acid, antifungal bread additives, food additive safety
 ---
