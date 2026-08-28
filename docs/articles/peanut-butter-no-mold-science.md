@@ -1,9 +1,10 @@
 ---
-title: "Why Peanut Butter Doesn't Grow Mold: Water Activity Science, Microbial Barriers, and Oxidation as the True Spoilage Mechanism"
+
+title: "Water Activity Science, Microbial Barriers, and Oxidation"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: Peanut butter's water activity of 0.30-0.50 places it well below the minimum aw for any microbial growth — bacteria require 0.91, molds 0.61. The only spoilage risk is chemical lipid oxidation. This article explains water activity thermodynamics, microbial growth thresholds, the rare conditions under which mold can appear, and evidence-based storage recommendations grounded in food microbiology.
+description: "Peanut butter's water activity of 0.30-0.50 places it well below the minimum aw for any microbial growth — bacteria require 0.91, molds 0.61."
 keywords: peanut butter water activity, peanut butter mold, aw peanut butter, peanut butter microbial stability, xerophilic mold threshold, peanut butter oxidation, peanut butter food safety, low water activity preservation
 categories: ["Sauces & Condiments", "Food Microbiology", "Water Activity & Moisture", "Spoilage Mechanisms"]
 ---

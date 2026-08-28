@@ -1,10 +1,11 @@
 ---
+
 title: "Water Activity, pH, and Dissolved Oxygen in Beer"
 date: 2025-12-27
 dateModified: 2025-12-27
 author: "Martin Wang"
 categories: ["Beer & Alcoholic Drinks"]
-description: "Every beer enthusiast has encountered a beer that tastes “off” before its expiration date. To understand why beer spoils—or why it sometimes stays fresher"
+description: "Every beer enthusiast has encountered a beer that tastes “off” before its expiration date."
 ---
 
 # Water Activity, pH, and Dissolved Oxygen in Beer
@@ -15,11 +16,10 @@ description: "Every beer enthusiast has encountered a beer that tastes “off”
 
 * * *
 
-
 Introduction
 ------------
 
-Every beer enthusiast has encountered a beer that tastes “off” before its expiration date. To understand why beer spoils—or why it sometimes stays fresher longer—we need to look at **three critical factors** in brewing and [industrial food](/food-science-basics/)
+Every beer enthusiast has encountered a beer that tastes “off” before its expiration date. To understand why beer spoils—or why it sometimes stays fresher longer—we need to look at **three critical factors** in brewing and [industrial food](/articles/food-science-basics/)
  science:
 
 1.  **Water activity (aw)** – the availability of chemically active water
@@ -68,7 +68,7 @@ In beer, aw is naturally high, so **oxygen management becomes critical** for fla
 
 * * *
 
-2\. pH: The Yeast — see [ingredients and additives](/ingredients-additives/)
+2\. pH: The Yeast — see [ingredients and additives](/articles/ingredients-additives/)
  for how they affect beer stability’s “Comfort Thermostat”
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -195,10 +195,10 @@ Martin’s Industry Tip
 Related Reading
 ---------------
 
-*   [**Does Beer Go Bad?**](/does-beer-go-bad/)
+*   [**Does Beer Go Bad?**](/articles/does-beer-go-bad/)
      – Overview of spoilage, oxidation, and industrial shelf-life
     
-*   [**Why Canned Beer Lasts Longer Than Bottled Beer**](/why-canned-beer-lasts-longer-than-bottled-beer/)
+*   [**Why Canned Beer Lasts Longer Than Bottled Beer**](/articles/water-activity-ph-and-dissolved-oxygen-in-beer/)
      – Light and oxygen control explained
     
 *   [**What Is Skunky Beer? The Science Behind Lightstruck Flavor**](../articles//what-is-skunky-beer.md)
@@ -208,8 +208,7 @@ Related Reading
      – Water Activity (aw), Dissolved Oxygen (DO), Oxidation, pH
     
 
-References
-----------
+## References
 
 *   Shen, X. R. (2004). Effect of oxygen on beer quality and measures to prevent beer oxidation. China Brewing, 23(3), 34–35. [https://doi.org/10.3969/j.issn.0254-5071.2004.03.013](https://doi.org/10.3969/j.issn.0254-5071.2004.03.013)
     

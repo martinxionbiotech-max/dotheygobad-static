@@ -1,17 +1,17 @@
 ---
-title: "Banana Shelf Life Science: Ethylene Ripening, Browning and Tropical Storage"
+
+title: "Ethylene Ripening, Browning and Tropical Storage"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
 categories: ["Enzymatic & Chemical Reactions", "Fruits & Vegetables", "Spoilage Mechanisms"]
-description: "Banana is the world’s most traded fruit by volume, with over 120 million metric tons harvested annually across 130 countries. It is also one of the most pe"
+description: "Banana is the world’s most traded fruit by volume, with over 120 million metric tons harvested annually across 130 countries."
 ---
 
 # Banana Shelf Life Science: Ethylene Ripening, Browning and Tropical Storage
 
 Banana is the world’s most traded fruit by volume, with over 120 million metric tons harvested annually across 130 countries. It is also one of the most perishable major commodities — the window between harvest-ready and spoiled can be as narrow as 7–14 days even under optimal conditions. Understanding the science of banana [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  requires examining a coordinated cascade of climacteric ripening, enzymatic browning, chilling injury, and fungal pathogenesis that together define the banana’s unusually compressed post-harvest life.
-
 
 The Banana’s Post-Harvest Biochemistry
 --------------------------------------
@@ -78,8 +78,6 @@ The browning cascade in banana peel proceeds as:
 *   **Enzyme-substrate mixing:** PPO, which is sequestered in chloroplasts and mitochondria, is released into the cytosol where it contacts dopamine/L-DOPA stored in vacuoles.
 *   **Oxidation and polymerization:** The PPO generates o-quinones, which polymerize non-enzymatically to form brown melanin pigments — the characteristic age spots of an overripe banana.
 *   **Iron-mediated intensification:** Banana peel contains 2–5 mg/100 g iron, and Fe³⁺ ions catalyze the non-enzymatic darkening reactions, making banana peel browning darker than would occur from PPO alone.
-
-![Enzymatic Spoilage](/wp-content/uploads/2026/06/enzymatic-spoilage.png)
 
 The enzymatic browning pathway in banana peel shares similarities with other PPO-mediated browning systems. For a deeper understanding, read about [the principles of chemical spoilage in food](../articles//what-makes-food-go-bad.md)
 .
@@ -156,9 +154,7 @@ For the banana industry, shelf life is managed through precise control of the te
 *   **Retail life:** At 15–18°C, a Stage 5 banana maintains eating quality for 2–4 days. At 20–25°C, this window compresses to 1–2 days.
 *   **Quality check protocol:** Peal color (objective colorimeter L\*, a\*, b\* values), pulp firmness (6 mm penetrometer, acceptable range 3–15 N for retail), soluble solids content (refractometer, target 15–22°Brix for ripe fruit), and peel bruising assessment.
 
-![Shelf Life Extraction](/wp-content/uploads/2026/06/shelf-life-extraction.png)
-
-The multi-factorial approach to banana shelf-life management. For the foundational science, read about [water activity in food preservation](/what-is-water-activity-aw/)
+The multi-factorial approach to banana shelf-life management. For the foundational science, read about [water activity in food preservation](/articles/water-activity-food-stability/)
  and [the complete guide to food spoilage](../articles//what-makes-food-go-bad.md)
 .
 
@@ -171,6 +167,16 @@ Understanding these mechanisms — from the [microbial and chemical spoilage pat
  that act in concert — allows the industry to make informed tradeoffs: how much cold is too cold (chilling injury vs. shelf-life extension), when to apply fungicide (pre- or post-harvest), and at what ripeness stage to ship (green vs. pre-ripe). For the consumer, the lesson is that a banana that has been refrigerated (<12°C) may fail to ripen properly not because it went "bad" but because its ripening machinery was damaged — a subtle but important distinction in the science of food spoilage.
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

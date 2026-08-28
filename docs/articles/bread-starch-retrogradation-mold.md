@@ -1,5 +1,6 @@
 ---
-title: "Bread Shelf Life Science: Starch Retrogradation, Mold and Staling"
+
+title: "Starch Retrogradation, Mold and Staling"
 date: 2026-06-29
 dateModified: 2026-06-29
 author: "Martin Wang"
@@ -162,7 +163,7 @@ Scientific Literature References
 --------------------------------
 
 1.  [Gray & Bemiller (2003)](https://doi.org/10.1016/j.tifs.2004.12.004)
-     — Bread staling: molecular basis and control through amylopectin retrogradation kinetics and enzymatic intervention. _Comprehensive Reviews in [Food Science](/food-science-basics/)
+     — Bread staling: molecular basis and control through amylopectin retrogradation kinetics and enzymatic intervention. _Comprehensive Reviews in [Food Science](/articles/food-science-basics/)
      and Food Safety_, 2(1), 1-21.
 2.  [Dagnas & Membré (2013)](https://doi.org/10.1016/j.fm.2011.04.005)
      — Predicting and preventing mold [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
@@ -171,12 +172,22 @@ Scientific Literature References
      — Prevention of bread mold [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
      by antifungal lactic acid bacteria from sourdough fermentation. _Food Control_, 20(2), 144-148.
 4.  [Axel et al. (2017)](https://doi.org/10.1016/j.lwt.2018.01.042)
-     — Mold spoilage of bread and its biopreservation: a review of antifungal lactic acid bacteria and their metabolites. _LWT – [Food Science](/food-science-basics/)
+     — Mold spoilage of bread and its biopreservation: a review of antifungal lactic acid bacteria and their metabolites. _LWT – [Food Science](/articles/food-science-basics/)
      and Technology_, 87, 361-370.
 5.  [Hug-Iten et al. (2003)](https://doi.org/10.1006/jcrs.2000.0319)
      — Starch retrogradation in bread: amylopectin recrystallization kinetics and the role of flour lipids and emulsifiers. _Journal of Cereal Science_, 34(2), 131-143.
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

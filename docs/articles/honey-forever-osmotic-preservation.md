@@ -1,9 +1,10 @@
 ---
-title: "Why Honey Never Expires: The Four-Barrier Osmotic Preservation System, Bee-Derived Antimicrobials, and the 3,000-Year Shelf Life"
+
+title: "The Four-Barrier Osmotic Preservation System, Bee-Derived"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: "Honey is the only food that never spoils — archaeologists have recovered 3,200-year-old honey from Egyptian tombs still perfectly edible. Four preservation barriers operate simultaneously: extreme osmotic pressure, low pH, enzymatic hydrogen peroxide production, and low redox potential. This article explains each barrier's chemistry, bee-derived antimicrobial peptides (defensin-1), methylglyoxal in manuka honey, crystallization physics, C4 sugar adulteration detection, and why honey's multi-hurdle system has never been breached."
+description: "Honey is the only food that never spoils — archaeologists have recovered 3,200-year-old honey from Egyptian tombs still perfectly edible."
 keywords: why honey never expires, honey preservation science, honey osmotic pressure, honey water activity, honey pH preservation, Egyptian tomb honey, honey defensin-1, methylglyoxal manuka, honey crystallization science, C4 sugar adulteration AOAC 998.12, honey glucose oxidase, bee antimicrobial peptides
 categories: ["Sauces & Condiments", "Food Microbiology", "Water Activity & Moisture", "Preservation Technology"]
 ---

@@ -1,4 +1,5 @@
 ---
+
 title: Contact
 date: 2025-12-18
 description: Contact Martin Wang, founder of DoTheyGoBad — food scientist with 20+ years in industrial food processing. Email, WhatsApp, and LinkedIn.

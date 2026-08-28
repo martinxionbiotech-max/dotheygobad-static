@@ -1,9 +1,10 @@
 ---
-title: "Why Coffee Flavor Changes With Roast Level: The Maillard Reaction, Caramelization, and Aroma Curves"
+
+title: "The Maillard Reaction, Caramelization, and Aroma Curves"
 date: 2026-02-01
 dateModified: 2026-02-01
 author: "Martin Wang"
-description: Coffee flavor is not preserved from the green bean — it is created through heat. This article maps the Maillard reaction, caramelization, and Strecker degradation across roast levels, explaining the shape of the aroma curve that defines every roast.
+description: "Coffee flavor is not preserved from the green bean — it is created through heat."
 keywords: coffee roast level, Maillard reaction coffee, caramelization coffee, Strecker degradation, coffee flavor chemistry, aroma curves, light roast vs dark roast
 categories: ["Non-Alcoholic Beverages", "Enzymatic & Chemical Reactions", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---

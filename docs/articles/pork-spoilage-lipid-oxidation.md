@@ -1,5 +1,6 @@
 ---
-title: "Pork Shelf Life Science: Bacterial Spoilage, Lipid Oxidation and Cold Chain"
+
+title: "Bacterial Spoilage, Lipid Oxidation and Cold Chain"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
@@ -14,7 +15,6 @@ Pork is the most consumed meat globally by volume, accounting for over 110 milli
  route is psychrotrophic pseudomonads, pork occupies a middle ground with distinct [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  characteristics driven by its intermediate fat content, higher unsaturated fatty acid profile, and significant pH variation from the DFD (dark, firm, dry) condition. Understanding how pork spoils requires examining the interplay between [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
  metabolism, lipid oxidation, and the unique biochemical properties of porcine muscle.
-
 
 The Intrinsic Properties of Pork That Drive Spoilage
 ----------------------------------------------------
@@ -31,11 +31,9 @@ Pork muscle tissue has compositional parameters that define its [spoilage](../ar
 The higher unsaturated fat content compared to beef makes pork more susceptible to lipid oxidation, while the lower pH compared to chicken provides some — but not complete — inhibition of _Pseudomonas_ and _Enterobacteriaceae_. Understanding [what makes food go bad](../articles//what-makes-food-go-bad.md)
  in pork requires appreciating these intermediate properties that place it at a unique spoilage intersection.
 
-![Water Activity Spectrum](/wp-content/uploads/2026/06/water-activity-spectrum.png)
-
 Pork has a [water activity](../articles//water-activity-food-stability.md)
  of ~0.98–0.99, placing it at the high end of the aw spectrum. For a deeper understanding of how [water activity](../articles//water-activity-food-stability.md)
- affects all aspects of meat spoilage, see [the complete guide to water activity in food preservation](/what-is-water-activity-aw/)
+ affects all aspects of meat spoilage, see [the complete guide to water activity in food preservation](/articles/water-activity-food-stability/)
 .
 
 Bacterial Spoilage of Fresh Pork
@@ -72,8 +70,6 @@ The pork industry has increasingly adopted MAP to extend shelf life. Typical gas
 *   **Enterobacteriaceae:** Suppressed but not eliminated at 20–30% CO₂. Can grow if the temperature exceeds 7–8°C.
 
 Under optimal MAP conditions (70% O₂, 30% CO₂, ≤2°C), pork shelf life extends to 14–21 days, compared to 7–12 days for aerobic packaging. However, the spoilage signal shifts from putrid (Pseudomonas-dominated) to sour/acidic (LAB-dominated), which consumers perceive differently.
-
-![Spoilage Mechanisms](/wp-content/uploads/2026/06/spoilage-mechanisms.png)
 
 Pork spoilage involves microbial, chemical, and biochemical mechanisms. For a comprehensive comparison, see [microbial vs chemical spoilage explained](../articles//microbial-vs-chemical-spoilage-explained.md)
 .
@@ -132,9 +128,7 @@ Fresh pork sausage has the highest surface-to-volume ratio of any muscle food, w
 *   **Oxygen exposure:** The porous structure allows oxygen to penetrate deeply, supporting aerobic spoilage throughout the product mass.
 *   **Shelf life:** 3–7 days refrigerated (aerobic), 7–14 days (MAP/vacuum).
 
-![Processing and Packaging Impact](/wp-content/uploads/2026/06/processing-packaging-impact.png)
-
-Processing methods have a dramatic impact on pork shelf life. Learn more about the [role of water activity](/what-is-water-activity-aw/)
+Processing methods have a dramatic impact on pork shelf life. Learn more about the [role of water activity](/articles/water-activity-food-stability/)
  in controlling spoilage across different meat products.
 
 Practical Spoilage Assessment for Pork
@@ -157,10 +151,20 @@ The DFD condition serves as a powerful demonstration of how preslaughter managem
 
 For more on the foundational science of meat spoilage, see our guides on [what makes food go bad](../articles//what-makes-food-go-bad.md)
 , [microbial vs chemical spoilage explained](../articles//microbial-vs-chemical-spoilage-explained.md)
-, and [water activity (aw) in food preservation](/what-is-water-activity-aw/)
+, and [water activity (aw) in food preservation](/articles/water-activity-food-stability/)
 .
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

@@ -1,9 +1,10 @@
 ---
-title: "How Industry Tests Olive Oil Freshness: Peroxide Value, Spectrophotometry, and Rancidity Detection Methods"
+
+title: "Peroxide Value, Spectrophotometry, and Rancidity Detection"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: Industry uses Peroxide Value (PV), p-Anisidine Value (p-AV), K232/K270 spectrophotometry, Rancimat induction time, and sensory panels to assess olive oil freshness. This article explains each analytical method, its chemical basis, regulatory limits, and how these translate into practical home freshness testing.
+description: "How industry tests olive oil freshness with peroxide value, p-anisidine, K232/K270, Rancimat, and sensory panels."
 keywords: olive oil freshness testing, peroxide value olive oil, p-anisidine value, K232 K270 spectrophotometry, Rancimat olive oil, EVOO quality testing, olive oil rancidity detection, Totox value
 categories: ["Sauces & Condiments", "Lipid Chemistry & Rancidity", "Quality Control & Food Safety", "Shelf Life & Stability"]
 ---

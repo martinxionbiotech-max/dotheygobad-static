@@ -1,36 +1,37 @@
 ---
+
 title: llms.txt
 date: 2026-07-21
 description: DoTheyGoBad resources for AI and LLM systems — structured index of the industrial food science knowledge base.
 keywords: llms.txt, AI resources, food science knowledge base, structured data
 ---
-# DoTheyGoBad — [Industrial Food](https://dotheygobad.com/food-science-basics/) Science Knowledge Base
+# DoTheyGoBad — [Industrial Food](/articles/food-science-basics/) Science Knowledge Base
 
-> https://dotheygobad.com — Industrial food science behind [spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/), stability, and shelf life. Written from a food technology perspective.
+> https://dotheygobad.com — Industrial food science behind [spoilage](/articles/microbial-vs-chemical-spoilage-explained/), stability, and shelf life. Written from a food technology perspective.
 
 ## About
 
-DoTheyGoBad applies food science principles—[water activity](https://dotheygobad.com/water-activity-food-stability/) (a_w), pH, lipid oxidation kinetics, microbial growth modeling, and hurdle technology—to explain why foods spoil and how to extend shelf life.
+DoTheyGoBad applies food science principles—[water activity](/articles/water-activity-food-stability/) (a_w), pH, lipid oxidation kinetics, microbial growth modeling, and hurdle technology—to explain why foods spoil and how to extend shelf life.
 
 ## Content Structure
 
 The site is organized by 8 food categories:
 
-– **Beer & Alcoholic Drinks** (6 articles)
+– [Beer & Alcoholic Drinks](https://dotheygobad.com/categories/beer-alcoholic-drinks/) (6 articles)
 
-– **Dairy Products** (17 articles)
+– [Dairy Products](https://dotheygobad.com/categories/dairy-products/) (21 articles)
 
-– **Fruits & Vegetables** (15 articles)
+– [Fruits & Vegetables](https://dotheygobad.com/categories/fruits-vegetables/) (12 articles)
 
-– **Grains & Baked Goods** (21 articles)
+– [Grains & Baked Goods](https://dotheygobad.com/categories/grains-baked-goods/) (20 articles)
 
-– **Meat & Seafood** (15 articles)
+– [Meat & Seafood](https://dotheygobad.com/categories/meat-seafood/) (11 articles)
 
-– **Non-Alcoholic Beverages** (4 articles)
+– [Non-Alcoholic Beverages](https://dotheygobad.com/categories/non-alcoholic-beverages/) (8 articles)
 
-– **Sauces & Condiments** (17 articles)
+– [Sauces & Condiments](https://dotheygobad.com/categories/sauces-condiments/) (18 articles)
 
-– **Food Industry Concept** (14 articles)
+– [Food Industry Concepts](https://dotheygobad.com/categories/food-industry-concept/) (17 articles)
 
 ## Supporting Pages
 
@@ -42,26 +43,22 @@ The site is organized by 8 food categories:
 
 ## Key Articles
 
-– [Does Bread [Go Bad](https://dotheygobad.com/what-makes-food-go-bad/)?](https://dotheygobad.com/does-bread-go-bad) — Starch retrogradation, mold, preservatives
+– [Does Bread Go Bad?](/articles/bread-shelf-life-staling-basic/) — Starch retrogradation, mold, preservatives
 
-– [Does Butter Go Bad?](https://dotheygobad.com/does-butter-go-bad/) — Lipolytic rancidity, photooxidation
+– [Does Butter Go Bad?](/articles/butter-rancidity-shelf-life-basic/) — Lipolytic rancidity, photooxidation
 
-– [Does Rice Go Bad?](https://dotheygobad.com/does-rice-go-bad/) — Grain aging, lipid oxidation, Bacillus cereus
+– [Does Rice Go Bad?](/articles/rice-shelf-life-oxidation-basic/) — Grain aging, lipid oxidation, Bacillus cereus
 
-– [Does Eggs Go Bad?](https://dotheygobad.com/does-eggs-go-bad/) — Cuticle, albumen, Salmonella
+– [Does Eggs Go Bad?](/articles/eggs-shelf-life-freshness-spoilage/) — Cuticle, albumen, Salmonella
 
-– [Does Flour Go Bad?](https://dotheygobad.com/does-flour-go-bad/) — Insect infestation, lipoxygenase, rancidity
+– [Does Flour Go Bad?](/articles/flour-insect-infestation-rancidity/) — Insect infestation, lipoxygenase, rancidity
 
-– [Does Milk Go Bad?](https://dotheygobad.com/does-milk-go-bad/) — Psychrotrophs, pasteurization
+– [Does Milk Go Bad?](/articles/milk-shelf-life-pasteurization-spoilage/) — Psychrotrophs, pasteurization
 
-– [Does Olive Oil Go Bad?](https://dotheygobad.com/does-olive-oil-go-bad/) — Hydrolytic vs oxidative rancidity
+– [Does Olive Oil Go Bad?](/articles/olive-oil-chemistry-oxidation/) — Hydrolytic vs oxidative rancidity
 
-– [Does Honey Go Bad?](https://dotheygobad.com/does-honey-go-bad/) — Osmophilic yeasts, HMF
+– [Does Honey Go Bad?](/articles/honey-shelf-life-forever-storage/) — Osmophilic yeasts, HMF
 
-## Markdown Access
+## Machine-Readable Access
 
-Every article and page is available as clean Markdown with YAML front matter by appending `.md`:
-
-– `https://dotheygobad.com/does-bread-go-bad.md`
-
-– `https://dotheygobad.com/food-science-glossary.md`
+This site exposes `llms.txt` for AI systems. Individual pages are served as rendered HTML; do not append `.md` to request source files.

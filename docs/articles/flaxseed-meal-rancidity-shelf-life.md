@@ -1,5 +1,6 @@
 ---
-title: "Flaxseed Meal Shelf Life Science: Omega-3 Rancidity, Oxidation and Cold Storage"
+
+title: "Omega-3 Rancidity, Oxidation and Cold Storage"
 date: 2026-01-05
 dateModified: 2026-01-05
 author: "Martin Wang"
@@ -11,10 +12,10 @@ description: "Flaxseed meal is a popular functional food ingredient due to its h
 
 > **Does flaxseed meal [go bad](../articles//what-makes-food-go-bad.md)
 > ?**  
-> Yes — flaxseed meal is nutritious but chemically unstable once ground: the high content of polyunsaturated omega-3 fats begins oxidizing quickly when exposed to air, light, or heat, leading to [rancidity](/does-olive-oil-go-bad)
+> Yes — flaxseed meal is nutritious but chemically unstable once ground: the high content of polyunsaturated omega-3 fats begins oxidizing quickly when exposed to air, light, or heat, leading to [rancidity](/articles/olive-oil-chemistry-oxidation/)
 >  that degrades flavor, smell, and nutritional value. Industrial packaging and cold, airtight storage slow this process, but oxidation is inevitable without proper protection — meaning ground flaxseed meal can develop off-odors, bitter taste, and quality loss even before its printed date if stored poorly.
 
-Flaxseed meal is a popular functional food ingredient due to its **high omega-3 content, fiber — see [ingredients and additives](/ingredients-additives/)
+Flaxseed meal is a popular functional food ingredient due to its **high omega-3 content, fiber — see [ingredients and additives](/articles/ingredients-additives/)
  for the full nutritional profile, and lignans**. Yet, many consumers and B2B professionals ask: _does flaxseed meal [go bad](../articles//what-makes-food-go-bad.md)
 ?_ The answer is yes. Ground flaxseed is prone to **oxidative rancidity**, which can degrade its nutritional value and sensory quality.
 
@@ -22,7 +23,6 @@ In this article, we combine **scientific references, practical experience, and i
 , and how storage and packaging strategies affect shelf life.
 
 * * *
-
 
 **1\. What Is Flaxseed Meal?**
 ------------------------------
@@ -92,7 +92,7 @@ Experimental studies and practical observations show:
 
 *   **Modified Atmosphere Packaging (MAP)**: Replaces oxygen with nitrogen; significantly slows oxidation.
     
-*   **High-barrier laminated pouches**: Limit light and moisture — see the full guide on [water activity (aw)](/what-is-water-activity-aw/)
+*   **High-barrier laminated pouches**: Limit light and moisture — see the full guide on [water activity (aw)](/articles/water-activity-food-stability/)
      penetration.
     
 *   **Cold chain transport**: Maintains low temperature, reducing PV and AV increases during shipping.
@@ -214,11 +214,21 @@ Food Nutrition Review. (2025). _Antioxidant Activity and Oxidative Stability of 
 
 > [Microbial vs Chemical Spoilage Explained](../articles//microbial-vs-chemical-spoilage-explained.md)
 
-> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/food-science-basics/)
+> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/articles/food-science-basics/)
 
 > [What Makes Food Go Bad? – Understanding Food Spoilage from an Industrial Food Science Perspective](../articles//what-makes-food-go-bad.md)
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

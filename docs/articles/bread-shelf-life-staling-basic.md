@@ -1,9 +1,10 @@
 ---
-title: "Bread Shelf Life Fundamentals: Starch Retrogradation, Staling, and Mold Prevention"
+
+title: "Starch Retrogradation, Staling, and Mold Prevention"
 date: 2026-08-09
 dateModified: 2026-08-09
 author: "Martin Wang"
-description: A comprehensive guide to bread shelf life science covering starch retrogradation kinetics, moisture migration, mold ecology, industrial preservation strategies, and evidence-based storage recommendations.
+description: "A comprehensive guide to bread shelf life science covering starch retrogradation kinetics, moisture migration, mold ecology, industrial preservation"
 keywords: bread shelf life, starch retrogradation, bread staling, bread mold, food storage, water activity, calcium propionate, MAP packaging
 categories: ["Grains & Baked Goods", "Enzymatic & Chemical Reactions", "Shelf Life & Stability", "Water Activity & Moisture"]
 ---

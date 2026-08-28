@@ -1,10 +1,11 @@
 ---
-title: "Bacon Shelf Life Science: Salt Curing, Smoking and Lipid Oxidation"
+
+title: "Salt Curing, Smoking and Lipid Oxidation"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
 categories: ["Food Microbiology", "Lipid Chemistry & Rancidity", "Meat & Seafood", "Preservation Technology", "Spoilage Mechanisms"]
-description: "Bacon occupies a paradoxical position in food preservation science. It is, by design, a preserved meat — cured with salt, nitrite, and often smoke to exten"
+description: "Bacon occupies a paradoxical position in food preservation science."
 ---
 
 # Bacon Shelf Life Science: Salt Curing, Smoking and Lipid Oxidation
@@ -17,20 +18,17 @@ Bacon occupies a paradoxical position in food preservation science. It is, by de
  requires examining how the cured state alters [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
  ecology, accelerates certain chemical reactions, and creates new failure modes — including the curious and alarming phenomenon of green discoloration.
 
-
 How Curing Transforms the Spoilage Landscape
 --------------------------------------------
 
 The classical bacon-making process (Wiltshire or dry-cure) introduces three major chemical barriers that collectively shift the [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  profile away from what we observe in fresh pork.
 
-*   **Salt (NaCl):** At 2–4% in the lean muscle and up to 6–8% in the fat layer, sodium chloride reduces [water activity (aw)](/what-is-water-activity-aw)
+*   **Salt (NaCl):** At 2–4% in the lean muscle and up to 6–8% in the fat layer, sodium chloride reduces [water activity (aw)](/articles/water-activity-food-stability/)
      from 0.98–0.99 (fresh pork) to 0.92–0.96 — below the growth threshold for most Gram-negative [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
      bacteria
 *   **Sodium nitrite (NaNO₂):** Added at 100–200 ppm, nitrite exerts specific antimicrobial activity against _Clostridium botulinum_ and modulates the bacterial ecology by inhibiting heme-dependent respiration
 *   **Smoke phenols:** Vapor-deposited phenolic compounds (guaiacol, syringol, eugenol) and carbonyls provide surface antimicrobial protection and antioxidant activity
-
-![Raw bacon strips showing the characteristic fat-to-lean ratio and pink cured color](/wp-content/uploads/2025/07/canned-tuna-processing.jpg)
 
 The pink cured color of bacon is a direct result of the nitrosylhemochrome complex formed during curing.
 
@@ -119,10 +117,20 @@ How to Tell If Bacon Has Gone Bad
 For a deeper understanding of the foundational chemistry, see [What Makes Food Go Bad](../articles//what-makes-food-go-bad.md)
  — the comprehensive guide to how [water activity](../articles//water-activity-food-stability.md)
 , pH, and nutrient availability determine spoilage susceptibility across all food matrices. Also read [Microbial vs Chemical Spoilage Explained](../articles//microbial-vs-chemical-spoilage-explained.md)
- to understand how bacon’s preservation system creates a unique balance between these two spoilage pathways. Finally, [What Is Water Activity (aw)](/what-is-water-activity-aw)
+ to understand how bacon’s preservation system creates a unique balance between these two spoilage pathways. Finally, [What Is Water Activity (aw)](/articles/water-activity-food-stability/)
  explains the fundamental concept that makes salt preservation work — and why even cured meats eventually succumb to time.
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

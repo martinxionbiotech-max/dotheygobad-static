@@ -1,9 +1,10 @@
 ---
-title: Does Beer Go Bad? A Comprehensive Food Science and Shelf-Life Analysis
+
+title: "Does Beer Go Bad?"
 date: 2026-08-07
 dateModified: 2026-08-07
 author: "Martin Wang"
-description: Does beer go bad? Beer rarely becomes unsafe but degrades through oxidation, light exposure, and microbial contamination. This comprehensive food science analysis covers dissolved oxygen, cold chain, flavor stability, and industrial quality control.
+description: "Does beer go bad? Beer rarely becomes unsafe but degrades through oxidation, light exposure, and microbial contamination."
 keywords: beer spoilage, beer shelf life, dissolved oxygen beer, beer oxidation, cold chain beer, beer flavor stability, beer microbiology, beer storage, skunky beer, beer packaging
 categories: ["Beer & Alcoholic Drinks", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---
@@ -144,7 +145,6 @@ Wackerbauer, K., & Hardt, R. (1997). Radical reactions and the influence of temp
 - [Food Science Basics: Understanding the Foundations of Industrial Food Stability](food-science-basics.md)
 - [Does Wine Go Bad? An Industrial & Food Science Perspective](does-wine-go-bad.md)
 
-[{"@context": "https://schema.org", "@type": "Article", "@id": "does-beer-go-bad.md#article", "headline": "Does Beer Go Bad? A Comprehensive Food Science and Shelf-Life Analysis", "mainEntityOfPage": {"@type": "WebPage", "@id": "does-beer-go-bad.md"}, "author": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}, "publisher": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "@id": "does-beer-go-bad.md#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dotheygobad.com/"}, {"@type": "ListItem", "position": 2, "name": "Articles", "item": "https://dotheygobad.com/articles/"}, {"@type": "ListItem", "position": 3, "name": "Does Beer Go Bad? A Comprehensive Food Science and Shelf-Life Analysis"}]}]
 
 ## About the Author
 

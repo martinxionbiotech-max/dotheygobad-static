@@ -1,17 +1,18 @@
 ---
-title: "Sour Cream Shelf Life Science: Acidification, Mold Growth and Refrigeration"
+
+title: "Acidification, Mold Growth and Refrigeration"
 date: 2026-01-04
 dateModified: 2026-01-04
 author: "Martin Wang"
 categories: ["Dairy Products", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms"]
-description: "Sour cream is a fermented dairy product made by inoculating cream—usually heavy cream—with lactic acid bacteria (LAB). By definition, sour cream contains a"
+description: "Sour cream is a fermented dairy product made by inoculating cream—usually heavy cream—with lactic acid bacteria (LAB)."
 ---
 
 # Sour Cream Shelf Life Science: Acidification, Mold Growth and Refrigeration
 
 > Table of Contents
 > 
-> [Toggle](/sour-cream-shelf-life-spoilage/#)
+> [Toggle](/articles/sour-cream-shelf-life-spoilage/#)
 > 
 > Short Answer: Does Sour Cream Go Bad?
 > -------------------------------------
@@ -48,7 +49,7 @@ However, its composition also explains why it spoils relatively easily:
 
 This pH range slows—but does not stop—the growth of spoilage bacteria, yeasts, and molds.
 
-[Food science](/food-science-basics/)
+[Food science](/articles/food-science-basics/)
  research confirms that fermented dairy products remain microbiologically vulnerable despite acidity, particularly after opening (Walstra, Wouters, & Geurts, 2006).
 
 * * *
@@ -309,8 +310,7 @@ Yes. Some harmful bacteria, such as _Listeria monocytogenes_, may not produce ob
 
 * * *
 
-References
-----------
+## References
 
 Frankel, E. N. (2014). _Lipid oxidation_. Woodhead Publishing.  
 [https://doi.org/10.1016/C2011-0-07245-4](https://doi.org/10.1016/C2011-0-07245-4)
@@ -329,9 +329,9 @@ U.S. Food and Drug Administration. (2023). _Foodborne pathogens_.
 
 > [Microbial vs Chemical Spoilage Explained](../articles//microbial-vs-chemical-spoilage-explained.md)
 
-> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/food-science-basics/)
+> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/articles/food-science-basics/)
 
-> [Ingredients & Additives: Their Role in Food Stability and Spoilage](/ingredients-additives/)
+> [Ingredients & Additives: Their Role in Food Stability and Spoilage](/articles/ingredients-additives/)
 
 ---
 

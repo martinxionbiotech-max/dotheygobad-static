@@ -1,4 +1,5 @@
 ---
+
 title: "Categories — Food Shelf Life Science"
 ---
 
@@ -15,4 +16,4 @@ Browse articles by food category:
 - [Sauces & Condiments](sauces-condiments.md)
 - [Food Industry Concepts](food-industry-concept.md)
 
-[Browse all articles](../articles/)
+[Browse all articles](../articles.md)

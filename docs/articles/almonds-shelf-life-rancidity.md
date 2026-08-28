@@ -1,10 +1,11 @@
 ---
-title: "Almond Shelf Life Science: Lipid Oxidation, Rancidity and Protective Storage"
+
+title: "Lipid Oxidation, Rancidity and Protective Storage"
 date: 2026-02-06
 dateModified: 2026-02-06
 author: "Martin Wang"
 categories: ["Food Storage Science", "Grains & Baked Goods", "Lipid Chemistry & Rancidity", "Shelf Life & Stability", "Spoilage Mechanisms"]
-description: "Almonds are widely consumed for their nutritional value and health benefits, providing unsaturated fats, protein, vitamins, and minerals. Consumers often a"
+description: "Almonds are widely consumed for their nutritional value and health benefits, providing unsaturated fats, protein, vitamins, and minerals."
 ---
 
 # Almond Shelf Life Science: Lipid Oxidation, Rancidity and Protective Storage
@@ -16,7 +17,6 @@ description: "Almonds are widely consumed for their nutritional value and health
 >  — but not in the way meat or dairy does. It’s the fats in the nuts that slowly oxidize, leaving a bitter, rancid taste or a paint‑like smell rather than an off‑putting bacterial rot. Kept in a sealed jar on the kitchen counter they usually hold their best flavor for around six months; tucked into the fridge you can stretch that to about a year. If an almond tastes bitter or gives off that varnishy, painty smell, I toss it without hesitation. For manufacturers the battle is the same, just on a bigger scale: control lipid oxidation, keep oxygen out with low‑O2 packaging (think nitrogen flushing or vacuum), manage moisture, and maintain steady, cool temperatures all along the supply chain.
 > 
 > * * *
-
 
 **Introduction**
 ----------------
@@ -369,13 +369,11 @@ High relative humidity (RH > 65%) raises Aw, triggering **oxidation-mold synergy
 | Sliced/ground | Very High | Large surface area, enzymatic + environmental oxidation synergistic; rancidity within days |
 | Organic vs conventional | Minor | Physical form & storage dominate risk, not farming method |
 
-![Can Almonds Go Bad](/wp-content/uploads/2026/02/Can-Almonds-Go-Bad.jpg)
-
 Figure: Spoilage risk curves of almonds stored at 25°C. Whole almonds show slow rancidity development, roasted almonds slower, sliced almonds accelerate oxidation and microbial risk, and ground almonds reach critical spoilage fastest due to maximal surface exposure.
 
 More to Read:
 
-[Does Almond Extract Expire? Understanding Almond Oil in Food Use, Spoilage Mechanisms, and Shelf Life](/does-almond-extract-expire/)
+[Does Almond Extract Expire? Understanding Almond Oil in Food Use, Spoilage Mechanisms, and Shelf Life](/articles/almond-extract-shelf-life/)
 
 * * *
 
@@ -533,6 +531,16 @@ A5: Not significantly. Physical form, storage temperature, humidity, and packagi
 8.  Wild, C. P., & Gong, Y. Y. (2010). Mycotoxins and human disease: A largely ignored global health issue. _Nature Reviews Cancer_, 10, 356–369. [https://doi.org/10.1038/nrc3208](https://doi.org/10.1038/nrc3208)
     
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

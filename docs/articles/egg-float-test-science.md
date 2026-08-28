@@ -1,9 +1,10 @@
 ---
-title: "Egg Float Test: The Physics, Microbiology, and Limitations of Buoyancy-Based Freshness Assessment"
+
+title: "The Physics, Microbiology, and Limitations of"
 date: 2026-08-09
 dateModified: 2026-08-09
 author: "Martin Wang"
-description: Rigorous examination of the egg float test through fluid mechanics, air cell morphogenesis, cuticle biochemistry, and Salmonella enteritidis contamination pathways — revealing why buoyancy measures age, not safety.
+description: "Science behind the egg float test: air cell growth, cuticle biochemistry, and Salmonella enteritidis risk."
 keywords: egg float test, egg freshness, air cell formation, shell porosity, Salmonella enteritidis, transovarian transmission, trans-shell penetration, Archimedes principle, egg buoyancy, FDA egg safety, cuticle degradation, egg microbiology
 categories: ["Dairy Products", "Quality Control & Food Safety", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---
@@ -195,7 +196,7 @@ This depends on your country's egg processing system. **US eggs are washed** (cu
 ## Related Research
 
 - [Eggs Shelf Life Science: Cuticle Degradation, Salmonella and Freshness](eggs-cuticle-salmonella.md) — Deep-dive into cuticle biochemistry, SE pathogenesis, and US-EU regulatory divergence
-- [Green Rot, Black Rot: Egg Spoilage by Bacteria](../green-rot-black-rot-egg-spoilage/) — Bacterial spoilage pathways and the microbiology of putrefactive egg decomposition
+- [Green Rot, Black Rot: Egg Spoilage by Bacteria](/articles/egg-spoilage-green-rot-black-rot/) — Bacterial spoilage pathways and the microbiology of putrefactive egg decomposition
 - [Water Activity and Food Stability](water-activity-food-stability.md) — How aw governs moisture loss, microbial growth, and chemical reactions in food matrices
 - [Microbial vs Chemical Spoilage Explained](microbial-vs-chemical-spoilage-explained.md) — The two fundamental categories of food deterioration and their diagnostic features
 - [What Makes Food Go Bad?](what-makes-food-go-bad.md) — Comprehensive framework for understanding food spoilage mechanisms

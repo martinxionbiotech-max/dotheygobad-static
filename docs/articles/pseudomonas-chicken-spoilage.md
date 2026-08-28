@@ -1,9 +1,10 @@
 ---
-title: "Pseudomonas and Chicken: The Dominant Spoilage Bacterium — Ecology, Mechanisms, and Control Strategies"
+
+title: "The Dominant Spoilage Bacterium — Ecology, Mechanisms, and"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: "Definitive scientific analysis of Pseudomonas spoilage in poultry: species-level ecology, proteolytic and lipolytic enzyme systems, biofilm quorum sensing, volatile metabolite chemistry, and industrial control via modified atmosphere packaging, organic acids, and cold chain integrity."
+description: "Scientific analysis of Pseudomonas spoilage in poultry, covering species ecology, enzyme systems, biofilms, and quorum sensing."
 keywords: Pseudomonas chicken spoilage, Pseudomonas fluorescens, Pseudomonas fragi, biofilm quorum sensing, poultry proteolysis, volatile amines, modified atmosphere packaging, CO₂ antimicrobial, psychrotrophic bacteria, chicken shelf life
 categories: ["Meat & Seafood", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---
@@ -205,7 +206,6 @@ A: The off-odors produced by *Pseudomonas* (esters, organic acids, sulfides, ami
 
 15. Dogan, B., & Boor, K. J. (2003). Genetic diversity and spoilage potentials among pseudomonads isolated from fluid milk products and dairy processing plants. *Applied and Environmental Microbiology*, 69(1), 130–138. doi:10.1128/AEM.69.1.130-138.2003
 
-[{"@context": "https://schema.org", "@type": "Article", "@id": "pseudomonas-chicken-spoilage.md#article", "headline": "Pseudomonas and Chicken: The Dominant Spoilage Bacterium — Ecology, Mechanisms, and Control Strategies", "mainEntityOfPage": {"@type": "WebPage", "@id": "pseudomonas-chicken-spoilage.md"}, "author": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}, "publisher": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "@id": "pseudomonas-chicken-spoilage.md#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dotheygobad.com/"}, {"@type": "ListItem", "position": 2, "name": "Articles", "item": "https://dotheygobad.com/articles/"}, {"@type": "ListItem", "position": 3, "name": "Pseudomonas and Chicken: The Dominant Spoilage Bacterium"}]}]
 
 ## About the Author
 

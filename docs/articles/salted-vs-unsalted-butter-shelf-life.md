@@ -1,9 +1,10 @@
 ---
-title: "Salted vs Unsalted Butter: Shelf Life Differences and Preservation Chemistry"
+
+title: "Shelf Life Differences and Preservation Chemistry"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: A rigorous comparative analysis of salted and unsalted butter shelf life grounded in food chemistry. Covers NaCl osmotic action in the aqueous phase, water activity depression kinetics, microbial ecology shifts, lipolysis rate comparisons, and practical storage guidelines with quantitative shelf-life benchmarks across temperature regimes.
+description: "A rigorous comparative analysis of salted and unsalted butter shelf life grounded in food chemistry."
 keywords: salted butter, unsalted butter, shelf life, salt preservation, water activity, osmotic plasmolysis, butter spoilage, butter storage, NaCl, microbial inhibition
 categories: ["Dairy Products", "Lipid Chemistry & Rancidity", "Preservation Technology", "Shelf Life & Stability"]
 ---
@@ -189,7 +190,6 @@ Yes, under one specific scenario: salt's documented pro-oxidant effect. NaCl can
 
 15. Christen, G. L., & Marshall, R. T. (1987). Lipolysis in dairy products: A review. *Journal of Dairy Science*, 70(8), 1718-1732. https://doi.org/10.3168/jds.S0022-0302(87)80199-6
 
-[{"@context": "https://schema.org", "@type": "Article", "@id": "salted-vs-unsalted-butter-shelf-life.md#article", "headline": "Salted vs Unsalted Butter: Shelf Life Differences and Preservation Chemistry", "mainEntityOfPage": {"@type": "WebPage", "@id": "salted-vs-unsalted-butter-shelf-life.md"}, "author": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}, "publisher": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "@id": "salted-vs-unsalted-butter-shelf-life.md#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dotheygobad.com/"}, {"@type": "ListItem", "position": 2, "name": "Articles", "item": "https://dotheygobad.com/articles/"}, {"@type": "ListItem", "position": 3, "name": "Salted vs Unsalted Butter: Shelf Life Differences and Preservation Chemistry"}]}]
 
 ## About the Author
 

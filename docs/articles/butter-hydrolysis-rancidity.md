@@ -1,24 +1,24 @@
 ---
-title: "Butter Shelf Life Science: Milkfat Hydrolysis, Lipolytic Rancidity and Storage"
+
+title: "Milkfat Hydrolysis, Lipolytic Rancidity and Storage"
 date: 2026-06-29
 dateModified: 2026-06-29
 author: "Martin Wang"
 categories: ["Food industry concept", "Lipid Chemistry & Rancidity", "Preservation Technology", "Quality Control & Food Safety", "Shelf Life & Stability", "Spoilage Mechanisms"]
-description: "primarily, but through chemical degradation: lipolytic rancidity (free butyric acid release) and oxidative rancidity (unsaturated fatty acid autoxidation)."
+description: "Butter spoilage explained through lipolysis, free butyric acid release, and unsaturated fatty acid autoxidation."
 ---
 
 # Butter Shelf Life Science: Milkfat Hydrolysis, Lipolytic Rancidity and Storage
 
 DoTheyGoBad - Industrial Food Science Infographic
 
-
 ### 📋 Key Takeaways
 
 *   **Yes, butter goes bad** — not through [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
      [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
      primarily, but through chemical degradation: lipolytic rancidity (free butyric acid release) and oxidative rancidity (unsaturated fatty acid autoxidation).
-*   **Salted butter lasts 2-3× longer than unsalted** — NaCl reduces [water activity](/what-is-water-activity-aw/)
-     in aqueous droplets from [aw](/what-is-water-activity-aw/)
+*   **Salted butter lasts 2-3× longer than unsalted** — NaCl reduces [water activity](/articles/water-activity-food-stability/)
+     in aqueous droplets from [aw](/articles/water-activity-food-stability/)
      0.99 to 0.90-0.92, inhibiting [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
      bacteria through plasmolysis.
 *   **The characteristic “rancid butter” smell is free butyric acid** — detectable at 10-20 ppm, released by lipase-mediated hydrolysis of butter triglycerides.
@@ -103,7 +103,7 @@ Microbial Spoilage: How Bacteria Grow in a Fat Matrix
 
 Butter’s high fat content and low water activity make it relatively resistant to microbial spoilage compared to milk or cream, but specific organisms have adapted to the butter microenvironment:
 
-*   **_Pseudomonas putrefaciens_ (now _Shewanella putrefaciens_):** The primary butter spoilage bacterium. Psychrotrophic — grows at [refrigeration](/cold-chain-management-temperature-controlled-food-logistics)
+*   **_Pseudomonas putrefaciens_ (now _Shewanella putrefaciens_):** The primary butter spoilage bacterium. Psychrotrophic — grows at [refrigeration](/articles/cold-chain-management-complete-guide/)
      temperatures (minimum 0-4°C). Produces extracellular lipase that diffuses through the fat phase, hydrolyzing triglycerides at droplet interfaces. The lipase is remarkably heat-stable and continues activity even after the bacteria are killed. Produces **trimethylamine (TMA)** from choline — the “fishy” odor in very spoiled butter. Produces H₂S — putrid, sulfurous off-odors.
 *   **_Penicillium_ spp. (surface mold):** Appears as blue-green, white, or gray colonies on butter surface. Requires oxygen for growth — surface-only spoilage. Produces **extracellular lipases** that penetrate 5-10 mm beyond visible mycelial growth. The lipase activity can rancidify butter far beyond the visible mold. Cut away mold with >2 cm margin.
 *   **Coliforms (_Enterobacter_, _Citrobacter_):** Indicator of post-pasteurization contamination from equipment or handling. Ferment residual lactose → lactic acid, acetic acid, CO₂ → “cheesy” or “yogurt-like” off-flavor. Growth is strongly suppressed in salted butter.
@@ -172,13 +172,23 @@ Scientific Literature References
 3.  [Méndez-Cid et al. (2015)](https://doi.org/10.1016/j.foodchem.2015.06.037)
      — Effect of storage conditions on sensory and chemical quality of salted and unsalted butters. _Food Chemistry_, 190, 487-494.
 4.  [Gassi et al. (2016)](https://doi.org/10.1111/1750-3841.14095)
-     — Heat stability and residual activity of milk lipoprotein lipase in butter: implications for shelf life. _Journal of [Food Science](/food-science-basics/)
+     — Heat stability and residual activity of milk lipoprotein lipase in butter: implications for shelf life. _Journal of [Food Science](/articles/food-science-basics/)
     _, 81(6), C1403-C1409.
 5.  [Smet et al. (2008)](https://doi.org/10.1016/j.tifs.2015.11.007)
-     — Microbial and chemical spoilage of butter: Pseudomonas, lipolysis, and oxidative stability. _Trends in [Food Science](/food-science-basics/)
+     — Microbial and chemical spoilage of butter: Pseudomonas, lipolysis, and oxidative stability. _Trends in [Food Science](/articles/food-science-basics/)
      & Technology_, 19(7), 357-365.
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

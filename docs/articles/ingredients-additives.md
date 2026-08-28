@@ -1,9 +1,10 @@
 ---
-title: "Ingredients & Additives: Preservative Chemistry, Emulsifier Science, Antioxidant Mechanisms, and Safety Regulation in Industrial Food"
+
+title: "Preservative Chemistry, Emulsifier Science, Antioxidant"
 date: 2025-12-25
 dateModified: 2025-12-25
 author: "Martin Wang"
-description: A comprehensive food science reference covering preservative mechanisms (organic acids, nitrites, sulfites, natamycin), antioxidant chemistry (BHA, BHT, TBHQ, tocopherols, ascorbic acid — radical chain-breaking vs oxygen scavenging), emulsifier HLB science, starch retrogradation and pectin gelation, carrageenan helix-coil transitions, clean label alternatives (rosemary extract, cultured celery powder, buffered vinegar), and ADI/TDI toxicological evaluation for common food additives.
+description: "Food science reference on preservative and antioxidant mechanisms, including organic acids, nitrites, sulfites, and BHA/BHT."
 keywords: food additives science, preservative mechanisms, antioxidant chemistry BHA BHT TBHQ, emulsifier HLB system, starch retrogradation, pectin gelation HM LM, carrageenan helix coil, clean label alternatives, rosemary extract preservative, cultured celery powder nitrite, ADI acceptable daily intake, food additive toxicology
 categories: ["Food industry concept", "Preservation Technology", "Quality Control & Food Safety"]
 ---

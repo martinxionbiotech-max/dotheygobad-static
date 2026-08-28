@@ -1,28 +1,28 @@
 ---
-title: "Frozen Shrimp Shelf Life Science: Freezer Burn, Lipid Oxidation and Thawing Safety"
+
+title: "Freezer Burn, Lipid Oxidation and Thawing Safety"
 date: 2026-01-07
 dateModified: 2026-01-07
 author: "Martin Wang"
 categories: ["Meat & Seafood", "Food Microbiology", "Preservation Technology", "Shelf Life & Stability", "Spoilage Mechanisms"]
-description: "Freezing shrimp at -18°C or below dramatically slows microbial metabolism but does not completely inactivate bacteria or fungi. Psychrophilic bacteria, suc"
+description: "Freezing shrimp at -18°C or below dramatically slows microbial metabolism but does not completely inactivate bacteria or fungi."
 ---
 
 # Frozen Shrimp Shelf Life Science: Freezer Burn, Lipid Oxidation and Thawing Safety
 
 > **Can frozen shrimp [go bad](../articles//what-makes-food-go-bad.md)
 > ?**  
-> Yes — but not for the same reasons fresh seafood spoils. Freezing at sufficiently low [cold chain management](/cold-chain-management-temperature-controlled-food-logistics)
+> Yes — but not for the same reasons fresh seafood spoils. Freezing at sufficiently low [cold chain management](/articles/cold-chain-management-complete-guide/)
 >  dramatically slows [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
 >  metabolism and oxidation, yet microbes, enzymes, and fat molecules remain active at a low level, and poor packaging or temperature fluctuations accelerate degradation. Over time, lipid oxidation, ice-crystal damage, and [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
 >  growth during thaw-refreeze cycles break down texture, flavor, and safety, meaning frozen shrimp can both lose quality and eventually become unsafe if stored improperly or too long. Inspect for off-odors, discoloration, excessive frost, or sliminess before cooking — these are practical signs of [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
 >  even in frozen products.
 > 
-> Frozen shrimp are one of the most widely consumed seafood products globally. While freezing significantly extends their shelf life, improper handling, storage, or packaging can still lead to spoilage. From a [food industry](/food-science-basics/)
->  perspective, understanding the mechanisms of microbial growth, chemical oxidation — see [ingredients and additives](/ingredients-additives/)
+> Frozen shrimp are one of the most widely consumed seafood products globally. While freezing significantly extends their shelf life, improper handling, storage, or packaging can still lead to spoilage. From a [food industry](/articles/food-science-basics/)
+>  perspective, understanding the mechanisms of microbial growth, chemical oxidation — see [ingredients and additives](/articles/ingredients-additives/)
 >  for how ingredients affect stability, ice crystal damage, and storage conditions is crucial to ensure safety and maintain quality. This article combines **scientific literature** with **author’s hands-on experience** in seafood processing to provide a detailed analysis.
 
 * * *
-
 
 1\. Microbial Growth: Low Temperature Does Not Equal Sterilization
 ------------------------------------------------------------------
@@ -41,7 +41,7 @@ If shrimp are inadequately cleaned or exposed to cross-contamination, parasites 
 
 * * *
 
-### 1.3 Effect of Thawing and Freeze-Thaw (related to [water activity (aw)](/what-is-water-activity-aw/)
+### 1.3 Effect of Thawing and Freeze-Thaw (related to [water activity (aw)](/articles/water-activity-food-stability/)
  changes in frozen foods) Cycles
 
 Thawing allows microbial metabolism to increase exponentially. For example, within four hours of thawing at temperatures above 0°C, bacterial counts can increase tenfold. Repeated freeze-thaw cycles exacerbate microbial proliferation, and after three cycles, total bacterial counts may reach 100 times the initial level, accompanied by elevated Total Volatile Base Nitrogen (TVB-N), indicating severe protein degradation.
@@ -243,8 +243,7 @@ A: Maintain freezer temperature ≤ -18°C, minimize temperature fluctuations, a
 A: Yes. Vacuum packaging or MAP significantly reduces oxygen and moisture exposure, slowing oxidation and microbial growth. Ordinary plastic bags allow more oxygen permeation, accelerating spoilage.  
 **Author Tip:** Use vacuum packaging or MAP with oxygen indicators for industrial or long-term storage to maintain quality.
 
-References
-----------
+## References
 
 *   FAO. (2018). _Salmonella in seafood: Guidelines for safe processing_. Food and Agriculture Organization of the United Nations. [https://doi.org/10.4060/CA2411EN](https://doi.org/10.4060/CA2411EN)
     
@@ -261,7 +260,7 @@ References
 
 > [Microbial vs Chemical Spoilage Explained](../articles//microbial-vs-chemical-spoilage-explained.md)
 
-> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/food-science-basics/)
+> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/articles/food-science-basics/)
 
 ---
 

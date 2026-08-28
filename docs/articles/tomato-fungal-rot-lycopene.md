@@ -1,10 +1,11 @@
 ---
-title: "Tomato Shelf Life Science: Fungal Rot, Chilling Injury and Lycopene Stability"
+
+title: "Fungal Rot, Chilling Injury and Lycopene Stability"
 date: 2026-06-29
 dateModified: 2026-06-29
 author: "Martin Wang"
 categories: ["Food Microbiology", "Fruits & Vegetables", "Preservation Technology", "Quality Control & Food Safety", "Shelf Life & Stability", "Spoilage Mechanisms"]
-description: "— so you understand exactly what’s happening inside a deteriorating tomato at the biochemical level."
+description: "The biochemistry of tomato deterioration, covering fungal rot, chilling injury, and lycopene stability."
 ---
 
 # Tomato Shelf Life Science: Fungal Rot, Chilling Injury and Lycopene Stability
@@ -19,7 +20,7 @@ description: "— so you understand exactly what’s happening inside a deterior
 *   **When to refrigerate:** Only fully ripe tomatoes about to spoil, and only if cooking them — accept the texture sacrifice for safety.
 
 Yes, **tomatoes [go bad](../articles//what-makes-food-go-bad.md)
-** — but the real question isn’t _whether_ they spoil; it’s _how_ they spoil, and why the refrigerator — the device we trust to preserve all food — is actually the worst place to store them. Within 48 hours below 10°C, a tomato’s volatile aromatic compounds permanently shut down, its membranes leak ions, and its texture turns mealy. Meanwhile, at room temperature, fungal pathogens like _Alternaria alternata_ can consume a tomato from the stem scar outward within days. This article unpacks the [industrial food](/food-science-basics/)
+** — but the real question isn’t _whether_ they spoil; it’s _how_ they spoil, and why the refrigerator — the device we trust to preserve all food — is actually the worst place to store them. Within 48 hours below 10°C, a tomato’s volatile aromatic compounds permanently shut down, its membranes leak ions, and its texture turns mealy. Meanwhile, at room temperature, fungal pathogens like _Alternaria alternata_ can consume a tomato from the stem scar outward within days. This article unpacks the [industrial food](/articles/food-science-basics/)
  science behind both failure modes — chilling injury and [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
  [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  — so you understand exactly what’s happening inside a deteriorating tomato at the biochemical level.
@@ -31,7 +32,7 @@ Before we can understand how a tomato spoils, we need to understand what a tomat
  science, it’s a **climacteric fruit**, meaning it continues to ripen after harvest via a burst of **ethylene** production and increased respiration. This is the same ripening physiology seen in bananas, avocados, and apples — and it’s the first clue that refrigeration is problematic.
 
 *   **pH 4.0–4.5:** Mildly acidic. This acidity provides partial protection against bacterial pathogens (most bacteria prefer pH 6.5–7.5), but fungi — which thrive at low pH — are perfectly at home.
-*   **94% water content:** High [water activity](/what-is-water-activity-aw/)
+*   **94% water content:** High [water activity](/articles/water-activity-food-stability/)
      (aw ≈ 0.99) makes tomatoes an ideal medium for [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
      growth. This is why a single fungal spore landing on exposed tissue can initiate visible rot within 24–48 hours.
 *   **Locular gel (seed cavity):** The jelly-like tissue surrounding seeds is the most perishable component. Its high sugar content and thin cell walls make it the first tissue to collapse during both fungal and chilling injury.
@@ -107,7 +108,7 @@ Lycopene degradation proceeds primarily via **oxidative cleavage**. Reactive oxy
 *   **Light accelerates degradation:** Lycopene is photosensitive. UV and visible light catalyze **photo-oxidation**, generating singlet oxygen (¹O₂) that attacks the double-bond system. Tomatoes stored under direct light lose lycopene 2–3× faster than dark-stored fruit.
 *   **Heat promotes isomerization:** Above 50°C, all-_trans_\-lycopene isomerizes to _cis_\-isomers, which are less intensely colored and more susceptible to further oxidation.
 *   **Ascorbic acid as lycopene protectant:** Vitamin C (ascorbic acid) acts as a **co-oxidation inhibitor** in the tomato matrix. It scavenges ROS before they can attack lycopene’s double bonds. As tomatoes senesce, endogenous ascorbic acid declines from ~20 mg/100g to <5 mg/100g, removing this protective buffer and triggering rapid lycopene loss.
-*   **Low oxygen slows degradation:** [Modified atmosphere packaging](/cold-chain-management-temperature-controlled-food-logistics/)
+*   **Low oxygen slows degradation:** [Modified atmosphere packaging](/articles/cold-chain-management-complete-guide/)
      (MAP) with reduced O₂ (<5%) can extend lycopene stability, but at the cost of anaerobic respiration and off-flavor development.
 
 The Stem Scar: The Primary Infection Portal
@@ -171,8 +172,7 @@ The industrial postharvest science of tomato spoilage converges on a clear messa
 
 The optimal strategy is clear: store intact, unwashed tomatoes at **12–18°C**, stem-side down, in a single layer, away from direct sunlight. Reserve refrigeration only for fully ripe fruit that would otherwise spoil before use. This isn’t culinary preference — it’s postharvest biochemistry.
 
-References
-----------
+## References
 
 1.  Biswas, P., East, A. R., Hewett, E. W., & Heyes, J. A. (2018). Chilling injury in tomato fruit: a review of current understanding and future directions. _Postharvest Biology and Technology_, 140, 76–90. [doi:10.1016/j.postharvbio.2018.03.005](https://doi.org/10.1016/j.postharvbio.2018.03.005)
     

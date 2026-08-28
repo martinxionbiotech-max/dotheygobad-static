@@ -1,10 +1,11 @@
 ---
-title: "Banana Shelf Life Science: Ethylene Ripening, Crown Rot and Enzymatic Browning"
+
+title: "Ethylene Ripening, Crown Rot and Enzymatic Browning"
 date: 2026-06-29
 dateModified: 2026-06-29
 author: "Martin Wang"
 categories: ["Enzymatic & Chemical Reactions", "Food Microbiology", "Fruits & Vegetables", "Preservation Technology", "Quality Control & Food Safety", "Spoilage Mechanisms"]
-description: "— and they do it faster than almost any other fruit in your kitchen. The average Cavendish banana transitions from green to black in 5–10 days at room temp"
+description: "and they do it faster than almost any other fruit in your kitchen."
 ---
 
 # Banana Shelf Life Science: Ethylene Ripening, Crown Rot and Enzymatic Browning
@@ -98,7 +99,7 @@ Most fruit preservation advice boils down to “refrigerate everything.” For b
 3.  **Ethylene synthesis collapse:** ACC synthase is inactivated at low temperatures, permanently halting the normal ripening program. A chilled banana removed from the fridge will _not resume normal ripening_ (Wang, 1994).
 4.  **Visual symptoms:** Gray-brown peel discoloration (not the normal brown-spotting of ripening), dull/matte surface sheen, subepidermal vascular browning, and in severe cases, tissue water-soaking and complete peel necrosis (Pongprasert et al., 2011).
 
-What about commercial banana transport? They’re shipped at precisely 13.2–13.8°C in controlled-atmosphere containers — a window of less than 1°C where fungal growth is suppressed but chilling injury is avoided. This is cold chain management at its most precise, which we cover in detail in our [cold chain management guide](/cold-chain-management-temperature-controlled-food-logistics/)
+What about commercial banana transport? They’re shipped at precisely 13.2–13.8°C in controlled-atmosphere containers — a window of less than 1°C where fungal growth is suppressed but chilling injury is avoided. This is cold chain management at its most precise, which we cover in detail in our [cold chain management guide](/articles/cold-chain-management-complete-guide/)
 .
 
 🎛️ Ethylene Management: 1-MCP, Controlled Atmosphere, and KMnO₄ Scrubbing
@@ -172,8 +173,8 @@ Bananas sold at retail rarely carry “best-by” dates because ripening is a co
 
 **Proactive strategy:** Buy bananas at the green-to-light-green stage (Stages 1–2). Allow 2–3 to ripen at room temperature while refrigerating the rest at Stage 5. This creates a staggered ripening schedule that provides peak-quality bananas over 7–10 days from a single purchase.
 
-To understand the underlying science that applies to all perishable foods, explore our guides on [food science fundamentals](/food-science-basics/)
- and [water activity (aw)](/what-is-water-activity-aw/)
+To understand the underlying science that applies to all perishable foods, explore our guides on [food science fundamentals](/articles/food-science-basics/)
+ and [water activity (aw)](/articles/water-activity-food-stability/)
  — two foundational concepts that explain why bananas spoil differently from crackers, jerky, or canned goods.
 
 📚 References
@@ -181,7 +182,7 @@ To understand the underlying science that applies to all perishable foods, explo
 
 1.  Pongprasert, N., Sekozawa, Y., Sugaya, S., & Gemma, H. (2011). “A novel postharvest UV-C treatment to reduce chilling injury in banana fruit.” _Postharvest Biology and Technology_, 60(3), 200–205. [DOI: 10.1016/j.postharvbio.2011.02.002](https://doi.org/10.1016/j.postharvbio.2011.02.002)
     
-2.  Jiang, Y., Duan, X., Joyce, D., Zhang, Z., & Li, J. (2016). “Advances in understanding of enzymatic browning in harvested litchi fruit.” _Comprehensive Reviews in [Food Science](/food-science-basics/)
+2.  Jiang, Y., Duan, X., Joyce, D., Zhang, Z., & Li, J. (2016). “Advances in understanding of enzymatic browning in harvested litchi fruit.” _Comprehensive Reviews in [Food Science](/articles/food-science-basics/)
      and Food Safety_, 15(3), 544–559. [DOI: 10.1111/1541-4337.12016](https://doi.org/10.1111/1541-4337.12016)
     
 3.  Solis-Fuentes, J. A., Camey-Ortiz, G. P., Hernández-Medel, M. R., & Durán-de-Bazúa, M. C. (2020). “Banana (Musa spp.) peel: Composition, processing, and industrial applications.” _European Food Research and Technology_, 242, 1657–1665. [DOI: 10.1007/s00217-016-2683-3](https://doi.org/10.1007/s00217-016-2683-3)
@@ -191,6 +192,16 @@ To understand the underlying science that applies to all perishable foods, explo
 5.  Ewané, C. A., Lepoivre, P., de Lapeyre de Bellaire, L., & Lassois, L. (2013). “Involvement of antifungal compounds from banana peel in the quiescent infections of crown rot pathogens.” _Food Control_, 50, 115–123. [DOI: 10.1016/j.foodcont.2014.11.011](https://doi.org/10.1016/j.foodcont.2014.11.011)
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

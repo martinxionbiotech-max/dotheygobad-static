@@ -1,10 +1,11 @@
 ---
-title: "Turmeric Shelf Life Science: Curcumin Degradation, Moisture and Spice Storage"
+
+title: "Curcumin Degradation, Moisture and Spice Storage"
 date: 2026-01-02
 dateModified: 2026-01-02
 author: "Martin Wang"
 categories: ["Sauces & Condiments", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms", "Water Activity & Moisture"]
-description: "perspective, however, turmeric rarely “spoils” suddenly. Instead, it gradually loses quality, potency, and stability through chemical and physical degradat"
+description: "perspective, however, turmeric rarely “spoils” suddenly."
 ---
 
 # Turmeric Shelf Life Science: Curcumin Degradation, Moisture and Spice Storage
@@ -17,7 +18,6 @@ description: "perspective, however, turmeric rarely “spoils” suddenly. Inste
 
 **How Chemical Stability, Moisture, and Active Compounds Define Turmeric Shelf Life**
 
-
 Introduction: What “Going Bad” Really Means for Turmeric
 --------------------------------------------------------
 
@@ -25,7 +25,7 @@ When people ask _“Does turmeric [go bad](../articles//what-makes-food-go-bad.m
 ?”_, they often imagine [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
  [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  similar to fresh food.  
-From a [food science](/food-science-basics/)
+From a [food science](/articles/food-science-basics/)
  perspective, however, turmeric rarely “spoils” suddenly. Instead, it **gradually loses quality, potency, and stability** through chemical and physical degradation.
 
 At _DoTheyGoBad_, “going bad” is defined as **measurable deterioration in composition, functionality, and safety risk**, rather than a simple yes-or-no outcome. For turmeric, this process is driven primarily by **moisture, oxidation, volatile oil loss, and curcuminoid degradation**.
@@ -57,7 +57,7 @@ From a physicochemical standpoint, turmeric quality is commonly assessed using s
 
 ### Moisture Content (≤ 16.0%)
 
-[Water activity](/what-is-water-activity-aw/)
+[Water activity](/articles/water-activity-food-stability/)
  is the single most important determinant of turmeric stability.
 
 *   Moisture ≤ 16.0% helps maintain dryness
@@ -150,7 +150,7 @@ How Turmeric Actually Degrades Over Time
 
 Curcumin is a polyphenolic compound highly sensitive to oxygen.
 
-*   Oxidation forms quinones and [peroxide](/does-olive-oil-go-bad)
+*   Oxidation forms quinones and [peroxide](/articles/olive-oil-chemistry-oxidation/)
     s
     
 *   Color darkens from bright orange-yellow to dull brown
@@ -443,8 +443,7 @@ This affects appearance and bioactivity but does not automatically mean the turm
 
 * * *
 
-References
-----------
+## References
 
 Priyadarsini, K. I. (2014). The chemistry of curcumin: From extraction to therapeutic agent. _Molecules, 19_(12), 20091–20112.  
 [https://doi.org/10.3390/molecules191220091](https://doi.org/10.3390/molecules191220091)
@@ -452,7 +451,7 @@ Priyadarsini, K. I. (2014). The chemistry of curcumin: From extraction to therap
 Wickenberg, J., et al. (2010). Stability of curcumin in food matrices. _Food Chemistry, 123_(2), 285–289.  
 [https://doi.org/10.1016/j.foodchem.2010.04.021](https://doi.org/10.1016/j.foodchem.2010.04.021)
 
-Jayaprakasha, G. K., Rao, L. J. M., & Sakariah, K. K. (2005). Chemistry and biological activities of _Curcuma longa_. _Trends in [Food Science](/food-science-basics/)
+Jayaprakasha, G. K., Rao, L. J. M., & Sakariah, K. K. (2005). Chemistry and biological activities of _Curcuma longa_. _Trends in [Food Science](/articles/food-science-basics/)
  & Technology, 16_(12), 533–548.  
 [https://doi.org/10.1016/j.tifs.2005.08.006](https://doi.org/10.1016/j.tifs.2005.08.006)
 
@@ -465,9 +464,9 @@ WHO. (2007). _WHO monographs on selected medicinal plants_.
 
 > [Microbial vs Chemical Spoilage Explained](../articles//microbial-vs-chemical-spoilage-explained.md)
 
-> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/food-science-basics/)
+> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/articles/food-science-basics/)
 
-> [Ingredients & Additives: Their Role in Food Stability and Spoilage](/ingredients-additives/)
+> [Ingredients & Additives: Their Role in Food Stability and Spoilage](/articles/ingredients-additives/)
 
 ---
 

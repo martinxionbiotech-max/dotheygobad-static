@@ -1,4 +1,5 @@
 ---
+
 title: Resources — Food Science References, Books & Standards
 date: 2025-12-18
 description: Food science references, books, and standards — authoritative sources cited across DoTheyGoBad articles.
@@ -6,7 +7,7 @@ keywords: food science references, food safety standards, food microbiology book
 ---
 # Resources — Food Science References, Books & Standards
 
-This page provides authoritative reference materials related to food [spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) science, shelf-life determination, preservation technology, and [industrial food](https://dotheygobad.com/food-science-basics/) safety. All resources are selected for their relevance to the **industrial food science perspective** — not general cooking advice.
+This page provides authoritative reference materials related to food [spoilage](/articles/microbial-vs-chemical-spoilage-explained/) science, shelf-life determination, preservation technology, and [industrial food](/articles/food-science-basics/) safety. All resources are selected for their relevance to the **industrial food science perspective** — not general cooking advice.
 
 ## Leading Food Science Organizations
 
@@ -23,7 +24,7 @@ This page provides authoritative reference materials related to food [spoilage](
 ## Recommended Books & Textbooks
 
 - **Food Spoilage Microorganisms** — Blackburn (Ed.), Woodhead Publishing. Comprehensive microbial spoilage for industrial products.
-- **Fennema’s Food Chemistry** — Damodaran, Parkin & Fennema, CRC Press. The standard reference for lipid oxidation, enzymatic reactions, and [water activity](https://dotheygobad.com/water-activity-food-stability/) theory.
+- **Fennema’s Food Chemistry** — Damodaran, Parkin & Fennema, CRC Press. The standard reference for lipid oxidation, enzymatic reactions, and [water activity](/articles/water-activity-food-stability/) theory.
 - **Food Shelf Life Stability: Chemical, Biochemical, and Microbiological Changes** — Eskin & Robinson, CRC Press. Practical shelf-life prediction and testing.
 - **Hurdle Technologies: Combination Treatments for Food Stability, Safety and Quality** — Leistner & Gould, Springer. The definitive work on hurdle technology.
 - **Water Activity in Foods: Fundamentals and Applications** — Barbosa-Cánovas et al., Blackwell. Complete coverage of aw science.
@@ -40,7 +41,7 @@ This page provides authoritative reference materials related to food [spoilage](
 
 ## Shelf-Life Testing & Regulatory Resources
 
-- **Food Date Labeling Guide** — [Detailed comparison of US, EU, UK, JP, CA regulations](https://dotheygobad.com/food-date-labels-explained/)
+- **Food Date Labeling Guide** — [Detailed comparison of US, EU, UK, JP, CA regulations](/articles/food-date-labels-explained/)
 - **COMAH / HACCP Guidelines** — [myhaccp.food.gov.uk](https://myhaccp.food.gov.uk) (UK FSA HACCP tool)
 - **FSMA (Food Safety Modernization Act)** — US FDA preventive controls
 - **ISO 22000** — Food safety management systems
@@ -50,4 +51,4 @@ This page provides authoritative reference materials related to food [spoilage](
 - [Water Safety Risk Calculator](https://dotheygobad.com/water-safety-risk-calculator/) — Assess microbial growth risk based on aw, pH, temperature
 - [NRV Calculator](https://dotheygobad.com/nrv-calculator/) — Nutritional reference value tool
 
-🔗 **Related:** [Food Spoilage Science](https://dotheygobad.com/food-spoilage-science/) | [Food Science Glossary (A–Z)](https://dotheygobad.com/food-science-glossary/) | [FAQ](https://dotheygobad.com/faq/)
+🔗 **Related:** [Food Spoilage Science](/articles/food-spoilage-science/) | [Food Science Glossary (A–Z)](https://dotheygobad.com/food-science-glossary/) | [FAQ](https://dotheygobad.com/faq/)

@@ -1,4 +1,5 @@
 ---
+
 title: "Frequently Asked Questions — Food Spoilage Science"
 ---
 
@@ -8,13 +9,13 @@ Frequently Asked Questions — Food Spoilage Science
 1\. Why do foods spoil?
 -----------------------
 
-Food [spoilage](/microbial-vs-chemical-spoilage-explained/)
+Food [spoilage](/articles/microbial-vs-chemical-spoilage-explained/)
  results from five interconnected mechanisms: **microbial growth** (bacteria, yeasts, molds) requiring available water and nutrients; **chemical reactions** such as lipid oxidation (rancidity), Maillard browning, and vitamin degradation; **enzymatic deterioration** from endogenous enzymes (polyphenol oxidase, lipase, protease); **moisture migration** causing texture loss and microbial niches; and **physical changes** including starch retrogradation (staling), recrystallization, and freeze-thaw damage.
 
 2\. How does water activity (aw) affect food shelf life?
 --------------------------------------------------------
 
-[Water activity](/water-activity-food-stability/)
+[Water activity](/articles/water-activity-food-stability/)
  measures the **available** water in food, not total moisture content. Most spoilage bacteria require aw ≥ 0.91; yeast grow at aw ≥ 0.88; molds at aw ≥ 0.80. Foods with aw below 0.60 are microbiologically stable indefinitely. Industrial processing controls aw through dehydration, humectants (salt, sugar), and freezing. This is the single most important principle in food preservation science.
 
 3\. Which foods spoil fastest?
@@ -57,7 +58,7 @@ Freezing at −18 °C stops microbial growth completely, but chemical and enzyma
 
 Hurdle technology combines multiple preservation methods — each at sub-lethal levels — to achieve synergistic protection against spoilage. For example, combining moderate heat (pasteurization) + reduced aw (salt/sugar) + low pH (acidification) + cold storage creates multiple barriers that microorganisms are exponentially less likely to overcome. This enables milder processing with better food quality than any single intensive preservation method.
 
-🔗 **Related:** [Food Spoilage Science](/food-spoilage-science/)
- | [Preservation Technology](/preservation-technology/)
- | [Shelf Life Database](/shelf-life-database/)
- | [Water Activity Guide](/water-activity-food-stability/)
+🔗 **Related:** [Food Spoilage Science](/articles/food-spoilage-science/)
+ | [Preservation Technology](/articles/preservation-technology/)
+ | [Shelf Life Database](/articles/shelf-life-database/)
+ | [Water Activity Guide](/articles/water-activity-food-stability/)

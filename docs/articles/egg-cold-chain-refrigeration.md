@@ -1,9 +1,10 @@
 ---
-title: "The Egg Cold Chain: Cuticle Biochemistry, Thermal Pumping Physics, US vs. EU Refrigeration Policy, and Evidence-Based Storage Protocols"
+
+title: "Cuticle Biochemistry, Thermal Pumping Physics, US vs. EU"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: "Rigorous food science analysis of egg cold chain management: cuticle glycoprotein ultrastructure, thermal pumping bacterial penetration kinetics, condensation-mediated contamination, US washing vs. EU non-washing regulatory divergence, Salmonella Enteritidis transovarian transmission, lysozyme/ovotransferrin antimicrobial defense degradation, and commercial cold chain logistics from laying house to retail."
+description: "Rigorous food science analysis of egg cold chain management: cuticle glycoprotein ultrastructure, thermal pumping bacterial penetration kinetics"
 keywords: egg cold chain, egg refrigeration, cuticle egg, egg washing, Salmonella egg, thermal pumping, US vs EU egg storage, egg storage temperature, egg cold storage, lysozyme egg
 categories: ["Dairy Products", "Preservation Technology", "Quality Control & Food Safety", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---
@@ -265,7 +266,6 @@ A: It depends on the egg source. For commercially washed (US-style) eggs: NO —
 
 15. FDA. (2009). Prevention of *Salmonella* Enteritidis in shell eggs during production, storage, and transportation. 21 CFR Part 118. *Federal Register*, 74(131), 33030–33101.
 
-[{"@context": "https://schema.org", "@type": "Article", "@id": "egg-cold-chain-refrigeration.md#article", "headline": "The Egg Cold Chain: Cuticle Biochemistry, Thermal Pumping Physics, US vs. EU Refrigeration Policy, and Evidence-Based Storage Protocols", "mainEntityOfPage": {"@type": "WebPage", "@id": "egg-cold-chain-refrigeration.md"}, "author": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}, "publisher": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "@id": "egg-cold-chain-refrigeration.md#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dotheygobad.com/"}, {"@type": "ListItem", "position": 2, "name": "Articles", "item": "https://dotheygobad.com/articles/"}, {"@type": "ListItem", "position": 3, "name": "The Egg Cold Chain: Why Refrigeration Matters"}]}]
 
 ## About the Author
 

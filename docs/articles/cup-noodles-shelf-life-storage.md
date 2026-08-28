@@ -1,5 +1,6 @@
 ---
-title: "Instant Noodle Shelf Life Science: Lipid Oxidation, Moisture and Packaging"
+
+title: "Lipid Oxidation, Moisture and Packaging"
 date: 2026-01-31
 dateModified: 2026-01-31
 author: "Martin Wang"
@@ -11,12 +12,11 @@ description: "The oxidation of frying oils (commonly palm oil or rapeseed oil) f
 
 > **Do Cup Noodles [Go Bad](../articles//what-makes-food-go-bad.md)
 > ?**  
-> Yes — but not like fresh food. From a food-industry perspective, cup noodles are engineered to be shelf-stable for months, with low [water activity](/what-is-water-activity-aw/)
+> Yes — but not like fresh food. From a food-industry perspective, cup noodles are engineered to be shelf-stable for months, with low [water activity](/articles/water-activity-food-stability/)
 >  and sealed packaging that prevents [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
 >  growth. However, they _do_ degrade chemically over time: oils oxidize, flavors fade, and sensory quality declines long before obvious [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
 > , meaning old noodles can smell rancid, taste bitter, or become unpleasant even if they carry a “best before” date. Proper cool, dry storage helps, but cup noodles aren’t immortal — they age quietly through oxidation and quality loss rather than sudden [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
 > .
-
 
 A Deeper Food Industry Perspective on Oxidation, Packaging, and Long-Term Safety
 --------------------------------------------------------------------------------
@@ -28,9 +28,9 @@ A Deeper Food Industry Perspective on Oxidation, Packaging, and Long-Term Safety
 1\. Lipid Oxidation in Cup Noodles: From Theory to Quantitative Prediction
 --------------------------------------------------------------------------
 
-In [industrial food](/food-science-basics/)
+In [industrial food](/articles/food-science-basics/)
  science, the deterioration of cup noodles is **not [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
- spoilage**, but a **chemically driven [lipid oxidation](/does-olive-oil-go-bad)
+ spoilage**, but a **chemically driven [lipid oxidation](/articles/olive-oil-chemistry-oxidation/)
  process**, primarily governed by **free-radical chain autoxidation**.
 
 ### 1.1 Oxidation mechanism (what actually happens)
@@ -79,7 +79,7 @@ This is why it remains the **industry default**, despite consumer perception iss
 
 ### 1.4 Can oxidation be predicted?
 
-There is **no publicly released kinetic model specific to cup noodles**, but [food industry](/food-science-basics/)
+There is **no publicly released kinetic model specific to cup noodles**, but [food industry](/articles/food-science-basics/)
  data from **infant formula and edible oils** show that:
 
 *   **n-order reaction models + Arrhenius equations**
@@ -316,10 +316,9 @@ Signs include unusual darkening of the noodles, discolored seasoning packets, vi
 
 * * *
 
-References
-----------
+## References
 
-Choe, E., & Min, D. B. (2006). Mechanisms and factors for edible oil oxidation. _Comprehensive Reviews in [Food Science](/food-science-basics/)
+Choe, E., & Min, D. B. (2006). Mechanisms and factors for edible oil oxidation. _Comprehensive Reviews in [Food Science](/articles/food-science-basics/)
  and Food Safety_, 5(4), 169–186. [https://doi.org/10.1111/j.1541-4337.2006.00009.x](https://doi.org/10.1111/j.1541-4337.2006.00009.x)
 
 Fellows, P. J. (2017). _Food processing technology: Principles and practice_ (4th ed.). Woodhead Publishing. [https://doi.org/10.1016/C2014-0-03687-1](https://doi.org/10.1016/C2014-0-03687-1)
@@ -332,7 +331,7 @@ AOCS. (1990). _Official method Cd 18-90: Thiobarbituric acid reactive substances
 
 ASTM International. (2023). _ASTM D3985-23: Standard test method for oxygen gas transmission rate through plastic film and sheeting using a coulometric sensor_. ASTM International.
 
-Brenna, J. T., Shanmugam, S., & Jensen, R. G. (2020). Lipid oxidation products in foods: Occurrence, toxicity, and risk assessment. _Comprehensive Reviews in [Food Science](/food-science-basics/)
+Brenna, J. T., Shanmugam, S., & Jensen, R. G. (2020). Lipid oxidation products in foods: Occurrence, toxicity, and risk assessment. _Comprehensive Reviews in [Food Science](/articles/food-science-basics/)
  and Food Safety, 19_(4), 2105–2128. [https://doi.org/10.1111/1541-4337.12592](https://doi.org/10.1111/1541-4337.12592)
 
 Cai, Y., Liu, M., Zhang, Q., & Chen, L. (2025). Oxidation stability and kinetics of rapeseed oil under accelerated storage conditions. _Food Chemistry, 478_, 134567. [https://doi.org/10.1016/j.foodchem.2025.134567](https://doi.org/10.1016/j.foodchem.2025.134567)
@@ -365,9 +364,9 @@ Zhang, H., Li, X., Wu, Y., & Zhou, D. (2025). Lipid oxidation kinetics in instan
 
 > [Microbial vs Chemical Spoilage Explained](../articles//microbial-vs-chemical-spoilage-explained.md)
 
-> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/food-science-basics/)
+> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/articles/food-science-basics/)
 
-> [Ingredients & Additives: Their Role in Food Stability and Spoilage](/ingredients-additives/)
+> [Ingredients & Additives: Their Role in Food Stability and Spoilage](/articles/ingredients-additives/)
 
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Cheese Shelf Life Science: Mold Growth, Lipolysis and Proteolysis During Aging"
+
+title: "Mold Growth, Lipolysis and Proteolysis During Aging"
 date: 2026-06-29
 dateModified: 2026-06-29
 author: "Martin Wang"
@@ -15,7 +16,6 @@ Cheese occupies a paradoxical position in the food universe: it is, fundamentall
 ?”_ therefore demands an answer that navigates the industrial science of [water activity](../articles//water-activity-food-stability.md)
 , proteolysis cascades, lipolytic rancidity, and the fascinatingly blurred line between desirable mold-ripening and mycotoxin-producing [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
 .
-
 
 The Spoilage Risk Matrix: Moisture × pH
 ---------------------------------------
@@ -144,8 +144,7 @@ Does cheese [go bad](../articles//what-makes-food-go-bad.md)
 The consumer takeaway is clear: treat soft, fresh cheeses as you would raw milk — with respect for their biological activity and a short consumption window. Treat hard, aged cheeses as you would cured meat — they’re preserved through the same principles of reduced [water activity](../articles//water-activity-food-stability.md)
  and salt concentration that humanity has relied upon for millennia. And when mold appears: on hard cheese, cut generously; on soft cheese, discard without hesitation.
 
-References
-----------
+## References
 
 1.  Hickey, D. K., Guinee, T. P., Hou, J., & Wilkinson, M. G. (2013). Effects of variation in cheese composition and maturation on [water activity](../articles//water-activity-food-stability.md)
      in Cheddar cheese during ripening. _Journal of Dairy Science_, 96(11), 6817–6834. [doi:10.3168/jds.2013-7060](https://doi.org/10.3168/jds.2013-7060)
@@ -159,9 +158,9 @@ References
 5.  McSweeney, P. L. H., & Sousa, M. J. (2000). Biochemical pathways for the production of flavour compounds in cheeses during ripening: A review. _Le Lait_, 80(3), 293–324. (Referenced via: [doi:10.3390/foods10010179](https://doi.org/10.3390/foods10010179)
     )
 
-📚 _Further reading: explore our guides on [water activity (aw) fundamentals](/what-is-water-activity-aw/)
+📚 _Further reading: explore our guides on [water activity (aw) fundamentals](/articles/water-activity-food-stability/)
 , [microbial vs chemical spoilage mechanisms](../articles//microbial-vs-chemical-spoilage-explained.md)
-, and the [core principles of food science](/food-science-basics/)
+, and the [core principles of food science](/articles/food-science-basics/)
 ._
 
 _Keywords: mold-ripened cheese spoilage, fresh cheese shelf life, casein proteolysis, cheese lipolysis, cheese rancidity, cheese mycotoxins, Listeria in soft cheese, cheese water activity, Penicillium roqueforti, cheese spoilage detection, industrial cheese storage._

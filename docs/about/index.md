@@ -1,4 +1,5 @@
 ---
+
 title: "About DoTheyGoBad"
 ---
 
@@ -8,10 +9,10 @@ About DoTheyGoBad — The Food Shelf Life Science Encyclopedia
 Our Mission
 -----------
 
-DoTheyGoBad is a **food shelf life science encyclopedia** dedicated to explaining why foods spoil from an [industrial food](/food-science-basics/)
+DoTheyGoBad is a **food shelf life science encyclopedia** dedicated to explaining why foods spoil from an [industrial food](/articles/food-science-basics/)
  science and processing viewpoint. We bridge the gap between academic food science and practical shelf-life knowledge — providing clear, scientifically grounded explanations that reflect real-world industrial food chemistry, microbiology, and preservation engineering.
 
-Unlike most food websites that focus on home storage tips and culinary practices, our content is built on the **standardized principles of industrial food manufacturing** — where ingredient composition, processing methods, and packaging systems create predictable [spoilage](/microbial-vs-chemical-spoilage-explained/)
+Unlike most food websites that focus on home storage tips and culinary practices, our content is built on the **standardized principles of industrial food manufacturing** — where ingredient composition, processing methods, and packaging systems create predictable [spoilage](/articles/microbial-vs-chemical-spoilage-explained/)
  patterns that can be systematically analyzed.
 
 Our Perspective: Industrial Food Science First
@@ -19,7 +20,7 @@ Our Perspective: Industrial Food Science First
 
 Every topic on DoTheyGoBad is viewed through the lens of industrial food science. We focus on:
 
-*   **Ingredient composition** and functionality — [water activity](/water-activity-food-stability/)
+*   **Ingredient composition** and functionality — [water activity](/articles/water-activity-food-stability/)
      (aw), pH, fat/protein content
 *   **Processing methods** and their effects on microbial and chemical stability
 *   **Spoilage mechanisms** — microbial growth kinetics, lipid oxidation, enzymatic deterioration
@@ -46,19 +47,19 @@ DoTheyGoBad fills that gap — offering the scientific framework that explains w
 Explore Our Content
 -------------------
 
-### [🧫 Food Spoilage Science](/food-spoilage-science/)
+### [🧫 Food Spoilage Science](/articles/food-spoilage-science/)
 
 The 5 mechanisms of food spoilage — microbial, oxidative, enzymatic, moisture, physical.
 
-### [📊 Shelf Life Database](/shelf-life-database/)
+### [📊 Shelf Life Database](/articles/shelf-life-database/)
 
 Storage time data for 100+ foods with key spoilage drivers.
 
-### [🌡️ Food Storage Guide](/food-storage-science/)
+### [🌡️ Food Storage Guide](/articles/food-storage-science/)
 
 Optimal storage conditions: refrigeration, freezing, and pantry science.
 
-### [🔬 Preservation Technology](/preservation-technology/)
+### [🔬 Preservation Technology](/articles/preservation-technology/)
 
 6 primary methods: heat, cold, aw control, acidification, oxygen control, chemicals.
 
@@ -73,4 +74,4 @@ All DoTheyGoBad content is:
 *   **Independently maintained** — editorial independence from commercial services
 
 [Read our Editorial Principles](/editorial-principles/)
- | [Meet the Author](/author-profile/)
+ | [Meet the Author](/about/author-profile/)

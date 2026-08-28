@@ -1,9 +1,10 @@
 ---
-title: Does Red Wine Go Bad? The Chemistry of Oxidation, Cork Taint, and Microbial Spoilage
+
+title: "Does Red Wine Go Bad?"
 date: 2025-12-28
 dateModified: 2025-12-28
 author: "Martin Wang"
-description: "Red wine spoilage explained through food chemistry: oxidation of phenolics, acetic acid bacterial conversion, TCA cork taint, sulfur defects, and storage science — what happens at the molecular level when wine ages past its prime."
+description: "Red wine spoilage chemistry: phenolic oxidation, acetic bacteria, TCA cork taint, sulfur defects, and storage."
 keywords: red wine spoilage, wine oxidation, cork taint TCA, acetic acid bacteria, wine storage science, phenolic degradation, volatile acidity, Brettanomyces
 categories: ["Beer & Alcoholic Drinks", "Lipid Chemistry & Rancidity", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---
@@ -145,7 +146,7 @@ Lightstruck character — goût de lumière — occurs when UV and visible light
 ## Related Research
 
 - [Does Wine Go Bad? An Industrial & Food Science Perspective](does-wine-go-bad.md)
-- [Does Shaoxing Wine Go Bad? Understanding the Shelf Life and Quality of Huangjiu](https://dotheygobad.com/does-shaoxing-wine-go-bad/)
+- [Does Shaoxing Wine Go Bad? Understanding the Shelf Life and Quality of Huangjiu](/articles/shaoxing-wine-shelf-life-storage/)
 - [Microbial vs Chemical Spoilage Explained](microbial-vs-chemical-spoilage-explained.md)
 - [What Makes Food Go Bad? Understanding Food Spoilage from an Industrial Food Science Perspective](what-makes-food-go-bad.md)
 - [Food Science Basics: Understanding the Foundations of Industrial Food Stability](food-science-basics.md)

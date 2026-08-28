@@ -1,5 +1,6 @@
 ---
-title: "Flour Shelf Life Science: Insect Infestation, Rancidity and Gluten Breakdown"
+
+title: "Insect Infestation, Rancidity and Gluten Breakdown"
 date: 2026-06-29
 dateModified: 2026-06-29
 author: "Martin Wang"
@@ -10,7 +11,6 @@ description: "0.60-0.65) is below the mold growth threshold — but condensation
 # Flour Shelf Life Science: Insect Infestation, Rancidity and Gluten Breakdown
 
 DoTheyGoBad - Industrial Food Science Infographic
-
 
 ### 📋 Key Takeaways
 
@@ -163,12 +163,22 @@ Scientific Literature References
 3.  [Campbell et al. (2017)](https://doi.org/10.1016/j.jspr.2017.07.004)
      — Tribolium castaneum infestation in stored grain products: biology, benzoquinone production, and management. _Journal of Stored Products Research_, 74, 71-81.
 4.  [Frankel (2005)](https://doi.org/10.1016/j.tifs.2018.07.022)
-     — Lipid oxidation mechanisms in stored cereal products: pathways, products, and prevention. _Trends in [Food Science](/food-science-basics/)
+     — Lipid oxidation mechanisms in stored cereal products: pathways, products, and prevention. _Trends in [Food Science](/articles/food-science-basics/)
      & Technology_, 16(12), 574-582.
 5.  [Wang et al. (2019)](https://doi.org/10.1016/j.jcs.2018.11.007)
      — Gluten protein oxidation during wheat flour storage: effects of reactive oxygen species on dough rheology and baking quality. _Journal of Cereal Science_, 85, 215-223.
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

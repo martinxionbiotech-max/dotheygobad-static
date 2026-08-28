@@ -1,9 +1,10 @@
 ---
-title: "Food Science Fundamentals: Macronutrients, pH, Redox, Thermal Death Kinetics, and Hurdle Technology"
+
+title: "Macronutrients, pH, Redox, Thermal Death Kinetics, and"
 date: 2026-08-09
 dateModified: 2026-08-09
 author: "Martin Wang"
-description: "Explore the physicochemical principles governing food stability: macronutrient biochemistry, pH and redox potential, thermal death kinetics (D-value, z-value, F₀), and hurdle technology."
+description: "Explore the physicochemical principles governing food stability: macronutrient biochemistry, pH and redox potential, thermal death kinetics (D-value"
 keywords: food spoilage, thermal death kinetics, D-value, z-value, hurdle technology, pH, redox potential, food microbiology, shelf life
 categories: ["Food industry concept", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---

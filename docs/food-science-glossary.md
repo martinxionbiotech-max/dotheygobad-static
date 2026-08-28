@@ -1,14 +1,13 @@
 ---
+
 title: "Food Science Glossary (Industrial Perspective)"
 ---
 
 Food Science Glossary (Industrial Perspective)
 ==============================================
 
-![Causes of Food Spoilage and Industrial Controls](/wp-content/uploads/2025/12/Causes-of-Food-Spoilage-and-Industrial-Controls.png)
-
-Diagram illustrating industrial factors affecting food [spoilage](/microbial-vs-chemical-spoilage-explained/)
-. Content based on authoritative [food science](/food-science-basics/)
+Diagram illustrating industrial factors affecting food [spoilage](/articles/microbial-vs-chemical-spoilage-explained/)
+. Content based on authoritative [food science](/articles/food-science-basics/)
  sources (HACCP, ScienceDirect, Wikipedia, DOI references) and generated for educational purposes
 
 Food Science Glossary (Industrial Perspective, A–Z with References)
@@ -20,7 +19,7 @@ Food Science Glossary (Industrial Perspective, A–Z with References)
 | **Anaerobic Spoilage** | Spoilage by microorganisms that grow in the absence of oxygen, such as _Clostridium_ species commonly associated with anaerobic conditions in vacuum or modified atmosphere packaging. _(Defined by industrial HACCP glossaries)_ [MyHACCP](https://myhaccp.food.gov.uk/help/guidance/glossary?utm_source=chatgpt.com) |
 | **Antioxidants** | Substances that prevent or slow oxidation in foods, maintaining quality and nutritional value. They are used to delay rancidity and oxidative deterioration. _(Antioxidants delay lipid oxidation and off‑flavors)_ [维基百科+1](https://en.wikipedia.org/wiki/Rancidification?utm_source=chatgpt.com) |
 | **ATP Bioluminescence Test** | Rapid method to measure microbial activity in food production environments by detecting adenosine triphosphate (ATP), a marker of live cells. _(Standard microbial monitoring technique; see microbiological detection practices)_ [reddit.com](https://www.reddit.com/r/u_smartfoodsafe/comments/18ud7hz?utm_source=chatgpt.com) |
-| **Brine / Salting** | Application of salt or a salt solution (brine) to bind water and reduce [water activity](/water-activity-food-stability/)<br> (Aw), inhibiting spoilage microorganisms and extending shelf life. _(Water activity concept in HACCP glossary)_ [MyHACCP](https://myhaccp.food.gov.uk/help/guidance/glossary?utm_source=chatgpt.com) |
+| **Brine / Salting** | Application of salt or a salt solution (brine) to bind water and reduce [water activity](/articles/water-activity-food-stability/)<br> (Aw), inhibiting spoilage microorganisms and extending shelf life. _(Water activity concept in HACCP glossary)_ [MyHACCP](https://myhaccp.food.gov.uk/help/guidance/glossary?utm_source=chatgpt.com) |
 | **Cold Chain** | Temperature‑controlled supply chain process that ensures perishable food products are maintained at appropriate temperatures from processing to distribution, essential for quality and safety. _(Commonly referenced in food safety and packaging sources)_ [LinkedIn](https://www.linkedin.com/posts/qurat-ul-ain-abdullah-6651312a2_key-terms-in-food-science-technology-activity-7369733850035376132-kKto?utm_source=chatgpt.com) |
 | **Cold Pasteurization / High Pressure Processing (HPP)** | Non‑thermal preservation technique applying very high pressure to inactivate microorganisms and enzymes while preserving food texture and nutritional quality. _(High pressure processing overview)_ [维基百科](https://en.wikipedia.org/wiki/Pascalization?utm_source=chatgpt.com) |
 | **Dehydration / Drying** | Removal of water from food to lower water activity and inhibit microbial growth, a fundamental preservation technique in food processing. _(Food processing principles)_ [Guldu Portal](https://portal.guldu.uz/download-edfiles-22213.pdf?utm_source=chatgpt.com) |
@@ -54,10 +53,10 @@ Food Science Glossary (Industrial Perspective, A–Z with References)
 Related Content:
 ----------------
 
-> [What Makes Food Go Bad? – Understanding Food Spoilage from an Industrial Food Science Perspective](/what-makes-food-go-bad/)
+> [What Makes Food Go Bad? – Understanding Food Spoilage from an Industrial Food Science Perspective](/articles/what-makes-food-go-bad/)
 
-> [Microbial vs Chemical Spoilage Explained](/microbial-vs-chemical-spoilage-explained/)
+> [Microbial vs Chemical Spoilage Explained](/articles/microbial-vs-chemical-spoilage-explained/)
 
-> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/food-science-basics/)
+> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/articles/food-science-basics/)
 
-> [Ingredients & Additives: Their Role in Food Stability and Spoilage](/ingredients-additives/)
+> [Ingredients & Additives: Their Role in Food Stability and Spoilage](/articles/ingredients-additives/)

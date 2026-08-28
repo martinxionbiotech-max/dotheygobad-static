@@ -1,17 +1,18 @@
 ---
-title: "Almond Extract Shelf Life Science: Ethanol Preservation, Flavor and Shelf Stability"
+
+title: "Ethanol Preservation, Flavor and Shelf Stability"
 date: 2026-01-20
 dateModified: 2026-01-20
 author: "Martin Wang"
 categories: ["Food Microbiology", "Sauces & Condiments", "Shelf Life & Stability", "Spoilage Mechanisms"]
-description: "In strict food terminology, almond extract refers to an alcohol-based flavoring rich in benzaldehyde. However, in everyday kitchen use—especially outside p"
+description: "In strict food terminology, almond extract refers to an alcohol-based flavoring rich in benzaldehyde."
 ---
 
 # Almond Extract Shelf Life Science: Ethanol Preservation, Flavor and Shelf Stability
 
 > **Does almond extract [expire](../articles//what-makes-food-go-bad.md)
 > ?**  
-> When “almond extract” refers to **food-grade almond oil**, it doesn’t spoil suddenly like fresh food, but it **does oxidize over time**. Almond oil can lose flavor, develop a rancid smell, and form harmful oxidation (the role of water relates to [water activity (aw)](/what-is-water-activity-aw/)
+> When “almond extract” refers to **food-grade almond oil**, it doesn’t spoil suddenly like fresh food, but it **does oxidize over time**. Almond oil can lose flavor, develop a rancid smell, and form harmful oxidation (the role of water relates to [water activity (aw)](/articles/water-activity-food-stability/)
 > ) byproducts once exposed to air, light, and heat. While expired almond oil is usually not immediately toxic, it should be discarded if it smells sour, bitter, or paint-like, or if the color has darkened or turned cloudy.
 
 Let’s clarify something first:  
@@ -29,7 +30,6 @@ This semantic confusion explains why a quick Google search for “almond extract
 👉 And when people worry about shelf life, what they’re usually concerned about is **almond oil**, because oils degrade very differently from alcohol-based extracts.
 
 * * *
-
 
 What Is Edible Almond Oil Made From?
 ------------------------------------
@@ -516,10 +516,9 @@ Almond oil should be discarded if it smells strongly rancid, sour, or chemical-l
 
 * * *
 
-References
-----------
+## References
 
-Choe, E., & Min, D. B. (2006). Mechanisms and factors for edible oil oxidation. _Comprehensive Reviews in [Food Science](/food-science-basics/)
+Choe, E., & Min, D. B. (2006). Mechanisms and factors for edible oil oxidation. _Comprehensive Reviews in [Food Science](/articles/food-science-basics/)
  and Food Safety_, 5(4), 169–186.  
 [https://doi.org/10.1111/j.1541-4337.2006.00009.x](https://doi.org/10.1111/j.1541-4337.2006.00009.x)
 
@@ -538,9 +537,9 @@ Shahidi, F., & Zhong, Y. (2010). Lipid oxidation and improving the oxidative sta
 
 > [Microbial vs Chemical Spoilage Explained](../articles//microbial-vs-chemical-spoilage-explained.md)
 
-> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/food-science-basics/)
+> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/articles/food-science-basics/)
 
-> [Ingredients & Additives: Their Role in Food Stability and Spoilage](/ingredients-additives/)
+> [Ingredients & Additives: Their Role in Food Stability and Spoilage](/articles/ingredients-additives/)
 
 ---
 

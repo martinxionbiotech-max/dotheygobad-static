@@ -1,9 +1,10 @@
 ---
-title: "Pasteurized vs UHT Milk: Thermal Processing Science and Shelf Life Comparisons"
+
+title: "Thermal Processing Science and Shelf Life Comparisons"
 date: 2026-08-07
 dateModified: 2026-08-07
 author: "Martin Wang"
-description: Industrial food science comparison of pasteurized and UHT milk covering thermal processing kinetics, microbial reduction gradients, sensory chemistry of heat-induced changes, packaging requirements, and spoilage mechanisms across the complete processing spectrum from raw to commercially sterile.
+description: "Food science comparison of pasteurized and UHT milk, covering thermal kinetics, microbial reduction, and sensory chemistry."
 keywords: pasteurized milk, UHT milk, HTST pasteurization, ultra-high temperature, ESL milk, thermal processing, dairy shelf life, milk spoilage, Maillard reaction, age gelation, aseptic packaging, milk processing comparison
 categories: ["Dairy Products", "Preservation Technology", "Food Microbiology", "Shelf Life & Stability"]
 ---

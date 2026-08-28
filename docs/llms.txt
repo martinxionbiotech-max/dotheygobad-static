@@ -8,14 +8,14 @@ DoTheyGoBad applies food science principles—water activity (aw), pH, lipid oxi
 
 The site is organized by 8 food categories with 113 in-depth scientific articles:
 
-- **Beer & Alcoholic Drinks**
-- **Dairy Products**
-- **Fruits & Vegetables**
-- **Grains & Baked Goods**
-- **Meat & Seafood**
-- **Non-Alcoholic Beverages**
-- **Sauces & Condiments**
-- **Food Industry Concepts**
+- [Beer & Alcoholic Drinks](https://dotheygobad.com/categories/beer-alcoholic-drinks/)
+- [Dairy Products](https://dotheygobad.com/categories/dairy-products/)
+- [Fruits & Vegetables](https://dotheygobad.com/categories/fruits-vegetables/)
+- [Grains & Baked Goods](https://dotheygobad.com/categories/grains-baked-goods/)
+- [Meat & Seafood](https://dotheygobad.com/categories/meat-seafood/)
+- [Non-Alcoholic Beverages](https://dotheygobad.com/categories/non-alcoholic-beverages/)
+- [Sauces & Condiments](https://dotheygobad.com/categories/sauces-condiments/)
+- [Food Industry Concepts](https://dotheygobad.com/categories/food-industry-concept/)
 
 ## Supporting Pages
 

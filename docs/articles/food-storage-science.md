@@ -1,9 +1,10 @@
 ---
-title: "Food Storage Science: Optimal Conditions, Freezer Physics, and Advanced Packaging"
+
+title: "Optimal Conditions, Freezer Physics, and Advanced Packaging"
 date: 2026-08-09
 dateModified: 2026-08-09
 author: "Martin Wang"
-description: Deep-dive into freezer ice crystal physics, controlled atmosphere storage, packaging material science (OTR/WVTR), active packaging technologies, accelerated shelf life testing (ASLT), and storage trial design.
+description: "Food storage science: freezer ice crystal physics, controlled atmosphere, packaging barriers, and active packaging."
 keywords: food storage science, freezer science, ice crystal formation, glass transition, controlled atmosphere storage, packaging permeability, oxygen transmission rate, water vapor transmission rate, active packaging, accelerated shelf life testing, Q10, shelf life prediction
 categories: ["Food industry concept", "Preservation Technology", "Shelf Life & Stability", "Water Activity & Moisture"]
 ---

@@ -1,9 +1,10 @@
 ---
-title: "Natural vs Stabilized Peanut Butter: Oil Separation Chemistry, Emulsion Science, and Shelf Life Comparison"
+
+title: "Oil Separation Chemistry, Emulsion Science, and Shelf Life"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: Natural peanut butter separates because liquid peanut oil rises through denser solids by Stokes' Law sedimentation. Stabilized peanut butter uses fully hydrogenated vegetable oil (1-2%) to create a crystalline fat network that traps the oil in a permanent emulsion. Both types are chemically stable for months — the only spoilage risk is lipid oxidation. This article compares the physical chemistry, hydrogenation safety, and storage optimization for both product categories.
+description: "Natural peanut butter separates because liquid peanut oil rises through denser solids by Stokes' Law sedimentation."
 keywords: natural peanut butter oil separation, stabilized peanut butter hydrogenated oil, peanut butter emulsion, Stokes Law peanut butter, peanut butter shelf life, peanut butter oxidation, hydrogenated vegetable oil safety, peanut butter storage
 categories: ["Sauces & Condiments", "Lipid Chemistry & Rancidity", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---

@@ -1,9 +1,10 @@
 ---
-title: "Raw Chicken vs. Cooked Chicken: Comparative Spoilage Microbiology and Food Safety Implications"
+
+title: "Comparative Spoilage Microbiology and Food Safety"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: "Scientific comparison of spoilage pathways in raw versus cooked chicken: water activity shifts, microbial community restructuring, spore-former dominance, Bacillus cereus toxin risks, differential sensory cues, and evidence-based storage guidelines for food safety professionals."
+description: "Raw vs cooked chicken spoilage: water activity shifts, microbial succession, and spore-former dominance."
 keywords: raw chicken spoilage, cooked chicken spoilage, Bacillus cereus, Clostridium perfringens, water activity food, post-cooking contamination, spore-forming bacteria, poultry food safety, reheating safety, chicken storage guidelines
 categories: ["Meat & Seafood", "Food Microbiology", "Quality Control & Food Safety", "Spoilage Mechanisms"]
 ---
@@ -232,7 +233,6 @@ A: Yes, provided the cooked chicken was frozen promptly (within 2 hours of cooki
 
 15. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. Chapter 14: Spoilage of meats. doi:10.1007/b100840
 
-[{"@context": "https://schema.org", "@type": "Article", "@id": "raw-vs-cooked-chicken-spoilage.md#article", "headline": "Raw Chicken vs. Cooked Chicken: Comparative Spoilage Microbiology and Food Safety Implications", "mainEntityOfPage": {"@type": "WebPage", "@id": "raw-vs-cooked-chicken-spoilage.md"}, "author": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}, "publisher": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "@id": "raw-vs-cooked-chicken-spoilage.md#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dotheygobad.com/"}, {"@type": "ListItem", "position": 2, "name": "Articles", "item": "https://dotheygobad.com/articles/"}, {"@type": "ListItem", "position": 3, "name": "Raw Chicken vs. Cooked Chicken: How Spoilage Differs"}]}]
 
 ## About the Author
 

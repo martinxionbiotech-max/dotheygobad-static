@@ -1,4 +1,5 @@
 ---
+
 title: Tools – Dotheygobad
 date: 2026-02-06
 description: Free food science tools — NRV calculator and water safety risk calculator.

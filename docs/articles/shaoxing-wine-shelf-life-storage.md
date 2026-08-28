@@ -1,10 +1,11 @@
 ---
-title: "Does Shaoxing Wine Go Bad? Understanding the Shelf Life and Quality of Huangjiu"
+
+title: "Does Shaoxing Wine Go Bad?"
 date: 2025-12-29
 dateModified: 2025-12-29
 author: "Martin Wang"
 categories: ["Beer & Alcoholic Drinks", "Enzymatic & Chemical Reactions", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms"]
-description: "Shaoxing wine, also known as Huangjiu, is a traditional Chinese rice wine made primarily from glutinous rice. Its unique production process and complex fer"
+description: "Shaoxing wine, also known as Huangjiu, is a traditional Chinese rice wine made primarily from glutinous rice."
 ---
 
 # Does Shaoxing Wine Go Bad? Understanding the Shelf Life and Quality of Huangjiu
@@ -12,14 +13,13 @@ description: "Shaoxing wine, also known as Huangjiu, is a traditional Chinese ri
 > **Does Shaoxing wine [go bad](../articles//what-makes-food-go-bad.md)
 > ?**  
 > Shaoxing wine _can_ deteriorate, but not in the dramatic [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
->  way most perishable foods do. As a fermented rice — key [ingredients and additives](/ingredients-additives/)
->  that determine stability wine with residual sugars and alcohol (which lowers [water activity (aw)](/what-is-water-activity-aw/)
+>  way most perishable foods do. As a fermented rice — key [ingredients and additives](/articles/ingredients-additives/)
+>  that determine stability wine with residual sugars and alcohol (which lowers [water activity (aw)](/articles/water-activity-food-stability/)
 >  and prevents spoilage), it’s naturally more stable, yet **microbial contamination, oxidation, and poor storage** gradually degrade its quality — especially once opened. Higher‑alcohol, aged styles resist spoilage longer, while lower‑ABV cooking versions lose aroma and develop sour, stale notes more quickly. Clear signs it’s past its prime include cloudiness, loss of transparency, pungent sourness, and off‑aromas, even if it may still be technically drinkable or usable in cooking.
 
 Shaoxing wine, also known as **Huangjiu**, is a traditional Chinese rice wine made primarily from glutinous rice. Its unique production process and complex fermentation system make it both flavorful and sensitive to spoilage. In this article, we explore how Shaoxing wine can go bad, the signs of spoilage, and best practices for storage and quality maintenance.
 
 * * *
-
 
 **1\. Industrial Production and Fermentation Process**
 ------------------------------------------------------
@@ -224,7 +224,7 @@ If you are unsure whether your Shaoxing wine has gone bad, first ask:
 *   **How was it stored after opening?**
     
 
-From an [industrial food](/food-science-basics/)
+From an [industrial food](/articles/food-science-basics/)
  science perspective:
 
 > Shaoxing wine does not “expire” suddenly — it **gradually degrades** depending on alcohol level, oxygen exposure, microbial activity, and storage conditions.
@@ -289,13 +289,23 @@ _More to Read_
 
 > [Does Wine Go Bad? An Industrial & Food Science Perspective](../articles//does-wine-go-bad.md)
 
-> [Does Red Wine Go Bad?](/does-red-wine-go-bad/)
+> [Does Red Wine Go Bad?](/articles/does-red-wine-go-bad/)
 
-> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/food-science-basics/)
+> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/articles/food-science-basics/)
 
 > [What Makes Food Go Bad? – Understanding Food Spoilage from an Industrial Food Science Perspective](../articles//what-makes-food-go-bad.md)
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

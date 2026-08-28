@@ -1,5 +1,6 @@
 ---
-title: "Peanut Butter Shelf Life Science: Oil Rancidity, Microbial Stability and Storage"
+
+title: "Oil Rancidity, Microbial Stability and Storage"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
@@ -15,9 +16,8 @@ Peanut butter is a fascinating case study in food stability. With approximately 
  growth (pathogens require [aw](../articles//water-activity-food-stability.md)
  > 0.85), but fat-rich enough that oxidative rancidity is a constant threat. The question “does peanut butter [go bad](../articles//what-makes-food-go-bad.md)
 ?” requires analyzing the interplay between its lipid chemistry, processing history, [water activity](../articles//water-activity-food-stability.md)
-, and packaging — a story that illuminates fundamental principles of [food science](/food-science-basics/)
+, and packaging — a story that illuminates fundamental principles of [food science](/articles/food-science-basics/)
 .
-
 
 Peanut Butter Composition: A Fat-Controlled System
 --------------------------------------------------
@@ -40,7 +40,7 @@ The high unsaturated fat content (approximately 75% of total fat) makes peanut b
  [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  — no bacteria, yeast, or mold can grow at aw < 0.6. This is why unopened peanut butter has such remarkable room-temperature stability.
 
-Peanut butter’s water activity (0.3–0.5) falls well below the growth threshold for all pathogens and most spoilage organisms. Microbial spoilage is essentially impossible. [Learn more →](/what-is-water-activity-aw/)
+Peanut butter’s water activity (0.3–0.5) falls well below the growth threshold for all pathogens and most spoilage organisms. Microbial spoilage is essentially impossible. [Learn more →](/articles/water-activity-food-stability/)
 
 Oxidative Rancidity: The Primary Spoilage Mechanism
 ---------------------------------------------------
@@ -54,8 +54,6 @@ Peanut butter’s high content of linoleic acid (C18:2, ~30% of total fatty acid
 3.  **Termination / rancidity phase:** Hydroperoxides break down into volatile secondary oxidation products — hexanal, nonanal, 2,4-decadienal — that produce the characteristic “rancid” smell and taste. Hexanal is the primary volatile marker used for quality assessment.
 
 The rate of oxidation depends on storage temperature (Q₁₀ ≈ 2), oxygen exposure (headspace volume), and light. An opened jar of natural peanut butter at room temperature has a typical rancidity-free window of 2–3 months.
-
-![Oxidation pathways in peanut butter](/wp-content/uploads/2026/06/oxidation-pathways.png)
 
 Peanut butter oxidation follows the same free radical chain mechanism as other high-unsaturated-fat foods. Hexanal is the key volatile marker for rancidity detection. [Learn more →](../articles//microbial-vs-chemical-spoilage-explained.md)
 
@@ -90,9 +88,7 @@ Grinding exposes fresh surface area of peanut cell walls to oxygen. Single-stage
 
 The addition of hydrogenated vegetable oils (palm oil, rapeseed oil) at 1–3% creates a fat crystal network that immobilizes the liquid oil. This not only prevents oil separation but also reduces oxygen diffusion through the product, slowing oxidation. Temperature-controlled cooling (crystallization) is essential to form the correct crystal polymorph (β’ form) for optimal stabilization.
 
-![Processing and packaging impact on peanut butter shelf life](/wp-content/uploads/2026/06/processing-packaging-impact.png)
-
-The processing chain — roasting → grinding → stabilization → packaging — each step has a critical impact on final shelf life. [Learn more about food processing →](/ingredients-additives/)
+The processing chain — roasting → grinding → stabilization → packaging — each step has a critical impact on final shelf life. [Learn more about food processing →](/articles/ingredients-additives/)
 
 Shelf Life by Type and Storage
 ------------------------------
@@ -133,6 +129,16 @@ Peanut butter’s spoilage profile is defined by a rare combination: excellent m
 Understanding these mechanisms allows both manufacturers and consumers to make informed storage decisions. And the single most important insight: if it smells fine, tastes fine, and has no mold — it’s fine. Peanut butter is remarkably forgiving, provided it hasn’t been abused by heat, light, or moisture.
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

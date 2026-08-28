@@ -1,5 +1,6 @@
 ---
-title: "Onion Shelf Life Science: Sprouting, Soft Rot and Black Mold Spoilage"
+
+title: "Sprouting, Soft Rot and Black Mold Spoilage"
 date: 2026-06-29
 dateModified: 2026-06-29
 author: "Martin Wang"
@@ -10,7 +11,6 @@ description: "Industrial food spoilage science: onion dormancy break, Aspergillu
 # Onion Shelf Life Science: Sprouting, Soft Rot and Black Mold Spoilage
 
 Industrial food spoilage science: onion dormancy break, Aspergillus niger, and Erwinia soft rot
-
 
 ### 📋 Key Takeaways
 
@@ -270,6 +270,16 @@ Scientific Literature References
      — Onion storage diseases: Botrytis, Fusarium, and bacterial pathogens. _Crop Protection_.
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

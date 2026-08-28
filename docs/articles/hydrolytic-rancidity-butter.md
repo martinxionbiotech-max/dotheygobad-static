@@ -1,9 +1,10 @@
 ---
-title: "Hydrolytic Rancidity in Butter: Water and Fat Interaction at the Molecular Level"
+
+title: "Water and Fat Interaction at the Molecular Level"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: A molecular-level examination of hydrolytic rancidity in butter. Covers triglyceride hydrolysis catalyzed by milk lipoprotein lipase, the critical role of the lipid-water interface, free fatty acid release kinetics, sensory thresholds for butyric and caproic acids, bacterial lipase contributions from psychrotrophs, and quantitative relationships between storage conditions and lipolysis rate.
+description: "A molecular-level examination of hydrolytic rancidity in butter."
 keywords: hydrolytic rancidity, lipolysis, butter spoilage, lipoprotein lipase, free fatty acids, butyric acid, triglyceride hydrolysis, psychrotrophic bacteria, lipase, lipid-water interface
 categories: ["Dairy Products", "Lipid Chemistry & Rancidity", "Enzymatic & Chemical Reactions", "Spoilage Mechanisms"]
 ---
@@ -206,7 +207,6 @@ No — that watery liquid is whey separation (syneresis), not the primary water 
 
 15. Christen, G. L., & Marshall, R. T. (1987). Lipolysis in dairy products: A review. *Journal of Dairy Science*, 70(8), 1718-1732. https://doi.org/10.3168/jds.S0022-0302(87)80199-6
 
-[{"@context": "https://schema.org", "@type": "Article", "@id": "hydrolytic-rancidity-butter.md#article", "headline": "Hydrolytic Rancidity in Butter: Water and Fat Interaction at the Molecular Level", "mainEntityOfPage": {"@type": "WebPage", "@id": "hydrolytic-rancidity-butter.md"}, "author": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}, "publisher": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "@id": "hydrolytic-rancidity-butter.md#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dotheygobad.com/"}, {"@type": "ListItem", "position": 2, "name": "Articles", "item": "https://dotheygobad.com/articles/"}, {"@type": "ListItem", "position": 3, "name": "Hydrolytic Rancidity in Butter: Water and Fat Interaction at the Molecular Level"}]}]
 
 ## About the Author
 

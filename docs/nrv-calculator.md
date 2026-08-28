@@ -1,4 +1,5 @@
 ---
+
 title: NRV Calculator
 date: 2026-01-09
 description: Free NRV / Daily Value calculator — check nutrient percentages (DV%) based on US FDA Daily Values for calories, protein, fat, fiber, and vitamins.

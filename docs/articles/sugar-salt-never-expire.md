@@ -1,9 +1,10 @@
 ---
-title: "Sugar and Salt: Why These Never Really Expire — The Science of Indefinite Shelf Life"
+
+title: "Why These Never Really Expire — The Science of Indefinite"
 date: 2026-08-09
 dateModified: 2026-08-09
 author: "Martin Wang"
-description: Deep-dive into water activity depression by solutes (Raoult's law extension), osmotic dehydration of microorganisms, humectant chemistry, caking mechanisms, and iodine stability in salt.
+description: "How sugar and salt resist spoilage through low water activity, osmotic stress on microbes, and humectant chemistry."
 keywords: sugar salt shelf life, water activity depression, Raoult's law food, osmotic dehydration, humectant chemistry, salt caking, iodine stability, sugar crystallization, solute antimicrobial mechanism
 categories: ["Food industry concept", "Water Activity & Moisture", "Preservation Technology", "Shelf Life & Stability"]
 ---
@@ -205,7 +206,7 @@ Both require protection from moisture — the only meaningful degradation vector
 - [Water Activity and Food Stability](water-activity-food-stability.md) — The comprehensive aw framework governing all food stability
 - [What Makes Food Go Bad?](what-makes-food-go-bad.md) — Foundational spoilage mechanisms across food categories
 - [Food Spoilage Science: The Complete Guide](food-spoilage-science.md) — Microbial, chemical, and physical spoilage in depth
-- [Do Staple Foods Expire? Flour, Sugar, Salt, Pasta](https://dotheygobad.com/do-staple-foods-expire-flour-sugar-salt-pasta/) — Shelf life guidance for pantry staples
+- [Do Staple Foods Expire? Flour, Sugar, Salt, Pasta](/articles/staple-foods-never-expire/) — Shelf life guidance for pantry staples
 - [Microbial vs Chemical Spoilage Explained](microbial-vs-chemical-spoilage-explained.md) — Distinguishing biological from chemical deterioration
 
 ## References

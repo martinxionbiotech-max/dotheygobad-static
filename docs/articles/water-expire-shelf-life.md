@@ -1,17 +1,18 @@
 ---
-title: "Water Shelf Life Science: Container Leaching, Microbial Risk and Indefinite Storage"
+
+title: "Container Leaching, Microbial Risk and Indefinite Storage"
 date: 2026-02-06
 dateModified: 2026-02-06
 author: "Martin Wang"
 categories: ["Non-Alcoholic Beverages", "Shelf Life & Stability", "Spoilage Mechanisms", "Water Activity & Moisture"]
-description: "At first glance, the question feels almost childish. Water is water. It doesn’t rot, mold, ferment, or decompose like food. It has no protein, no sugar, no"
+description: "At first glance, the question feels almost childish."
 ---
 
 # Water Shelf Life Science: Container Leaching, Microbial Risk and Indefinite Storage
 
 > Table of Contents
 > 
-> [Toggle](/water-expire-shelf-life/#)
+> [Toggle](/articles/water-expire-shelf-life/#)
 > 
 > ### For General Consumers: Does Water Expire? Safe Storage and Usage Tips
 > 
@@ -47,7 +48,7 @@ description: "At first glance, the question feels almost childish. Water is wate
 > *   Chemical leaching from containers (plastic degradation, microplastics).
 >     
 > 
-> **Key precautions for [food industry](/food-science-basics/)
+> **Key precautions for [food industry](/articles/food-science-basics/)
 >  water use:**
 > 
 > *   **Container selection:** Avoid long-term use of PET single-use plastics; prioritize more stable materials such as food-grade stainless steel, glass, or certified HDPE.
@@ -55,7 +56,7 @@ description: "At first glance, the question feels almost childish. Water is wate
 > *   **[Microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
 >      control:** Regularly clean and sanitize water systems; implement strict guidelines for opened water.
 >     
-> *   **Storage conditions:** Keep water away from high heat and direct sunlight; monitor temperature, humidity (related to [water activity (aw)](/what-is-water-activity-aw/)
+> *   **Storage conditions:** Keep water away from high heat and direct sunlight; monitor temperature, humidity (related to [water activity (aw)](/articles/water-activity-food-stability/)
 >     ), and container integrity.
 >     
 > *   **Emergency water management:** Rotate reserves systematically (e.g., every 6–12 months) to minimize risks from container degradation.
@@ -145,7 +146,7 @@ This single change introduces three unavoidable vulnerabilities:
     
 2.  **Chemical vulnerability** (container material migration)
     
-3.  **Physical vulnerability** (loss of dissolved gases — these are part of [ingredients and additives](/ingredients-additives/)
+3.  **Physical vulnerability** (loss of dissolved gases — these are part of [ingredients and additives](/articles/ingredients-additives/)
      in the broad sense, mineral precipitation, sensory degradation)
     
 
@@ -615,15 +616,11 @@ These are **risk-minimizing recommendations**, not absolute cutoffs.
 
 ### 15.2 Figure 2. Conceptual risk increase curves for stored drinking water
 
-![does water expire | risk increase curves for stored drinking water](/wp-content/uploads/2026/02/water_risk_curve.jpg)
-
 This conceptual model illustrates how **relative consumption risk increases gradually over time**, rather than occurring at a fixed expiration date.  
 Unopened bottled water shows the slowest risk accumulation, while opened bottled and distilled water exhibit steeper risk trajectories due to oxygen exposure, microbial introduction, and biofilm formation.  
 The curves are illustrative, not predictive, and are intended to visualize _risk dynamics_, not precise safety thresholds.
 
 ### **15.3 Recommended safety timeframes for different stored water conditions**
-
-![Does water expire | safety timeframes for different stored water conditions](/wp-content/uploads/2026/02/water_safety_timeframes.jpg)
 
 This figure summarizes _risk-minimizing_ consumption windows for commonly stored water types under typical household conditions.  
 The timelines do **not** represent absolute expiration points. Instead, they reflect when **microbial growth, container aging, and human contact** begin to measurably increase health risk.  
@@ -698,7 +695,7 @@ Because cap seals are not absolute barriers. Floodwater introduces pathogens inv
 
 While water molecules are inherently stable and do not spoil like perishable foods, its _“shelf life”_ is determined by environmental conditions, container materials, and storage practices.
 
-For general consumers, safe drinking water mainly depends on proper storage and timely consumption. In the [food industry](/food-science-basics/)
+For general consumers, safe drinking water mainly depends on proper storage and timely consumption. In the [food industry](/articles/food-science-basics/)
 , water safety affects the entire production chain and requires scientific management involving material science, microbial control, and environmental monitoring.
 
 * * *
@@ -753,8 +750,7 @@ Expiration dates indicate **optimal safety, taste, and legal compliance**, not a
 
 * * *
 
-References
-----------
+## References
 
 Shotyk, W., Krachler, M., & Chen, B. (2006). Contamination of Canadian and European bottled waters with antimony from PET containers. _Environmental Pollution_, 145(1), 13–19.  
 [https://doi.org/10.1016/j.envpol.2005.11.012](https://doi.org/10.1016/j.envpol.2005.11.012)

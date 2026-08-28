@@ -1,9 +1,10 @@
 ---
-title: "Why Light Destroys Olive Oil Faster Than Heat: Photo-Oxidation Chemistry and Storage Science"
+
+title: "Photo-Oxidation Chemistry and Storage Science"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: Light is the number one enemy of olive oil — photo-oxidation proceeds up to 1,500× faster than thermal auto-oxidation at room temperature. Chlorophyll in EVOO acts as a photosensitizer, generating singlet oxygen that attacks unsaturated fatty acids directly. This article explains the photochemical mechanism, compares light vs. heat degradation rates, and presents evidence-based storage protocols that maximize olive oil shelf life.
+description: "Light is the number one enemy of olive oil — photo-oxidation proceeds up to 1,500× faster than thermal auto-oxidation at room temperature."
 keywords: olive oil photo-oxidation, light destroys olive oil, singlet oxygen olive oil, chlorophyll photosensitizer, olive oil storage, dark glass olive oil, EVOO light degradation, singlet oxygen ene reaction
 categories: ["Sauces & Condiments", "Lipid Chemistry & Rancidity", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---

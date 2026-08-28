@@ -1,9 +1,10 @@
 ---
-title: "Freezer Burn on Chicken: Sublimation Physics, Ice Crystal Damage, and Evidence-Based Prevention Strategies"
+
+title: "Sublimation Physics, Ice Crystal Damage, and Evidence-Based"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: "Complete food science analysis of freezer burn on chicken: sublimation thermodynamics, ice crystal nucleation kinetics, temperature fluctuation effects in frost-free freezers, comparative efficacy of vacuum sealing, ice glazing, and oxygen-barrier packaging, with industrial and domestic prevention protocols."
+description: "Food science analysis of freezer burn on chicken: sublimation, ice crystal nucleation, temperature fluctuation, and prevention."
 keywords: freezer burn chicken, sublimation, ice crystal damage, freezer burn prevention, vacuum sealing, frost-free freezer, temperature fluctuation, chicken frozen storage, lipid oxidation frozen, drip loss
 categories: ["Meat & Seafood", "Preservation Technology", "Water Activity & Moisture", "Spoilage Mechanisms"]
 ---
@@ -213,7 +214,6 @@ A: Trim the freezer-burned areas. The desiccated tissue will not rehydrate durin
 
 15. Mascheroni, R. H. (2012). Operations used in low-temperature food processing: freezing and thawing. In *Operations in Food Refrigeration* (pp. 93–123). CRC Press. doi:10.1201/b12004-6
 
-[{"@context": "https://schema.org", "@type": "Article", "@id": "freezer-burn-chicken-prevention.md#article", "headline": "Freezer Burn on Chicken: Sublimation Physics, Ice Crystal Damage, and Evidence-Based Prevention Strategies", "mainEntityOfPage": {"@type": "WebPage", "@id": "freezer-burn-chicken-prevention.md"}, "author": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}, "publisher": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "@id": "freezer-burn-chicken-prevention.md#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dotheygobad.com/"}, {"@type": "ListItem", "position": 2, "name": "Articles", "item": "https://dotheygobad.com/articles/"}, {"@type": "ListItem", "position": 3, "name": "Freezer Burn on Chicken: Prevention Science"}]}]
 
 ## About the Author
 

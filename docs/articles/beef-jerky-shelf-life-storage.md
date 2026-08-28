@@ -1,9 +1,10 @@
 ---
-title: "Beef Jerky Shelf Life Science: Water Activity Control, Mold Ecology, and Industrial Processing"
+
+title: "Water Activity Control, Mold Ecology, and Industrial"
 date: 2025-12-31
 dateModified: 2025-12-31
 author: "Martin Wang"
-description: A comprehensive food science examination of beef jerky stability covering water activity (a<sub>w</sub>) as the primary preservation barrier, drying kinetics and case hardening, spice microbiology and irradiation, salt bloom vs. mold differentiation, lipid oxidation in high-fat jerky formulations, industrial critical control points in jerky manufacture, and shelf-life benchmarks across packaging and storage formats.
+description: "Food science of beef jerky stability: water activity, drying kinetics, case hardening, and safe storage."
 keywords: beef jerky shelf life, water activity, aW, mold spoilage, salt bloom, Aspergillus, Penicillium, dried meat, jerky processing, critical control points, lipid oxidation, meat preservation
 categories: ["Meat & Seafood", "Preservation Technology", "Water Activity & Moisture", "Spoilage Mechanisms"]
 ---
@@ -211,7 +212,6 @@ The desiccant packet (typically silica gel or calcium chloride) included in comm
 
 15. International Commission on Microbiological Specifications for Foods. (2005). *Microorganisms in Foods 6: Microbial Ecology of Food Commodities* (2nd ed.). Springer. https://doi.org/10.1007/0-387-28801-4
 
-[{"@context": "https://schema.org", "@type": "Article", "@id": "beef-jerky-shelf-life-storage.md#article", "headline": "Beef Jerky Shelf Life Science: Water Activity Control, Mold Ecology, and Industrial Processing", "mainEntityOfPage": {"@type": "WebPage", "@id": "beef-jerky-shelf-life-storage.md"}, "author": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}, "publisher": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "@id": "beef-jerky-shelf-life-storage.md#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dotheygobad.com/"}, {"@type": "ListItem", "position": 2, "name": "Articles", "item": "https://dotheygobad.com/articles/"}, {"@type": "ListItem", "position": 3, "name": "Beef Jerky Shelf Life Science: Water Activity Control, Mold Ecology, and Industrial Processing"}]}]
 
 ## About the Author
 

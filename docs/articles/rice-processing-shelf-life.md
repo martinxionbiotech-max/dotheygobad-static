@@ -1,9 +1,10 @@
 ---
-title: "How Rice Processing Affects Shelf Life: From Paddy to Package"
+
+title: "From Paddy to Package"
 date: 2026-08-09
 dateModified: 2026-08-09
 author: "Martin Wang"
-description: Comprehensive analysis of each rice processing step — drying, dehusking, milling, parboiling, and packaging — and how each directly impacts oxidative stability, microbial safety, insect resistance, and overall shelf life measured in months to decades.
+description: "Comprehensive analysis of each rice processing step — drying, dehusking, milling, parboiling, and packaging — and how each directly impacts oxidative"
 keywords: rice processing shelf life, rice drying, rice milling, parboiling, rice packaging, degree of milling, nitrogen flushing, oxygen absorbers, rice stability
 categories: ["Grains & Baked Goods", "Preservation Technology", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---

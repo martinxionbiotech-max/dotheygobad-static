@@ -1,9 +1,10 @@
 ---
-title: "The Science of Water Spoilage: Microbial Growth, Plastic Leaching, Algal Contamination, and Container Stability"
+
+title: "Microbial Growth, Plastic Leaching, Algal Contamination"
 date: 2026-08-07
 dateModified: 2026-08-07
 author: "Martin Wang"
-description: Water doesn't "spoil" like food — it becomes contaminated. This comprehensive food-science analysis covers microbial colonization kinetics in opened bottles, PET antimony and BPA leaching physics, algal and cyanobacterial growth in stored water, and the stability differences between mineral, tap, and distilled water.
+description: "Water does not spoil like food; instead it becomes contaminated through microbial growth, plastic leaching, or algae."
 keywords: water spoilage, water microbial growth, plastic leaching water, BPA water safety, antimony PET bottles, algal growth water, cyanobacteria water, mineral vs distilled vs tap water stability
 categories: ["Non-Alcoholic Beverages", "Water Activity & Moisture", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---
@@ -344,4 +345,3 @@ Bach, C., Dauchy, X., Chagnon, M. C., & Etienne, S. (2012). Chemical compounds a
 Martin Wang has 20+ years of hands-on experience in industrial food processing, product development, and large-scale manufacturing. He has led multiple commercial food projects from factory to market and specializes in shelf-life control, water activity management, and process optimization. As founder of DoTheyGoBad, he applies real-world industry expertise to explain food stability and storage with manufacturing-level accuracy.
 
 [View author profile](..//about/author-profile.md) · [Back to all articles](..//articles.md)
-

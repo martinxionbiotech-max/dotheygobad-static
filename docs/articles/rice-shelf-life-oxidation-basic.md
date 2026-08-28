@@ -1,5 +1,6 @@
 ---
-title: "Rice Shelf Life Science: Lipid Oxidation, Microbial Risk and Storage Conditions"
+
+title: "Lipid Oxidation, Microbial Risk and Storage Conditions"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
@@ -10,10 +11,9 @@ description: "Rice is the world’s most consumed staple grain, feeding over hal
 # Rice Shelf Life Science: Lipid Oxidation, Microbial Risk and Storage Conditions
 
 Rice is the world’s most consumed staple grain, feeding over half the global population. Yet the question “does rice [go bad](../articles//what-makes-food-go-bad.md)
-?” has surprisingly different answers depending on the variety — white, brown, wild — and its state (dry vs. cooked). From an [industrial food](/food-science-basics/)
+?” has surprisingly different answers depending on the variety — white, brown, wild — and its state (dry vs. cooked). From an [industrial food](/articles/food-science-basics/)
  science perspective, rice [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  spans the full spectrum: from oxidative rancidity in brown rice, to insect infestation in dry storage, to Bacillus cereus food poisoning in cooked rice. Understanding each pathway is critical for food processors, storage managers, and quality assurance professionals.
-
 
 White Rice vs. Brown Rice: The Fat Content Difference
 -----------------------------------------------------
@@ -41,7 +41,7 @@ The Role of Water Activity in Dry Rice
 Uncooked rice typically has a [water activity](../articles//water-activity-food-stability.md)
  of 0.12–0.25, well below the threshold for any [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
  growth (minimum [aw](../articles//water-activity-food-stability.md)
- for xerophilic molds is ~0.61). This means [microbial spoilage of dry rice](/what-is-water-activity-aw/)
+ for xerophilic molds is ~0.61). This means [microbial spoilage of dry rice](/articles/water-activity-food-stability/)
  is essentially impossible under proper storage conditions. However, the low aw creates a different risk: moisture migration.
 
 When rice is stored in a humid environment (RH > 65%), it acts as a hygroscopic sponge, absorbing moisture from the air. If the internal aw rises above 0.65, mold growth becomes possible. This is why industrial rice storage prioritizes:
@@ -76,9 +76,7 @@ _Bacillus cereus_ is ubiquitous in soil and commonly present on raw rice grains 
 
 The critical control point is time-temperature management. Cooked rice must be either maintained above 60°C (for hot holding) or cooled to below 4°C within 2 hours. Never leave cooked rice at room temperature for more than 2 hours — this is non-negotiable for food safety.
 
-![Water activity changes from dry to cooked rice enable Bacillus cereus growth](/wp-content/uploads/2026/06/water-activity-microbes.png)
-
-Cooked rice (aw 0.97-0.99) provides ideal conditions for Bacillus cereus spore germination and toxin production — a dramatic shift from dry rice’s inhospitable aw 0.12. [Learn more →](/what-is-water-activity-aw/)
+Cooked rice (aw 0.97-0.99) provides ideal conditions for Bacillus cereus spore germination and toxin production — a dramatic shift from dry rice’s inhospitable aw 0.12. [Learn more →](/articles/water-activity-food-stability/)
 
 Cooked Rice Spoilage: Staling and Microbial Growth
 --------------------------------------------------
@@ -104,9 +102,7 @@ Modern rice processing incorporates several technologies specifically designed t
 *   **Oxygen absorber sachets:** Iron-based scavengers inside sealed packaging reduce headspace O₂ to <0.01% within hours.
 *   **Vacuum packaging:** Common for premium rice varieties; prevents moisture exchange and insect entry.
 
-![Processing and packaging impact on rice shelf life](/wp-content/uploads/2026/06/processing-packaging-impact.png)
-
-Nitrogen flushing and oxygen absorbers can extend brown rice shelf life by 3–4× over standard packaging. [Learn more about food processing techniques →](/ingredients-additives/)
+Nitrogen flushing and oxygen absorbers can extend brown rice shelf life by 3–4× over standard packaging. [Learn more about food processing techniques →](/articles/ingredients-additives/)
 
 How to Tell if Rice Has Gone Bad
 --------------------------------
@@ -136,6 +132,16 @@ Storage Best Practices for Rice
 The bottom line: rice spoilage is a tale of two foods. Dry white rice is one of humanity’s most stable staples, while brown rice’s nutritional superiority comes at the cost of dramatically reduced shelf life. Cooked rice, regardless of variety, becomes a time-sensitive perishable requiring strict temperature control to prevent the ever-present risk of Bacillus cereus.
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

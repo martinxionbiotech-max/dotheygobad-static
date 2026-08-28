@@ -1,6 +1,7 @@
 ---
+
 title: "DoTheyGoBad — Food Shelf Life Science Encyclopedia"
-description: "Industrial food science encyclopedia explaining why foods spoil, how shelf life is determined, and what preservation methods work — from chemistry, microbiology, and processing engineering."
+description: "Industrial food science encyclopedia explaining why foods spoil, how shelf life is determined, and what preservation methods work — from chemistry"
 hide:
   - toc
 ---
@@ -13,14 +14,14 @@ DoTheyGoBad is an **industrial food science encyclopedia** dedicated to explaini
 
 | Category | Articles | Key Topics |
 |---|---|---|
-| [:material-beer: Beer & Alcoholic Drinks](categories/beer-alcoholic-drinks.md) | 4 | Oxidation, staling, DO/pH in beer |
-| [:material-cheese: Dairy Products](categories/dairy-products.md) | 11 | Lipolysis, post-acidification, pasteurization |
-| [:material-fruit-cherries: Fruits & Vegetables](categories/fruits-vegetables.md) | 14 | Ethylene ripening, fungal rot, browning |
-| [:material-barley: Grains & Baked Goods](categories/grains-baked-goods.md) | 8 | Starch retrogradation, staling, rancidity |
+| [:material-beer: Beer & Alcoholic Drinks](categories/beer-alcoholic-drinks.md) | 6 | Oxidation, staling, DO/pH in beer |
+| [:material-cheese: Dairy Products](categories/dairy-products.md) | 21 | Lipolysis, post-acidification, pasteurization |
+| [:material-fruit-cherries: Fruits & Vegetables](categories/fruits-vegetables.md) | 12 | Ethylene ripening, fungal rot, browning |
+| [:material-barley: Grains & Baked Goods](categories/grains-baked-goods.md) | 20 | Starch retrogradation, staling, rancidity |
 | [:material-food-drumstick: Meat & Seafood](categories/meat-seafood.md) | 11 | Microbial spoilage, TMAO, histamine |
-| [:material-cup: Non-Alcoholic Beverages](categories/non-alcoholic-beverages.md) | 3 | Oxidation, enzymatic browning |
-| [:material-soy-sauce: Sauces & Condiments](categories/sauces-condiments.md) | 8 | Emulsion breakdown, aw, rancidity |
-| [:material-microscope: Food Industry Concepts](categories/food-industry-concept.md) | 7 | Water activity, preservation, spoilage |
+| [:material-cup: Non-Alcoholic Beverages](categories/non-alcoholic-beverages.md) | 8 | Oxidation, enzymatic browning |
+| [:material-soy-sauce: Sauces & Condiments](categories/sauces-condiments.md) | 18 | Emulsion breakdown, aw, rancidity |
+| [:material-microscope: Food Industry Concepts](categories/food-industry-concept.md) | 17 | Water activity, preservation, spoilage |
 
 ## Science Principles Behind Food Stability
 

@@ -1,10 +1,11 @@
 ---
-title: "Chicken Shelf Life Science: Pseudomonas, Campylobacter and Poultry Microbiology"
+
+title: "Pseudomonas, Campylobacter and Poultry Microbiology"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
 categories: ["Food Microbiology", "Meat & Seafood", "Shelf Life & Stability", "Spoilage Mechanisms"]
-description: "Chicken occupies a uniquely challenging position in the food supply chain. It spoils faster than beef, pork, or lamb under identical storage conditions — n"
+description: "Chicken occupies a uniquely challenging position in the food supply chain."
 ---
 
 # Chicken Shelf Life Science: Pseudomonas, Campylobacter and Poultry Microbiology
@@ -21,7 +22,7 @@ To understand [what makes food go bad](../articles//what-makes-food-go-bad.md)
  bacteria thrive at refrigeration temperatures.
 
 Chicken meat has a [water activity](../articles//water-activity-food-stability.md)
- of approximately 0.99, placing it at the extreme high end of the aw spectrum alongside other fresh meats. Explore the [complete guide to water activity in food preservation](/what-is-water-activity-aw/)
+ of approximately 0.99, placing it at the extreme high end of the aw spectrum alongside other fresh meats. Explore the [complete guide to water activity in food preservation](/articles/water-activity-food-stability/)
 .
 
 Chicken’s Composition: A Perfect Microbial Medium
@@ -41,8 +42,6 @@ Compared to beef (pH 5.4–5.7 after aging), chicken’s higher pH is the single
 
 The Microbiology of Chicken Spoilage
 ------------------------------------
-
-![Spoilage Mechanisms](/wp-content/uploads/2026/06/spoilage-mechanisms.png)
 
 The four main spoilage mechanisms affecting fresh chicken. See the [complete guide on what makes food go bad](../articles//what-makes-food-go-bad.md)
  for a detailed breakdown of each pathway.
@@ -98,9 +97,7 @@ Air-chilled poultry typically commands a premium in the marketplace due to its s
 Packaging Systems and Shelf Life
 --------------------------------
 
-![Processing and Packaging Impact on Shelf Life](/wp-content/uploads/2026/06/processing-packaging-impact.png)
-
-How different processing and packaging methods affect poultry shelf life. See more about [ingredients and additives in food preservation](/ingredients-additives/)
+How different processing and packaging methods affect poultry shelf life. See more about [ingredients and additives in food preservation](/articles/ingredients-additives/)
 .
 
 The packaging system is the last line of defense before the consumer. For poultry, three packaging formats dominate:
@@ -140,16 +137,26 @@ Quality control professionals in poultry processing use a structured sensory eva
 *   **Tactile:** Stickiness of the surface (slime formation), texture change from firm to mushy
 *   **Chemical:** pH measurement (raw chicken above 6.7 indicates spoilage), TVB-N (total volatile basic nitrogen — regulatory limit 15–30 mg/100g depending on jurisdiction), biogenic amines (putrescine and cadaverine measured by HPLC)
 
-Understanding [how ingredients and additives](/ingredients-additives/)
- such as marinades, phosphates, and antioxidants affect the shelf life of value-added chicken products adds another layer of complexity for [food industry](/food-science-basics/)
+Understanding [how ingredients and additives](/articles/ingredients-additives/)
+ such as marinades, phosphates, and antioxidants affect the shelf life of value-added chicken products adds another layer of complexity for [food industry](/articles/food-science-basics/)
  professionals. A properly designed marinade can extend refrigerated shelf life by 2–4 days through pH reduction, aw lowering, and antimicrobial effects of organic acids.
 
-_More from Meat & Seafood: [Can Eggs Go Bad?](/can-eggs-go-bad/)
- | [Can Frozen Shrimp Go Bad?](/can-frozen-shrimp-go-bad/)
- | [Does Beef Jerky Go Bad?](/does-beef-jerky-go-bad/)
+_More from Meat & Seafood: [Can Eggs Go Bad?](/articles/eggs-shelf-life-freshness-spoilage/)
+ | [Can Frozen Shrimp Go Bad?](/articles/frozen-shrimp-shelf-life-storage/)
+ | [Does Beef Jerky Go Bad?](/articles/beef-jerky-shelf-life-storage/)
 _
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

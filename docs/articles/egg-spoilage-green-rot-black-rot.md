@@ -1,9 +1,10 @@
 ---
-title: "Green Rot, Black Rot & Salmonella: Egg Spoilage Microbiology — Pseudomonas, Proteus, Serratia, Bacterial Penetration, and Innate Albumen Defense"
+
+title: "Egg Spoilage Microbiology — Pseudomonas, Proteus, Serratia"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: "Comprehensive microbiological analysis of bacterial egg spoilage: Pseudomonas fluorescens green rot (pyoverdine UV fluorescence), Proteus vulgaris and Serratia marcescens black rot (H₂S → FeS chemistry), cuticle biochemistry and degradation, trans-shell vs transovarian contamination routes, egg albumen innate immunity (lysozyme N-acetylmuramidase, ovotransferrin iron chelation, ovomucoid protease inhibition), Salmonella Enteritidis serotype-specific egg contamination, bacterial motility through shell pores, USDA grading by candling."
+description: "Microbiology of bacterial egg spoilage, including green rot, black rot, fluorescent Pseudomonas detection, and Proteus species."
 keywords: egg spoilage bacteria, green rot egg, black rot egg, Pseudomonas fluorescens pyoverdine, Proteus vulgaris egg, Serratia marcescens prodigiosin, salmonella enteritidis egg contamination, egg albumen lysozyme, ovotransferrin iron chelation, ovomucoid trypsin inhibitor, transovarian transmission, trans-shell contamination, bacterial egg penetration, eggshell cuticle, egg candling USDA grading, ferrous sulfide egg
 categories: ["Dairy Products", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---

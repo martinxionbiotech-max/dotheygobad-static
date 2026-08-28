@@ -1,10 +1,11 @@
 ---
-title: "Does Wine Go Bad? An Industrial &#038; Food Science Perspective"
+
+title: "Does Wine Go Bad?"
 date: 2025-12-28
 dateModified: 2025-12-28
 author: "Martin Wang"
 categories: ["Beer & Alcoholic Drinks"]
-description: "Many people believe that wine, once bottled, can last forever. In reality, wine does not suddenly “expire,” but it does change continuously over time. Some"
+description: "Many people believe that wine, once bottled, can last forever."
 ---
 
 # Does Wine Go Bad? An Industrial &#038; Food Science Perspective
@@ -14,13 +15,12 @@ description: "Many people believe that wine, once bottled, can last forever. In 
 > Yes — wine _can_ go bad, but it doesn’t “spoil” like milk or fresh produce. Bottled wine is a fermented alcoholic beverage whose quality and stability depend on _chemical reactions_, storage conditions, and oxygen exposure rather than rapid [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
 >  spoilage. Unopened bottles stored cool, dark, and with stable temperatures can retain quality for years, but most everyday wines aren’t meant for decades of aging. Once opened, wine begins to oxidize immediately and quality declines over days through chemical changes that dull flavors, increase acidity, and eventually produce off‑aromas like vinegar; visible signs such as cloudiness, sour smell, or dull taste indicate it’s past its prime.
 
-
 Introduction: Does Wine Go Bad?
 -------------------------------
 
 Many people believe that wine, once bottled, can last forever. In reality, wine does not suddenly “expire,” but it does **change continuously over time**. Some changes are desirable and intentional, known as aging. Others are signs of deterioration, commonly described as wine “going bad.”
 
-From an industrial and [food science](/food-science-basics/)
+From an industrial and [food science](/articles/food-science-basics/)
  perspective, **all wine begins to change the moment it leaves the winery**. Whether those changes improve or damage quality depends on raw materials, production choices, packaging, and storage conditions. Understanding these mechanisms helps explain why some wines age gracefully while others deteriorate quickly.
 
 * * *
@@ -30,7 +30,7 @@ What Is Wine Made Of? Raw Materials & Ingredients
 
 ### Grapes as a Raw Material
 
-Wine starts with grapes, which naturally contain sugars, organic acids (such as tartaric and malic acid), phenolic compounds — classic [ingredients and additives](/ingredients-additives/)
+Wine starts with grapes, which naturally contain sugars, organic acids (such as tartaric and malic acid), phenolic compounds — classic [ingredients and additives](/articles/ingredients-additives/)
  that preserve wine, and native microorganisms. These components define wine’s structure, flavor potential, and vulnerability to spoilage.
 
 ### Yeast and Fermentation Inputs
@@ -290,8 +290,6 @@ Proper storage dramatically slows spoilage but cannot stop it indefinitely.
 Ethanol to Acetic Acid: How Wine Turns Sour at the Molecular Level
 ------------------------------------------------------------------
 
-![Ethanol to Acetic Acid How Wine Turns Sour at the Molecular Level](/wp-content/uploads/2025/12/Ethanol-to-Acetic-Acid-How-Wine-Turns-Sour-at-the-Molecular-Level-1024x682.jpg)
-
 One of the most recognizable signs of wine spoilage is a sharp, vinegar-like smell or taste.  
 At the chemical level, this happens when **ethanol (alcohol) is converted into acetic acid**, a process driven by **oxygen exposure and acetic acid bacteria**.
 
@@ -308,7 +306,7 @@ The overall reaction can be summarized as:
 
 **C₂H₅OH (ethanol) + O₂ → CH₃COOH (acetic acid) + H₂O**
 
-> The formation of acetic acid and acetaldehyde from ethanol oxidation is a key component of volatile acidity in wine and is affected by dissolved oxygen and sulfur dioxide levels (Water — learn about [water activity (aw)](/what-is-water-activity-aw/)
+> The formation of acetic acid and acetaldehyde from ethanol oxidation is a key component of volatile acidity in wine and is affected by dissolved oxygen and sulfur dioxide levels (Water — learn about [water activity (aw)](/articles/water-activity-food-stability/)
 > house, Frost, Ugliano, & Cantu, 2016, https://doi.org/10.5344/ajev.2016.16006).
 
 This reaction does **not occur spontaneously at a meaningful rate in sealed, well-protected wine**.  
@@ -461,8 +459,7 @@ Once a bottle is opened:
 
 When wine smells like vinegar, the chemistry has already run its course.
 
-References (APA Style)
-----------------------
+## References
 
 Du Toit, W. J., Marais, J., & Pretorius, I. S. (2025). _A review of oxygen mass transfer in wine: influences, measurement methods, and implications_. **OENO One**, 59(3). https://doi.org/10.20870/oeno-one.2025.59.3.9320 [Oeno One](https://oeno-one.eu/article/view/9320?utm_source=chatgpt.com)
 

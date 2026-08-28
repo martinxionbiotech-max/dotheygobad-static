@@ -1,9 +1,10 @@
 ---
-title: "Hard Cheese vs Soft Cheese: Shelf Life Differences — Water Activity, pH, and Microbial Ecology"
+
+title: "Shelf Life Differences — Water Activity, pH, and Microbial"
 date: 2026-08-07
 dateModified: 2026-08-07
 author: "Martin Wang"
-description: A wheel of Parmigiano-Reggiano can age for 36 months while fresh mozzarella spoils in 5 days. Explore how moisture content, water activity, pH, rind development, and freezing behavior explain the enormous shelf life gap between hard and soft cheeses.
+description: "A wheel of Parmigiano-Reggiano can age for 36 months while fresh mozzarella spoils in 5 days."
 keywords: hard cheese shelf life, soft cheese shelf life, cheese water activity, cheese moisture content, freezing cheese, cheese rind, syneresis, casein matrix
 categories: ["Dairy Products", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---

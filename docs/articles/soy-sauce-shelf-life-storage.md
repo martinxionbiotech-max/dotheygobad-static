@@ -1,10 +1,11 @@
 ---
-title: "Soy Sauce Shelf Life Science: Fermentation Stability, Oxidation and Dark Storage"
+
+title: "Fermentation Stability, Oxidation and Dark Storage"
 date: 2026-01-02
 dateModified: 2026-01-02
 author: "Martin Wang"
 categories: ["Sauces & Condiments", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms", "Water Activity & Moisture"]
-description: "Soy sauce is often considered one of the most stable condiments in the kitchen. Many consumers assume it “never goes bad” because of its high salt content"
+description: "Soy sauce is often considered one of the most stable condiments in the kitchen."
 ---
 
 # Soy Sauce Shelf Life Science: Fermentation Stability, Oxidation and Dark Storage
@@ -16,17 +17,16 @@ description: "Soy sauce is often considered one of the most stable condiments in
 >  signs appear. True [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
 >  — like unusual films, sour/fermenting odors, or turbidity — indicates it should be discarded.
 
-_A [food science](/food-science-basics/)
+_A [food science](/articles/food-science-basics/)
  & industry-based explanation_
 
 Soy sauce is often considered one of the most stable condiments in the kitchen. Many consumers assume it “never goes bad” because of its high salt content and long shelf life.  
-However, from a **[food science](/food-science-basics/)
+However, from a **[food science](/articles/food-science-basics/)
  and industrial quality-control perspective**, soy sauce **does change over time**, and under certain conditions, it **can spoil or become unsafe to use**.
 
 This article explains **when soy sauce is safe, when it degrades, when it truly spoils**, and **how professionals judge it**, based on fermentation science, microbiology, packaging behavior, and real-world storage practices.
 
 * * *
-
 
 1\. Quick Answer: Does Soy Sauce Go Bad?
 ----------------------------------------
@@ -544,11 +544,21 @@ Traditional sun-fermented soy sauce uses multi-strain fermentation, low-temperat
 
 > [Microbial vs Chemical Spoilage Explained](../articles//microbial-vs-chemical-spoilage-explained.md)
 
-> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/food-science-basics/)
+> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/articles/food-science-basics/)
 
-> [Ingredients & Additives: Their Role in Food Stability and Spoilage](/ingredients-additives/)
+> [Ingredients & Additives: Their Role in Food Stability and Spoilage](/articles/ingredients-additives/)
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

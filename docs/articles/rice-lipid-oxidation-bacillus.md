@@ -1,5 +1,6 @@
 ---
-title: "Rice Shelf Life Science: Lipid Oxidation, Bacillus Cereus and Grain Aging"
+
+title: "Lipid Oxidation, Bacillus Cereus and Grain Aging"
 date: 2026-06-29
 dateModified: 2026-06-29
 author: "Martin Wang"
@@ -195,10 +196,20 @@ Scientific Literature References
 4.  [Hagstrum & Subramanyam (2009)](https://doi.org/10.1016/j.jspr.2019.101535)
      — Stored-product insect pest management in rice and grain storage. _Journal of Stored Products Research_, 45(2), 97-107.
 5.  [Champagne et al. (2011)](https://doi.org/10.1016/j.tifs.2011.02.002)
-     — Effects of storage conditions on rice quality: starch retrogradation, lipid oxidation, and volatile compound evolution. _Trends in [Food Science](/food-science-basics/)
+     — Effects of storage conditions on rice quality: starch retrogradation, lipid oxidation, and volatile compound evolution. _Trends in [Food Science](/articles/food-science-basics/)
      & Technology_, 22(9), 497-506.
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

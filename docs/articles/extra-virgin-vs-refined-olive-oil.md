@@ -1,9 +1,10 @@
 ---
-title: "Extra Virgin vs Refined Olive Oil: Chemistry, Shelf Life, and Stability Compared"
+
+title: "Chemistry, Shelf Life, and Stability Compared"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: "Refined olive oil lasts up to 24 months while EVOO lasts 12-18 months — but the real story is more complex. EVOO's polyphenol antioxidants provide initial oxidative protection that degrades over time. This article compares the chemistry of both oils: fatty acid profiles, refining processes, antioxidant depletion curves, and evidence-based selection guidance for cooking, storage, and health."
+description: "Refined olive oil lasts up to 24 months while EVOO lasts 12-18 months — but the real story is more complex."
 keywords: extra virgin olive oil shelf life, refined olive oil stability, EVOO oxidation, olive oil polyphenols, hydroxytyrosol antioxidant, chlorophyll photosensitization, olive oil free fatty acids, olive oil storage guide
 categories: ["Sauces & Condiments", "Lipid Chemistry & Rancidity", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---

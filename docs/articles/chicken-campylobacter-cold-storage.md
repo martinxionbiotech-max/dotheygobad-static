@@ -1,10 +1,11 @@
 ---
-title: "Chicken Shelf Life Science: Campylobacter, Pseudomonas and Cold Storage"
+
+title: "Campylobacter, Pseudomonas and Cold Storage"
 date: 2026-06-29
 dateModified: 2026-06-29
 author: "Martin Wang"
 categories: ["Food Microbiology", "Grains & Baked Goods", "Lipid Chemistry & Rancidity", "Preservation Technology", "Quality Control & Food Safety", "Spoilage Mechanisms"]
-description: "Chicken is the planet’s most consumed animal protein — over 130 million metric tons produced globally each year, outpacing pork and beef combined. It is al"
+description: "Chicken is the planet’s most consumed animal protein — over 130 million metric tons produced globally each year, outpacing pork and beef combined."
 ---
 
 # Chicken Shelf Life Science: Campylobacter, Pseudomonas and Cold Storage
@@ -12,14 +13,13 @@ description: "Chicken is the planet’s most consumed animal protein — over 13
 Chicken is the planet’s most consumed animal protein — over **130 million metric tons** produced globally each year, outpacing pork and beef combined. It is also, unfortunately, the single most common vehicle of foodborne illness worldwide. The primary culprit? _Campylobacter jejuni_, a thermoduric microaerophile present on approximately **50–70% of retail chicken carcasses** across North America, Europe, and Asia. Understanding why chicken spoils — and how to detect it before it reaches your plate — demands a journey into muscle biochemistry, [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
  ecology, and the physics of cold-chain logistics.
 
-
 Poultry Muscle Biochemistry: Why Bacteria Love Chicken
 ------------------------------------------------------
 
 Post-mortem muscle metabolism sets the stage for [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
 . After slaughter, chicken breast muscle undergoes rigor mortis and glycolysis, producing a final pH of **5.8–6.0** — notably higher than beef (5.5) or pork (5.6). This relatively high pH, combined with chicken’s naturally abundant pool of **free amino acids** (glutamine, alanine, glycine) and glucose, creates what food microbiologists call a “bacterial banquet.” Unlike ruminant meat, poultry muscle fibers are shorter, finer, and less protected by connective tissue, allowing bacteria to penetrate deeper and faster. The [water activity](../articles//water-activity-food-stability.md)
  (aw) of fresh chicken sits around 0.98–0.99, well within the growth range of virtually every [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
- organism known to [food science](/food-science-basics/)
+ organism known to [food science](/articles/food-science-basics/)
 .
 
 The initial [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
@@ -141,8 +141,7 @@ Conclusion
 
 Chicken spoilage is not a single event but a sequential microbial succession, from _Pseudomonas_ biofilm formation to _Brochothrix_\-driven odor production, culminating in protein putrefaction by mixed anaerobes. The high pH and rich nutrient profile of poultry muscle make it inherently more perishable than red meat. _Campylobacter_ — present on the majority of retail chicken — is invisible, odorless, and requires just 500 cells to cause disease. The rules are straightforward: refrigerate immediately at 4°C or below, use or freeze within 1–2 days, never wash, cook to 74°C internal temperature, and trust your senses — slime, off-odor, or color change means discard. When in doubt, the cost of spoiled chicken is always less than the cost of campylobacteriosis.
 
-References
-----------
+## References
 
 The following peer-reviewed sources informed this article. Each DOI has been verified for active resolution:
 
@@ -159,10 +158,10 @@ The following peer-reviewed sources informed this article. Each DOI has been ver
 
 * * *
 
-_This article is part of the **[Industrial Food](/food-science-basics/)
+_This article is part of the **[Industrial Food](/articles/food-science-basics/)
  Science** series at dotheygobad.com. For deeper dives into related topics, explore [What Makes Food Go Bad?](../articles//what-makes-food-go-bad.md)
 , [Microbial vs. Chemical Spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
-, and [Cold Chain Management](/cold-chain-management-temperature-controlled-food-logistics/)
+, and [Cold Chain Management](/articles/cold-chain-management-complete-guide/)
 ._
 
 ---

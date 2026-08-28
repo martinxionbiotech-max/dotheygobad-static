@@ -1,37 +1,35 @@
 ---
-title: "Pork Shelf Life Science: Spoilage Microbiology, Rancidity and Preservation"
+
+title: "Spoilage Microbiology, Rancidity and Preservation"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
 categories: ["Food Microbiology", "Lipid Chemistry & Rancidity", "Meat & Seafood", "Preservation Technology", "Spoilage Mechanisms"]
-description: "Pork is one of the most widely consumed meats globally, prized for its versatility from tenderloin roasts to char siu and German schweinshaxe. Yet under th"
+description: "Pork is one of the most widely consumed meats globally, prized for its versatility from tenderloin roasts to char siu and German schweinshaxe."
 ---
 
 # Pork Shelf Life Science: Spoilage Microbiology, Rancidity and Preservation
 
 DoTheyGoBad - Industrial Food Science Infographic
 
-Pork is one of the most widely consumed meats globally, prized for its versatility from tenderloin roasts to char siu and German schweinshaxe. Yet under the [industrial food](/food-science-basics/)
+Pork is one of the most widely consumed meats globally, prized for its versatility from tenderloin roasts to char siu and German schweinshaxe. Yet under the [industrial food](/articles/food-science-basics/)
  microscope, fresh pork is a remarkably unstable biological matrix — a nutrient-dense, high-water-activity environment primed for [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
  proliferation, enzymatic autolysis, and oxidative rancidity. Understanding exactly why and how pork goes bad is essential for processors, retailers, and home cooks alike. This article examines pork [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  through the lens of food chemistry, microbiology, and industrial processing science.
-
 
 The Intrinsic Factors That Make Pork Perishable
 -----------------------------------------------
 
 Fresh pork presents a near-ideal substrate for [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
- organisms. Its [water activity (aw)](/what-is-water-activity-aw)
+ organisms. Its [water activity (aw)](/articles/water-activity-food-stability/)
  typically ranges from 0.98–0.99, well above the 0.91 threshold that inhibits most bacteria. The pH of post-rigor pork muscle falls between 5.5 and 6.0 — slightly more alkaline than beef (5.3–5.5) — which favors a broader spectrum of [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  bacteria. Combined with abundant free amino acids, glucose, glycogen, and B-vitamins, the biochemical stage is set for rapid decomposition once protective cellular barriers break down.
 
-*   **[Water activity](/what-is-water-activity-aw/)
+*   **[Water activity](/articles/water-activity-food-stability/)
     :** 0.98–0.99 supports _Pseudomonas_, _Brochothrix_, and Enterobacteriaceae
 *   **pH after rigor:** 5.5–6.0 (Drip-loss increases at pH > 6.0)
 *   **Glycogen reserves:** 1–2% post-mortem, rapidly consumed by glycolysis
 *   **Marbling fat:** High unsaturated fatty acid content accelerates oxidative rancidity
-
-![Raw pork loin displayed on a cutting board, showing signs of moisture exudate](/wp-content/uploads/2025/07/raw-pork-shelf-life.jpg)
 
 The moisture-rich surface of fresh pork provides an ideal growth medium for aerobic [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  bacteria.
@@ -39,7 +37,7 @@ The moisture-rich surface of fresh pork provides an ideal growth medium for aero
 Microbiological Spoilage: The Dominant Pathway
 ----------------------------------------------
 
-Microbial growth is the most rapid and conspicuous spoilage route in fresh pork. The composition of the spoilage microflora shifts predictably with storage atmosphere, [cold chain management](/cold-chain-management-temperature-controlled-food-logistics)
+Microbial growth is the most rapid and conspicuous spoilage route in fresh pork. The composition of the spoilage microflora shifts predictably with storage atmosphere, [cold chain management](/articles/cold-chain-management-complete-guide/)
 , and time since slaughter.
 
 ### Aerobic Psychrotrophic Bacteria
@@ -133,6 +131,16 @@ For a deeper dive into the fundamental mechanisms behind food spoilage, see [Wha
  to understand how pork’s deterioration can follow both routes simultaneously.
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

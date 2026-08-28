@@ -1,5 +1,6 @@
 ---
-title: "Overnight Oat Shelf Life Science: Fermentation, Spoilage Signs and Refrigeration"
+
+title: "Fermentation, Spoilage Signs and Refrigeration"
 date: 2026-01-11
 dateModified: 2026-01-11
 author: "Martin Wang"
@@ -14,7 +15,6 @@ description: "Overnight oats are often treated as a simple breakfast recipe, but
 > 
 > Yes. **Overnight oats can [go bad](../articles//what-makes-food-go-bad.md)
 >  in the fridge.** When stored properly at **0–4 °C (32–39 °F)** in a clean, airtight container, they are generally safe for **1–3 days**, occasionally up to **4 days** depending on ingredients. Their high moisture content, lack of heat treatment, and the intrinsic chemical properties of oats make them **perishable refrigerated foods**, not shelf-stable meals.
-
 
 Nutrition, Spoilage Cycles, and Safe Storage Explained
 ------------------------------------------------------
@@ -348,8 +348,7 @@ Cooked oatmeal is generally **safer for longer storage** because heating reduces
 
 * * *
 
-References
-----------
+## References
 
 Beuchat, L. R. (1981). Microbial stability as affected by water activity. _Cereal Foods World, 26_(7), 345–349.  
 [https://doi.org/10.1094/CFW-26-0345](https://doi.org/10.1094/CFW-26-0345)
@@ -369,9 +368,9 @@ Zhou, M., Robards, K., Glennie-Holmes, M., & Helliwell, S. (1999). Oat lipids. _
 
 > [Microbial vs Chemical Spoilage Explained](../articles//microbial-vs-chemical-spoilage-explained.md)
 
-> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/food-science-basics/)
+> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/articles/food-science-basics/)
 
-> [Ingredients & Additives: Their Role in Food Stability and Spoilage](/ingredients-additives/)
+> [Ingredients & Additives: Their Role in Food Stability and Spoilage](/articles/ingredients-additives/)
 
 ---
 

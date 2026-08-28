@@ -1,9 +1,10 @@
 ---
-title: "Tea Shelf Life Science: Polyphenol Oxidation, Volatile Loss, and Moisture-Driven Deterioration"
+
+title: "Polyphenol Oxidation, Volatile Loss, and Moisture-Driven"
 date: 2026-03-29
 dateModified: 2026-03-29
 author: "Martin Wang"
-description: Tea doesn't rot like meat — it fades chemically. This food-science analysis covers catechol oxidation in green tea, theaflavin stability in black tea, volatile aroma loss, moisture-induced mold risk, and the unique aging biochemistry of pu-erh.
+description: "Tea doesn't rot like meat — it fades chemically."
 keywords: tea shelf life, tea oxidation, catechin degradation, tea volatile loss, tea mold risk, pu-erh aging, green tea storage, tea science
 categories: ["Non-Alcoholic Beverages", "Enzymatic & Chemical Reactions", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---

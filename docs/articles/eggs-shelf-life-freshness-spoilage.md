@@ -1,5 +1,6 @@
 ---
-title: "Egg Shelf Life Science: Freshness Assessment, Cuticle Integrity and Cold Storage"
+
+title: "Freshness Assessment, Cuticle Integrity and Cold Storage"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
@@ -14,7 +15,6 @@ Eggs present one of the more nuanced cases in food [spoilage](../articles//micro
  can be subtle — and the line between “past prime” and “spoiled” is often misunderstood. For food manufacturers, food safety professionals, and processors who handle egg products at scale, a precise understanding of [what makes food go bad](../articles//what-makes-food-go-bad.md)
  as applied to eggs is essential for quality control and public health.
 
-
 The Egg’s Built-In Defense System
 ---------------------------------
 
@@ -24,7 +24,7 @@ A chicken egg is a self-contained biological package designed to protect a devel
 *   **Chemical defenses:** Egg white (albumen) contains lysozyme (which cleaves peptidoglycan in bacterial cell walls), ovotransferrin (which chelates iron, making it unavailable to bacteria), and avidin (which binds biotin). The albumen’s pH rises from 7.6 to approximately 9.2 during storage, creating an alkaline environment that further inhibits [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
      growth.
 *   **Low [water activity](../articles//water-activity-food-stability.md)
-     in yolk:** While the white has high aw (approximately 0.99), the yolk membrane acts as a barrier, and the yolk itself has slightly lower aw due to its fat content. Understanding [water activity (aw)](/what-is-water-activity-aw/)
+     in yolk:** While the white has high aw (approximately 0.99), the yolk membrane acts as a barrier, and the yolk itself has slightly lower aw due to its fat content. Understanding [water activity (aw)](/articles/water-activity-food-stability/)
      gradients within the egg is key — bacteria must cross these different environments to establish infection.
 
 How Eggs Spoil: Pathways and Mechanisms
@@ -89,7 +89,7 @@ The Water Activity Gradient Within an Egg
 -----------------------------------------
 
 Egg components span a range of [water activity](../articles//water-activity-food-stability.md)
- values, with albumen near aw 0.99 and yolk slightly lower. See the [complete water activity guide](/what-is-water-activity-aw/)
+ values, with albumen near aw 0.99 and yolk slightly lower. See the [complete water activity guide](/articles/water-activity-food-stability/)
 .
 
 An egg presents a unique challenge in [water activity](../articles//water-activity-food-stability.md)
@@ -124,8 +124,6 @@ This difference explains why eggs are displayed on unrefrigerated shelves in man
 
 The Spoilage Microbiology of Eggs
 ---------------------------------
-
-![Spoilage Mechanisms](/wp-content/uploads/2026/06/spoilage-mechanisms.png)
 
 Spoilage mechanisms in eggs: bacterial penetration, enzymatic breakdown, and physical deterioration. See the full [guide to food spoilage mechanisms](../articles//what-makes-food-go-bad.md)
 .
@@ -189,14 +187,24 @@ For egg processors, quality assurance professionals, and food manufacturers usin
 *   **Handling:** Minimize mechanical stress on shells. Microfractures invisible to the naked eye provide direct bacterial access to the albumen.
 *   **Time:** Even under optimal conditions, egg quality degrades predictably. Use FEFO inventory systems that consider thermal history, not just pack date.
 
-For consumers, understanding the [role of ingredients and additives](/ingredients-additives/)
+For consumers, understanding the [role of ingredients and additives](/articles/ingredients-additives/)
  in processed egg products — such as citric acid added to liquid eggs to prevent greening during cooking, or silicon dioxide in egg powders to prevent caking — helps demystify the modern egg supply chain.
 
-_More from Meat & Seafood: [Can Frozen Shrimp Go Bad?](/can-frozen-shrimp-go-bad/)
- | [Does Beef Jerky Go Bad?](/does-beef-jerky-go-bad/)
+_More from Meat & Seafood: [Can Frozen Shrimp Go Bad?](/articles/frozen-shrimp-shelf-life-storage/)
+ | [Does Beef Jerky Go Bad?](/articles/beef-jerky-shelf-life-storage/)
 _
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

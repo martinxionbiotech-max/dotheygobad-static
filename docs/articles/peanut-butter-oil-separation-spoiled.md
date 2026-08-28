@@ -1,9 +1,10 @@
 ---
-title: "Oil Separation in Peanut Butter: Stokes' Law Physics, Oxidation Risk, and When It Signals Real Spoilage"
+
+title: "Stokes' Law Physics, Oxidation Risk, and When It Signals"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: Oil separation in natural peanut butter is normal — driven by density differences and governed by Stokes' Law. The oil layer is a physical process, not spoilage, and may even protect solids from oxidation. This article explains the sedimentation physics, distinguishes normal separation from rancidity indicators, and provides practical stirring and storage protocols.
+description: "Oil separation in natural peanut butter is normal — driven by density differences and governed by Stokes' Law."
 keywords: peanut butter oil separation, Stokes Law peanut butter, peanut butter oil on top, natural peanut butter separation, peanut butter spoilage signs, peanut butter rancidity, peanut butter storage tips, peanut oil density
 categories: ["Sauces & Condiments", "Lipid Chemistry & Rancidity", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---

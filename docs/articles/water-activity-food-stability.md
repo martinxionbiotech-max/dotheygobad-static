@@ -1,5 +1,6 @@
 ---
-title: "What is Water Activity (aw)? How Does it Impact Food Stability, Safety, and Quality"
+
+title: "What is Water Activity (aw)?"
 date: 2026-02-15
 dateModified: 2026-02-15
 author: "Martin Wang"
@@ -27,10 +28,10 @@ description: "Water activity spectrum: how aw determines food stability and shel
 > *   Molds are relatively “drought-tolerant” and can grow at > 0.7
 >     
 > 
-> Interestingly, less water doesn’t always mean safer food. In the mid-range of water activity (0.3–0.7), many chemical reactions actually proceed fastest—for example, [lipid oxidation](/does-olive-oil-go-bad)
+> Interestingly, less water doesn’t always mean safer food. In the mid-range of water activity (0.3–0.7), many chemical reactions actually proceed fastest—for example, [lipid oxidation](/articles/olive-oil-chemistry-oxidation/)
 >  causing off-flavors, or the Maillard reaction during baking that produces those enticing browned aromas. Even counterintuitively, some foods can oxidize faster when extremely dry, which is why cookies can develop a stale, oily taste over time.
 > 
-> **How is this controlled in the [food industry](/food-science-basics/)
+> **How is this controlled in the [food industry](/articles/food-science-basics/)
 > ?**  
 > Food engineers manage free water through three main strategies:
 > 
@@ -47,18 +48,14 @@ description: "Water activity spectrum: how aw determines food stability and shel
 > In food safety management (HACCP) systems, water activity is treated as a **critical control point**—controlling it allows you to manage [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
 >  and chemical risks from the source, far more reliably than just monitoring total moisture.
 > 
-> In the [food industry](/food-science-basics/)
+> In the [food industry](/articles/food-science-basics/)
 > , **water activity (aw)** is far more than just a measure of moisture—it is a core parameter that better reflects food stability, safety, and quality than total water content. While many sources acknowledge the importance of aw, they often remain superficial, lacking in-depth exploration of the scientific logic and industrial applications behind it. This article aims to fill those knowledge gaps, providing a systematic, authoritative guide across seven critical dimensions for food scientists, manufacturers, and supply chain managers.
 
 * * *
 
-![Water Activity Spectrum - from dry foods to fresh perishables](/wp-content/uploads/2026/06/water-activity-spectrum.png)
-
 Water activity spectrum: how aw determines food stability and shelf life across categories.
 
-![What is Water Activity (aw)](/wp-content/uploads/2026/02/What-is-Water-Activity-aw.png)
 ----------------------------------------------------------------------------------------------------------------
-
 
 1\. Why aw is More Important than Total Water Content
 -----------------------------------------------------
@@ -140,7 +137,7 @@ Such effects are pronounced in dehydrated, unsaturated lipid-rich foods (milk po
 
 ### 3.1 How Temperature Affects Saturation Vapor Pressure
 
-The **Clausius-Clapeyron equation** describes the exponential increase of water vapor pressure with [cold chain management](/cold-chain-management-temperature-controlled-food-logistics)
+The **Clausius-Clapeyron equation** describes the exponential increase of water vapor pressure with [cold chain management](/articles/cold-chain-management-complete-guide/)
 . Since aw = p / p0 (p: food vapor pressure, p0: pure water saturation), aw can change even if moisture content remains constant. Typically, aw rises with temperature due to enhanced molecular motion.
 
 ### 3.2 How Temperature Alters Water Availability
@@ -298,7 +295,7 @@ Water activity (aw) is a **primary control parameter** governing microbial stabi
 
 *   Predicts microbial growth limits more accurately than total moisture.
     
-*   Enables hurdle technology design (aw + pH + preservatives (related to [ingredients and additives](/ingredients-additives/)
+*   Enables hurdle technology design (aw + pH + preservatives (related to [ingredients and additives](/articles/ingredients-additives/)
     )).
     
 *   Guides formulation of intermediate-moisture foods.
@@ -324,8 +321,7 @@ Precise aw management is one of the most cost-effective levers for extending she
 
 * * *
 
-References (APA Format)
------------------------
+## References
 
 Beuchat, L. R. (1981). Microbial stability as affected by water activity. _Journal of Food Protection_, 44(9), 632–640. [https://doi.org/10.4315/0362-028X-44.9.632](https://doi.org/10.4315/0362-028X-44.9.632)
 
@@ -337,18 +333,18 @@ Labuza, T. P. (1980). The effect of water activity on reaction kinetics of food 
 
 See how water activity affects shelf life in different food categories:
 
-*   **High aw (0.95-1.0):** [Milk](/does-milk-go-bad/)
-    , [Chicken](/does-chicken-go-bad/)
-    , [Eggs](/can-eggs-go-bad/)
+*   **High aw (0.95-1.0):** [Milk](/articles/milk-shelf-life-pasteurization-spoilage/)
+    , [Chicken](/articles/chicken-shelf-life-microbiology-basic/)
+    , [Eggs](/articles/eggs-shelf-life-freshness-spoilage/)
      — days of shelf life
-*   **Intermediate aw (0.60-0.95):** [Cheese](/does-cheese-go-bad/)
-    , [Bread](/does-bread-go-bad/)
-    , [Butter](/does-butter-go-bad/)
+*   **Intermediate aw (0.60-0.95):** [Cheese](/articles/cheese-shelf-life-aging-basic/)
+    , [Bread](/articles/bread-shelf-life-staling-basic/)
+    , [Butter](/articles/butter-rancidity-shelf-life-basic/)
      — weeks
-*   **Low aw (below 0.60):** [Honey](/does-honey-go-bad/)
-    , [Peanut butter](/does-peanut-butter-go-bad/)
-    , [Rice](/does-rice-go-bad/)
-    , [Flour/Sugar/Salt/Pasta](/do-staple-foods-expire-flour-sugar-salt-pasta/)
+*   **Low aw (below 0.60):** [Honey](/articles/honey-shelf-life-forever-storage/)
+    , [Peanut butter](/articles/peanut-butter-rancidity-shelf-life/)
+    , [Rice](/articles/rice-shelf-life-oxidation-basic/)
+    , [Flour/Sugar/Salt/Pasta](/articles/staple-foods-never-expire/)
      — months to years
 
 ---

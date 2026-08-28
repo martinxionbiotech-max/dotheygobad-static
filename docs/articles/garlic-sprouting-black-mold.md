@@ -1,5 +1,6 @@
 ---
-title: "Garlic Shelf Life Science: Sprouting Inhibition, Black Mold and Storage Conditions"
+
+title: "Sprouting Inhibition, Black Mold and Storage Conditions"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
@@ -16,7 +17,6 @@ Garlic (Allium sativum) occupies a unique position in food [spoilage](../article
  requires examining the fascinating chemistry of alliin/alliinase system, the physiological processes of sprouting, and the specific [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
  ecology that survives in this sulfur-rich environment.
 
-
 The Antimicrobial Paradox of Garlic
 -----------------------------------
 
@@ -32,7 +32,7 @@ Understanding [what makes food go bad](../articles//what-makes-food-go-bad.md)
  in the context of garlic requires appreciating that its spoilage is not prevented by its own chemistry — it is merely shaped by it. The organisms that spoil garlic are those that have evolved specific resistance mechanisms to survive in the sulfur-rich environment.
 
 Garlic has a [water activity](../articles//water-activity-food-stability.md)
- of 0.93–0.96, placing it below most fresh produce but well above the level required to prevent microbial growth. Learn more about [water activity (aw) in food preservation](/what-is-water-activity-aw/)
+ of 0.93–0.96, placing it below most fresh produce but well above the level required to prevent microbial growth. Learn more about [water activity (aw) in food preservation](/articles/water-activity-food-stability/)
 .
 
 The Alliin/Alliinase System: Chemistry and Degradation
@@ -74,8 +74,6 @@ Garlic bulbs undergo a series of changes during sprouting:
 Industrial storage conditions for garlic aim to suppress sprouting: 0–2°C with 65–70% relative humidity. Under these conditions, storage life is 6–9 months. Storage above 5°C dramatically accelerates sprouting — at 15°C, sprouting begins within 4–6 weeks.
 
 An interesting quirk of garlic physiology: brief exposure to 30°C for 2–4 weeks after harvest (heat curing) actually extends storage life by suppressing subsequent sprouting. This is the traditional method used in Mediterranean garlic-growing regions.
-
-![Sensory Progression](/wp-content/uploads/2026/06/sensory-progression.png)
 
 The sensory progression of garlic from fresh to spoiled. For a broader perspective on food spoilage mechanisms, see [microbial vs chemical spoilage explained](../articles//microbial-vs-chemical-spoilage-explained.md)
  and [what makes food go bad](../articles//what-makes-food-go-bad.md)
@@ -152,10 +150,8 @@ Industrial garlic quality control relies on a combination of visual, tactile, an
 *   **Odor assessment:** Fresh garlic has a characteristically pungent, sulfurous odor when cut. A musty, earthy, or ammonia-like odor indicates spoilage. A “stale” or “flat” odor indicates allicin degradation.
 *   **Alliin content (for processed garlic):** HPLC measurement of alliin and allicin content. Fresh garlic contains 5–15 mg alliin/g dry weight. A decline below 3 mg/g indicates significant quality loss. Total pyruvate measurement (a byproduct of the alliinase reaction) serves as an indirect measure of flavor pungency.
 
-![Enzymatic Spoilage](/wp-content/uploads/2026/06/enzymatic-spoilage.png)
-
 The enzymatic degradation of alliin to allicin and subsequent transformations. For foundational food spoilage principles, read [what makes food go bad](../articles//what-makes-food-go-bad.md)
- and [the complete guide to water activity](/what-is-water-activity-aw/)
+ and [the complete guide to water activity](/articles/water-activity-food-stability/)
 .
 
 Conclusion: The Spoilage of a Natural Preservative
@@ -163,15 +159,25 @@ Conclusion: The Spoilage of a Natural Preservative
 
 Garlic spoilage is a fascinating case study in the limits of natural antimicrobial systems. The same chemistry that makes garlic one of nature’s most potent antimicrobials also creates its own degradation pathways — the alliinase system that generates the antimicrobial allicin is also responsible for greening and flavor loss. The allicin that inhibits most fungi is specifically detoxified by _Aspergillus niger_, the dominant spoilage organism of stored garlic.
 
-For the [food industry](/food-science-basics/)
+For the [food industry](/articles/food-science-basics/)
 , garlic presents a management challenge that spans physiological (sprouting), chemical (greening, allicin degradation), and microbial (black mold) spoilage — each requiring different control measures. Temperature management is the most critical single variable: too cold (<0°C) causes freeze damage, moderately cold (0–2°C) is optimal for storage but promotes greening precursors, and warm (>5°C) accelerates sprouting and microbial growth.
 
 For more on the foundational principles, see our guides on [what makes food go bad](../articles//what-makes-food-go-bad.md)
 , [microbial vs chemical spoilage explained](../articles//microbial-vs-chemical-spoilage-explained.md)
-, and [water activity (aw) in food preservation](/what-is-water-activity-aw/)
+, and [water activity (aw) in food preservation](/articles/water-activity-food-stability/)
 .
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

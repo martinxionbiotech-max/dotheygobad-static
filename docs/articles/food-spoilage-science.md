@@ -1,9 +1,10 @@
 ---
-title: "Food Spoilage Science: The Complete Guide to How Food Goes Bad"
+
+title: "The Complete Guide to How Food Goes Bad"
 date: 2026-08-09
 dateModified: 2026-08-09
 author: "Martin Wang"
-description: Deep-dive into microbial spoilage kinetics (Gompertz/sqrt models), chemical degradation pathways, physical spoilage mechanisms, spoilage detection technologies, and hurdle technology for food stability.
+description: "Deep-dive into microbial spoilage kinetics (Gompertz/sqrt models), chemical degradation pathways, physical spoilage mechanisms, spoilage detection"
 keywords: food spoilage science, microbial spoilage kinetics, Gompertz model, food degradation, lipid oxidation, hurdle technology, food spoilage detection, electronic nose, ATP bioluminescence, TVB-N, TMA-N
 categories: ["Food industry concept", "Food Microbiology", "Enzymatic & Chemical Reactions", "Spoilage Mechanisms"]
 ---
@@ -173,7 +174,7 @@ The Gompertz model is a sigmoidal mathematical function used to fit microbial gr
 
 ### How does lipid oxidation differ from microbial spoilage?
 
-Lipid oxidation is a purely chemical free-radical chain reaction requiring oxygen and unsaturated fatty acids — it does not involve living organisms. The primary products (lipid hydroperoxides) are odorless, but their decomposition produces volatile aldehydes and ketones responsible for rancid odors. Unlike microbial spoilage, lipid oxidation cannot be stopped by refrigeration alone; it requires oxygen exclusion (vacuum packaging, nitrogen flushing), light protection (UV-opaque packaging), and antioxidants. See our [lipid oxidation guide](https://dotheygobad.com/lipid-oxidation-rancidity/) for deeper analysis.
+Lipid oxidation is a purely chemical free-radical chain reaction requiring oxygen and unsaturated fatty acids — it does not involve living organisms. The primary products (lipid hydroperoxides) are odorless, but their decomposition produces volatile aldehydes and ketones responsible for rancid odors. Unlike microbial spoilage, lipid oxidation cannot be stopped by refrigeration alone; it requires oxygen exclusion (vacuum packaging, nitrogen flushing), light protection (UV-opaque packaging), and antioxidants. See our [lipid oxidation guide](/articles/olive-oil-chemistry-oxidation/) for deeper analysis.
 
 ### What does TVB-N measure and when is it used?
 
@@ -201,7 +202,7 @@ Enzymatic browning requires the enzyme polyphenol oxidase (PPO), which catalyzes
 - [Microbial vs Chemical Spoilage Explained](microbial-vs-chemical-spoilage-explained.md) — Distinguishing biological from purely chemical degradation pathways
 - [Water Activity and Food Stability](water-activity-food-stability.md) — How aw governs microbial growth, chemical reactions, and physical stability
 - [Preservation Technology Guide](preservation-technology.md) — Comprehensive overview of modern food preservation methods
-- [Lipid Oxidation and Rancidity](https://dotheygobad.com/lipid-oxidation-rancidity/) — Deep-dive into the free-radical chemistry of fat degradation
+- [Lipid Oxidation and Rancidity](/articles/olive-oil-chemistry-oxidation/) — Deep-dive into the free-radical chemistry of fat degradation
 - [Bread Starch Retrogradation and Mold Science](bread-starch-retrogradation-mold.md) — Model system for physical and microbial spoilage interaction
 
 ## References

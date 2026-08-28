@@ -1,5 +1,6 @@
 ---
-title: "Coffee Shelf Life Science: Flavor Freshness, CO2 Degassing and Storage Science"
+
+title: "Flavor Freshness, CO2 Degassing and Storage Science"
 date: 2026-01-24
 dateModified: 2026-01-24
 author: "Martin Wang"
@@ -12,17 +13,16 @@ description: "Coffee is a daily ritual for millions worldwide, but one question 
 > **Do coffee beans [expire](../articles//what-makes-food-go-bad.md)
 > ?**  
 > Coffee beans don’t “[expire](../articles//what-makes-food-go-bad.md)
-> ” like perishable foods, but they **lose freshness, [flavor](/why-coffee-flavor-changes-with-roast-level/)
-> , and nutritional quality over time**. Oxidation of oils and aroma compounds — see [ingredients and additives](/ingredients-additives/)
+> ” like perishable foods, but they **lose freshness, [flavor](/articles/coffee-flavor-roast-level/)
+> , and nutritional quality over time**. Oxidation of oils and aroma compounds — see [ingredients and additives](/articles/ingredients-additives/)
 >  for their role in freshness, exposure to light, heat, and humidity, all contribute to degradation. Roasted beans generally stay at peak flavor for **2–4 weeks after opening**, while properly stored unopened bags last **6–9 months**. Stale beans often smell flat, moldy, or bitter, and brewed coffee may taste harsh.
 
 Coffee is a daily ritual for millions worldwide, but one question frequently arises: **do coffee beans [expire](../articles//what-makes-food-go-bad.md)
 ?** The short answer is that coffee beans, whether green (unroasted) or roasted, do not “expire” in the [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
- sense like perishable foods. Instead, **they lose flavor, aroma, and nutritional value over time due to chemical and physical degradation**. From a [food industry](/food-science-basics/)
+ sense like perishable foods. Instead, **they lose flavor, aroma, and nutritional value over time due to chemical and physical degradation**. From a [food industry](/articles/food-science-basics/)
  perspective, understanding why coffee beans lose freshness—and how to preserve them—is crucial for both commercial roasters and home enthusiasts.
 
 * * *
-
 
 1\. Coffee Beans in the Food Industry: From Farm to Cup
 -------------------------------------------------------
@@ -35,7 +35,7 @@ Coffee cherries are hand-picked or machine-harvested when ripe. After picking, b
 
 *   **Wet processing:** pulp removal and fermentation to extract the bean.
     
-*   **Dry processing:** sun drying to reduce moisture (a key aspect of [water activity (aw)](/what-is-water-activity-aw/)
+*   **Dry processing:** sun drying to reduce moisture (a key aspect of [water activity (aw)](/articles/water-activity-food-stability/)
     ) content to 10–12%.
     
 
@@ -77,7 +77,7 @@ While flavor is the primary concern for most consumers, coffee beans also contai
 | --- | --- | --- | --- |
 | Caffeine | Stimulant | Stable; minimal degradation | Years |
 | Chlorogenic acids | Antioxidants, acidity | Oxidation, hydrolysis | 6–12 months |
-| Lipids (triglycerides, oils) | Aroma carriers, mouthfeel | Oxidation → [rancidity](/does-olive-oil-go-bad)<br>, off-flavors | 2–4 weeks (roasted, opened) |
+| Lipids (triglycerides, oils) | Aroma carriers, mouthfeel | Oxidation → [rancidity](/articles/olive-oil-chemistry-oxidation/)<br>, off-flavors | 2–4 weeks (roasted, opened) |
 | Proteins & free amino acids | Maillard precursors | Thermal and oxidative breakdown | Roasting alters, post-roast minimal |
 | Sugars (sucrose, glucose) | Flavor, caramelization | Oxidation, caramelization post-roast | 2–4 weeks (roasted, opened) |
 | Minerals (Mg, K, Ca) | Electrolytes | Mostly stable | Years |
@@ -265,8 +265,7 @@ Yes. **Green (unroasted) beans are more stable** because they have lower levels 
 
 * * *
 
-References
-----------
+## References
 
 Bagdonaite, K., Norvaisiene, R., & Kregzde, R. (2019). Effect of storage conditions on roasted coffee quality: A review. _Journal of Food Engineering, 245_, 77–88. [https://doi.org/10.1016/j.jfoodeng.2019.05.010](https://doi.org/10.1016/j.jfoodeng.2019.05.010)
 
@@ -282,7 +281,7 @@ Frank, O., & Van Damme, P. (2018). Oxidation mechanisms in roasted coffee and fl
 
 > [Microbial vs Chemical Spoilage Explained](../articles//microbial-vs-chemical-spoilage-explained.md)
 
-> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/food-science-basics/)
+> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/articles/food-science-basics/)
 
 ---
 

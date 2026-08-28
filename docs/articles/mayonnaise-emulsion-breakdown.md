@@ -1,5 +1,6 @@
 ---
-title: "Mayonnaise Shelf Life Science: Emulsion Breakdown, Lipid Oxidation and Acidity"
+
+title: "Emulsion Breakdown, Lipid Oxidation and Acidity"
 date: 2026-06-29
 dateModified: 2026-06-29
 author: "Martin Wang"
@@ -11,12 +12,11 @@ description: "The industrial food science of mayonnaise spoilage: emulsion stabi
 
 The industrial food science of mayonnaise spoilage: emulsion stability, lipid oxidation, and microbial safety
 
-**Mayonnaise.** No other condiment inspires such irrational fear. People leave tuna salad out for forty-five minutes and panic. They refrigerate unopened jars with religious zeal. They read “made with pasteurized eggs” on the label and assume it’s a lie. And yet — for a product that’s 70–80% oil and packed with acid — the actual [food science](/food-science-basics/)
+**Mayonnaise.** No other condiment inspires such irrational fear. People leave tuna salad out for forty-five minutes and panic. They refrigerate unopened jars with religious zeal. They read “made with pasteurized eggs” on the label and assume it’s a lie. And yet — for a product that’s 70–80% oil and packed with acid — the actual [food science](/articles/food-science-basics/)
  tells a very different story than the one we’ve absorbed from decades of potluck folklore. So: **does mayonnaise [go bad](../articles//what-makes-food-go-bad.md)
 ?** The answer depends on whether you’re asking about commercial mayonnaise (answer: it’s remarkably stable and pathogen-resistant) or homemade mayonnaise (answer: very different risk profile). But the _how_ it goes bad — emulsion physics, lipid chemistry, and [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
  ecology — is where the story gets genuinely fascinating. This article pulls back the label on the industrial science of mayonnaise: emulsion stability, lipid oxidation, the antimicrobial power of low pH and acetic acid, and what actually constitutes [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  in the jar sitting in your fridge door.
-
 
 What Mayonnaise Actually Is: An Oil-in-Water Emulsion Engineered at the Molecular Level
 ---------------------------------------------------------------------------------------
@@ -65,8 +65,8 @@ Mayonnaise contains 65–80% vegetable oil, typically soybean, canola, or sunflo
 
 The work of **Depree and Savage (2001)** established that oxidative stability is the primary determinant of mayonnaise shelf life. Their research demonstrated that hexanal concentration — measurable by headspace gas chromatography — serves as a reliable chemical marker for oxidation progression and correlates well with sensory panel detection of rancidity. Once the oil component of mayonnaise begins to oxidize, sensory quality declines irreversibly, even if the product remains microbiologically safe.
 
-If you’re interested in the specifics of oil degradation, we cover the chemistry in depth in [Does Olive Oil Go Bad?](/does-olive-oil-go-bad/)
- and explain the role of moisture across all foods in [What Is Water Activity?](/what-is-water-activity-aw/)
+If you’re interested in the specifics of oil degradation, we cover the chemistry in depth in [Does Olive Oil Go Bad?](/articles/olive-oil-chemistry-oxidation/)
+ and explain the role of moisture across all foods in [What Is Water Activity?](/articles/water-activity-food-stability/)
 .
 
 Emulsion Breakdown: Syneresis, Coalescence, and the Physics of Collapse
@@ -100,7 +100,7 @@ Homemade mayonnaise, by contrast, introduces several compounding risk factors:
 
 The FDA and USDA guidance consistently recommends that homemade mayonnaise prepared with raw eggs be refrigerated immediately, consumed within **3–4 days**, and never left at room temperature for more than 2 hours (1 hour above 32°C/90°F). Commercial mayonnaise — because of its validated safety barrier — does not carry these same strict time/temperature requirements, though refrigeration preserves quality.
 
-For a deeper dive into the scientific principles governing food safety across products, see [Food Science Basics](/food-science-basics/)
+For a deeper dive into the scientific principles governing food safety across products, see [Food Science Basics](/articles/food-science-basics/)
 .
 
 Microbial Challenge Data: What Happens When You Deliberately Add Salmonella to Mayonnaise
@@ -175,14 +175,13 @@ Homemade mayonnaise, meanwhile, is a completely different product whose safety d
 
 Understanding the difference between these two products — and between the chemical and microbial spoilage mechanisms at work inside them — is the difference between informed food safety and superstition. Now you know which one you’re practicing when you stare at that jar in the back of the fridge.
 
-References
-----------
+## References
 
 *   Erickson, J. P., & Jenkins, P. (1991). Comparative _Salmonella_ spp. and _Listeria monocytogenes_ Inactivation Rates in Four Commercial Mayonnaise Products. _Journal of Food Protection_, 54(10), 751–755. [DOI: 10.4315/0362-028X-54.10.751](https://doi.org/10.4315/0362-028X-54.10.751)
     
 *   Smittle, R. B. (2000). Microbiological Safety of Mayonnaise, Salad Dressings, and Sauces Produced in the United States: A Review. _Journal of Food Protection_, 63(8), 1144–1153. [DOI: 10.4315/0362-028X-63.8.1144](https://doi.org/10.4315/0362-028X-63.8.1144)
     
-*   Depree, J. A., & Savage, G. P. (2001). Physical and flavour stability of mayonnaise. _Trends in [Food Science](/food-science-basics/)
+*   Depree, J. A., & Savage, G. P. (2001). Physical and flavour stability of mayonnaise. _Trends in [Food Science](/articles/food-science-basics/)
      & Technology_, 12(5-6), 157–163. [DOI: 10.1016/S0924-2244(01)00079-6](https://doi.org/10.1016/S0924-2244(01)00079-6)
     
 

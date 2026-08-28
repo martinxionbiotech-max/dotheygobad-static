@@ -1,9 +1,10 @@
 ---
-title: "The Glucose Oxidase Effect: Honey's Enzymatic Antimicrobial System and Industrial Applications"
+
+title: "Honey's Enzymatic Antimicrobial System and Industrial"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: Honey actively produces hydrogen peroxide through the glucose oxidase enzyme system. Bees deposit GOx into nectar, catalyzing Glucose + O₂ → Gluconic acid + H₂O₂. The sustained low-level H₂O₂ production provides broad-spectrum antimicrobial activity. This article explains the enzyme kinetics, dual-action preservation (acidification + oxidation), industrial GOx applications, and the preservation limits of honey's enzymatic system.
+description: "Honey actively produces hydrogen peroxide through the glucose oxidase enzyme system."
 keywords: glucose oxidase honey, honey hydrogen peroxide, GOx enzyme honey, honey antimicrobial, honey preservative, gluconic acid honey, honey enzyme preservation, raw honey vs processed honey antimicrobial
 categories: ["Sauces & Condiments", "Food Microbiology", "Enzymatic & Chemical Reactions", "Preservation Technology"]
 ---

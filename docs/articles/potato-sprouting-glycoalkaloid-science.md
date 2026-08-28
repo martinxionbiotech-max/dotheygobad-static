@@ -1,10 +1,11 @@
 ---
-title: "Potato Shelf Life Science: Sprouting, Glycoalkaloids and Greening Prevention"
+
+title: "Sprouting, Glycoalkaloids and Greening Prevention"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
 categories: ["Enzymatic & Chemical Reactions", "Food Microbiology", "Fruits & Vegetables", "Shelf Life & Stability", "Spoilage Mechanisms"]
-description: "Potato is the world’s fourth most important food crop, with over 370 million metric tons produced annually. Unlike many fruits and vegetables that spoil pr"
+description: "Potato is the world’s fourth most important food crop, with over 370 million metric tons produced annually."
 ---
 
 # Potato Shelf Life Science: Sprouting, Glycoalkaloids and Greening Prevention
@@ -13,7 +14,6 @@ Potato is the world’s fourth most important food crop, with over 370 million m
  action, potato [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  is dominated by physiological and chemical processes — sprouting, glycoalkaloid accumulation, greening, and cold-induced sweetening — that occur long before [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
  rot becomes visible. Understanding these mechanisms is essential for both industrial storage operators and consumers.
-
 
 The Potato as a Living Organism in Storage
 ------------------------------------------
@@ -74,10 +74,8 @@ Glycoalkaloid synthesis occurs in the tuber’s peripheral cell layers (0.5–2 
 
 The food safety threshold is 20 mg/100 g fresh weight (200 ppm) total glycoalkaloids, as established by many national food safety authorities. Concentrations above this level have been associated with human toxicity — symptoms include gastrointestinal distress (nausea, vomiting, abdominal pain at 1–5 mg/kg body weight) and neurological effects (headache, confusion at higher doses). Cases of fatal solanine poisoning from potatoes are extremely rare but documented.
 
-![Water Activity Spectrum](/wp-content/uploads/2026/06/water-activity-spectrum.png)
-
 Potato tissue [water activity](../articles//water-activity-food-stability.md)
- (~0.97–0.98) places it firmly in the high-aw range. Understanding [water activity (aw) in food preservation](/what-is-water-activity-aw/)
+ (~0.97–0.98) places it firmly in the high-aw range. Understanding [water activity (aw) in food preservation](/articles/water-activity-food-stability/)
  is critical for controlling both microbial and physiological spoilage in stored potatoes.
 
 Greening and Chlorophyll: The Visual Indicator
@@ -146,7 +144,7 @@ Conclusion: A Multi-Mechanism Spoilage Challenge
 
 Potato spoilage is uniquely complex because it encompasses three fundamentally different spoilage categories simultaneously — physiological sprouting (a life process), chemical toxicity (glycoalkaloid accumulation), and microbial rot (bacterial and fungal). No single storage condition optimally controls all three. The storage operator must make compromises: low temperature suppresses sprouting but triggers sweetening; high temperature prevents sweetening but accelerates sprouting and microbial growth.
 
-Understanding these tradeoffs — and the interplay between [water activity (aw)](/what-is-water-activity-aw/)
+Understanding these tradeoffs — and the interplay between [water activity (aw)](/articles/water-activity-food-stability/)
 , temperature, and the potato’s own biology — is essential for anyone working with potatoes at industrial scale. For the consumer, the key message is simpler: store potatoes in a cool (7–10°C), dark, well-ventilated location, and discard any that show green coloration, extensive sprouting, or soft spots.
 
 For more on the foundational science of food deterioration, see our guides on [what makes food go bad](../articles//what-makes-food-go-bad.md)
@@ -154,6 +152,16 @@ For more on the foundational science of food deterioration, see our guides on [w
 .
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

@@ -1,14 +1,15 @@
 ---
+
 title: Martin Wang — Food Scientist & Industrial Processing Expert
 date: 2025-12-18
-description: Martin Wang — Food Scientist | Industrial Processing Expert | Global Food Product Strategist. Founder of DoTheyGoBad with 20+ years in industrial food processing, product development, and global market expansion.
+description: "Martin Wang — Food Scientist | Industrial Processing Expert | Global Food Product Strategist."
 keywords: Martin Wang, food scientist, industrial processing expert, DoTheyGoBad founder, shelf life
 ---
 # About the Author: Martin Wang
 
 **Food Scientist | Industrial Processing Expert | Global Food Product Strategist**
 
-Martin Wang is a seasoned [food industry](https://dotheygobad.com/food-science-basics/) professional with over **20 years of expertise** in deep food processing, industrial manufacturing, and global market expansion. His career is defined by a unique blend of rigorous scientific training and extensive hands-on experience in bringing high-quality food products to the mass market.
+Martin Wang is a seasoned [food industry](/articles/food-science-basics/) professional with over **20 years of expertise** in deep food processing, industrial manufacturing, and global market expansion. His career is defined by a unique blend of rigorous scientific training and extensive hands-on experience in bringing high-quality food products to the mass market.
 
 ### Academic Foundation & Global Vision
 
@@ -36,7 +37,7 @@ Martin’s expertise is rooted in the **industrial scale of food production**, f
 
 - **Material Behavior:** Deep knowledge of how raw ingredients react under various industrial processing and storage conditions.
 
-Unlike typical culinary blogs, Martin’s writing is informed by **industrial food science**. He understands that “how long something lasts” isn’t just a guess—it’s a result of formulation, [water activity](https://dotheygobad.com/water-activity-food-stability/), packaging integrity, and thermal processing.
+Unlike typical culinary blogs, Martin’s writing is informed by **industrial food science**. He understands that “how long something lasts” isn’t just a guess—it’s a result of formulation, [water activity](/articles/water-activity-food-stability/), packaging integrity, and thermal processing.
 
 ### Role at DoTheyGoBad
 
@@ -45,5 +46,10 @@ As the founder and lead author of **DoTheyGoBad**, Martin applies his 20+ years 
 - **Research Integrity:** Martin uses advanced research tools and AI to aggregate data, but every piece of information is filtered through his professional lens to ensure accuracy.
 
 - **No Oversimplification:** He avoids the common “blogging myths” by providing context-based advice rooted in manufacturing realities.
+
+### Professional Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/martinwangfoodscience)
+- [ORCID](https://orcid.org/0000-0000-0000-0000)
 
 Massey Graduate ID: 04111885

@@ -1,10 +1,11 @@
 ---
-title: "What Makes Food Go Bad? – Understanding Food Spoilage from an Industrial Food Science Perspective"
+
+title: "What Makes Food Go Bad?"
 date: 2025-12-23
 dateModified: 2025-12-23
 author: "Martin Wang"
 categories: ["Food industry concept"]
-description: "affects not only taste and nutrition but also the overall quality and stability of products. Most consumers focus on “best before” dates or home storage me"
+description: "affects not only taste and nutrition but also the overall quality and stability of products."
 ---
 
 # What Makes Food Go Bad? – Understanding Food Spoilage from an Industrial Food Science Perspective
@@ -13,10 +14,10 @@ What Makes Food Go Bad
 ----------------------
 
 Food [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
- affects not only taste and nutrition but also the overall quality and stability of products. Most consumers focus on “best before” dates or home storage methods, yet the microscopic changes and interactions among ingredients — see [ingredients and additives](/ingredients-additives/)
+ affects not only taste and nutrition but also the overall quality and stability of products. Most consumers focus on “best before” dates or home storage methods, yet the microscopic changes and interactions among ingredients — see [ingredients and additives](/articles/ingredients-additives/)
  for how they affect [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
- during industrial production are what truly determine food stability.As a professional with 20 years of experience in [industrial food](/food-science-basics/)
- processing, I have overseen numerous packaged foods from raw materials, production, to distribution. My experience is primarily with industrially standardized products rather than homemade or small-batch foods. This allows for generalizable analyses of spoilage mechanisms across many product types.In this article, I provide a systematic framework for understanding why food goes bad from an [industrial food](/food-science-basics/)
+ during industrial production are what truly determine food stability.As a professional with 20 years of experience in [industrial food](/articles/food-science-basics/)
+ processing, I have overseen numerous packaged foods from raw materials, production, to distribution. My experience is primarily with industrially standardized products rather than homemade or small-batch foods. This allows for generalizable analyses of spoilage mechanisms across many product types.In this article, I provide a systematic framework for understanding why food goes bad from an [industrial food](/articles/food-science-basics/)
  science perspective, covering microbial, chemical, enzymatic, and physical factors, along with practical control points.
 
 1\. Understanding “Freshness” and Shelf Life
@@ -118,7 +119,7 @@ Example: Ice cream cones coated with chocolate reduce water absorption and maint
 **9\. Water Activity (aw) in Industrial Food Stability**
 --------------------------------------------------------
 
-[Water Activity](/what-is-water-activity-aw/)
+[Water Activity](/articles/water-activity-food-stability/)
  ([aw](../articles//water-activity-food-stability.md)
 ) is one of the most critical parameters for determining the stability and shelf life of food products. Unlike total moisture content, aw measures the availability of free water in a product that can support microbial growth and chemical reactions. Controlling aw is essential in industrial food processing, packaging, and storage.
 
@@ -199,25 +200,35 @@ Shelf life is based on maintaining required sensory, chemical, physical, functio
 
 Different foods spoil through different primary mechanisms. Our food-specific guides explore each in depth:
 
-*   [Milk spoilage](/does-milk-go-bad/)
+*   [Milk spoilage](/articles/milk-shelf-life-pasteurization-spoilage/)
      — microbial growth in dairy
-*   [Chicken spoilage](/does-chicken-go-bad/)
+*   [Chicken spoilage](/articles/chicken-shelf-life-microbiology-basic/)
      — psychrotrophic bacteria
-*   [Bread spoilage](/does-bread-go-bad/)
+*   [Bread spoilage](/articles/bread-shelf-life-staling-basic/)
      — staling vs mold
-*   [Rice spoilage](/does-rice-go-bad/)
+*   [Rice spoilage](/articles/rice-shelf-life-oxidation-basic/)
      — Bacillus cereus risk
 
-*   [Olive oil spoilage](/does-olive-oil-go-bad/)
+*   [Olive oil spoilage](/articles/olive-oil-chemistry-oxidation/)
      — lipid oxidation
-*   [Peanut butter spoilage](/does-peanut-butter-go-bad/)
+*   [Peanut butter spoilage](/articles/peanut-butter-rancidity-shelf-life/)
      — oxidative rancidity
-*   [Cheese spoilage](/does-cheese-go-bad/)
+*   [Cheese spoilage](/articles/cheese-shelf-life-aging-basic/)
      — mold and fungi
-*   [Honey spoilage](/does-honey-go-bad/)
+*   [Honey spoilage](/articles/honey-shelf-life-forever-storage/)
      — why it never expires
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

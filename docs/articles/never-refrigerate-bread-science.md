@@ -1,9 +1,10 @@
 ---
-title: "Why You Should Never Refrigerate Bread: The Science of Starch Retrogradation"
+
+title: "The Science of Starch Retrogradation"
 date: 2026-08-09
 dateModified: 2026-08-09
 author: "Martin Wang"
-description: A rigorous thermodynamic analysis of why refrigeration (4°C) accelerates bread staling 3-6× faster than room temperature, explaining amylopectin crystallization kinetics, optimal storage strategies, and exceptions for high-moisture breads.
+description: "A rigorous thermodynamic analysis of why refrigeration (4°C) accelerates bread staling 3-6× faster than room temperature, explaining amylopectin"
 keywords: never refrigerate bread, bread staling science, starch retrogradation temperature, amylopectin crystallization, bread storage, freezer vs refrigerator, food polymer physics
 categories: ["Grains & Baked Goods", "Enzymatic & Chemical Reactions", "Shelf Life & Stability", "Water Activity & Moisture"]
 ---

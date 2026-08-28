@@ -1,21 +1,21 @@
 ---
+
 title: "Microbial vs Chemical Spoilage Explained"
 date: 2025-12-23
 dateModified: 2025-12-23
 author: "Martin Wang"
 categories: ["Food industry concept"]
-description: "systems, most quality failures and shelf-life limitations can be traced back to two dominant mechanisms: microbial spoilage and chemical spoilage. Understa"
+description: "systems, most quality failures and shelf-life limitations can be traced back to two dominant mechanisms: microbial spoilage and chemical spoilage."
 ---
 
 # Microbial vs Chemical Spoilage Explained
 
-Food spoilage is not a single process. In [industrial food](/food-science-basics/)
+Food spoilage is not a single process. In [industrial food](/articles/food-science-basics/)
  systems, most quality failures and shelf-life limitations can be traced back to two dominant mechanisms: **microbial spoilage** and **chemical spoilage**. Understanding these mechanisms is essential for professionals, manufacturers, and consumers who want to ensure food safety, stability, and quality.
 
 For a comprehensive overview of all major spoilage pathways in industrial foods, see our pillar guide:
 
 * * *
-
 
 Microbial Spoilage
 ------------------
@@ -35,7 +35,7 @@ Microbial spoilage occurs when microorganisms such as **bacteria, yeasts, or mol
 
 ### Key Influencing Factors
 
-Temperature, **[water activity](/what-is-water-activity-aw/)
+Temperature, **[water activity](/articles/water-activity-food-stability/)
 **, oxygen availability, and pH strongly influence microbial growth. Warm, moist, oxygen-rich environments accelerate spoilage, while refrigeration, acidification, and oxygen control slow it down (Fellows, 2017).
 
 ### Health Risks
@@ -64,7 +64,7 @@ Molds are particularly problematic in bakery goods, cheese, dried fruits, and nu
 
 Yeasts such as _Saccharomyces_, _Zygosaccharomyces_, and _Candida_ spp. are facultative anaerobes that ferment sugars into ethanol and CO₂. In fruit juices, soft drinks, and wines, yeast growth causes cloudiness, sediment, and carbonation (refermentation spoilage).
 
-_Zygosaccharomyces_ is especially troublesome because it tolerates high sugar concentrations and preservatives — learn about [ingredients and additives](/ingredients-additives/)
+_Zygosaccharomyces_ is especially troublesome because it tolerates high sugar concentrations and preservatives — learn about [ingredients and additives](/articles/ingredients-additives/)
  that prevent spoilage such as sorbic and benzoic acids, making it a common spoilage organism in concentrated syrups and carbonated beverages.
 
 * * *
@@ -95,7 +95,7 @@ Chemical spoilage can generate reactive compounds such as peroxides and free rad
 
 ### Deep Dive: Lipid Oxidation Pathways
 
-Lipid oxidation is the most economically significant chemical spoilage pathway in the [food industry](/food-science-basics/)
+Lipid oxidation is the most economically significant chemical spoilage pathway in the [food industry](/articles/food-science-basics/)
 . It proceeds via a **free-radical chain mechanism** consisting of three stages: initiation, propagation, and termination. In the initiation phase, a free radical abstracts a hydrogen atom from an unsaturated fatty acid, creating a lipid radical.
 
 During propagation, the lipid radical reacts with molecular oxygen to form a peroxyl radical, which in turn abstracts hydrogen from another fatty acid, generating a hydroperoxide and a new radical—creating an autocatalytic cascade. The hydroperoxides eventually break down into **volatile secondary oxidation products**: aldehydes (hexanal, nonenal), ketones, and alcohols responsible for rancid odors.
@@ -141,7 +141,7 @@ In real industrial products, **microbial and chemical spoilage frequently occur 
     
 
 These concepts are explored in greater depth in our pillar article:  
-[**What Makes Food Go Bad?**](/what-makes-food-go-bad/?utm_source=chatgpt.com)
+[**What Makes Food Go Bad?**](/articles/what-makes-food-go-bad/?utm_source=chatgpt.com)
 
 * * *
 
@@ -211,8 +211,7 @@ Key Takeaways
 
 * * *
 
-References
-----------
+## References
 
 *   Bhowmik, D. (2020). _Food Preservation and Shelf Life Extension Techniques_. Academic Press. Link
     
@@ -225,18 +224,18 @@ References
 
 Explore how these mechanisms apply to everyday foods in our detailed guides:
 
-*   **Microbial spoilage examples:** [Milk](/does-milk-go-bad/)
-    , [Chicken](/does-chicken-go-bad/)
-    , [Bread](/does-bread-go-bad/)
-    , [Cheese](/does-cheese-go-bad/)
-    , [Cooked rice](/does-rice-go-bad/)
+*   **Microbial spoilage examples:** [Milk](/articles/milk-shelf-life-pasteurization-spoilage/)
+    , [Chicken](/articles/chicken-shelf-life-microbiology-basic/)
+    , [Bread](/articles/bread-shelf-life-staling-basic/)
+    , [Cheese](/articles/cheese-shelf-life-aging-basic/)
+    , [Cooked rice](/articles/rice-shelf-life-oxidation-basic/)
     
-*   **Chemical spoilage examples:** [Olive oil](/does-olive-oil-go-bad/)
-    , [Peanut butter](/does-peanut-butter-go-bad/)
-    , [Butter](/does-butter-go-bad/)
-    , [Honey](/does-honey-go-bad/)
+*   **Chemical spoilage examples:** [Olive oil](/articles/olive-oil-chemistry-oxidation/)
+    , [Peanut butter](/articles/peanut-butter-rancidity-shelf-life/)
+    , [Butter](/articles/butter-rancidity-shelf-life-basic/)
+    , [Honey](/articles/honey-shelf-life-forever-storage/)
     
-*   **Both mechanisms:** [Eggs](/can-eggs-go-bad/)
+*   **Both mechanisms:** [Eggs](/articles/eggs-shelf-life-freshness-spoilage/)
 
 ---
 

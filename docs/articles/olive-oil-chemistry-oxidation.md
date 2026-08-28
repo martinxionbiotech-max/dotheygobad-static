@@ -1,21 +1,21 @@
 ---
-title: "Olive Oil Shelf Life Science: Lipid Oxidation, Rancidity and Freshness Testing"
+
+title: "Lipid Oxidation, Rancidity and Freshness Testing"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
 categories: ["Lipid Chemistry & Rancidity", "Sauces & Condiments", "Shelf Life & Stability", "Spoilage Mechanisms"]
-description: "is entirely governed by oxidative degradation — a cascade of free radical reactions that transform fresh, fruity oil into a rancid, unpleasant product. Und"
+description: "How free-radical oxidation turns fresh olive oil rancid, and the chemistry that drives quality loss."
 ---
 
 # Olive Oil Shelf Life Science: Lipid Oxidation, Rancidity and Freshness Testing
 
 Olive oil occupies a unique position in the food [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
- landscape: it is a pure fat with virtually zero [water activity](/what-is-water-activity-aw/)
+ landscape: it is a pure fat with virtually zero [water activity](/articles/water-activity-food-stability/)
 , yet it has a finite shelf life. The question “does olive oil [go bad](../articles//what-makes-food-go-bad.md)
 ?” is one of chemistry, not microbiology. With no water available for [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
  growth, olive oil’s [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  is entirely governed by oxidative degradation — a cascade of free radical reactions that transform fresh, fruity oil into a rancid, unpleasant product. Understanding this chemistry is essential for producers, quality control professionals, and anyone handling olive oil at scale.
-
 
 Olive Oil Composition: Why It Oxidizes
 --------------------------------------
@@ -34,7 +34,7 @@ The relatively high MUFA content (especially oleic acid) gives olive oil better 
  is the single most important [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  mechanism in olive oil.
 
-Olive oil oxidation follows two parallel pathways: auto-oxidation (slow, [cold chain management](/cold-chain-management-temperature-controlled-food-logistics)
+Olive oil oxidation follows two parallel pathways: auto-oxidation (slow, [cold chain management](/articles/cold-chain-management-complete-guide/)
 \-dependent) and photo-oxidation (fast, light-dependent). Photo-oxidation can be 1,000× faster. [Learn more →](../articles//microbial-vs-chemical-spoilage-explained.md)
 
 Photo-Oxidation vs. Auto-Oxidation: Two Competing Pathways
@@ -79,12 +79,10 @@ Extra virgin olive oil (EVOO) and refined olive oil have fundamentally different
 
 **Olive Pomace Oil:** Extracted from the pomace (spent olive paste) using solvents, then refined. It has the lowest oxidative stability and shortest shelf life (6–9 months).
 
-![Water activity of olive oil vs other foods - olive oil has near-zero aw](/wp-content/uploads/2026/06/water-activity-spectrum.png)
-
 Olive oil sits at the far left of the [water activity](../articles//water-activity-food-stability.md)
  spectrum ([aw](../articles//water-activity-food-stability.md)
  ≈ 0.0), which is why [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
- spoilage is impossible — only chemical oxidation matters. [Learn more →](/what-is-water-activity-aw/)
+ spoilage is impossible — only chemical oxidation matters. [Learn more →](/articles/water-activity-food-stability/)
 
 Optimal Storage Conditions for Olive Oil
 ----------------------------------------
@@ -112,9 +110,7 @@ Industrial olive oil storage science revolves around the “three enemies”: ox
 *   **Clear glass:** Offers virtually no protection; oil in clear bottles should be consumed within 3–6 months
 *   **Retail display:** Even “protected” bottles on brightly lit shelves accelerate oxidation; premium oils should be displayed in dark boxes
 
-![Packaging impact on olive oil shelf life](/wp-content/uploads/2026/06/processing-packaging-impact.png)
-
-Packaging choice is the single most important factor in olive oil shelf life. Dark glass and tin containers protect against photo-oxidation. [Learn more about food processing →](/ingredients-additives/)
+Packaging choice is the single most important factor in olive oil shelf life. Dark glass and tin containers protect against photo-oxidation. [Learn more about food processing →](/articles/ingredients-additives/)
 
 Sensory Evaluation of Olive Oil Rancidity
 -----------------------------------------
@@ -156,6 +152,16 @@ Olive oil’s spoilage is a story of chemistry in action. With zero [water activ
  eliminating microbial risk, the entire shelf life challenge comes down to a battle against oxygen — and the three catalysts that accelerate its attack: light, heat, and time. The golden rule of olive oil storage — dark, cool, airtight — is not tradition; it is chemistry, encoded in the fatty acid chains and phenolic compounds that define this remarkable food.
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

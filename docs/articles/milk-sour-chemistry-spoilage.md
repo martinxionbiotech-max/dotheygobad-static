@@ -1,9 +1,10 @@
 ---
+
 title: Why Does Milk Smell Sour? The Chemistry of Milk Spoilage
 date: 2026-08-07
 dateModified: 2026-08-07
 author: "Martin Wang"
-description: That sharp sour smell when milk goes off is a complex mixture of volatile organic compounds produced by lactic acid bacteria. Explore the full chemistry of milk spoilage — diacetyl, acetaldehyde, butyric acid, and the microbial ecology that produces them.
+description: "That sharp sour smell when milk goes off is a complex mixture of volatile organic compounds produced by lactic acid bacteria."
 keywords: milk spoilage, lactic acid bacteria, diacetyl, acetaldehyde, butyric acid, psychrotrophic bacteria, Pseudomonas, milk pH, refrigeration spoilage, volatile organic compounds
 categories: ["Dairy Products", "Food Microbiology", "Enzymatic & Chemical Reactions", "Spoilage Mechanisms"]
 ---

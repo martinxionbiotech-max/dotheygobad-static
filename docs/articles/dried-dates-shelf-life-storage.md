@@ -1,5 +1,6 @@
 ---
-title: "Dried Date Shelf Life Science: Sugar Crystallization, Moisture and Storage"
+
+title: "Sugar Crystallization, Moisture and Storage"
 date: 2026-01-02
 dateModified: 2026-01-02
 author: "Martin Wang"
@@ -22,11 +23,10 @@ The short answer is: **dried dates rarely spoil in a way that is dangerous**, bu
 
 * * *
 
-
 Why Dried Dates Last So Long
 ----------------------------
 
-Dried dates are naturally shelf-stable due to several [food science](/food-science-basics/)
+Dried dates are naturally shelf-stable due to several [food science](/articles/food-science-basics/)
  factors:
 
 ### Low Water Activity
@@ -236,8 +236,7 @@ Understanding the difference between **normal aging** and **actual spoilage**, a
 
 * * *
 
-Frequently Asked Questions About Dried Dates
-============================================
+## Frequently Asked Questions About Dried Dates
 
 * * *
 
@@ -365,7 +364,7 @@ FAO. (2020). [http://www.fao.org/3/cb2401en/cb2401en.pdf](http://www.fao.org/3/c
 
 > [Microbial vs Chemical Spoilage Explained](../articles//microbial-vs-chemical-spoilage-explained.md)
 
-> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/food-science-basics/)
+> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/articles/food-science-basics/)
 
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Ice Cream Shelf Life Science: Recrystallization, Fat Separation and Freezing"
+
+title: "Recrystallization, Fat Separation and Freezing"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
@@ -16,7 +17,6 @@ Ice cream is a thermodynamic paradox. It is stored at −18 to −28 °C — tem
  in the classical sense. They are physical [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  processes driven by thermodynamics, and they represent a fascinating intersection of food colloid science and freezing technology.
 
-
 Ice Cream as a Foam and an Emulsion
 -----------------------------------
 
@@ -26,8 +26,6 @@ To understand how ice cream spoils, one must first understand what it _is_ at th
 *   **Ice crystals:** 30–50 μm at production; the single most important quality factor
 *   **Fat globules:** 0.5–2 μm, partially coalesced into a network that stabilizes the foam
 *   **Serum (unfrozen) phase:** Concentrated sugar + stabilizer solution at approximately −5 to −8 °C equivalent freezing point
-
-![Ice cream with visible ice crystals and frost on the surface, indicating freezer burn](/wp-content/uploads/2025/07/ice-cream-freezer-burn.jpg)
 
 Large ice crystals and a frosty surface are the classic signs of thermal abuse and freezer burn in ice cream.
 
@@ -108,7 +106,7 @@ While physical [spoilage](../articles//microbial-vs-chemical-spoilage-explained.
 The Role of Water Activity in Ice Cream Stability
 -------------------------------------------------
 
-[Water activity](/what-is-water-activity-aw)
+[Water activity](/articles/water-activity-food-stability/)
  is a critical but often overlooked factor in ice cream quality. At the bulk freezer temperature of −18 °C, the unfrozen water fraction has an effective aw of 0.70–0.85, depending on the sugar and stabilizer composition. This reduced aw is what prevents microbial growth in the unfrozen serum. However, it also affects the freezing point depression (governed by the Clausius-Clapeyron equation), the viscosity of the unfrozen phase (which controls crystal growth rates), and the glass transition temperature of the freeze-concentrated matrix.
 
 Practical Signs of Spoiled Ice Cream
@@ -123,6 +121,16 @@ Practical Signs of Spoiled Ice Cream
 The key insight from ice cream spoilage science is that temperature _stability_ matters more than temperature _level_. A steady −15 °C may produce better quality ice cream than one that cycles between −25 and −15 °C. This understanding has driven the adoption of glycol-jacketed distribution cabinets — which maintain ±0.5 °C stability — over fan-based forced-air systems with ±3–5 °C fluctuations.
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

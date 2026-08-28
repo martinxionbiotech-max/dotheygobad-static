@@ -1,5 +1,6 @@
 ---
-title: "Food Shelf Life Science: Understanding Expiration Across Major Food Categories"
+
+title: "Understanding Expiration Across Major Food Categories"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
@@ -9,11 +10,10 @@ description: "Flour, sugar, salt, and pasta form the backbone of home kitchens a
 
 # Food Shelf Life Science: Understanding Expiration Across Major Food Categories
 
-Flour, sugar, salt, and pasta form the backbone of home kitchens and [industrial food](/food-science-basics/)
+Flour, sugar, salt, and pasta form the backbone of home kitchens and [industrial food](/articles/food-science-basics/)
  production worldwide. These staples are often assumed to be impervious to [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  — but each has a unique degradation profile governed by its [water activity](../articles//water-activity-food-stability.md)
 , chemical composition, and physical structure. From whole wheat flour’s rapid rancidity to salt’s hygroscopic caking and fresh pasta’s short refrigerated life, understanding these differences is essential for food manufacturers, warehouse managers, and quality assurance teams.
-
 
 Flour: Why Whole Wheat Spoils Faster Than White
 -----------------------------------------------
@@ -54,9 +54,7 @@ Sugar: Hygroscopicity and the Caking Problem
 
 ### Sugar Inversion
 
-![Water activity spectrum showing sugar and salt at the very low end](/wp-content/uploads/2026/06/water-activity-spectrum.png)
-
-Both sugar and salt sit at the extreme low end of the water activity spectrum (aw 0.10-0.20), making them virtually immune to microbial spoilage. [Learn more →](/what-is-water-activity-aw/)
+Both sugar and salt sit at the extreme low end of the water activity spectrum (aw 0.10-0.20), making them virtually immune to microbial spoilage. [Learn more →](/articles/water-activity-food-stability/)
 
 Salt: The Only Truly Indefinite Food
 ------------------------------------
@@ -89,9 +87,7 @@ Pasta: Dry vs. Fresh — A Study in Water Activity
 2.  **Day 3–5:** Surface drying begins; slight souring of the dough develops
 3.  **Day 5–7:** Visible mold or slime; sour/yeasty odor detectable; discard
 
-![Processing and packaging impact on pasta shelf life](/wp-content/uploads/2026/06/processing-packaging-impact.png)
-
-Packaging technology can extend fresh pasta from 7 days (air) to 30-45 days (MAP) or even months (acidified, shelf-stable). [Learn more →](/ingredients-additives/)
+Packaging technology can extend fresh pasta from 7 days (air) to 30-45 days (MAP) or even months (acidified, shelf-stable). [Learn more →](/articles/ingredients-additives/)
 
 Shelf Life Comparison Summary
 -----------------------------
@@ -144,6 +140,16 @@ Flour, sugar, salt, and pasta illustrate the full spectrum of food stability. Sa
 Understanding these differences is essential for anyone managing food at scale. The same storage conditions do not work for all four foods — and assuming they do is a fast track to quality complaints, product waste, and lost profit.
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

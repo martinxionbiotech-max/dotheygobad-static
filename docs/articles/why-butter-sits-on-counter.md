@@ -1,9 +1,10 @@
 ---
-title: "Why Butter Can Sit on the Counter: Food Safety and Emulsion Science"
+
+title: "Food Safety and Emulsion Science"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: A rigorous food-science examination of room-temperature butter storage. Covers water-in-oil emulsion compartmentalization physics, water activity constraints on microbial migration, temperature-dependent lipolysis kinetics, the butter bell engineering analysis, and evidence-based storage recommendations across climate conditions and butter types.
+description: "A rigorous food-science examination of room-temperature butter storage."
 keywords: butter room temperature, butter counter storage, water-in-oil emulsion, butter food safety, butter bell, butter preservation, aW butter, butter spoilage temperature
 categories: ["Dairy Products", "Food Microbiology", "Lipid Chemistry & Rancidity", "Shelf Life & Stability"]
 ---
@@ -180,7 +181,6 @@ Yes, but with a caveat: thawed butter should be treated as fresh butter with its
 
 15. Christen, G. L., & Marshall, R. T. (1987). Lipolysis in dairy products: A review. *Journal of Dairy Science*, 70(8), 1718-1732. https://doi.org/10.3168/jds.S0022-0302(87)80199-6
 
-[{"@context": "https://schema.org", "@type": "Article", "@id": "why-butter-sits-on-counter.md#article", "headline": "Why Butter Can Sit on the Counter: Food Safety and Emulsion Science", "mainEntityOfPage": {"@type": "WebPage", "@id": "why-butter-sits-on-counter.md"}, "author": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}, "publisher": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "@id": "why-butter-sits-on-counter.md#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dotheygobad.com/"}, {"@type": "ListItem", "position": 2, "name": "Articles", "item": "https://dotheygobad.com/articles/"}, {"@type": "ListItem", "position": 3, "name": "Why Butter Can Sit on the Counter: Food Safety and Emulsion Science"}]}]
 
 ## About the Author
 

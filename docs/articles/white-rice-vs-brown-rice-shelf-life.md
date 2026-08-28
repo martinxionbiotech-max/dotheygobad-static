@@ -1,9 +1,10 @@
 ---
+
 title: "White Rice vs Brown Rice: Why the Shelf Life Gap Exists"
 date: 2026-08-09
 dateModified: 2026-08-09
 author: "Martin Wang"
-description: A practical and scientific comparison of white rice vs brown rice shelf life, explaining the bran chemistry, storage strategies, cooked rice considerations, and evidence-based recommendations for maximizing both nutrition and storage longevity.
+description: "Scientific comparison of white rice and brown rice shelf life, including bran chemistry and storage strategy."
 keywords: white rice vs brown rice shelf life, brown rice rancidity, rice bran oil oxidation, rice storage, brown rice freezer storage, rice shelf life comparison
 categories: ["Grains & Baked Goods", "Lipid Chemistry & Rancidity", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---

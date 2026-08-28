@@ -1,10 +1,11 @@
 ---
-title: "Popcorn Shelf Life Science: Moisture Content, Kernel Integrity and Popping Quality"
+
+title: "Moisture Content, Kernel Integrity and Popping Quality"
 date: 2026-02-06
 dateModified: 2026-02-06
 author: "Martin Wang"
 categories: ["Grains & Baked Goods", "Shelf Life & Stability", "Spoilage Mechanisms", "Water Activity & Moisture"]
-description: "Popcorn kernels are unusually stable foods. They rarely develop mold or become unsafe under normal dry storage. However, they can lose their functional val"
+description: "Popcorn kernels are unusually stable foods."
 ---
 
 # Popcorn Shelf Life Science: Moisture Content, Kernel Integrity and Popping Quality
@@ -12,7 +13,6 @@ description: "Popcorn kernels are unusually stable foods. They rarely develop mo
 > **Do popcorn kernels [go bad](../articles//what-makes-food-go-bad.md)
 > ?**  
 > Popcorn kernels rarely spoil in the food safety sense. Instead, they gradually lose internal moisture. When moisture drops below about 14%, the kernel can no longer build enough steam pressure to pop, even though it remains safe to eat.
-
 
 The Truth Most Articles Miss
 ----------------------------
@@ -42,8 +42,6 @@ This happens because successful popping depends on a very narrow internal balanc
     
 
 When this balance shifts, the kernel may look perfectly fine — yet fail in the pan.
-
-![Do Popcorn Kernels Go Bad_“Popcorn kernel pop failure risk increases over storage time due to internal moisture loss below 14 percent”](/wp-content/uploads/2026/02/Do-Popcorn-Kernels-Go-Bad_Pop-Failure-Risk-Curve-of-Stored-Popcorn-Kernels.jpg)
 
 Pop Failure Risk Curve of Stored Popcorn Kernels. The curve illustrates the non-linear increase in popping failure probability as storage time progresses, driven primarily by internal moisture loss. When kernel moisture falls below approximately 14%, steam pressure during heating becomes insufficient to rupture the pericarp, resulting in functional failure despite microbiological safety.
 
@@ -248,10 +246,10 @@ Microwave Popcorn: A Different Shelf-Life Problem
 
 Unpopped kernels are governed mainly by moisture physics.
 
-Microwave popcorn introduces **lipid oxidation chemistry — a core topic in [food science basics](/food-science-basics/)
+Microwave popcorn introduces **lipid oxidation chemistry — a core topic in [food science basics](/articles/food-science-basics/)
 **.
 
-Added oils — see [ingredients and additives](/ingredients-additives/)
+Added oils — see [ingredients and additives](/articles/ingredients-additives/)
  for how added ingredients affect shelf life (often rich in unsaturated fats) undergo:
 
 1.  **Initiation** → peroxide formation
@@ -360,8 +358,7 @@ The optimal range is **14–15% internal moisture**. Below this range, popping e
 
 * * *
 
-References
-----------
+## References
 
 *   Borras, F., et al. (2006). _Water activity and fungal growth in stored maize_. **Journal of Stored Products Research**, 42(3), 302–314. [https://doi.org/10.1016/j.jspr.2005.05.003](https://doi.org/10.1016/j.jspr.2005.05.003)
     

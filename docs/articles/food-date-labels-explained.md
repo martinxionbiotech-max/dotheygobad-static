@@ -1,20 +1,20 @@
 ---
-title: "Food Date Labels Explained: Best Before, Use By, Sell By — What They Really Mean"
+
+title: "Best Before, Use By, Sell By — What They Really Mean"
 date: 2026-06-29
 dateModified: 2026-06-29
 author: "Martin Wang"
 categories: ["Food industry concept", "Food Microbiology", "Preservation Technology", "Quality Control & Food Safety", "Shelf Life & Stability", "Spoilage Mechanisms"]
-description: "Walk into any kitchen and you’ll see them — stamped dates on milk cartons, canned beans, pasta boxes, and deli meat. Yet most consumers can’t tell you whet"
+description: "Walk into any kitchen and you’ll see them — stamped dates on milk cartons, canned beans, pasta boxes, and deli meat."
 ---
 
 # Food Date Labels Explained: Best Before, Use By, Sell By — What They Really Mean
 
 Walk into any kitchen and you’ll see them — stamped dates on milk cartons, canned beans, pasta boxes, and deli meat. Yet most consumers can’t tell you whether “Best Before” means the food is unsafe, or whether “Sell By” is meant for them or the store. The confusion isn’t trivial: according to the USDA and WRAP, an estimated **20% of consumer food waste** — roughly 90 billion pounds annually in the US alone — stems from misunderstanding date labels. That’s food thrown away that is still perfectly safe to eat.
 
-From an [industrial food](/food-science-basics/)
+From an [industrial food](/articles/food-science-basics/)
  science perspective, date labels represent the intersection of microbiology, chemistry, and sensory science. A date printed on a package isn’t an arbitrary guess — it’s the result of shelf-life studies that involve [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
  challenge testing, accelerated aging protocols, and trained sensory panels. Understanding what these dates actually encode can save you money, reduce waste, and help you distinguish between a quality decline and a genuine safety hazard.
-
 
 The Three Main Types of Food Date Labels
 ----------------------------------------
@@ -57,7 +57,7 @@ A critical industrial insight: Supermarkets pull products from shelves at the Se
 Quality vs. Safety: The Critical Distinction
 --------------------------------------------
 
-This is the single most important concept in food date label literacy. Let’s break it down in [industrial food](/food-science-basics/)
+This is the single most important concept in food date label literacy. Let’s break it down in [industrial food](/articles/food-science-basics/)
  science terms:
 
 | Aspect | Quality Decline (Best Before) | Safety Hazard (Use By) |
@@ -151,7 +151,7 @@ The EU’s mandatory dual-label system is widely regarded as the gold standard f
 How to Assess Food Safety: The Limits of Sensory Tests
 ------------------------------------------------------
 
-Many consumers rely on the “sniff test” to determine if food is still good. From an [industrial food](/food-science-basics/)
+Many consumers rely on the “sniff test” to determine if food is still good. From an [industrial food](/articles/food-science-basics/)
  science perspective, this is a useful but incomplete tool. Here’s what sensory evaluation can and cannot tell you:
 
 | Test | What It Detects | What It CANNOT Detect |
@@ -186,13 +186,13 @@ The printed date on your food is not a switch that flips at midnight — it’s 
 
 For a deeper understanding of the spoilage mechanisms that dates are designed to predict, see our guides on [What Makes Food Go Bad](../articles//what-makes-food-go-bad.md)
 , the critical [difference between microbial and chemical spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
-, and the foundational role of [water activity (aw) in food stability](/what-is-water-activity-aw/)
+, and the foundational role of [water activity (aw) in food stability](/articles/water-activity-food-stability/)
 .
 
 Scientific Literature References
 --------------------------------
 
-1.  Newsome R, Balestrini CG, Baum MD, et al. (2014). “Applications and perceptions of date labeling of food.” _Comprehensive Reviews in [Food Science](/food-science-basics/)
+1.  Newsome R, Balestrini CG, Baum MD, et al. (2014). “Applications and perceptions of date labeling of food.” _Comprehensive Reviews in [Food Science](/articles/food-science-basics/)
      and Food Safety_, 13(4):745-769. [DOI: 10.1111/1541-4337.12065](https://doi.org/10.1111/1541-4337.12065)
     
 2.  Leib EB, Rice C, Neff R, Spiker M, Schklair A, Greenberg S (2016). “Consumer perceptions of date labels: National survey.” _Journal of Food Science_, 81(3):S634-S640. [DOI: 10.1111/1750-3841.12939](https://doi.org/10.1111/1750-3841.12939)
@@ -246,6 +246,16 @@ Scientific Literature References
 18.  Japan Food Labeling Act (食品表示法), Act No. 70 of 2013. Consumer Affairs Agency, Government of Japan. [食品表示法](https://www.caa.go.jp/policies/policy/food_labeling/food_labeling_act/)
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

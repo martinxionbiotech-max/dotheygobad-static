@@ -1,4 +1,5 @@
 ---
+
 title: "What Is Skunky Beer?"
 date: 2025-12-27
 dateModified: 2025-12-27
@@ -9,12 +10,11 @@ description: "A common misconception is that skunky beer has “gone bad” due 
 
 # What Is Skunky Beer?
 
-> **What is skunky beer — a fundamental parameter covered in [water activity (aw)](/what-is-water-activity-aw/)
+> **What is skunky beer — a fundamental parameter covered in [water activity (aw)](/articles/water-activity-food-stability/)
 > ?**  
 > “Skunky” beer isn’t a style — it’s a _chemical fault_ caused when light interacts with hop compounds in beer, especially isohumulones. Ultraviolet and some visible light break these molecules down into sulfur‑containing compounds that smell like a skunk’s spray. This **light‑struck reaction** happens quickly in clear or green bottles and more slowly in brown glass or dark packaging. Proper light‑protected storage and minimizing exposure during handling keep beer from turning skunky and preserve its intended aroma and flavor.
 
 * * *
-
 
 Skunky Beer Is a Chemical Problem, Not a Microbial One
 ------------------------------------------------------
@@ -38,7 +38,7 @@ The Chemistry Behind Skunky Beer
 
 ### The Role of Hops in the Reaction
 
-Beer gets much of its bitterness from **iso-alpha acids — derived from [ingredients and additives](/ingredients-additives/)
+Beer gets much of its bitterness from **iso-alpha acids — derived from [ingredients and additives](/articles/ingredients-additives/)
  in brewing**, compounds formed during the boiling of hops in the brewing process.
 
 These compounds are chemically stable in the dark—but **highly reactive under light exposure**.
@@ -316,10 +316,20 @@ Related Reading
     
 *   **Does Wine Go Bad?**
     
-*   **[Food Science](/food-science-basics/)
+*   **[Food Science](/articles/food-science-basics/)
      Glossary: Lightstruck Beer, MBT, Iso-Alpha Acids**
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

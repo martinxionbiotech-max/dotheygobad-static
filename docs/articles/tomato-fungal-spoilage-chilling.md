@@ -1,19 +1,19 @@
 ---
-title: "Tomato Shelf Life Science: Fungal Spoilage, Chilling Injury and Post-Harvest"
+
+title: "Fungal Spoilage, Chilling Injury and Post-Harvest"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
 categories: ["Food Microbiology", "Fruits & Vegetables", "Preservation Technology", "Shelf Life & Stability", "Spoilage Mechanisms"]
-description: "Tomato (Solanum lycopersicum) is the most consumed fruit in the world that is culinarily treated as a vegetable, with global production exceeding 180 milli"
+description: "Tomato (Solanum lycopersicum) is the most consumed fruit in the world that is culinarily treated as a vegetable, with global production exceeding 180"
 ---
 
 # Tomato Shelf Life Science: Fungal Spoilage, Chilling Injury and Post-Harvest
 
 Tomato (Solanum lycopersicum) is the most consumed fruit in the world that is culinarily treated as a vegetable, with global production exceeding 180 million metric tons. Its [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  is a study in contrasts — a climacteric fruit whose ripening is finely controlled by ethylene, yet whose susceptibility to fungal pathogens, chilling injury, and textural collapse makes it one of the most challenging commodities for the fresh produce industry. This article examines tomato [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
- through the lens of [industrial food](/food-science-basics/)
+ through the lens of [industrial food](/articles/food-science-basics/)
  science, covering the major deterioration pathways from field to consumer.
-
 
 The Tomato’s Compositional Vulnerability
 ----------------------------------------
@@ -66,10 +66,8 @@ Sour rot is distinguishable from other fungal rots by its characteristic odor an
 *   **Odor:** A sharp, vinegary, sour smell from acetic acid production — hence the name. This distinguishes it from the earthy/musty smell of _Alternaria_ or the geranium-like odor of _Botrytis_.
 *   **Ecology:** _G. candidum_ is primarily a wound pathogen that requires breaks in the cuticle to enter. It is commonly introduced through contaminated wash water in packing houses.
 
-![Processing and Packaging Impact](/wp-content/uploads/2026/06/processing-packaging-impact.png)
-
 Processing and packaging methods significantly impact tomato shelf life. For a broader understanding of post-harvest preservation, read [what makes food go bad](../articles//what-makes-food-go-bad.md)
- and [the complete guide to water activity in food preservation](/what-is-water-activity-aw/)
+ and [the complete guide to water activity in food preservation](/articles/water-activity-food-stability/)
 .
 
 Chilling Injury: The Storage Temperature Paradox
@@ -138,9 +136,7 @@ Tomatoes are harvested at different ripening stages depending on the intended ma
 *   **Stage 5 (Light red):** 60–90% of surface shows pink/red. The “vine-ripe” stage for local markets. Shelf life 4–7 days.
 *   **Stage 6 (Red):** >90% red. Fully ripe. Shelf life 2–4 days at room temperature, 5–7 days at 8–10°C.
 
-![Sensory Progression](/wp-content/uploads/2026/06/sensory-progression.png)
-
-The sensory progression of tomato ripening and spoilage. Understanding [water activity (aw)](/what-is-water-activity-aw/)
+The sensory progression of tomato ripening and spoilage. Understanding [water activity (aw)](/articles/water-activity-food-stability/)
  is key to predicting how quickly each stage transitions to spoilage under different storage conditions.
 
 Industrial Interventions and Spoilage Prevention
@@ -163,10 +159,20 @@ The tomato’s thin cuticle and programmed cell wall degradation make it inheren
  and for designing supply chains that deliver a product at the precise point of optimal ripeness.
 
 For more on the foundational science, see our guides on [what makes food go bad](../articles//what-makes-food-go-bad.md)
- and [water activity (aw) in food preservation](/what-is-water-activity-aw/)
+ and [water activity (aw) in food preservation](/articles/water-activity-food-stability/)
 .
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

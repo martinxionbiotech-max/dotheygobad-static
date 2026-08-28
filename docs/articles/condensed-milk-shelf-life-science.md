@@ -1,9 +1,10 @@
 ---
-title: "Condensed Milk Shelf Life Science: Maillard Browning, Osmotic Preservation, and Can Stability"
+
+title: "Maillard Browning, Osmotic Preservation, and Can Stability"
 date: 2025-12-30
 dateModified: 2025-12-30
 author: "Martin Wang"
-description: A rigorous food science examination of condensed milk stability covering sugar-based osmotic preservation (a<sub>w</sub> reduction), Maillard browning reaction kinetics, fat oxidation and separation, calcium salt precipitation, microbial spoilage through packaging failure, and industrial quality assessment methods for both sweetened and unsweetened (evaporated) condensed milk.
+description: "A rigorous food science examination of condensed milk stability covering sugar-based osmotic preservation (aw reduction), Maillard browning reaction"
 keywords: condensed milk shelf life, sweetened condensed milk, evaporated milk, Maillard browning, water activity, osmotic preservation, can stability, dairy preservation, fat separation, calcium sediment
 categories: ["Dairy Products", "Preservation Technology", "Water Activity & Moisture", "Shelf Life & Stability"]
 ---
@@ -203,7 +204,6 @@ The risk of *Clostridium botulinum* toxin production in commercially produced co
 
 15. International Commission on Microbiological Specifications for Foods. (2005). *Microorganisms in Foods 6: Microbial Ecology of Food Commodities* (2nd ed.). Springer. https://doi.org/10.1007/0-387-28801-4
 
-[{"@context": "https://schema.org", "@type": "Article", "@id": "condensed-milk-shelf-life-science.md#article", "headline": "Condensed Milk Shelf Life Science: Maillard Browning, Osmotic Preservation, and Can Stability", "mainEntityOfPage": {"@type": "WebPage", "@id": "condensed-milk-shelf-life-science.md"}, "author": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}, "publisher": {"@type": "Organization", "name": "Food Shelf Life Science Encyclopedia — DoTheyGoBad", "url": "https://dotheygobad.com"}}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "@id": "condensed-milk-shelf-life-science.md#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dotheygobad.com/"}, {"@type": "ListItem", "position": 2, "name": "Articles", "item": "https://dotheygobad.com/articles/"}, {"@type": "ListItem", "position": 3, "name": "Condensed Milk Shelf Life Science: Maillard Browning, Osmotic Preservation, and Can Stability"}]}]
 
 ## About the Author
 

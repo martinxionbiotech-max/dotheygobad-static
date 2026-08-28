@@ -1,4 +1,5 @@
 ---
+
 title: "Disclaimer"
 ---
 
@@ -11,7 +12,7 @@ The information provided on DoTheyGoBad is for educational and informational pur
 
 Educational Purpose Only
 
-All articles, guides, and resources published on DoTheyGoBad are intended to explain general food [spoilage](/microbial-vs-chemical-spoilage-explained/)
+All articles, guides, and resources published on DoTheyGoBad are intended to explain general food [spoilage](/articles/microbial-vs-chemical-spoilage-explained/)
  mechanisms, shelf life concepts, and industry-level principles from a scientific and educational perspective.
 
 They are not a substitute for:

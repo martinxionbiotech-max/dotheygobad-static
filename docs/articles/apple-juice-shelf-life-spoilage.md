@@ -1,10 +1,11 @@
 ---
-title: "Apple Juice Shelf Life Science: Oxidation, Enzymatic Browning and Aseptic Storage"
+
+title: "Oxidation, Enzymatic Browning and Aseptic Storage"
 date: 2026-01-01
 dateModified: 2026-01-01
 author: "Martin Wang"
 categories: ["Non-Alcoholic Beverages", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms"]
-description: "Apple juice is widely consumed around the world due to its refreshing flavor, nutritional value, and versatility in both retail and foodservice application"
+description: "Apple juice is widely consumed around the world due to its refreshing flavor, nutritional value, and versatility in both retail and foodservice"
 ---
 
 # Apple Juice Shelf Life Science: Oxidation, Enzymatic Browning and Aseptic Storage
@@ -18,19 +19,18 @@ description: "Apple juice is widely consumed around the world due to its refresh
 
 * * *
 
-Apple juice is widely consumed around the world due to its refreshing flavor, nutritional value, and versatility in both retail and foodservice applications. However, from an industrial and food safety perspective, apple juice is also a **high-risk product**: it contains abundant water — a critical concept in [water activity (aw)](/what-is-water-activity-aw/)
+Apple juice is widely consumed around the world due to its refreshing flavor, nutritional value, and versatility in both retail and foodservice applications. However, from an industrial and food safety perspective, apple juice is also a **high-risk product**: it contains abundant water — a critical concept in [water activity (aw)](/articles/water-activity-food-stability/)
 , fermentable sugars, organic acids, and active enzymes, all of which make it susceptible to **[microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
  spoilage, enzymatic browning, and chemical degradation**.
 
 So, **does apple juice [go bad](../articles//what-makes-food-go-bad.md)
 ?**  
-The short answer is **yes—inevitably**. The long answer depends on **processing method, packaging, oxygen control, [cold chain management](/cold-chain-management-temperature-controlled-food-logistics)
+The short answer is **yes—inevitably**. The long answer depends on **processing method, packaging, oxygen control, [cold chain management](/articles/cold-chain-management-complete-guide/)
 , and time**.
 
 This article explains **how and why apple juice spoils**, how browning develops during processing and storage, which microorganisms are responsible, and how modern industry controls these risks.
 
 * * *
-
 
 1\. What Is Apple Juice Made Of — and Why That Matters
 ------------------------------------------------------
@@ -387,7 +387,7 @@ Non-enzymatic browning occurs mainly during storage and involves chemical reacti
 
 ### 4\. Which microorganisms are most responsible for apple juice spoilage?
 
-Yeasts are the primary spoilage organisms in apple juice. Among them, _Zygosaccharomyces rouxii_ is particularly problematic because it tolerates high sugar concentrations, acidic conditions, preservatives — learn more about [ingredients and additives](/ingredients-additives/)
+Yeasts are the primary spoilage organisms in apple juice. Among them, _Zygosaccharomyces rouxii_ is particularly problematic because it tolerates high sugar concentrations, acidic conditions, preservatives — learn more about [ingredients and additives](/articles/ingredients-additives/)
 , and mild heat treatments. Certain bacteria such as _Alicyclobacillus_ can also cause off-flavors without visible fermentation.
 
 * * *
@@ -428,8 +428,7 @@ Spoiled apple juice may not always cause severe illness, but it can lead to gast
 
 * * *
 
-References (APA, Selected)
---------------------------
+## References
 
 Oras, K., et al. (2019). Polyphenol composition and enzymatic browning in apple cultivars. _Food Chemistry, 286_, 67–75.  
 [https://doi.org/10.1016/j.foodchem.2019.01.189](https://doi.org/10.1016/j.foodchem.2019.01.189)
@@ -437,14 +436,14 @@ Oras, K., et al. (2019). Polyphenol composition and enzymatic browning in apple 
 Murtaza, A., et al. (2017). Effect of temperature on enzymatic browning of apple juice. _Journal of Food Processing and Preservation, 41_(6).  
 [https://doi.org/10.1111/jfpp.13267](https://doi.org/10.1111/jfpp.13267)
 
-Martínez-Hernández, G. B., et al. (2018). Combined high-pressure and cyclodextrin treatment to inhibit apple juice browning. _Innovative [Food Science](/food-science-basics/)
+Martínez-Hernández, G. B., et al. (2018). Combined high-pressure and cyclodextrin treatment to inhibit apple juice browning. _Innovative [Food Science](/articles/food-science-basics/)
  & Emerging Technologies, 45_, 227–234.  
 [https://doi.org/10.1016/j.ifset.2017.10.014](https://doi.org/10.1016/j.ifset.2017.10.014)
 
 Fleet, G. H. (2007). Yeast spoilage of foods and beverages. _Food Microbiology, 24_(6), 563–572.  
 [https://doi.org/10.1016/j.fm.2007.03.010](https://doi.org/10.1016/j.fm.2007.03.010)
 
-Bevilacqua, A., et al. (2010). Alicyclobacillus spoilage in fruit juices. _International Journal of [Food Science](/food-science-basics/)
+Bevilacqua, A., et al. (2010). Alicyclobacillus spoilage in fruit juices. _International Journal of [Food Science](/articles/food-science-basics/)
  & Technology, 45_(1), 1–8.  
 [https://doi.org/10.1111/j.1365-2621.2009.02118.x](https://doi.org/10.1111/j.1365-2621.2009.02118.x)
 
@@ -456,7 +455,7 @@ _**Additionals**_
 
 > [Microbial vs Chemical Spoilage Explained](../articles//microbial-vs-chemical-spoilage-explained.md)
 
-> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/food-science-basics/)
+> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/articles/food-science-basics/)
 
 ---
 

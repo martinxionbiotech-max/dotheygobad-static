@@ -1,4 +1,5 @@
 ---
+
 title: Water Safety Risk Calculator
 date: 2026-02-06
 description: Water safety risk calculator — assess drinking water safety risk based on water source and treatment method.
@@ -6,6 +7,7 @@ keywords: water safety, drinking water risk, water source assessment, water trea
 ---
 # Water Safety Risk Calculator
 
+<style>
 #water-tool { font-family: system-ui; max-width: 800px; margin: 0 auto; padding: 20px; background: #f9f9f9; border-radius: 8px; }
 #water-tool label { display: block; margin-top: 15px; font-weight: 600; }
 #water-tool select, #water-tool input { width: 100%; padding: 8px; margin-top: 5px; border: 1px solid #ddd; border-radius: 4px; }
@@ -14,6 +16,7 @@ keywords: water safety, drinking water risk, water source assessment, water trea
 #water-tool .low { background: #d4edda; border-left: 4px solid #28a745; }
 #water-tool .medium { background: #fff3cd; border-left: 4px solid #ffc107; }
 #water-tool .high { background: #f8d7da; border-left: 4px solid #dc3545; }
+</style>
 
   
 ## Water Safety Risk Assessment Tool

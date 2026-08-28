@@ -1,27 +1,27 @@
 ---
-title: "Salmon Shelf Life Science: TMAO Reduction, Seafood Spoilage and Cold Storage"
+
+title: "TMAO Reduction, Seafood Spoilage and Cold Storage"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
 categories: ["Lipid Chemistry & Rancidity", "Meat & Seafood", "Preservation Technology", "Shelf Life & Stability", "Spoilage Mechanisms"]
-description: "Salmon is one of the most nutritionally prized fish in the world, celebrated for its rich omega-3 fatty acid profile and delicate, buttery texture. Yet fro"
+description: "Salmon is one of the most nutritionally prized fish in the world, celebrated for its rich omega-3 fatty acid profile and delicate, buttery texture."
 ---
 
 # Salmon Shelf Life Science: TMAO Reduction, Seafood Spoilage and Cold Storage
 
 Salmon is one of the most nutritionally prized fish in the world, celebrated for its rich omega-3 fatty acid profile and delicate, buttery texture. Yet from the moment a salmon is harvested, a cascade of biochemical and [microbial](../articles//microbial-vs-chemical-spoilage-explained.md)
  processes begins that can rapidly render it unpalatable and potentially hazardous. Salmon [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
- is a particularly instructive case study in [food science](/food-science-basics/)
- because it involves three interconnected deterioration pathways: bacterial metabolism of trimethylamine oxide (TMAO), endogenous enzymatic autolysis, and the exceptionally rapid oxidation of polyunsaturated fats. This article explores each mechanism in depth from an [industrial food](/food-science-basics/)
+ is a particularly instructive case study in [food science](/articles/food-science-basics/)
+ because it involves three interconnected deterioration pathways: bacterial metabolism of trimethylamine oxide (TMAO), endogenous enzymatic autolysis, and the exceptionally rapid oxidation of polyunsaturated fats. This article explores each mechanism in depth from an [industrial food](/articles/food-science-basics/)
  science perspective.
-
 
 Why Salmon Spoils Faster Than Mammalian Meat
 --------------------------------------------
 
 Salmon muscle differs fundamentally from mammalian meat in several structural and chemical respects that make it exceptionally perishable.
 
-*   **[Water activity](/what-is-water-activity-aw/)
+*   **[Water activity](/articles/water-activity-food-stability/)
     :** 0.98–0.99 — identical to pork, but the free water is more accessible due to shorter muscle fibers and less connective tissue
 *   **pH:** Post-mortem salmon pH is 6.0–6.3, significantly higher than beef (5.3–5.5) or chicken (5.7–5.9). This neutral pH favors a wider range of [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
      bacteria
@@ -29,8 +29,6 @@ Salmon muscle differs fundamentally from mammalian meat in several structural an
      substrate that terrestrial meats lack entirely
 *   **Omega-3 fatty acids:** Salmon fat is 30–40% polyunsaturated (EPA + DHA), making it extraordinarily susceptible to oxidative rancidity
 *   **Free amino acids:** Salmon muscle has roughly 2–3× the free amino acid content of mammalian meat, providing immediate substrates for bacterial decarboxylation
-
-![Fresh raw salmon fillet on ice, showing bright orange color and moist surface](/wp-content/uploads/2025/07/raw-pork-shelf-life.jpg)
 
 The high unsaturated fat content and neutral pH of fresh salmon create a uniquely perishable matrix.
 
@@ -133,10 +131,20 @@ For the [consumer distinguishing between microbial and chemical spoilage](../art
 *   **Texture:** Firm, springy flesh that leaves no indentation. Soft, mushy flesh, or muscle separation (gaping), indicates autolytic degradation
 *   **Exudate:** Milky or opaque drip signals bacterial proteolysis and lipid oxidation
 
-Understanding [water activity](/what-is-water-activity-aw)
+Understanding [water activity](/articles/water-activity-food-stability/)
  is critical for seafood preservation — the free water in salmon provides the medium in which all these spoilage reactions occur. Reducing aw through salting (lox, gravlax) or drying creates a powerful preservative hurdle against both microbial growth and enzymatic activity.
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

@@ -1,10 +1,11 @@
 ---
-title: "Tuna Shelf Life Science: Scombrotoxin, Histamine Formation and Seafood Safety"
+
+title: "Scombrotoxin, Histamine Formation and Seafood Safety"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
 categories: ["Lipid Chemistry & Rancidity", "Meat & Seafood", "Spoilage Mechanisms"]
-description: "scenarios in the seafood industry. Unlike salmon or white fish, tuna is distinguished by three factors that make its deterioration pathway unique: exceptio"
+description: "scenarios in the seafood industry. Unlike salmon or white fish, tuna is distinguished by three factors that make its deterioration pathway unique"
 ---
 
 # Tuna Shelf Life Science: Scombrotoxin, Histamine Formation and Seafood Safety
@@ -12,9 +13,8 @@ description: "scenarios in the seafood industry. Unlike salmon or white fish, tu
 Tuna presents one of the most challenging [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  scenarios in the seafood industry. Unlike salmon or white fish, tuna is distinguished by three factors that make its deterioration pathway unique: exceptionally high free histidine content in the dark muscle, a warm-body physiology that affects post-mortem temperature management, and a dual existence as both a fresh high-value product and a canned shelf-stable commodity. The two dominant [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
  pathways — scombrotoxin (histamine) formation and lipid oxidation — operate on different timescales and produce very different hazards. This article examines tuna [spoilage](../articles//microbial-vs-chemical-spoilage-explained.md)
- from an [industrial food](/food-science-basics/)
+ from an [industrial food](/articles/food-science-basics/)
  science and safety perspective.
-
 
 Why Tuna Is Different: Anatomy and Biochemistry
 -----------------------------------------------
@@ -25,8 +25,6 @@ Tuna (Thunnini tribe) are endothermic fish — they maintain elevated body tempe
 *   **Dark muscle content:** 15–25% of total fillet weight (vs. 1–3% in white fish) — extremely high in myoglobin, histidine, and free amino acids
 *   **Free histidine:** Tuna dark muscle contains 300–700 mg/100g free L-histidine — a substrate for bacterial histidine decarboxylase
 *   **High fat content:** Belly meat (toro) contains 20–40% fat, predominantly unsaturated, making it highly susceptible to oxidation
-
-![Cross-section of fresh tuna loin showing dark and light muscle regions](/wp-content/uploads/2025/07/canned-tuna-processing.jpg)
 
 Tuna’s dark muscle is rich in myoglobin and free histidine — the precursor for scombrotoxin formation.
 
@@ -120,10 +118,20 @@ Practical Signs of Spoiled Tuna
 *   **Texture:** Firm and springy. Mushy, easily separable muscle flakes or wet exudate indicate advanced autolysis
 *   **For canned:** Bulging can, rust, leakage, or foul odor upon opening are unambiguous spoilage signs
 
-Understanding [water activity](/what-is-water-activity-aw)
+Understanding [water activity](/articles/water-activity-food-stability/)
  explains why freezing preserves tuna — reducing aw through ice formation slows both enzymatic and microbial spoilage kinetics, though the unfrozen fraction still permits slow oxidative deterioration.
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

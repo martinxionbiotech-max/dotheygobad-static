@@ -1,16 +1,16 @@
 ---
-title: "Eggs Shelf Life Science: Cuticle Degradation, Salmonella and Freshness"
+
+title: "Cuticle Degradation, Salmonella and Freshness"
 date: 2026-06-29
 dateModified: 2026-06-29
 author: "Martin Wang"
 categories: ["Dairy Products", "Food Microbiology", "Preservation Technology", "Quality Control & Food Safety", "Shelf Life & Stability", "Spoilage Mechanisms"]
-description: "The avian egg is one of nature’s most sophisticated biological packages — a self-contained life support system that must simultaneously protect a developin"
+description: "The avian egg is one of nature’s most sophisticated biological packages — a self-contained life support system that must simultaneously protect a"
 ---
 
 # Eggs Shelf Life Science: Cuticle Degradation, Salmonella and Freshness
 
 DoTheyGoBad - Industrial Food Science Infographic
-
 
 ### 📋 Key Takeaways
 
@@ -50,7 +50,7 @@ The cuticle is the egg’s most critical antimicrobial barrier, and its gradual 
 
 ### The US-EU Divide: To Wash or Not to Wash
 
-This is one of the most instructive [food science](/food-science-basics/)
+This is one of the most instructive [food science](/articles/food-science-basics/)
  policy divergences in the world:
 
 *   **United States (FDA):** Eggs are washed in warm water (≥32°C) with detergent and sanitized with chlorine (100-200 ppm) within hours of lay. This **completely removes the cuticle** and kills surface bacteria. Eggs must then be refrigerated (≤7°C) through the entire supply chain — from packing facility to supermarket to consumer refrigerator. The rationale: washing removes Salmonella contamination on the shell surface. The trade-off: the egg loses its natural antimicrobial barrier and requires continuous cold chain.
@@ -242,6 +242,16 @@ Scientific Literature References
      — Bacterial shell contamination and trans-shell migration in the hen’s egg. _Food Microbiology_, 25(4), 536-547.
 
 ---
+
+
+## References
+
+1. U.S. Food and Drug Administration. (2024). *Bad Bug Book: Foodborne Pathogenic Microorganisms and Natural Toxins Handbook* (2nd ed.). https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition
+
+2. U.S. Department of Agriculture, Food Safety and Inspection Service. (2024). *FoodKeeper App*. https://www.foodsafety.gov/keep-food-safe/foodkeeper-app
+
+3. Jay, J. M., Loessner, M. J., & Golden, D. A. (2005). *Modern Food Microbiology* (7th ed.). Springer. https://doi.org/10.1007/b100840
+
 
 ## About the Author
 

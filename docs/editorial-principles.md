@@ -1,14 +1,15 @@
 ---
+
 title: Editorial Principles — Evidence-Based Food Science Content
 date: 2025-12-18
-description: How DoTheyGoBad creates evidence-based food science content — the editorial standards, sourcing framework, and industrial food science perspective behind every article.
+description: "How DoTheyGoBad sources and reviews evidence-based food science content, from editorial standards to industrial sourcing."
 keywords: food spoilage, spoilage mechanisms, food safety, microbial growth, food microbiology, bacteria
 ---
 # Editorial Principles
 
 ## How Content Is Created at DoTheyGoBad
 
-At **DoTheyGoBad**, all content is created with a single goal: **to explain food [spoilage](https://dotheygobad.com/microbial-vs-chemical-spoilage-explained/) and shelf-life behavior accurately from an [industrial food](https://dotheygobad.com/food-science-basics/) science perspective**.
+At **DoTheyGoBad**, all content is created with a single goal: **to explain food [spoilage](/articles/microbial-vs-chemical-spoilage-explained/) and shelf-life behavior accurately from an [industrial food](/articles/food-science-basics/) science perspective**.
 
 This site does not publish lifestyle advice, cooking tips, or household storage guidance. Instead, every article follows a structured, professional framework rooted in **food processing, formulation, and manufacturing realities**.
 

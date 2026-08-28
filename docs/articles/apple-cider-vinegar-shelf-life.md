@@ -1,10 +1,11 @@
 ---
-title: "Apple Cider Vinegar Shelf Life Science: Acetic Acid and Indefinite Storage"
+
+title: "Acetic Acid and Indefinite Storage"
 date: 2026-01-03
 dateModified: 2026-01-03
 author: "Martin Wang"
 categories: ["Non-Alcoholic Beverages", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms", "Water Activity & Moisture"]
-description: "Apple cider vinegar (ACV) is one of the most stable fermented foods, thanks to its high acidity and antimicrobial properties. Many people wonder whether AC"
+description: "Apple cider vinegar (ACV) is one of the most stable fermented foods, thanks to its high acidity and antimicrobial properties."
 ---
 
 # Apple Cider Vinegar Shelf Life Science: Acetic Acid and Indefinite Storage
@@ -17,12 +18,11 @@ description: "Apple cider vinegar (ACV) is one of the most stable fermented food
 
 * * *
 
-
 Introduction: What “Going Bad” Means for Apple Cider Vinegar
 ------------------------------------------------------------
 
 Apple cider vinegar (ACV) is one of the most stable fermented foods, thanks to its high acidity and antimicrobial properties. Many people wonder whether ACV can [go bad](../articles//what-makes-food-go-bad.md)
-, but the reality is nuanced. From a [food science](/food-science-basics/)
+, but the reality is nuanced. From a [food science](/articles/food-science-basics/)
  perspective, ACV rarely spoils in the traditional sense. Instead, it undergoes **gradual changes in quality and sensory characteristics.**
 
 At DoTheyGoBad, we define “going bad” as **measurable deterioration in composition, functionality, or safety risk**, not just a visual change.
@@ -189,8 +189,6 @@ We then divided them into **three storage groups**:
 | Odor | Normal apple cider vinegar smell | Normal | Slightly weaker acidity | Normal | Normal | Normal |
 
 ### Result Chart
-
-![Does Apple Cider Vinegar Go Bad | Our test results in chart](/wp-content/uploads/2026/01/apple_cider_vinegar_experiment.png)
 
 It shows:
 
@@ -390,8 +388,7 @@ These changes are **quality indicators, not safety risks**.
 
 * * *
 
-References
-----------
+## References
 
 Wickenberg, J., et al. (2010). Stability of acetic acid and phenolic compounds in vinegar during storage. _Food Chemistry, 123_(2), 285–289. [https://doi.org/10.1016/j.foodchem.2010.04.021](https://doi.org/10.1016/j.foodchem.2010.04.021)
 
@@ -403,9 +400,9 @@ WHO. (2007). _WHO monographs on selected medicinal plants_. [https://doi.org/10.
 
 > [Microbial vs Chemical Spoilage Explained](../articles//microbial-vs-chemical-spoilage-explained.md)
 
-> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/food-science-basics/)
+> [Food Science Basics: Understanding the Foundations of Industrial Food Stability](/articles/food-science-basics/)
 
-> [Ingredients & Additives: Their Role in Food Stability and Spoilage](/ingredients-additives/)
+> [Ingredients & Additives: Their Role in Food Stability and Spoilage](/articles/ingredients-additives/)
 
 ---
 

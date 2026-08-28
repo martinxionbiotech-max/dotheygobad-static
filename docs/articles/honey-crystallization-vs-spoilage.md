@@ -1,9 +1,10 @@
 ---
-title: "Crystallized Honey: Glucose-Fructose Chemistry, Supersaturation Physics, and Why It's Not Spoilage"
+
+title: "Glucose-Fructose Chemistry, Supersaturation Physics, and"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: Crystallized honey is real, unadulterated honey undergoing normal glucose monohydrate crystallization from a supersaturated sugar solution. The glucose-to-fructose ratio determines crystallization speed — clover honey crystallizes in weeks; tupelo stays liquid for years. This article explains the crystallography, distinguishes true crystallization from fermentation, and provides safe re-liquefaction protocols that preserve enzymes and flavor.
+description: "Crystallized honey is real, unadulterated honey undergoing normal glucose monohydrate crystallization from a supersaturated sugar solution."
 keywords: honey crystallization, crystallized honey safe, glucose fructose ratio honey, honey supersaturation, honey fermentation vs crystallization, honey reliquefy temperature, honey glucose monohydrate crystals, why honey crystallizes
 categories: ["Sauces & Condiments", "Water Activity & Moisture", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---
