@@ -1,13 +1,68 @@
-site_name: DoTheyGoBad
-site_url: https://dotheygobad.com
+site_name: DoTheyGoBad — Food Shelf Life Science Encyclopedia
+site_url: https://dotheygobad.com/
+site_description: Industrial food science encyclopedia explaining why foods spoil, how shelf life is determined, and what preservation methods work — from chemistry, microbiology, and processing engineering.
+repo_url: https://github.com/martinxionbiotech-max/dotheygobad-static
+edit_uri: edit/main/docs/
+
 theme:
   name: material
   custom_dir: overrides
-  features:
-    - navigation.sections
-    - navigation.expand
   palette:
     primary: deep orange
+    accent: amber
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - def_list
+  - pymdownx.emoji
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+extra:
+  generator: false
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+
 nav:
   - Home: index.md
-  - Articles: articles.md
+  - Categories:
+      - categories/index.md
+      - Beer & Alcoholic Drinks: categories/beer-alcoholic-drinks.md
+      - Dairy Products: categories/dairy-products.md
+      - Fruits & Vegetables: categories/fruits-vegetables.md
+      - Grains & Baked Goods: categories/grains-baked-goods.md
+      - Meat & Seafood: categories/meat-seafood.md
+      - Non-Alcoholic Beverages: categories/non-alcoholic-beverages.md
+      - Sauces & Condiments: categories/sauces-condiments.md
+      - Food Industry Concepts: categories/food-industry-concept.md
+  - All Articles: articles.md
+  - Glossary: food-science-glossary.md
+  - FAQ: faq.md
+  - About:
+      - about/index.md
+      - Author Profile: about/author-profile.md
+  - Legal:
+      - Privacy Policy: legal/privacy-policy.md
+      - Terms of Use: legal/terms-of-use.md
+      - Disclaimer: legal/disclaimer.md

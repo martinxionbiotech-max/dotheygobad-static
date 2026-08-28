@@ -2,20 +2,96 @@
 
 {% block extrahead %}
   {{ super() }}
-  <meta property="og:site_name" content="DoTheyGoBad">
-  <meta name="robots" content="index, follow">
+
+  {# ─── 1. Organization — 统一 @id ─── #}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://dotheygobad.com/#organization",
+    "name": "DoTheyGoBad",
+    "url": "https://dotheygobad.com/",
+    "logo": "https://dotheygobad.com/assets/logo.png",
+    "description": "Industrial food science encyclopedia explaining why foods spoil, how shelf life is determined, and what preservation methods work — from a chemistry, microbiology, and processing engineering perspective.",
+    "foundingDate": "2024",
+    "founder": { "@id": "https://dotheygobad.com/about/author-profile/#person" },
+    "sameAs": [
+      "https://github.com/martinxionbiotech-max"
+    ]
+  }
+  </script>
+
+  {# ─── 2. Person (作者人设) ─── #}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": "https://dotheygobad.com/about/author-profile/#person",
+    "name": "Martin Wang",
+    "jobTitle": "Food Scientist | Industrial Processing Expert",
+    "description": "20+ years of hands-on experience in industrial food processing, product development, and large-scale manufacturing. Specializes in shelf-life control, water activity management, and process optimization.",
+    "worksFor": { "@id": "https://dotheygobad.com/#organization" }
+  }
+  </script>
+
+  {# ─── 3. WebSite ─── #}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "DoTheyGoBad",
-    "url": "https://dotheygobad.com",
-    "description": "Food Shelf Life Science Encyclopedia",
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": "https://dotheygobad.com/search/?q={search_term_string}",
-      "query-input": "required name=search_term_string"
-    }
+    "@id": "https://dotheygobad.com/#website",
+    "url": "https://dotheygobad.com/",
+    "name": "DoTheyGoBad — Food Shelf Life Science Encyclopedia",
+    "description": "{{ config.site_description }}",
+    "publisher": { "@id": "https://dotheygobad.com/#organization" },
+    "inLanguage": "en-US"
+  }
+  </script>
+
+  {# ─── 4. WebPage — 按 URL 分类 @type ─── #}
+  {% set page_type = "WebPage" %}
+  {% if page and page.url and not page.is_homepage %}
+    {% if page.url.startswith('articles/') %}
+      {% set page_type = "Article" %}
+    {% elif page.url.startswith('food-science-glossary') %}
+      {% set page_type = "DefinedTermSet" %}
+    {% elif page.url.startswith('faq') %}
+      {% set page_type = "FAQPage" %}
+    {% elif page.url.startswith('tools/') %}
+      {% set page_type = "WebApplication" %}
+    {% elif page.url.startswith('about/') %}
+      {% set page_type = "AboutPage" %}
+    {% elif page.url == 'categories/' or '/index' in page.url %}
+      {% set page_type = "CollectionPage" %}
+    {% endif %}
+  {% endif %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "{{ page_type }}",
+    "@id": "{{ page.canonical_url if page and page.canonical_url else config.site_url }}#webpage",
+    "url": "{{ page.canonical_url if page and page.canonical_url else config.site_url }}",
+    "name": "{{ page.title if page else config.site_name }}",
+    "isPartOf": { "@id": "https://dotheygobad.com/#website" },
+    "about": { "@id": "https://dotheygobad.com/#organization" }
+    {% if page_type == "Article" %}
+    ,"author": { "@id": "https://dotheygobad.com/about/author-profile/#person" }
+    ,"publisher": { "@id": "https://dotheygobad.com/#organization" }
+    {% if page and page.meta and page.meta.date %}, "datePublished": "{{ page.meta.date }}"{% endif %}
+    {% if page and page.meta and page.meta.dateModified %}, "dateModified": "{{ page.meta.dateModified }}"{% endif %}
+    {% endif %}
+  }
+  </script>
+
+  {# ─── 5. BreadcrumbList ─── #}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://dotheygobad.com/" },
+      { "@type": "ListItem", "position": 2, "name": "{{ page.title if page else config.site_name }}", "item": "{{ page.canonical_url if page and page.canonical_url else config.site_url }}" }
+    ]
   }
   </script>
 {% endblock %}
