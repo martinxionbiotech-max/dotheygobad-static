@@ -1,0 +1,102 @@
+/* Layout: widen the page shell on large screens while keeping prose readable. */
+.md-grid {
+  max-width: 88rem;
+}
+
+@media screen and (min-width: 76.25em) {
+  .md-content__inner {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 52rem;
+  }
+}
+
+/* Typography: slightly larger, more open body copy and stronger headings. */
+.md-typeset {
+  font-size: 0.875rem;
+  line-height: 1.65;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  color: var(--md-default-fg-color);
+  font-weight: 600;
+  letter-spacing: -0.015em;
+}
+
+.md-typeset h1 {
+  line-height: 1.25;
+}
+
+.md-typeset h2 {
+  margin-top: 1.8em;
+}
+
+.md-typeset h3 {
+  margin-top: 1.5em;
+}
+
+/* Sidebar: clearer grouping, spacing, and active state. */
+@media screen and (min-width: 76.25em) {
+  .md-nav--primary .md-nav__list {
+    row-gap: 0.1rem;
+  }
+
+  .md-nav--primary .md-nav__link {
+    border-radius: 0.3rem;
+    margin-top: 0.25em;
+    padding: 0.4rem 0.6rem;
+  }
+
+  .md-nav--primary .md-nav__item--section > .md-nav__link {
+    color: var(--md-default-fg-color--light);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  .md-nav--primary .md-nav__item--active:not(.md-nav__item--section) > .md-nav__link {
+    background-color: var(--md-default-fg-color--lightest);
+    color: var(--md-accent-fg-color);
+    font-weight: 700;
+  }
+
+  .md-nav--primary .md-nav__link:hover {
+    background-color: var(--md-default-fg-color--lightest);
+  }
+}
+
+/* Code blocks and inline code: softer background and clearer presentation. */
+:root {
+  --md-code-bg-color: #f7f8fa;
+  --md-code-fg-color: #263238;
+}
+
+.md-typeset pre {
+  border: 0.05rem solid var(--md-typeset-table-color);
+  border-radius: 0.45rem;
+  box-shadow: var(--md-shadow-z1);
+}
+
+.md-typeset pre > code {
+  line-height: 1.5;
+  padding: 0.9rem 1.1rem;
+}
+
+.md-typeset :not(pre) > code {
+  border-radius: 0.25rem;
+  padding: 0.1em 0.35em;
+}
+
+/* Tables: larger type and comfortable cell padding. */
+.md-typeset table:not([class]) {
+  border-radius: 0.35rem;
+  font-size: 0.75rem;
+}
+
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+  padding: 0.75rem 1rem;
+}

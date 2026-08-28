@@ -4,15 +4,18 @@ site_description: Industrial food science encyclopedia explaining why foods spoi
 repo_url: https://github.com/martinxionbiotech-max/dotheygobad-static
 edit_uri: edit/main/docs/
 
+extra_css:
+  - assets/stylesheets/extra.css
+
 theme:
   name: material
   custom_dir: overrides
   palette:
+    scheme: default
     primary: deep orange
     accent: amber
   features:
     - navigation.instant
-    - navigation.tabs
     - navigation.sections
     - navigation.indexes
     - navigation.top
