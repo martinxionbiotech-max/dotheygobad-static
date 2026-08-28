@@ -21,6 +21,8 @@ Articles in this category explain the shelf-life science, spoilage mechanisms, a
 - [Food Shelf Life Science: Understanding Expiration Across Major Food Categories](../articles/staple-foods-never-expire.md)
 - [Ground Beef Shelf Life Science: Bacterial Growth, Myoglobin Oxidation and Cold Storage](../articles/ground-beef-bacteria-myoglobin.md)
 - [How Rice Processing Affects Shelf Life: From Paddy to Package](../articles/rice-processing-shelf-life.md)
+- [Instant Noodle Shelf Life Science: Lipid Oxidation, Moisture and Packaging](../articles/cup-noodles-shelf-life-storage.md)
+- [Overnight Oat Shelf Life Science: Fermentation, Spoilage Signs and Refrigeration](../articles/overnight-oats-shelf-life.md)
 - [Popcorn Shelf Life Science: Moisture Content, Kernel Integrity and Popping Quality](../articles/popcorn-kernels-shelf-life.md)
 - [Rice Shelf Life Science: Lipid Oxidation, Microbial Risk and Storage Conditions](../articles/rice-shelf-life-oxidation-basic.md)
 - [White Flour vs Whole Wheat Flour: The Lipid Chemistry Behind Shelf Life Differences](../articles/white-flour-vs-whole-wheat-shelf-life.md)

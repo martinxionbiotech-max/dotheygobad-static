@@ -3,7 +3,7 @@ title: "Instant Noodle Shelf Life Science: Lipid Oxidation, Moisture and Packagi
 date: 2026-01-31
 dateModified: 2026-01-31
 author: "Martin Wang"
-categories: ["Dairy Products", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms"]
+categories: ["Grains & Baked Goods", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms"]
 description: "The oxidation of frying oils (commonly palm oil or rapeseed oil) follows three classic stages:"
 ---
 

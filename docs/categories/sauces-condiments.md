@@ -12,6 +12,7 @@ Articles in this category explain the shelf-life science, spoilage mechanisms, a
 - [Cheese Shelf Life Science: Mold Growth, Lipolysis and Proteolysis During Aging](../articles/cheese-mold-lipolysis-proteolysis.md)
 - [Crystallized Honey: Glucose-Fructose Chemistry, Supersaturation Physics, and Why It's Not Spoilage](../articles/honey-crystallization-vs-spoilage.md)
 - [Extra Virgin vs Refined Olive Oil: Chemistry, Shelf Life, and Stability Compared](../articles/extra-virgin-vs-refined-olive-oil.md)
+- [Honey Shelf Life Science: Osmotic Preservation, Crystallization and Infinite Shelf Life](../articles/honey-shelf-life-forever-storage.md)
 - [How Industry Tests Olive Oil Freshness: Peroxide Value, Spectrophotometry, and Rancidity Detection Methods](../articles/olive-oil-freshness-testing.md)
 - [Mayonnaise Shelf Life Science: Emulsion Breakdown, Lipid Oxidation and Acidity](../articles/mayonnaise-emulsion-breakdown.md)
 - [Natural vs Stabilized Peanut Butter: Oil Separation Chemistry, Emulsion Science, and Shelf Life Comparison](../articles/natural-vs-stabilized-peanut-butter.md)

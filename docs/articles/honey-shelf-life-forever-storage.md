@@ -3,7 +3,7 @@ title: "Honey Shelf Life Science: Osmotic Preservation, Crystallization and Infi
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-categories: ["Dairy Products", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms"]
+categories: ["Sauces & Condiments", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms"]
 description: ": it is one of the few natural substances that can remain microbiologically stable and sensorially acceptable for decades — even centuries — without refrig"
 ---
 

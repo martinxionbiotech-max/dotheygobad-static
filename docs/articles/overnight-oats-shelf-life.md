@@ -3,7 +3,7 @@ title: "Overnight Oat Shelf Life Science: Fermentation, Spoilage Signs and Refri
 date: 2026-01-11
 dateModified: 2026-01-11
 author: "Martin Wang"
-categories: ["Dairy Products", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms"]
+categories: ["Grains & Baked Goods", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms"]
 description: "Overnight oats are often treated as a simple breakfast recipe, but from a food safety standpoint they are a hydrated, ready-to-eat cereal system."
 ---
 
