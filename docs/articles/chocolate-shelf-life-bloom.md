@@ -3,7 +3,7 @@ title: "Chocolate Shelf Life Science: Fat Bloom, Sugar Bloom and Temperature Sta
 date: 2026-02-08
 dateModified: 2026-02-08
 author: "Martin Wang"
-categories: ["Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms", "Water Activity & Moisture"]
+categories: ["Grains & Baked Goods", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms", "Water Activity & Moisture"]
 description: "Chocolate is often considered a “non-perishable” food. Many consumers assume that as long as there is no visible mold, chocolate is safe to eat indefinitel"
 ---
 

@@ -3,7 +3,7 @@ title: "Matcha Shelf Life Science: Chlorophyll Degradation, Oxidation and Airtig
 date: 2026-02-14
 dateModified: 2026-02-14
 author: "Martin Wang"
-categories: ["Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms", "Water Activity & Moisture"]
+categories: ["Non-Alcoholic Beverages", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms", "Water Activity & Moisture"]
 description: "Matcha’s vibrant green color and fresh umami flavor often create the illusion of stability. In reality, matcha is one of the most chemically fragile tea pr"
 ---
 

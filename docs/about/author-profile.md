@@ -1,28 +1,49 @@
 ---
-title: "Martin Wang — Food Scientist & Industrial Processing Expert"
+title: Martin Wang — Food Scientist & Industrial Processing Expert
+date: 2025-12-18
+description: Martin Wang — Food Scientist | Industrial Processing Expert | Global Food Product Strategist. Founder of DoTheyGoBad with 20+ years in industrial food processing, product development, and global market expansion.
+keywords: Martin Wang, food scientist, industrial processing expert, DoTheyGoBad founder, shelf life
 ---
+# About the Author: Martin Wang
 
-# Martin Wang — Food Scientist & Industrial Processing Expert
+**Food Scientist | Industrial Processing Expert | Global Food Product Strategist**
 
-**Martin Wang** is the founder and lead author of DoTheyGoBad, with **20+ years of hands-on experience** in industrial food processing, product development, and large-scale manufacturing.
+Martin Wang is a seasoned [food industry](https://dotheygobad.com/food-science-basics/) professional with over **20 years of expertise** in deep food processing, industrial manufacturing, and global market expansion. His career is defined by a unique blend of rigorous scientific training and extensive hands-on experience in bringing high-quality food products to the mass market.
 
-## Professional Background
+### Academic Foundation & Global Vision
 
-Martin has led multiple commercial food projects from factory to market, working across the full product lifecycle — from ingredient sourcing and formulation to production scale-up and shelf-life validation. His manufacturing-level expertise centers on:
+Martin holds a degree from **Massey University (New Zealand)**, an institution globally renowned for its leadership in Agriculture and Food Science. This international academic background provided him with a world-class foundation in food safety, stability, and processing technologies.
 
-- **Shelf-life control** — designing stability programs using water activity (aw), pH, and lipid oxidation kinetics
-- **Water activity management** — the single most important preservation principle, applied to real product lines
-- **Process optimization** — thermal processing, cold chain design, and hurdle technology combinations
-- **Quality systems** — spoilage-marker testing protocols, microbial limits per food category, and accelerated shelf-life studies
+To date, Martin has conducted field research and market analysis in **over 30 countries**. This global footprint allows him to understand food shelf-life and storage challenges across diverse climates, logistics systems, and regulatory environments, giving him a perspective that few “home-cooking” experts possess.
 
-## Why DoTheyGoBad Exists
+### Proven Industry Leadership
 
-Most food information online stops at "keep it in the fridge" or "smell it to check." Martin built DoTheyGoBad to bridge the gap between academic food science and practical shelf-life knowledge — explaining *how and why* standardized industrial products behave the way they do, through the lens of chemistry, microbiology, and processing engineering.
+Throughout his career, Martin has held pivotal roles in leading agricultural and food tech enterprises:
 
-## Editorial Principles
+- **Director of Product Development & Promotion (Beijing Hongji Agriculture):** Led the development of numerous standardized food products that remain best-sellers on China’s largest e-commerce platforms, including **Tmall (Taobao) and JD.com**.
 
-- **Data-first** — every claim is grounded in peer-reviewed sources with DOI citations
-- **Industrial accuracy** — parameters reflect manufacturing reality, not kitchen guesswork
-- **Honest limits** — where data is range-only or needs verification, it is marked as such
+- **Head of Product Development (Hebei Nihewan Agriculture):** Revolutionized the cereal and grain sector by upgrading primary processed crops into high-value retail consumer goods, launching over 10 successful product lines.
 
-[Back to all articles](../articles.md) · [View the encyclopedia](/)
+- **Founder of Dinwey Biotech (Zhangjiakou):** Currently leads the international promotion and deep processing of potato-based products, bridging the gap between advanced biotechnology and global consumer needs.
+
+### Expertise & Analytical Framework
+
+Martin’s expertise is rooted in the **industrial scale of food production**, focusing on:
+
+- **Shelf-Life Challenges:** Understanding the chemical and physical stability of packaged foods.
+
+- **Process Control:** Optimizing manufacturing to ensure safety and quality from factory to fork.
+
+- **Material Behavior:** Deep knowledge of how raw ingredients react under various industrial processing and storage conditions.
+
+Unlike typical culinary blogs, Martin’s writing is informed by **industrial food science**. He understands that “how long something lasts” isn’t just a guess—it’s a result of formulation, [water activity](https://dotheygobad.com/water-activity-food-stability/), packaging integrity, and thermal processing.
+
+### Role at DoTheyGoBad
+
+As the founder and lead author of **DoTheyGoBad**, Martin applies his 20+ years of industrial experience to decode complex food science for everyday consumers.
+
+- **Research Integrity:** Martin uses advanced research tools and AI to aggregate data, but every piece of information is filtered through his professional lens to ensure accuracy.
+
+- **No Oversimplification:** He avoids the common “blogging myths” by providing context-based advice rooted in manufacturing realities.
+
+Massey Graduate ID: 04111885

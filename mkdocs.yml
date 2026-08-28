@@ -57,11 +57,21 @@ nav:
       - Sauces & Condiments: categories/sauces-condiments.md
       - Food Industry Concepts: categories/food-industry-concept.md
   - All Articles: articles.md
+  - Tools:
+      - tools-dotheygobad.md
+      - NRV Calculator: nrv-calculator.md
+      - Water Safety Calculator: water-safety-risk-calculator.md
+  - Resources:
+      - resources.md
+      - resource-llms-txt.md
   - Glossary: food-science-glossary.md
   - FAQ: faq.md
+  - Editorial Principles: editorial-principles.md
   - About:
       - about/index.md
       - Author Profile: about/author-profile.md
+  - Contact: contact.md
+  - HTML Sitemap: html-sitemap.md
   - Legal:
       - Privacy Policy: legal/privacy-policy.md
       - Terms of Use: legal/terms-of-use.md

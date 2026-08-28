@@ -3,7 +3,7 @@ title: "What is Water Activity (aw)? How Does it Impact Food Stability, Safety, 
 date: 2026-02-15
 dateModified: 2026-02-15
 author: "Martin Wang"
-categories: ["Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms", "Water Activity & Moisture"]
+categories: ["Food industry concept", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms", "Water Activity & Moisture"]
 description: "Water activity spectrum: how aw determines food stability and shelf life across categories."
 ---
 
