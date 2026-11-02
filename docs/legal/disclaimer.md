@@ -1,62 +1,88 @@
 ---
-
 title: "Disclaimer"
+description: "Scope and limits of the information on DoTheyGoBad — educational content, not food-safety advice, with the sources of authority that do govern these decisions."
+date: 2026-11-02
 ---
 
-Disclaimer
-==========
+# Disclaimer
 
-Disclaimer
+**Last updated: 2 November 2026**
 
-The information provided on DoTheyGoBad is for educational and informational purposes only. While we strive to ensure accuracy and relevance, the content on this website should not be considered professional food safety, medical, legal, or regulatory advice.
+DoTheyGoBad explains food spoilage and shelf life from a food-science and industrial-processing perspective. This page sets out the limits of that explanation, so there is no ambiguity about what the Site does and does not tell you.
 
-Educational Purpose Only
+---
 
-All articles, guides, and resources published on DoTheyGoBad are intended to explain general food [spoilage](/articles/microbial-vs-chemical-spoilage-explained/)
- mechanisms, shelf life concepts, and industry-level principles from a scientific and educational perspective.
+## 1. Educational purpose only
 
-They are not a substitute for:
+Everything on the Site is educational. Articles, tables, calculators and guides explain **mechanisms** — why lipids oxidise, how water activity suppresses microbial growth, how a modified atmosphere changes the composition of the gas inside a pack.
 
-*   Official food safety guidance
-    
-*   Manufacturer instructions
-    
-*   Local or national food regulations
-    
-*   Professional consultation
-    
+Explaining a mechanism is not the same as assessing your product. The Site does not:
 
-No Food Safety or Health Guarantees
+- test, sample or analyse any product;
+- certify that a food is safe, compliant or shelf-stable;
+- design a shelf-life study for a specific product;
+- replace a food safety professional, a laboratory result or a regulator.
 
-Food safety outcomes can vary depending on storage conditions, packaging integrity, manufacturing processes, local regulations, and climate. DoTheyGoBad does not guarantee that any specific food is safe or unsafe to consume based on the information provided.
+## 2. Not professional, medical or legal advice
 
-Always rely on:
+Nothing here is professional advice of any kind — food safety, medical, nutritional, legal or regulatory.
 
-*   Product labels
-    
-*   Regulatory authorities
-    
-*   Manufacturer guidance
-    
-*   Professional judgment
-    
+If you are deciding whether food is safe to eat, sell, import or distribute, the sources that govern that decision are:
 
-Regulatory Differences
+- the **product label** and the manufacturer's stated storage conditions;
+- the **competent authority** in the market where the food is sold — for example FDA (United States), EFSA and the national competent authorities (European Union), FSA (United Kingdom), or your local food safety agency;
+- the **applicable regulation or standard** — Codex Alimentarius, national labelling rules, or a private scheme such as BRCGS or FSSC 22000 where a customer requires it;
+- your own **analytical data** and validated shelf-life study.
 
-Food labeling, shelf life definitions, and date-marking practices vary by country and jurisdiction. Any references to regulations, standards, or authorities (such as FDA, EFSA, or Codex Alimentarius) are provided for general context only and may not apply universally.
+Where the Site mentions a regulatory limit or a standard, the current published text of that regulation or standard governs — not our summary of it.
 
-Research & Citation Accuracy
+## 3. No safety determination
 
-We strive to provide accurate references and citations from authoritative sources, including DOI links when available. However, information may change over time, and we do not guarantee absolute completeness or correctness.
+DoTheyGoBad will never tell you that a specific item of food is safe or unsafe.
 
-Affiliate & External Data Disclosure
+Spoilage and pathogen growth depend on the actual product: formulation, pH, water activity, salt and preservative levels, process severity, packaging barrier, headspace oxygen, storage temperature history, and how the pack has been handled since manufacture. Two products with the same name can behave differently.
 
-This website may reference third-party products, services, or data. Any such references do not influence our editorial independence. DoTheyGoBad does not control or endorse the content, accuracy, or policies of third-party websites. Users should verify external information and understand that clicking links may result in external tracking or purchases.
+A general explanation of *why* a category spoils cannot establish the condition of the food in front of you. If there is any doubt about whether food is safe — visible mould, off-odours, damaged packaging, a broken cold chain, or a missed temperature excursion — discard it and take advice from your local authority.
 
-Limitation of Liability
+## 4. Regulatory differences
 
-By using this website, you acknowledge that you assume full responsibility for how you use the information provided. DoTheyGoBad is not liable for any loss, injury, or damage resulting from reliance on website content.
+Date marking, permitted preservatives, shelf-life definitions and labelling rules differ by jurisdiction and are revised regularly.
 
-Contact
+References to bodies such as the FDA, EFSA, Codex Alimentarius or national agencies are context, not a compliance determination for your market. A limit that applies in one country may not apply in another, and a practice that is permitted in one may be prohibited in the next.
 
-If you have questions regarding this disclaimer, please contact us via the website contact page.
+## 5. Research, citations and accuracy
+
+We cite published literature and official standards where a claim is contestable, and we link to the source so you can check it. DOI links are given where they exist.
+
+Citations are not a guarantee of correctness: literature is superseded, standards are revised, and summaries compress nuance. If a cited source conflicts with what an article says, the source wins — and we would like to know.
+
+## 6. Calculators and tools
+
+The Site includes tools such as the NRV calculator and the water-safety risk calculator. They compute from the inputs you supply, using published reference values.
+
+They are educational estimates. They do not measure your product, cannot account for every variable in a real process, and must not be the sole basis for a safety, labelling or compliance decision.
+
+## 7. Advertising, sponsorship and affiliate links
+
+The Site is free to read and funded by advertising — currently through **Google AdSense**.
+
+- Ads are selected automatically by Google. We do not choose them, and an ad appearing beside an article is **not** an endorsement of the advertised product or service.
+- Advertising has no influence on editorial conclusions. No advertiser has reviewed, approved or been shown an article before publication.
+- If affiliate links are added in the future, individual articles will say so at the point of the link, and commission will never determine whether a product is recommended.
+- We do not control third-party sites reached through ads or article links, and we are not responsible for their content, accuracy or practices.
+
+## 8. External links
+
+Links to other sites are provided so you can reach a primary source or a standard. Following them takes you to a site we do not operate and cannot control.
+
+## 9. Limitation of liability
+
+By using the Site you accept that you are responsible for how you apply what you read. To the fullest extent permitted by law, DoTheyGoBad is not liable for loss, injury, recall cost, regulatory action or other damage arising from reliance on the Site's content.
+
+Nothing in this disclaimer excludes liability that cannot lawfully be excluded.
+
+## 10. Contact
+
+Corrections, clarifications and questions about this disclaimer: **martin@dinweys.com**. If you think an article is wrong, tell us which claim and which source — we will review it and correct the page if needed.
+
+See also: [Terms of Use](terms-of-use.md) · [Privacy Policy](privacy-policy.md) · [Editorial Principles](../editorial-principles.md)

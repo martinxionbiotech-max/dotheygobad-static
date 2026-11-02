@@ -47,9 +47,22 @@ As the founder and lead author of **DoTheyGoBad**, Martin applies his 20+ years 
 
 - **No Oversimplification:** He avoids the common “blogging myths” by providing context-based advice rooted in manufacturing realities.
 
+### What I write here, and what I do not
+
+Everything on DoTheyGoBad is written to explain a mechanism — why a product spoils the way it does, and which variables decide how fast.
+
+I do not tell readers whether a specific item of food is safe to eat. That judgement depends on the actual product, its history and its packaging, and it belongs to a laboratory result, a validated study and the competent authority in the reader's market — not to an article.
+
+I also do not publish fabricated measurements. Where a number appears, it is either published in the literature and cited, or explicitly marked as my professional estimate. If the evidence does not support a figure, the article says so instead of inventing one.
+
+### Corrections and contact
+
+If something I wrote is wrong, I want to know. Email **martin@dinweys.com** with the page and the claim; I aim to reply within 7 days and to correct or annotate the page once the point is confirmed.
+
+The full method is on the [Editorial Principles](../editorial-principles.md) page.
+
 ### Professional Profiles
 
 - [LinkedIn](https://www.linkedin.com/in/martinwangfoodscience)
-- [ORCID](https://orcid.org/0000-0000-0000-0000)
 
 Massey Graduate ID: 04111885
