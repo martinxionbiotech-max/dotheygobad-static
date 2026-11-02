@@ -49,6 +49,7 @@ extra:
 
 hooks:
   - overrides/sitemap_hooks.py
+  - overrides/markdown_negotiation.py
 
 nav:
   - Home: index.md

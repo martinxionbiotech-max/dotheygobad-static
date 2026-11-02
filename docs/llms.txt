@@ -141,3 +141,18 @@ The site is organized by 8 food categories with 113 in-depth scientific articles
 - [Why You Should Never Refrigerate Bread: The Science of Starch Retrogradation](https://dotheygobad.com/articles/never-refrigerate-bread-science/)
 - [Yogurt Shelf Life Science: Post-Acidification, Whey Separation and Probiotic Viability](https://dotheygobad.com/articles/yogurt-post-acidification-probiotics/)
 - [Yogurt Shelf Life Science: Post-Acidification, Whey Separation and Stability](https://dotheygobad.com/articles/yogurt-post-acidification-whey/)
+
+## Raw Markdown for Every Page
+
+Every page on this site is also published as Markdown, so you can read the source
+text without parsing HTML. Append `index.md` to the page path:
+
+- Page: `https://dotheygobad.com/articles/water-activity-food-stability/`
+- Markdown: `https://dotheygobad.com/articles/water-activity-food-stability/index.md`
+
+The `.md` copy contains the article body with its YAML frontmatter removed and a
+`<!-- source: ... -->` line naming the canonical HTML URL. It is served with
+`Content-Type: text/markdown; charset=utf-8`.
+
+Each HTML page advertises its sidecar with
+`<link rel="alternate" type="text/markdown" href="index.md">`.

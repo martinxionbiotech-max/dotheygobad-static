@@ -11,6 +11,13 @@
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7876439381319122"
           crossorigin="anonymous"></script>
 
+  {# Markdown sidecar: every page is also published as raw Markdown at <page-url>index.md #}
+  {% if page and page.url is defined and not page.is_homepage %}
+  <link rel="alternate" type="text/markdown" href="/{{ page.url }}index.md" title="Markdown source">
+  {% else %}
+  <link rel="alternate" type="text/markdown" href="/index.md" title="Markdown source">
+  {% endif %}
+
   {% set page_title = page.title if page and page.title else config.site_name %}
   {% set page_description = page.meta.description if page and page.meta and page.meta.description else config.site_description %}
   {% set canonical_url = page.canonical_url if page and page.canonical_url else config.site_url %}

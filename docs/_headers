@@ -1,0 +1,7 @@
+# Cloudflare Pages headers
+# Markdown sidecars are served as text/markdown so agents get the raw source
+# instead of guessing at the content type.
+
+/*.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
