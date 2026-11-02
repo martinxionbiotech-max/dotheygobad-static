@@ -88,8 +88,19 @@ We may use trusted third-party services such as:
     
 *   Google Search Console
     
+*   Google AdSense (advertising)
 
 These services may collect data according to their own privacy policies. DoTheyGoBad does not control how third parties manage their data.
+
+#### Advertising cookies
+
+This site displays advertising served by Google AdSense. Google and its partners may use cookies — including the DoubleClick cookie — to serve ads based on your prior visits to this and other websites, and to measure ad performance.
+
+*   You can opt out of personalised advertising at [Google Ads Settings](https://adssettings.google.com/).
+*   You can opt out of third-party vendor cookies for personalised advertising at [aboutads.info](https://www.aboutads.info/choices/) or [youronlinechoices.eu](https://www.youronlinechoices.eu/).
+*   Where consent is required by law (for example in the EEA and the UK), advertising cookies are used only after you give consent through the consent message shown on the site.
+
+Opting out of personalised advertising does not remove advertising; it makes the ads you see less relevant.
 
 * * *
 
