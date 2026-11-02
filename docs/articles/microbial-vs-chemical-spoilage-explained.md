@@ -141,7 +141,7 @@ In real industrial products, **microbial and chemical spoilage frequently occur 
     
 
 These concepts are explored in greater depth in our pillar article:  
-[**What Makes Food Go Bad?**](/articles/what-makes-food-go-bad/?utm_source=chatgpt.com)
+[**What Makes Food Go Bad?**](/articles/what-makes-food-go-bad/)
 
 * * *
 

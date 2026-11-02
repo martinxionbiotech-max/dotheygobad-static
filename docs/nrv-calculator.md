@@ -173,12 +173,12 @@ function calculateIntake() {
   
   
     For example, if a nutrient has a Daily Value of 300 mg and one serving of food contains 30 mg, that serving provides 10% of the Daily Value of that nutrient. This standardized representation helps people determine whether a food is high or low in a particular nutrient relative to daily needs. 
-    [[FDA Source]](https://www.fda.gov/food/new-nutrition-facts-label/daily-value-new-nutrition-and-supplement-facts-labels?utm_source=chatgpt.com)
+    [[FDA Source]](https://www.fda.gov/food/new-nutrition-facts-label/daily-value-new-nutrition-and-supplement-facts-labels)
   
   
     The U.S. Food and Drug Administration (FDA) updated the Nutrition Facts label to clarify the meaning of %DV and to reflect current nutrition science. 
     The updated label includes a standardized footnote explaining that the %DV shows how much a nutrient in a serving of food contributes to an overall daily diet, with 2,000 calories used for general nutrition advice, although individual needs vary by age, sex, and activity level. 
-    [[FDA Source]](https://www.fda.gov/food/new-nutrition-facts-label/daily-value-new-nutrition-and-supplement-facts-labels?utm_source=chatgpt.com)
+    [[FDA Source]](https://www.fda.gov/food/new-nutrition-facts-label/daily-value-new-nutrition-and-supplement-facts-labels)
   
 
   
@@ -188,7 +188,7 @@ function calculateIntake() {
     Daily Values used on food labels in the U.S. were originally derived from historical dietary reference standards. 
     Early values were based on U.S. Recommended Dietary Allowances (RDAs) developed by the U.S. National Academy of Sciences, and later evolved through scientific consensus and regulatory processes to create Reference Daily Intakes (RDIs) and Daily Reference Values (DRVs) that together form the current Daily Values. 
     These reference amounts were selected to represent nutrient intake levels that meet the needs of a broad population and are suitable for labeling purposes across demographic groups. 
-    [[Pennington & Hubbard, 1997]](https://pubmed.ncbi.nlm.nih.gov/9404338/?utm_source=chatgpt.com)
+    [[Pennington & Hubbard, 1997]](https://pubmed.ncbi.nlm.nih.gov/9404338/)
   
 
   
@@ -203,15 +203,15 @@ function calculateIntake() {
   
   
     This intuitive guide helps users of the NRV / DV Calculator understand how the numbers relate to daily dietary goals and make informed food selection and portion decisions. 
-    [[FDA Source]](https://www.fda.gov/food/new-nutrition-facts-label/daily-value-new-nutrition-and-supplement-facts-labels?utm_source=chatgpt.com)
+    [[FDA Source]](https://www.fda.gov/food/new-nutrition-facts-label/daily-value-new-nutrition-and-supplement-facts-labels)
   
 
   
 ### References (APA Format)
 
   
-    - U.S. Food and Drug Administration. (n.d.). *Daily Value on the Nutrition and Supplement Facts Labels*. Retrieved from [https://www.fda.gov/food/new-nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels](https://www.fda.gov/food/new-nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels?utm_source=chatgpt.com)
-    - U.S. Food and Drug Administration. (n.d.). *How to Understand and Use the Nutrition Facts Label*. Retrieved from [https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label](https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label?utm_source=chatgpt.com)
+    - U.S. Food and Drug Administration. (n.d.). *Daily Value on the Nutrition and Supplement Facts Labels*. Retrieved from [https://www.fda.gov/food/new-nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels](https://www.fda.gov/food/new-nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels)
+    - U.S. Food and Drug Administration. (n.d.). *How to Understand and Use the Nutrition Facts Label*. Retrieved from [https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label](https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label)
     - Pennington, J. A. T., & Hubbard, V. S. (1997). *Derivation of daily values used for nutrition labeling*. *Journal of the American Dietetic Association*, 97(12), 1407–1412. [https://doi.org/10.1016/S0002-8223(97)00340-4](https://doi.org/10.1016/S0002-8223(97)00340-4)
   
 

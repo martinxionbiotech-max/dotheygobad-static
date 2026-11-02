@@ -34,7 +34,7 @@ Flaxseed meal is produced by **removing the fat (defatting) from whole flaxseeds
 *   **80-mesh**: suitable for **beverage or rehydration applications**
     
 
-Grinding breaks the seed coat, exposing the **polyunsaturated omega-3 fatty acids** to oxygen and light, making the meal highly susceptible to oxidation (Ros et al., 2025). ([mdpi.com](https://www.mdpi.com/2072-6643/11/5/1171?utm_source=chatgpt.com)
+Grinding breaks the seed coat, exposing the **polyunsaturated omega-3 fatty acids** to oxygen and light, making the meal highly susceptible to oxidation (Ros et al., 2025). ([mdpi.com](https://www.mdpi.com/2072-6643/11/5/1171)
 )
 
 * * *
@@ -53,7 +53,7 @@ The primary chemical pathway is **lipid oxidation**. In industrial and home stor
 3.  **Termination**: Secondary reactions produce aldehydes, ketones, and short-chain fatty acids, leading to **off-odors and off-flavors**, measured as **AV value**.
     
 
-Oxidation reduces omega-3 content and may generate compounds that impair taste and stability (Jung et al., 2021). ([link.springer.com](https://link.springer.com/article/10.1186/s13765-020-00571-5?utm_source=chatgpt.com)
+Oxidation reduces omega-3 content and may generate compounds that impair taste and stability (Jung et al., 2021). ([link.springer.com](https://link.springer.com/article/10.1186/s13765-020-00571-5)
 )
 
 * * *
@@ -200,15 +200,15 @@ Yes, but for commercial use, it’s critical to store in airtight containers, co
 
 Jung, H., Kim, I., Jung, S., Lee, J., & Others. (2021). _Oxidative stability of chia seed oil and flax seed oil and impact of rosemary and garlic extracts on the prevention of lipid oxidation_. _Applied Biological Chemistry_, 64. [https://doi.org/10.1186/s13765-020-00571-5](https://doi.org/10.1186/s13765-020-00571-5)
 
-Ros, E., Lichtenstein, A. H., & Katan, M. B. (2025). _Dietary Flaxseed as a Strategy for Improving Human Health_. _Nutrients_, 11(5), 1171. [MDPI](https://www.mdpi.com/2072-6643/11/5/1171?utm_source=chatgpt.com)
+Ros, E., Lichtenstein, A. H., & Katan, M. B. (2025). _Dietary Flaxseed as a Strategy for Improving Human Health_. _Nutrients_, 11(5), 1171. [MDPI](https://www.mdpi.com/2072-6643/11/5/1171)
 
-_Antioxidant Activity and Oxidative Stability of Flaxseed and Its Processed Products_. (2025). _Food & Nutrition Reports_. [MDPI](https://www.mdpi.com/2413-4155/7/4/155?utm_source=chatgpt.com)
+_Antioxidant Activity and Oxidative Stability of Flaxseed and Its Processed Products_. (2025). _Food & Nutrition Reports_. [MDPI](https://www.mdpi.com/2413-4155/7/4/155)
 
-_Effect of Flaxseed Meals and Extracts on Lipid Stability in Stored Meat_. (2014). _Journal of the American Oil Chemists’ Society_. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4033828/?utm_source=chatgpt.com)
+_Effect of Flaxseed Meals and Extracts on Lipid Stability in Stored Meat_. (2014). _Journal of the American Oil Chemists’ Society_. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4033828/)
 
-Ros, E., Lichtenstein, A. H., & Katan, M. B. (2025). _Dietary Flaxseed as a Strategy for Improving Human Health_. _Nutrients_, 11(5), 1171. [https://www.mdpi.com/2072-6643/11/5/1171](https://www.mdpi.com/2072-6643/11/5/1171?utm_source=chatgpt.com)
+Ros, E., Lichtenstein, A. H., & Katan, M. B. (2025). _Dietary Flaxseed as a Strategy for Improving Human Health_. _Nutrients_, 11(5), 1171. [https://www.mdpi.com/2072-6643/11/5/1171](https://www.mdpi.com/2072-6643/11/5/1171)
 
-Food Nutrition Review. (2025). _Antioxidant Activity and Oxidative Stability of Flaxseed and Its Processed Products_. [https://www.mdpi.com/2413-4155/7/4/155](https://www.mdpi.com/2413-4155/7/4/155?utm_source=chatgpt.com)
+Food Nutrition Review. (2025). _Antioxidant Activity and Oxidative Stability of Flaxseed and Its Processed Products_. [https://www.mdpi.com/2413-4155/7/4/155](https://www.mdpi.com/2413-4155/7/4/155)
 
 [USEFUL REFERENCE](/resources/)
 

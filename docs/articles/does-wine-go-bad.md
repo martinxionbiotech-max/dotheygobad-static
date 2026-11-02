@@ -310,7 +310,7 @@ The overall reaction can be summarized as:
 > house, Frost, Ugliano, & Cantu, 2016, https://doi.org/10.5344/ajev.2016.16006).
 
 This reaction does **not occur spontaneously at a meaningful rate in sealed, well-protected wine**.  
-It requires **specific environmental and biological conditions** (Janssens, Malfeito‑Ferreira, & Swings, 2014, [https://www.sciencedirect.com/topics/food-science/acetic-acid-bacteria](https://www.sciencedirect.com/topics/food-science/acetic-acid-bacteria?utm_source=chatgpt.com)
+It requires **specific environmental and biological conditions** (Janssens, Malfeito‑Ferreira, & Swings, 2014, [https://www.sciencedirect.com/topics/food-science/acetic-acid-bacteria](https://www.sciencedirect.com/topics/food-science/acetic-acid-bacteria)
 ).
 
 * * *
@@ -338,7 +338,7 @@ Oxygen is the single most critical factor.
     *   Microbial metabolism
         
 
-> Acetic acid bacteria such as _Acetobacter_ and _Gluconobacter_ oxidize ethanol under aerobic conditions, producing volatile acidity and a vinegar-like aroma (Australian Wine Research Institute, n.d., [https://www.awri.com.au/industry\_support/winemaking\_resources/sensory\_assessment/recognition-of-wine-faults-and-taints/wine\_faults/?utm\_source=chatgpt.com](https://www.awri.com.au/industry_support/winemaking_resources/sensory_assessment/recognition-of-wine-faults-and-taints/wine_faults/?utm_source=chatgpt.com)
+> Acetic acid bacteria such as _Acetobacter_ and _Gluconobacter_ oxidize ethanol under aerobic conditions, producing volatile acidity and a vinegar-like aroma (Australian Wine Research Institute, n.d., [https://www.awri.com.au/industry\_support/winemaking\_resources/sensory\_assessment/recognition-of-wine-faults-and-taints/wine\_faults/](https://www.awri.com.au/industry_support/winemaking_resources/sensory_assessment/recognition-of-wine-faults-and-taints/wine_faults/)
 > ).
 
 Without oxygen, acetic acid bacteria remain largely inactive.
@@ -358,7 +358,7 @@ The primary microorganisms responsible are **Acetobacter** and **Gluconobacter**
     *   Convert alcohol into acetic acid as a metabolic byproduct
         
 
-> The presence of these bacteria in oxygen-exposed wine is the main cause of volatile acidity development (Oklahoma State University, 2025, [https://extension.okstate.edu/fact-sheets/print-publications/hla/volatile-acidity-in-wine-a.pdf?utm\_source=chatgpt.com](https://extension.okstate.edu/fact-sheets/print-publications/hla/volatile-acidity-in-wine-a.pdf?utm_source=chatgpt.com)
+> The presence of these bacteria in oxygen-exposed wine is the main cause of volatile acidity development (Oklahoma State University, 2025, [https://extension.okstate.edu/fact-sheets/print-publications/hla/volatile-acidity-in-wine-a.pdf](https://extension.okstate.edu/fact-sheets/print-publications/hla/volatile-acidity-in-wine-a.pdf)
 > ).
 
 In industrial winemaking, their presence is carefully controlled, but once wine is exposed to air, they can rapidly become active.
@@ -461,33 +461,33 @@ When wine smells like vinegar, the chemistry has already run its course.
 
 ## References
 
-Du Toit, W. J., Marais, J., & Pretorius, I. S. (2025). _A review of oxygen mass transfer in wine: influences, measurement methods, and implications_. **OENO One**, 59(3). https://doi.org/10.20870/oeno-one.2025.59.3.9320 [Oeno One](https://oeno-one.eu/article/view/9320?utm_source=chatgpt.com)
+Du Toit, W. J., Marais, J., & Pretorius, I. S. (2025). _A review of oxygen mass transfer in wine: influences, measurement methods, and implications_. **OENO One**, 59(3). https://doi.org/10.20870/oeno-one.2025.59.3.9320 [Oeno One](https://oeno-one.eu/article/view/9320)
 
-Day, M. P., Schmidt, S. A., Smith, P. A., & Wilkes, E. N. (2015). _Use and impact of oxygen during winemaking_. **Australian Journal of Grape & Wine Research**, 21, 693–704. https://doi.org/10.1111/ajgw.12199 [Ovid](https://www.ovid.com/journals/ajgwr/fulltext/10.1111/ajgw.12199~use-and-impact-of-oxygen-during-winemaking?utm_source=chatgpt.com)
+Day, M. P., Schmidt, S. A., Smith, P. A., & Wilkes, E. N. (2015). _Use and impact of oxygen during winemaking_. **Australian Journal of Grape & Wine Research**, 21, 693–704. https://doi.org/10.1111/ajgw.12199 [Ovid](https://www.ovid.com/journals/ajgwr/fulltext/10.1111/ajgw.12199~use-and-impact-of-oxygen-during-winemaking)
 
-Waterhouse, A. L., Frost, S., Ugliano, M., & Cantu, A. R. (2016). Sulfur dioxide–oxygen consumption ratio reveals differences in bottled wine oxidation. **American Journal of Enology and Viticulture, 67**(4), 449–459. https://doi.org/10.5344/ajev.2016.16006 [ACS Publications](https://pubs.acs.org/doi/abs/10.1021/acs.jafc.0c00044?utm_source=chatgpt.com)
+Waterhouse, A. L., Frost, S., Ugliano, M., & Cantu, A. R. (2016). Sulfur dioxide–oxygen consumption ratio reveals differences in bottled wine oxidation. **American Journal of Enology and Viticulture, 67**(4), 449–459. https://doi.org/10.5344/ajev.2016.16006 [ACS Publications](https://pubs.acs.org/doi/abs/10.1021/acs.jafc.0c00044)
 
-Lagorce‐Tachon, A., Karbowiak, T., Simon, J.-M., Gougeon, R., & Bellat, J.-P. (2014). _Diffusion of oxygen through cork stopper and wine oxidation mechanisms_. **Journal of Agricultural and Food Chemistry**, 62(37), 9180–9185. https://doi.org/10.1021/jf501918n [ACS Publications](https://pubs.acs.org/doi/abs/10.1021/jf200759d?utm_source=chatgpt.com)
+Lagorce‐Tachon, A., Karbowiak, T., Simon, J.-M., Gougeon, R., & Bellat, J.-P. (2014). _Diffusion of oxygen through cork stopper and wine oxidation mechanisms_. **Journal of Agricultural and Food Chemistry**, 62(37), 9180–9185. https://doi.org/10.1021/jf501918n [ACS Publications](https://pubs.acs.org/doi/abs/10.1021/jf200759d)
 
-Keng, A., & Botezatu, A. (2023). _Uncorking haloanisoles in wine_. **Molecules, 28**(6), 2532. https://doi.org/10.3390/molecules28062532 [MDPI](https://www.mdpi.com/1420-3049/28/6/2532?utm_source=chatgpt.com)
+Keng, A., & Botezatu, A. (2023). _Uncorking haloanisoles in wine_. **Molecules, 28**(6), 2532. https://doi.org/10.3390/molecules28062532 [MDPI](https://www.mdpi.com/1420-3049/28/6/2532)
 
-LWT. (2023). _Kinetics of oxygen consumption, a key factor in the changes of young wines composition_. **LWT – Food Science and Technology, 182**, 114786. https://doi.org/10.1016/j.lwt.2023.114786 [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0023643823003651?utm_source=chatgpt.com)
+LWT. (2023). _Kinetics of oxygen consumption, a key factor in the changes of young wines composition_. **LWT – Food Science and Technology, 182**, 114786. https://doi.org/10.1016/j.lwt.2023.114786 [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0023643823003651)
 
-Food Chemistry. (2021). _Oxygen-induced faults in bottled white wine: technological and chemical characteristics_. **Food Chemistry, 348**, 128922. https://doi.org/10.1016/j.foodchem.2020.128922 [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0308814620327977?utm_source=chatgpt.com)
+Food Chemistry. (2021). _Oxygen-induced faults in bottled white wine: technological and chemical characteristics_. **Food Chemistry, 348**, 128922. https://doi.org/10.1016/j.foodchem.2020.128922 [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0308814620327977)
 
-TrAC Trends in Analytical Chemistry. (2012). _Analytical methods for determination of cork-taint compounds in wine_. **TrAC Trends in Analytical Chemistry, 37**, 135–147. https://doi.org/10.1016/j.trac.2012.03.012 [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0165993612001501?utm_source=chatgpt.com)
+TrAC Trends in Analytical Chemistry. (2012). _Analytical methods for determination of cork-taint compounds in wine_. **TrAC Trends in Analytical Chemistry, 37**, 135–147. https://doi.org/10.1016/j.trac.2012.03.012 [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0165993612001501)
 
-Australian Wine Research Institute. (n.d.). _Volatile acidity in wine: Causes and implications_. AWRI. [https://www.awri.com.au/industry\_support/winemaking\_resources/sensory\_assessment/recognition-of-wine-faults-and-taints/wine\_faults/?utm\_source=chatgpt.com](https://www.awri.com.au/industry_support/winemaking_resources/sensory_assessment/recognition-of-wine-faults-and-taints/wine_faults/?utm_source=chatgpt.com)
+Australian Wine Research Institute. (n.d.). _Volatile acidity in wine: Causes and implications_. AWRI. [https://www.awri.com.au/industry\_support/winemaking\_resources/sensory\_assessment/recognition-of-wine-faults-and-taints/wine\_faults/](https://www.awri.com.au/industry_support/winemaking_resources/sensory_assessment/recognition-of-wine-faults-and-taints/wine_faults/)
 
-Janssens, R., Malfeito‑Ferreira, M., & Swings, J. (2014). Acetic acid bacteria. In M. Banwart (Ed.), _Encyclopedia of Food Microbiology_ (2nd ed.). Elsevier. [https://www.sciencedirect.com/topics/food-science/acetic-acid-bacteria](https://www.sciencedirect.com/topics/food-science/acetic-acid-bacteria?utm_source=chatgpt.com)
+Janssens, R., Malfeito‑Ferreira, M., & Swings, J. (2014). Acetic acid bacteria. In M. Banwart (Ed.), _Encyclopedia of Food Microbiology_ (2nd ed.). Elsevier. [https://www.sciencedirect.com/topics/food-science/acetic-acid-bacteria](https://www.sciencedirect.com/topics/food-science/acetic-acid-bacteria)
 
 Waterhouse, A. L., Frost, S., Ugliano, M., & Cantu, A. R. (2016). Sulfur dioxide–oxygen consumption ratio reveals differences in bottled wine oxidation. _American Journal of Enology and Viticulture, 67_(4), 449–459. https://doi.org/10.5344/ajev.2016.16006
 
-Oklahoma State University. (2025). _Volatile Acidity in Wine_. OSU Extension. [https://extension.okstate.edu/fact-sheets/print-publications/hla/volatile-acidity-in-wine-a.pdf?utm\_source=chatgpt.com](https://extension.okstate.edu/fact-sheets/print-publications/hla/volatile-acidity-in-wine-a.pdf?utm_source=chatgpt.com)
+Oklahoma State University. (2025). _Volatile Acidity in Wine_. OSU Extension. [https://extension.okstate.edu/fact-sheets/print-publications/hla/volatile-acidity-in-wine-a.pdf](https://extension.okstate.edu/fact-sheets/print-publications/hla/volatile-acidity-in-wine-a.pdf)
 
 **Additional reviews on wine shelf life and oxidation:**
 
-de Andrés-de Prado, R., et al. (2024). _Enhancing wine shelf-life: insights into factors influencing oxidation and preservation_. **Heliyon, 10**, e35688. https://doi.org/10.1016/j.heliyon.2024.e35688 [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2405844024117197?utm_source=chatgpt.com)
+de Andrés-de Prado, R., et al. (2024). _Enhancing wine shelf-life: insights into factors influencing oxidation and preservation_. **Heliyon, 10**, e35688. https://doi.org/10.1016/j.heliyon.2024.e35688 [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2405844024117197)
 
 [**Trusted references**](/resources/)
 
