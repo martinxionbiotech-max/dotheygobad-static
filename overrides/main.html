@@ -7,6 +7,12 @@
 {% block extrahead %}
   {{ super() }}
 
+  {# Preload the two weights the first screen actually uses: 700 for headings
+     (extra.css sets h1/h2/h3 to 600, which resolves to the 700 face) and 400 for
+     body copy. #}
+  <link rel="preload" href="{{ 'fonts/roboto-700.woff2'|url }}" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ 'fonts/roboto-400.woff2'|url }}" as="font" type="font/woff2" crossorigin>
+
   {# Google AdSense — account-level loader, required on every page before ads serve #}
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7876439381319122"
           crossorigin="anonymous"></script>
