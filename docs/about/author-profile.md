@@ -63,6 +63,6 @@ The full method is on the [Editorial Principles](../editorial-principles.md) pag
 
 ### Professional Profiles
 
-- [LinkedIn](https://www.linkedin.com/in/martinwangfoodscience)
+- [LinkedIn](https://www.linkedin.com/in/martin-dinweys/)
 
 Massey Graduate ID: 04111885
