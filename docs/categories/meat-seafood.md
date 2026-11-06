@@ -1,11 +1,24 @@
 ---
 
-title: Meat & Seafood
+title: "Meat & Seafood"
+date: 2026-11-05
+description: "Meat, poultry and fish spoilage: bacterial growth, lipid oxidation, myoglobin changes and the seafood toxins that heat cannot destroy."
 ---
 
 # Meat & Seafood
 
-Articles in this category explain the shelf-life science, spoilage mechanisms, and storage best practices for meat, poultry, fish, and seafood — written from an industrial food science perspective.
+Meat and seafood are the highest-risk category on the site, because the organisms involved grow fast and some of their toxins survive cooking. Fresh meat spoils through bacterial growth on the surface, where oxygen and moisture meet; the visual cue is myoglobin oxidising from red to brown, which happens before the product is necessarily unsafe. Poultry carries the additional burden of Campylobacter and Salmonella, both of which are controlled by temperature rather than by appearance.
+
+Seafood adds a chemical dimension. Scombroid fish — tuna, mackerel, mahi-mahi — develop histamine when bacteria decarboxylate free histidine, and that histamine is heat-stable: cooking a spoiled tuna does not make it safe. Shellfish filter toxins that are equally heat-stable. These are not spoilage organisms you can smell your way around.
+
+The articles below cover the microbiology, the cold-chain requirements and the specific toxins that make seafood a category where "it smells fine" is not a sufficient test.
+
+## What drives shelf life here
+
+- **Surface bacterial growth** drives meat spoilage; vacuum packaging shifts the flora to lactic acid bacteria and slows it.
+- **Myoglobin oxidation** (red to brown) is a quality signal, not a safety threshold.
+- **Histamine** in scombroid fish is heat-stable; cooking does not inactivate it.
+- **Cold chain** is the control: every hour above 4 °C shortens the safe window disproportionately.
 
 ## Articles
 

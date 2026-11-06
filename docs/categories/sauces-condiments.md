@@ -1,11 +1,24 @@
 ---
 
-title: Sauces & Condiments
+title: "Sauces & Condiments"
+date: 2026-11-05
+description: "Ketchup, mayonnaise, soy sauce and mustard: water activity, acidification, emulsion stability and the osmophilic yeasts that survive them."
 ---
 
 # Sauces & Condiments
 
-Articles in this category explain the shelf-life science, spoilage mechanisms, and storage best practices for oils, sauces, honey, peanut butter, and condiments — written from an industrial food science perspective.
+Condiments are preservation systems in a jar. Ketchup keeps because its water activity is low and its pH is around 3.7. Mayonnaise keeps because its oil phase and acidified water phase leave too little free water for bacteria. Soy sauce keeps because 15–18% salt reduces water activity below the growth threshold for most spoilage organisms, and because it is fermented to a pH where the survivors are limited.
+
+That makes the category a good test of whether a preservation system is understood or merely copied. A reduced-sugar ketchup changes water activity. A "clean label" mayonnaise without EDTA changes the oxidative stability of the oil. A low-salt soy sauce changes the salt-to-water ratio that was doing the preserving. Each reformulation moves the product closer to a failure mode that the original recipe had designed out.
+
+The articles below cover the specific systems — emulsion science, osmotic preservation, acidification — and what happens when one parameter is changed.
+
+## What drives shelf life here
+
+- **Water activity** does the preserving in ketchup and soy sauce; reducing sugar or salt raises it.
+- **Emulsion stability** in mayonnaise depends on droplet size and protein at the interface, not only on pH.
+- **Osmophilic yeasts** can grow in high-sugar systems where bacteria cannot.
+- **Reformulation** is the most common cause of a condiment that suddenly spoils.
 
 ## Articles
 

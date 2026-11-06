@@ -1,4 +1,5 @@
 ---
+description: "Frequently asked questions about DoTheyGoBad: what the site covers, how shelf-life figures are sourced, and how to use the articles without over-reading them."
 
 title: "Frequently Asked Questions — Food Spoilage Science"
 ---

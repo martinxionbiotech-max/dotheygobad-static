@@ -1,11 +1,24 @@
 ---
 
-title: Dairy Products
+title: "Dairy Products"
+date: 2026-11-05
+description: "Milk, cheese, butter and yogurt: psychrotrophic bacteria, lipolysis, proteolysis and the water activity that decides which dairy spoils first."
 ---
 
 # Dairy Products
 
-Articles in this category explain the shelf-life science, spoilage mechanisms, and storage best practices for milk, cheese, butter, yogurt, and other dairy products — written from an industrial food science perspective.
+Dairy spoils differently depending on how much water is left in it. Milk is a near-neutral, high-water-activity emulsion where psychrotrophic bacteria — Pseudomonas in particular — dominate at refrigeration temperatures and produce the proteases and lipases that survive pasteurisation. Butter sits at the other end: enough fat and salt to slow bacteria, but vulnerable to lipolytic rancidity once the emulsion breaks. Hard cheese is drier still, which is why it grows mould on the surface rather than spoiling through.
+
+That gradient explains the category's most common consumer questions. Milk that is sour but safe, butter that has gone rancid rather than mouldy, cheese where the mould is a surface defect rather than a health hazard, yogurt that separates because of post-acidification — each is a different mechanism, and each has a different threshold for "throw it away".
+
+The articles below work through those mechanisms at the level of enzymes, water activity and microbial ecology.
+
+## What drives shelf life here
+
+- **Psychrotrophs** grow at 4 °C and produce heat-stable enzymes that outlive pasteurisation.
+- **Lipolysis** releases short-chain fatty acids — the soapy, rancid note in old butter and UHT milk.
+- **Water activity** below 0.85 in hard cheese suppresses bacterial growth but not xerophilic moulds.
+- **Post-acidification** in yogurt continues after packaging, dropping pH and expelling whey.
 
 ## Articles
 

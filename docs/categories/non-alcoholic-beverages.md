@@ -1,11 +1,24 @@
 ---
 
-title: Non-Alcoholic Beverages
+title: "Non-Alcoholic Beverages"
+date: 2026-11-05
+description: "Juice, soft drinks, water and coffee: pH, preservatives, thermal processing and the packaging that decides how long flavour survives."
 ---
 
 # Non-Alcoholic Beverages
 
-Articles in this category explain the shelf-life science, spoilage mechanisms, and storage best practices for coffee, tea, water, juice, and other non-alcoholic beverages — written from an industrial food science perspective.
+Without ethanol, non-alcoholic beverages rely on pH, preservatives, thermal processing or a combination of all three. A carbonated soft drink at pH 2.5 is stable for months because nothing grows in it; a fresh juice at pH 4.2 needs pasteurisation and often refrigeration; bottled water is stable until the bottle itself becomes the source of off-flavour.
+
+The category splits cleanly by preservation strategy. Acidified drinks are protected by pH and, where needed, by preservatives such as benzoate or sorbate — whose effectiveness depends on the undissociated acid fraction, which is why the same concentration works at pH 3 and fails at pH 5. Thermally processed drinks are protected by the process, and their shelf life is limited by flavour loss and vitamin degradation rather than by microbes. Water sits apart: it is microbiologically stable but chemically vulnerable to packaging migration and light.
+
+The articles here follow those strategies product by product.
+
+## What drives shelf life here
+
+- **pH below 4.6** blocks most pathogens, which is why acidified drinks are shelf-stable without refrigeration.
+- **Preservative efficacy** depends on the undissociated acid fraction, not the total concentration.
+- **Thermal processing** trades shelf life against flavour and vitamin loss; UHT juice tastes different for a reason.
+- **Packaging** can dominate water shelf life — PET migration and light exposure are the usual culprits.
 
 ## Articles
 

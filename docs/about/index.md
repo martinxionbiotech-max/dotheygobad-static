@@ -1,4 +1,5 @@
 ---
+description: "Who runs DoTheyGoBad, what the site covers, how sources are chosen and how corrections are handled — plus the standards behind every article."
 
 title: "About DoTheyGoBad"
 ---

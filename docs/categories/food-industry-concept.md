@@ -1,11 +1,24 @@
 ---
 
-title: Food industry concept
+title: "Food industry concept"
+date: 2026-11-05
+description: "The principles behind every shelf-life decision: water activity, pH, redox potential, hurdle technology, microbial kinetics and predictive modelling."
 ---
 
 # Food industry concept
 
-Articles in this category explain the shelf-life science, spoilage mechanisms, and storage best practices for water activity, spoilage mechanisms, preservation technology, and food science fundamentals — written from an industrial food science perspective.
+Every article on this site ultimately rests on a small set of physical and chemical variables. Water activity determines which microorganisms can grow. pH determines which of those are competitive. Redox potential decides whether the environment favours aerobes or anaerobes. Temperature sets the rate at which all of it happens, usually following Arrhenius kinetics.
+
+Hurdle technology is the practical consequence: no single factor has to be severe if several are combined. A slightly lowered pH, a slightly reduced water activity and a modest thermal process can together produce a stable product that none of them could stabilise alone. Most commercial shelf-stable foods are designed this way, and most shelf-life failures come from one hurdle being quietly removed — a reformulation, a supplier change, a thinner package.
+
+These pages are the conceptual layer under the product-specific articles: the definitions, the equations and the failure modes that recur across categories.
+
+## What drives shelf life here
+
+- **Water activity (a_w)** is the single best predictor of microbial stability; 0.6 is the usual boundary for spoilage organisms.
+- **Hurdle technology** combines sub-lethal factors so that no single organisms can overcome all of them.
+- **Accelerated shelf-life testing** uses elevated temperature and Arrhenius extrapolation — and fails when the dominant mechanism changes with temperature.
+- **Predictive microbiology** models growth from temperature, pH and a_w; it is only as good as the challenge test behind it.
 
 ## Articles
 

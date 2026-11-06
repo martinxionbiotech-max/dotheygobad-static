@@ -1,4 +1,5 @@
 ---
+description: "Every DoTheyGoBad article in one index: 114 food-science explainers on spoilage, preservation and shelf life, grouped by product category."
 
 title: "All Articles — Food Shelf Life Science"
 ---

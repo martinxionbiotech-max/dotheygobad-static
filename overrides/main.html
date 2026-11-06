@@ -13,7 +13,14 @@
   <link rel="preload" href="{{ 'fonts/roboto-700.woff2'|url }}" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="{{ 'fonts/roboto-400.woff2'|url }}" as="font" type="font/woff2" crossorigin>
 
-  {# Google AdSense — account-level loader, required on every page before ads serve #}
+  {% if page and page.meta and page.meta.robots %}
+  <meta name="robots" content="{{ page.meta.robots }}">
+  {% endif %}
+
+  {# Google AdSense — account-level loader.
+     Keep this tag in the page source: AdSense verifies the site by finding it here.
+     Consent for EEA/UK/CH visitors is handled by Google's certified CMP
+     (AdSense → Privacy & messaging → GDPR), not by blocking this tag. #}
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7876439381319122"
           crossorigin="anonymous"></script>
 
@@ -151,4 +158,17 @@
     ]
   }
   </script>
+{% endblock %}
+
+{% block content %}
+  {{ super() }}
+  {% if page and page.url and page.url.startswith('articles/') and page.url != 'articles/' %}
+  <aside class="dtgb-review-note">
+    <p><strong>Editorial note.</strong> This article explains food science for manufacturers, QA teams and product developers. It is educational: it is not a substitute for laboratory testing, a shelf-life study, or regulatory advice for a specific product.</p>
+    <p>
+      Written by <a href="/about/author-profile/">Martin Wang</a>{% if page.meta and page.meta.date %} · first published {{ page.meta.date }}{% endif %}{% if page.meta and page.meta.dateModified %} · last reviewed {{ page.meta.dateModified }}{% endif %}.
+      Sources are linked inline; see the <a href="/editorial-principles/">editorial principles</a> and the <a href="/legal/disclaimer/">disclaimer</a>.
+    </p>
+  </aside>
+  {% endif %}
 {% endblock %}

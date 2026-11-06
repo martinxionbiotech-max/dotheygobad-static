@@ -163,3 +163,15 @@
 .md-typeset table:not([class]) td {
   padding: 0.75rem 1rem;
 }
+
+/* ── Article review note ── */
+.dtgb-review-note {
+  margin-top: 2.5rem;
+  padding: .9rem 1.1rem;
+  border-left: 3px solid #bf360c;
+  background: rgba(191,54,12,.06);
+  font-size: .8rem;
+  line-height: 1.55;
+}
+.dtgb-review-note p { margin: 0 0 .5rem; }
+.dtgb-review-note p:last-child { margin-bottom: 0; }

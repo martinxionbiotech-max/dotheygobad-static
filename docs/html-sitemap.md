@@ -1,4 +1,5 @@
 ---
+robots: noindex, follow
 
 title: HTML Sitemap
 date: 2025-12-25

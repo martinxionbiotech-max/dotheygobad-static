@@ -1,4 +1,5 @@
 ---
+robots: noindex, follow
 
 title: llms.txt
 date: 2026-07-21
