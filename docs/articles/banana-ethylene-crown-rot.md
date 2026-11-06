@@ -5,7 +5,7 @@ date: 2026-06-29
 dateModified: 2026-06-29
 author: "Martin Wang"
 categories: ["Enzymatic & Chemical Reactions", "Food Microbiology", "Fruits & Vegetables", "Preservation Technology", "Quality Control & Food Safety", "Spoilage Mechanisms"]
-description: "and they do it faster than almost any other fruit in your kitchen."
+description: "Why bananas ripen faster than anything else in the fruit bowl: ethylene autocatalysis, crown rot and the cold-storage threshold that damages them."
 ---
 
 # Banana Shelf Life Science: Ethylene Ripening, Crown Rot and Enzymatic Browning

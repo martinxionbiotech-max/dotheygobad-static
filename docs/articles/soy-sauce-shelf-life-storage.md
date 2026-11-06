@@ -5,7 +5,7 @@ date: 2026-01-02
 dateModified: 2026-01-02
 author: "Martin Wang"
 categories: ["Sauces & Condiments", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms", "Water Activity & Moisture"]
-description: "Soy sauce is often considered one of the most stable condiments in the kitchen."
+description: "Soy sauce keeps because salt and fermentation products suppress spoilage: water activity, osmophilic yeasts and what changes after opening."
 ---
 
 # Soy Sauce Shelf Life Science: Fermentation Stability, Oxidation and Dark Storage

@@ -4,7 +4,7 @@ title: "When to Cut It Off and When to Throw Away — A Food Safety"
 date: 2026-08-07
 dateModified: 2026-08-07
 author: "Martin Wang"
-description: "Surface mold on cheese is one of the most common food safety questions."
+description: "Which moulds on cheese are safe to cut away and which are not: surface versus internal growth, mycotoxins and the hard-versus-soft cheese distinction."
 keywords: cheese mold safety, mold on cheese, mycotoxins, hyphal penetration, Penicillium, Aspergillus, cheese spoilage, food safety, hard cheese mold, soft cheese mold
 categories: ["Dairy Products", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms"]
 ---

@@ -5,7 +5,7 @@ date: 2026-01-02
 dateModified: 2026-01-02
 author: "Martin Wang"
 categories: ["Sauces & Condiments", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms", "Water Activity & Moisture"]
-description: "perspective, however, turmeric rarely “spoils” suddenly."
+description: "Turmeric loses colour and aroma long before it becomes unsafe: curcumin photodegradation, volatile oil loss and the storage conditions that preserve potency."
 ---
 
 # Turmeric Shelf Life Science: Curcumin Degradation, Moisture and Spice Storage

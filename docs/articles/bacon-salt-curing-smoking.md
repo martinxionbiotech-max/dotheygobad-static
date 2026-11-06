@@ -5,7 +5,7 @@ date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
 categories: ["Food Microbiology", "Lipid Chemistry & Rancidity", "Meat & Seafood", "Preservation Technology", "Spoilage Mechanisms"]
-description: "Bacon occupies a paradoxical position in food preservation science."
+description: "How salt, nitrite and smoke preserve bacon: curing chemistry, water activity, rancidity risk and what actually limits shelf life after opening."
 ---
 
 # Bacon Shelf Life Science: Salt Curing, Smoking and Lipid Oxidation

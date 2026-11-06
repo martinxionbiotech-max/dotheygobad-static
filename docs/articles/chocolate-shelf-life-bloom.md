@@ -5,7 +5,7 @@ date: 2026-02-08
 dateModified: 2026-02-08
 author: "Martin Wang"
 categories: ["Grains & Baked Goods", "Food Microbiology", "Shelf Life & Stability", "Spoilage Mechanisms", "Water Activity & Moisture"]
-description: "Chocolate is often considered a “non-perishable” food."
+description: "Chocolate does not spoil so much as change: fat and sugar bloom, moisture migration and the storage conditions that keep temper and texture intact."
 ---
 
 # Chocolate Shelf Life Science: Fat Bloom, Sugar Bloom and Temperature Stability

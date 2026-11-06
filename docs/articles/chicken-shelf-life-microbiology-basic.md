@@ -5,7 +5,7 @@ date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
 categories: ["Food Microbiology", "Meat & Seafood", "Shelf Life & Stability", "Spoilage Mechanisms"]
-description: "Chicken occupies a uniquely challenging position in the food supply chain."
+description: "Chicken spoilage microbiology: psychrotrophic growth, Campylobacter and Salmonella risk, and why the cold chain matters more than the date label."
 ---
 
 # Chicken Shelf Life Science: Pseudomonas, Campylobacter and Poultry Microbiology

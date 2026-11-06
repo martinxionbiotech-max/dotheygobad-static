@@ -5,7 +5,7 @@ date: 2025-12-28
 dateModified: 2025-12-28
 author: "Martin Wang"
 categories: ["Beer & Alcoholic Drinks"]
-description: "Many people believe that wine, once bottled, can last forever."
+description: "Wine does go bad, but not the way milk does: oxidation, volatile acidity, cork taint and the storage conditions that decide whether a bottle improves or fades."
 ---
 
 # Does Wine Go Bad? An Industrial &#038; Food Science Perspective

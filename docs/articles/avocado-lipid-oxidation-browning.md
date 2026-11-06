@@ -5,7 +5,7 @@ date: 2026-06-29
 dateModified: 2026-06-29
 author: "Martin Wang"
 categories: ["Enzymatic & Chemical Reactions", "Food Microbiology", "Fruits & Vegetables", "Lipid Chemistry & Rancidity", "Preservation Technology", "Quality Control & Food Safety", "Spoilage Mechanisms"]
-description: "Yes. A whole ripe avocado has a 2–3 day window at room temperature."
+description: "Why cut avocado browns within hours while a whole fruit keeps for days: polyphenol oxidase, lipid oxidation and the oxygen barrier that decides the window."
 ---
 
 # Avocado Shelf Life Science: Lipid Oxidation, Enzymatic Browning and Ripening

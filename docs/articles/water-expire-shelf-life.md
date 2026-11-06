@@ -5,7 +5,7 @@ date: 2026-02-06
 dateModified: 2026-02-06
 author: "Martin Wang"
 categories: ["Non-Alcoholic Beverages", "Shelf Life & Stability", "Spoilage Mechanisms", "Water Activity & Moisture"]
-description: "At first glance, the question feels almost childish."
+description: "Bottled water has no expiry in the microbiological sense: what the date actually means, why packaging and storage conditions set the real limit."
 ---
 
 # Water Shelf Life Science: Container Leaching, Microbial Risk and Indefinite Storage

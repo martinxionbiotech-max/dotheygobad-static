@@ -4,7 +4,7 @@ title: "Food Safety and Emulsion Science"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: "A rigorous food-science examination of room-temperature butter storage."
+description: "Why butter can sit out while milk cannot: low water activity, the fat phase, salt content and the temperature at which the safety margin disappears."
 keywords: butter room temperature, butter counter storage, water-in-oil emulsion, butter food safety, butter bell, butter preservation, aW butter, butter spoilage temperature
 categories: ["Dairy Products", "Food Microbiology", "Lipid Chemistry & Rancidity", "Shelf Life & Stability"]
 ---

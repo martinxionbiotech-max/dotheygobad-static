@@ -4,7 +4,7 @@ title: "Water and Fat Interaction at the Molecular Level"
 date: 2026-06-28
 dateModified: 2026-06-28
 author: "Martin Wang"
-description: "A molecular-level examination of hydrolytic rancidity in butter."
+description: "Hydrolytic rancidity in butter at the molecular level: lipase activity, free fatty acids and why water content and storage temperature decide the onset."
 keywords: hydrolytic rancidity, lipolysis, butter spoilage, lipoprotein lipase, free fatty acids, butyric acid, triglyceride hydrolysis, psychrotrophic bacteria, lipase, lipid-water interface
 categories: ["Dairy Products", "Lipid Chemistry & Rancidity", "Enzymatic & Chemical Reactions", "Spoilage Mechanisms"]
 ---

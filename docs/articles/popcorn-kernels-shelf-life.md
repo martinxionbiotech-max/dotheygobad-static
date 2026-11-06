@@ -5,7 +5,7 @@ date: 2026-02-06
 dateModified: 2026-02-06
 author: "Martin Wang"
 categories: ["Grains & Baked Goods", "Shelf Life & Stability", "Spoilage Mechanisms", "Water Activity & Moisture"]
-description: "Popcorn kernels are unusually stable foods."
+description: "Popcorn kernels are stable for years, until moisture migration stops them popping: water activity, lipid oxidation and the storage rules that keep them viable."
 ---
 
 # Popcorn Shelf Life Science: Moisture Content, Kernel Integrity and Popping Quality

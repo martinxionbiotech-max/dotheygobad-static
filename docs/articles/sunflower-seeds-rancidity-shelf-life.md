@@ -1,7 +1,7 @@
 ---
 
 title: Do Sunflower Seeds Go Bad? Industrial Perspective
-description: "Industrial food science analysis of do sunflower seeds go bad?"
+description: "Sunflower seeds go rancid before they go mouldy: linoleic acid oxidation, temperature and light exposure, and how to tell rancidity from stale flavour."
 date: 2026-08-09
 dateModified: 2026-08-09
 author: "Martin Wang"

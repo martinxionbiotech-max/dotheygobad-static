@@ -5,7 +5,7 @@ date: 2026-06-29
 dateModified: 2026-06-29
 author: "Martin Wang"
 categories: ["Enzymatic & Chemical Reactions", "Food Microbiology", "Fruits & Vegetables", "Preservation Technology", "Quality Control & Food Safety", "Spoilage Mechanisms", "Water Activity & Moisture"]
-description: "Among all vegetables in the produce aisle, lettuce is the most perishable."
+description: "Why lettuce wilts and browns so quickly: respiration rate, water loss, enzymatic browning and the storage conditions that add days to the shelf life."
 ---
 
 # Lettuce Shelf Life Science: Enzymatic Browning, Leaf Senescence and Moisture Management
